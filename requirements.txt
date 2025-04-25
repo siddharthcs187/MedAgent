@@ -1,0 +1,14 @@
+transformers
+torch
+opencv-python
+pytesseract
+pdfminer.six
+camelot-py[cv]
+pandas
+numpy
+pydicom
+SimpleITK
+python-dotenv
+langchain-core
+langchain-google-genai
+langchain

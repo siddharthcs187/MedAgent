@@ -1,41 +1,31 @@
-# import transformers
-# import torch
-# print(transformers.__version__)
+#!pip install transformers accelerate -q
 
-# model_id = "aaditya/Llama3-OpenBioLLM-8B"
+import torch
+from transformers import AutoTokenizer, AutoModelForCausalLM
 
-# pipeline = transformers.pipeline(
-#     "text-generation",
-#     model=model_id,
-#     model_kwargs={"torch_dtype": torch.bfloat16},
-#     device="cpu",
-# )
+# Make sure you're on GPU
+device = "cuda" if torch.cuda.is_available() else "cpu"
+print("Using device:", device)
 
-# messages = [
-#     {"role": "system", "content": "You are an expert and experienced from the healthcare and biomedical domain with extensive medical knowledge and practical experience. Your name is OpenBioLLM, and you were developed by Saama AI Labs. who's willing to help answer the user's query with explanation. In your explanation, leverage your deep medical expertise such as relevant anatomical structures, physiological processes, diagnostic criteria, treatment guidelines, or other pertinent medical concepts. Use precise medical terminology while still aiming to make the explanation clear and accessible to a general audience."},
-#     {"role": "user", "content": "How can i split a 3mg or 4mg waefin pill so i can get a 2.5mg pill?"},
-# ]
+model_id = "aaditya/Llama3-OpenBioLLM-8B"
 
-# prompt = pipeline.tokenizer.apply_chat_template(
-#         messages, 
-#         tokenize=False, 
-#         add_generation_prompt=True
-# )
+# Load tokenizer
+tokenizer = AutoTokenizer.from_pretrained(model_id)
 
-# terminators = [
-#     pipeline.tokenizer.eos_token_id,
-#     pipeline.tokenizer.convert_tokens_to_ids("<|eot_id|>")
-# ]
+# Load model in float16 only if using GPU
+model = AutoModelForCausalLM.from_pretrained(
+    model_id,
+    torch_dtype=torch.float16 if device == "cuda" else torch.float32,
+    device_map="auto" if device == "cuda" else None,
+)
 
-# outputs = pipeline(
-#     prompt,
-#     max_new_tokens=256,
-#     eos_token_id=terminators,
-#     do_sample=True,
-#     temperature=0.1,
-#     top_p=0.9,
-# )
-# print(outputs[0]["generated_text"][len(prompt):])
+# Create prompt manually (since tokenizer.chat_template may not exist)
+prompt = """<|system|>
+You are a helpful medical assistant developed by Saama AI Labs.
+<|user|>
+How can I split a 3mg or 4mg Waefin pill so I can get a 2.5mg dose?
+<|assistant|>
+"""
 
 # Load model directly
 # from transformers import AutoTokenizer, AutoModelForCausalLM
@@ -88,6 +78,10 @@ with torch.no_grad():
         do_sample=True,
         eos_token_id=tokenizer.eos_token_id,
     )
+
+# Decode and print
+response = tokenizer.decode(output[0][inputs['input_ids'].shape[-1]:], skip_special_tokens=True)
+print("Assistant:", response)
 
 # Decode and print
 response = tokenizer.decode(output[0][inputs['input_ids'].shape[-1]:], skip_special_tokens=True)

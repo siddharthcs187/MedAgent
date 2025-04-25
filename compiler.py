@@ -1,178 +1,259 @@
-from transformers import AutoModelForCausalLM, AutoTokenizer
-import torch
-
-import cv2
-import pytesseract
-from pdfminer.high_level import extract_text
-import camelot
-import pandas as pd
-import numpy as np
-import pydicom
-import SimpleITK as sitk
-from dotenv import load_dotenv
+import json
 import os
+import pandas as pd
+import pytesseract
+import camelot
+import pydicom
+from pdfminer.high_level import extract_text
+from PIL import Image, ImageFilter
+from dotenv import load_dotenv
+from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_core.tools import tool
+from langchain_core.messages import SystemMessage, HumanMessage
 
-from langchain_core.prompts import PromptTemplate
-from langchain_google_genai import GoogleGenerativeAI
-from langchain.chains import LLMChain, SimpleSequentialChain
-from langchain_core.output_parsers import StrOutputParser
+load_dotenv()
 
-load_dotenv("../.env")
+@tool
+def ocr_image(path: str) -> str:
+    """Extracts text from an image file using OCR."""
+    try:
+        img = Image.open(path).convert("L")
+        img = img.filter(ImageFilter.MedianFilter())
+        text = pytesseract.image_to_string(img, config="--psm 6")
+        return f"Extracted text from {path}:\n{text}"
+    except Exception as e:
+        return f"Error extracting text from {path}: {str(e)}"
 
-class MedicalCompilerAgent:
-    """
-    A combined agent for medical data ingestion, summarization via a generalist LLM (e.g., Gemini),
-    and specialist medical advice via OpenBioLLM.
-    """
+@tool
+def parse_pdf_text(path: str) -> str:
+    """Extract raw text from PDF."""
+    try:
+        text = extract_text(path)
+        return f"Extracted text from {path}:\n{text}"
+    except Exception as e:
+        return f"Error extracting text from {path}: {str(e)}"
 
-    def __init__(
-        self,
-        gemini_model_name: str = "gemini-1.5-flash",
-        # openbio_model_name: str = "aaditya/Llama3-OpenBioLLM-8B",
-        device: str = "cpu",
-    ):
-        # Set up generalist LLM 
-        self.gemini_llm = GoogleGenerativeAI(model=gemini_model_name, api_key=os.getenv("GEMINI_API_KEY"))
-
-        # # Set up specialist medical LLM
-        # self.tokenizer = AutoTokenizer.from_pretrained(openbio_model_name)
-        # self.openbio_model = AutoModelForCausalLM.from_pretrained(
-        #     openbio_model_name,
-        #     torch_dtype=torch.float16,
-        # ).to(device)
-
-        # Prompt templates
-        self.summary_template = PromptTemplate(
-            input_variables=["context"],
-            template=(
-                "You are a medical summarization assistant. Generate a concise summary with sections:\n"
-                "### Patient Overview\n"
-                "- Age, sex, key demographics\n"
-                "- Chief complaint & history\n\n"
-                "### Clinical Findings\n"
-                "- Vital signs & lab trends (include units)\n"
-                "- Imaging results\n\n"
-                "### Summary & Recommendations\n"
-                "- Synthesis\n"
-                "- Next steps or treatment considerations\n\n"
-                "Context:\n{context}"
-            ),
-        )
-        self.advice_template = PromptTemplate(
-            input_variables=["summary"],
-            template=(
-                "You are a biomedical expert. Given the summary below, provide detailed clinical recommendations and next steps.\n\n"
-                "{summary}"
-            ),
-        )
-
-        # Chains
-        # self.summary_chain = LLMChain(
-            # llm=self.gemini_llm, prompt=self.summary_template, output_key="summary"
-        # )
-        self.summary_chain = self.summary_template | self.gemini_llm | StrOutputParser() 
-        # self.advice_chain = LLMChain(
-        #     llm=OpenAI(model_name=openbio_model_name, temperature=0.2),
-        #     prompt=self.advice_template,
-        #     output_key="advice",
-        # )
-
-        # self.advice_chain = self.advice_template | self.openbio_model | StrOutputParser()
-        # self.pipeline = SimpleSequentialChain(
-        #     chains=[self.summary_chain, self.advice_chain], verbose=False
-        # )
-
-    # --- Ingestion Methods ---
-    @staticmethod
-    def ocr_image(path: str) -> str:
-        img = cv2.imread(path, cv2.IMREAD_COLOR)
-        gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-        gray = cv2.GaussianBlur(gray, (5, 5), 0)
-        _, thresh = cv2.threshold(
-            gray, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU
-        )
-        return pytesseract.image_to_string(thresh, config="--psm 6")
-
-    @staticmethod
-    def parse_pdf_text(path: str) -> str:
-        return extract_text(path)
-
-    @staticmethod
-    def extract_pdf_tables(path: str) -> pd.DataFrame:
+@tool
+def extract_pdf_tables(path: str) -> str:
+    """Extract tables from PDF as markdown."""
+    try:
         tables = camelot.read_pdf(path, pages="all", flavor="stream")
-        # concatenate all tables into one DataFrame (or return list)
-        return pd.concat([t.df for t in tables], ignore_index=True)
+        if tables:
+            df = pd.concat([t.df for t in tables], ignore_index=True)
+            return f"Extracted tables from {path}:\n{df.to_markdown()}"
+        else:
+            return f"No tables found in {path}."
+    except Exception as e:
+        return f"Error extracting tables from {path}: {str(e)}"
 
-    @staticmethod
-    def load_tabular(path: str) -> pd.DataFrame:
+@tool
+def load_tabular(path: str) -> str:
+    """Load tabular data (CSV, Excel) as markdown."""
+    try:
         ext = path.lower().split(".")[-1]
         if ext == "csv":
-            return pd.read_csv(path)
-        elif ext in ("xls", "xlsx"):
-            sheets = pd.read_excel(path, sheet_name=None)
-            # concatenate all sheets
-            return pd.concat(sheets.values(), ignore_index=True)
+            df = pd.read_csv(path)
         else:
-            raise ValueError(f"Unsupported tabular extension: {ext}")
+            sheets = pd.read_excel(path, sheet_name=None)
+            df = pd.concat(sheets.values(), ignore_index=True)
+        return f"Loaded tabular data from {path}:\n{df.to_markdown()}"
+    except Exception as e:
+        return f"Error loading tabular data from {path}: {str(e)}"
 
-    @staticmethod
-    def read_dicom(path: str) -> pd.DataFrame:
+@tool
+def read_dicom(path: str) -> str:
+    """Read and flatten DICOM image data."""
+    try:
         ds = pydicom.dcmread(path)
         if hasattr(ds, "pixel_array"):
             arr = ds.pixel_array
-            # flatten pixels into DataFrame for simplicity
             df = pd.DataFrame(arr.reshape(-1, arr.shape[-1] if arr.ndim == 3 else 1))
         else:
             df = pd.DataFrame()
-        return df
+        return f"DICOM data preview from {path}:\n{df.head().to_markdown()}"
+    except Exception as e:
+        return f"Error reading DICOM file {path}: {str(e)}"
 
-    @staticmethod
-    def preprocess_image(path: str, size=(512, 512)) -> np.ndarray:
-        img = cv2.imread(path, cv2.IMREAD_UNCHANGED)
-        resized = cv2.resize(img, size, interpolation=cv2.INTER_AREA)
-        norm = cv2.normalize(
-            resized.astype("float32"), None, 0.0, 1.0, cv2.NORM_MINMAX
-        )
-        return norm
+def process_tool_call(tool_name: str, tool_args: dict) -> str:
+    """Process the tool call based on tool name and arguments."""
+    tools = {
+        "ocr_image": ocr_image,
+        "parse_pdf_text": parse_pdf_text,
+        "extract_pdf_tables": extract_pdf_tables,
+        "load_tabular": load_tabular,
+        "read_dicom": read_dicom
+    }
+    
+    if tool_name not in tools:
+        raise ValueError(f"Unknown tool {tool_name}")
+    
+    return tools[tool_name].invoke(tool_args["path"])
 
-    # --- Pipeline Execution ---
-    def run(self, files: list[str]) -> str:
+class MedicalCompilerAgent:
+    def __init__(self, model_name="gemini-1.5-flash"):
+        api_key = os.getenv("GEMINI_API_KEY")
+        self.llm = ChatGoogleGenerativeAI(model=model_name, google_api_key=api_key)
+        self.tools = [ocr_image, parse_pdf_text, extract_pdf_tables, load_tabular, read_dicom]
+        self.model_with_tools = self.llm.bind_tools(tools=self.tools)
+        
+        self.TOOL_DEFINITIONS = """
+        You are a medical file processing assistant. You analyze medical files and extract relevant information.
+        
+        You have access to the following tools:
+        
+        1. ocr_image:
+           - Extracts text from an image file using OCR.
+           - Parameters: path (string)
+           - Returns: Extracted text from the image
+           
+        2. parse_pdf_text:
+           - Extract raw text from PDF.
+           - Parameters: path (string)
+           - Returns: Extracted text from the PDF
+           
+        3. extract_pdf_tables:
+           - Extract tables from PDF as markdown.
+           - Parameters: path (string)
+           - Returns: Extracted tables from the PDF in markdown format
+           
+        4. load_tabular:
+           - Load tabular data (CSV, Excel) as markdown.
+           - Parameters: path (string)
+           - Returns: Loaded tabular data in markdown format
+           
+        5. read_dicom:
+           - Read and flatten DICOM image data.
+           - Parameters: path (string)
+           - Returns: DICOM data preview
+        
+        Based on the file path, determine the appropriate tool to use and process the file.
+        
+        Respond in this JSON format:
+        ```json
+        {
+            "thoughts": "Your reasoning for selecting this tool",
+            "tool_needed": true/false,
+            "tool_name": "name of the tool (if needed)",
+            "tool_args": {"path": "file_path"} (if needed),
+            "final_answer": "Your analysis of the file" 
+        }
+        ```
         """
-        Ingests a list of file paths, builds context, and returns combined summary + advice.
+        
+        self.SUMMARY_PROMPT = """
+        You are a medical summarization assistant. Generate a concise report with sections:
+        
+        ### Patient Overview
+        - Demographics
+        - Complaint
+        
+        ### Clinical Findings
+        - Labs, Vitals
+        
+        ### Summary & Recommendations
+        
+        Context:
+        {context}
+        
+        Return a comprehensive medical report based on all information provided.
         """
+    
+    def process_file(self, file_path):
+        """Process a single file and return the extracted information"""
+        try:
+            print(f"\n--- Processing file: {file_path} ---")
+            
+            # Ask the model to select the appropriate tool
+            messages = [
+                SystemMessage(content=self.TOOL_DEFINITIONS),
+                HumanMessage(content=f"Process this medical file: {file_path}")
+            ]
+            
+            response = self.model_with_tools.invoke(messages)
+            raw_content = response.content
+            print("Raw tool selection response:", raw_content)
+            
+            # Parse the JSON response
+            try:
+                # Extract JSON from potentially markdown-wrapped response
+                if "```json" in raw_content:
+                    json_content = raw_content.split("```json")[1].split("```")[0].strip()
+                else:
+                    json_content = raw_content.strip()
+                
+                parsed_response = json.loads(json_content)
+                
+                if parsed_response.get("tool_needed"):
+                    tool_name = parsed_response["tool_name"]
+                    tool_args = parsed_response["tool_args"]
+                    print(f"Tool to call: {tool_name}\nArguments: {tool_args}")
+                    
+                    result = process_tool_call(tool_name=tool_name, tool_args=tool_args)
+                    
+                    # For PDFs, also try to extract tables if we initially used text extraction
+                    if tool_name == "parse_pdf_text" and file_path.lower().endswith(".pdf"):
+                        try:
+                            tables_result = process_tool_call("extract_pdf_tables", {"path": file_path})
+                            if "No tables found" not in tables_result:
+                                result += f"\n\n{tables_result}"
+                        except Exception as e:
+                            print(f"Table extraction failed: {str(e)}")
+                    
+                    return result
+                else:
+                    return parsed_response.get("final_answer", f"No suitable tool found for {file_path}")
+            
+            except json.JSONDecodeError:
+                print("Failed to parse JSON response:", raw_content)
+                # Fallback: determine tool based on extension
+                ext = file_path.lower().split(".")[-1]
+                if ext in ["png", "jpg", "jpeg"]:
+                    return process_tool_call("ocr_image", {"path": file_path})
+                elif ext == "pdf":
+                    return process_tool_call("parse_pdf_text", {"path": file_path})
+                elif ext in ["csv", "xlsx", "xls"]:
+                    return process_tool_call("load_tabular", {"path": file_path})
+                elif ext == "dcm":
+                    return process_tool_call("read_dicom", {"path": file_path})
+                else:
+                    return f"Error: No suitable tool found for {file_path}"
+                
+        except Exception as e:
+            return f"Error processing {file_path}: {str(e)}"
+    
+    def run(self, files):
+        """Process multiple files and generate a summary report"""
         context_parts = []
-        for f in files:
-            ext = f.lower().split(".")[-1]
-            if ext in ("png", "jpg", "jpeg", "tiff", "bmp"):
-                text = self.ocr_image(f)
-                context_parts.append(f"# OCR ({f})\n{text}")
-            elif ext == "pdf":
-                txt = self.parse_pdf_text(f)
-                context_parts.append(f"# PDF Text ({f})\n{txt}")
-                tbl = self.extract_pdf_tables(f)
-                context_parts.append(f"# PDF Tables ({f})\n{tbl.to_markdown()}")
-            elif ext in ("csv", "xls", "xlsx"):
-                df = self.load_tabular(f)
-                context_parts.append(f"# Tabular ({f})\n{df.to_markdown()}")
-            elif ext in ("dcm",):
-                df = self.read_dicom(f)
-                context_parts.append(f"# DICOM ({f})\n{df.head().to_markdown()}")
-            else:
-                context_parts.append(f"# Skipped unsupported file type: {f}")
-
+        
+        for file_path in files:
+            result = self.process_file(file_path)
+            context_parts.append(f"# {os.path.basename(file_path)}\n{result}")
+        
         full_context = "\n\n".join(context_parts)
-        # Run the sequential chain: summary then advice
-        output = self.pipeline.run({"context": full_context})
-        return output
+        print("\n--- Generating summary report ---")
+        
+        # Generate the summary report using the model
+        messages = [
+            SystemMessage(content=self.SUMMARY_PROMPT.format(context=full_context)),
+            HumanMessage(content="Generate a comprehensive medical report based on the provided context.")
+        ]
+        
+        summary_response = self.llm.invoke(messages)
+        return summary_response.content
 
 if __name__ == "__main__":
     files = [
-    #     "data/note1.png",
-    #     "data/report.pdf",
-    #     "data/labs.xlsx",
-    #     "data/scan.dcm",
+        "testcases/patient_1/data/patient_1_pathology.pdf",
+        "testcases/patient_1/data/patient_1_ct_report.pdf",
+        "testcases/patient_1/data/patient_1_labs.xlsx",
+        "testcases/patient_1/data/patient_1_note.png",
     ]
+    
     agent = MedicalCompilerAgent()
     report = agent.run(files)
-    print("=== Generated Medical Report ===")
+    
+    print("\n=== Generated Medical Report ===")
     print(report)
+    
+    with open("report.md", "w") as f:
+        f.write(report)
