@@ -1,0 +1,28 @@
+diagnosisid,patientunitstayid,diagnosisoffset,diagnosisstring,icd9code,diagnosispriority,activeupondischarge
+344379,180,cardiovascular|shock / hypotension|hypotension,458.9, I95.9,Major,True
+344379,51,renal|disorder of kidney|chronic renal insufficiency,585.9, N18.9,Major,False
+344379,180,renal|disorder of kidney|chronic renal insufficiency,585.9, N18.9,Major,True
+344379,180,endocrine|glucose metabolism|diabetes mellitus,,Major,True,
+344379,51,endocrine|glucose metabolism|diabetes mellitus,,Major,False,
+344379,51,cardiovascular|shock / hypotension|hypotension,458.9, I95.9,Major,False
+344379,51,cardiovascular|cardiac arrest|cardiac arrest,427.5, I46.9,Primary,False
+344379,180,cardiovascular|cardiac arrest|cardiac arrest,427.5, I46.9,Primary,True
+patientunitstayid,treatmentoffset,treatmentstring,activeupondischarge,,,
+344379,180,pulmonary|medications|bronchodilator,True,,,
+344379,180,pulmonary|radiologic procedures / bronchoscopy|chest x-ray,True,,,
+344379,180,pulmonary|medications|antibacterials,True,,,
+344379,180,cardiovascular|myocardial ischemia / infarction|analgesics,True,,,
+344379,51,endocrine|glucose metabolism|insulin|sliding scale administration,False,,,
+344379,51,pulmonary|medications|antibacterials,False,,,
+344379,180,pulmonary|radiologic procedures / bronchoscopy|endotracheal tube|insertion,True,,,
+344379,51,cardiovascular|shock|vasopressors|norepinephrine > 0.1 micrograms/kg/min,False,,,
+344379,180,pulmonary|medications|sedative,True,,,
+344379,51,pulmonary|radiologic procedures / bronchoscopy|chest x-ray,False,,,
+344379,180,cardiovascular|shock|vasopressors|norepinephrine > 0.1 micrograms/kg/min,True,,,
+344379,51,pulmonary|radiologic procedures / bronchoscopy|endotracheal tube|insertion,False,,,
+344379,180,endocrine|glucose metabolism|insulin|sliding scale administration,True,,,
+344379,180,pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|>90%,True,,,
+344379,51,pulmonary|ventilation and oxygenation|oxygen therapy (> 60%)|>90%,False,,,
+344379,180,cardiovascular|myocardial ischemia / infarction|anticoagulant administration|conventional heparin therapy|intravenous,True,,,
+344379,51,pulmonary|medications|sedative,False,,,
+344379,51,pulmonary|medications|bronchodilator,False,,,

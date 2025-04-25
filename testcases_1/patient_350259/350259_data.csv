@@ -1,0 +1,7 @@
+patientunitstayid,labname,labresult,labmeasurenamesystem
+350259,troponin - I,0.37,ng/mL
+350259,CPK-MB INDEX,3.0,%
+350259,CPK-MB,3.0,ng/mL
+350259,glucose,176.0,mg/dL
+350259,WBC x 1000,82.2,K/mcL
+350259,BUN,47.0,mg/dL

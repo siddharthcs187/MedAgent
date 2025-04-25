@@ -1,0 +1,105 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-288,glucose,155.0,mg/dL
+-288,potassium,3.9,mmol/L
+-288,sodium,137.0,mmol/L
+-288,chloride,102.0,mmol/L
+-288,bicarbonate,25.0,mmol/L
+-288,anion gap,10.0,
+-288,BUN,13.0,mg/dL
+-288,creatinine,1.1,mg/dL
+-288,calcium,9.1,mg/dL
+-288,platelets x 1000,149.0,K/mcL
+-288,RBC,5.22,M/mcL
+-288,Hgb,14.9,g/dL
+-288,Hct,42.9,% 
+-288,MCV,82.0,fL
+-288,MCH,29.0,pg
+-288,MCHC,35.0,g/dL
+-288,RDW,13.0,% 
+-288,PT,14.9,sec
+-288,PT - INR,1.2,ratio
+-288,PTT,33.7,sec
+-288,-polys,79.0,% 
+-288,-bands,13.0,% 
+-288,-lymphs,3.0,% 
+-288,-monos,4.0,% 
+-228,WBC's in cerebrospinal fluid,1318.0,cells/uL
+-228,protein - CSF,430.0,mg/dL
+-228,glucose - CSF,4.0,mg/dL
+367,phosphate,1.8,mg/dL
+367,chloride,110.0,mmol/L
+367,bicarbonate,22.0,mmol/L
+367,anion gap,8.0,
+367,BUN,14.0,mg/dL
+367,creatinine,0.8,mg/dL
+367,calcium,9.1,mg/dL
+367,glucose,147.0,mg/dL
+367,potassium,5.2,mmol/L
+367,sodium,140.0,mmol/L
+367,total protein,6.6,g/dL
+367,albumin,3.2,g/dL
+367,ALT (SGPT),24.0,Units/L
+367,AST (SGOT),16.0,Units/L
+367,alkaline phos.,57.0,Units/L
+367,total bilirubin,0.4,mg/dL
+367,triglycerides,65.0,mg/dL
+367,LDL,100.0,mg/dL
+367,HDL,48.0,mg/dL
+367,total cholesterol,161.0,mg/dL
+367,RBC,5.09,M/mcL
+367,Hgb,14.6,g/dL
+367,Hct,42.4,% 
+367,MCV,83.0,fL
+367,MCH,29.0,pg
+367,MCHC,34.0,g/dL
+367,RDW,13.3,% 
+367,WBC x 1000,15.8,K/mcL
+367,platelets x 1000,146.0,K/mcL
+367,MPV,11.4,fL
+997,urinary specific gravity,1.016,
+997,WBC's in urine,1.0,/HPF
+2067,magnesium,2.2,mg/dL
+2067,potassium,3.9,mmol/L
+2067,sodium,144.0,mmol/L
+2067,chloride,111.0,mmol/L
+2067,bicarbonate,25.0,mmol/L
+2067,anion gap,8.0,
+2067,BUN,24.0,mg/dL
+2067,creatinine,1.1,mg/dL
+2067,calcium,8.6,mg/dL
+2067,glucose,159.0,mg/dL
+2067,WBC x 1000,15.9,K/mcL
+2067,RBC,4.44,M/mcL
+2067,Hgb,12.8,g/dL
+2067,Hct,37.0,% 
+2067,MCV,83.0,fL
+2067,MCH,29.0,pg
+2067,MCHC,35.0,g/dL
+2067,RDW,13.5,% 
+2067,platelets x 1000,163.0,K/mcL
+2067,MPV,11.8,fL
+2067,Vancomycin - trough,11.0,mcg/mL
+2228,bedside glucose,134.0,mg/dL
+2513,bedside glucose,119.0,mg/dL
+2806,bedside glucose,143.0,mg/dL
+3315,bedside glucose,101.0,mg/dL
+3402,magnesium,1.9,mg/dL
+3402,potassium,3.8,mmol/L
+3402,sodium,143.0,mmol/L
+3402,chloride,110.0,mmol/L
+3402,bicarbonate,23.0,mmol/L
+3402,anion gap,10.0,
+3402,BUN,23.0,mg/dL
+3402,creatinine,1.1,mg/dL
+3402,calcium,8.9,mg/dL
+3402,glucose,127.0,mg/dL
+3402,Hct,36.7,% 
+3402,Hgb,12.7,g/dL
+3402,MCV,83.0,fL
+3402,MCH,29.0,pg
+3402,MCHC,35.0,g/dL
+3402,RDW,13.6,% 
+3402,platelets x 1000,172.0,K/mcL
+3402,MPV,11.2,fL
+3675,bedside glucose,103.0,mg/dL
+3967,bedside glucose,126.0,mg/dL

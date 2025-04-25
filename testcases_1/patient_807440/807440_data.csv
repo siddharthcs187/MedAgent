@@ -1,0 +1,61 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+1165,Base Excess,0.1,mEq/L
+1165,pH,7.32,unit(s)
+1165,FiO2,,%
+2415,Hgb,12.4,g/dL
+1165,paO2,95.0,mm Hg
+2415,Hct,36.5,%
+1165,paCO2,54.0,mm Hg
+2415,MPV,8.3,fL
+1165,O2 Sat (%),96.0,%
+2415,MCV,95.4,fL
+12,FiO2,60.0,%
+2684,O2 Sat (%),91.0,%
+1353,bedside glucose,101.0,mg/dL
+1165,HCO3,27.0,mmol/L
+2415,RDW,14.6,%
+960,BNP,177.0,pg/mL
+323,paO2,74.0,mm Hg
+960,potassium,3.4,mmol/L
+2684,Base Excess,3.3,mEq/L
+960,anion gap,7.0,
+323,pH,7.3,unit(s)
+960,sodium,139.0,mmol/L
+2415,MCH,32.3,pg
+960,chloride,103.0,mmol/L
+323,paCO2,57.0,mm Hg
+960,calcium,8.0,mg/dL
+2684,paO2,60.0,mm Hg
+960,BUN,19.0,mg/dL
+323,O2 Sat (%),93.0,%
+960,creatinine,1.1,mg/dL
+2684,pH,7.4,unit(s)
+960,CPK,1161.0,Units/L
+323,FiO2,,%
+85,bedside glucose,105.0,mg/dL
+2415,WBC x 1000,6.0,K/mcL
+3835,CPK,389.0,Units/L
+2415,sodium,135.0,mmol/L
+2415,potassium,3.7,mmol/L
+960,phosphate,2.1,mg/dL
+2415,chloride,100.0,mmol/L
+2415,MCHC,33.9,g/dL
+2415,calcium,8.1,mg/dL
+472,bedside glucose,81.0,mg/dL
+2415,BUN,22.0,mg/dL
+960,magnesium,1.7,mg/dL
+4000,bedside glucose,103.0,mg/dL
+2415,CPK,578.0,Units/L
+2415,glucose,111.0,mg/dL
+2684,paCO2,49.0,mm Hg
+3319,bedside glucose,107.0,mg/dL
+1809,bedside glucose,138.0,mg/dL
+2415,bicarbonate,31.0,mmol/L
+1111,bedside glucose,88.0,mg/dL
+-96,bedside glucose,113.0,mg/dL
+2538,bedside glucose,110.0,mg/dL
+2415,anion gap,4.0,
+2785,bedside glucose,131.0,mg/dL
+2415,magnesium,2.0,mg/dL
+2415,RBC,3.82,M/mcL
+2415,creatinine,0.9,mg/dL

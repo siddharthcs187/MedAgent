@@ -1,0 +1,6 @@
+labid,patientunitstayid,labresultoffset,labtypeid,labname,labresult,labresulttext,labmeasurenamesystem,labmeasurenameinterface,labresultrevisedoffset
+188609094,876480,189,4,bedside glucose,97.0,97.0,mg/dL,mg/dL,189
+188348943,876480,32,4,bedside glucose,97.0,97.0,mg/dL,mg/dL,32
+163050773,876480,182,1,magnesium,2.3,2.3,mg/dL,mg/dL,201
+164961175,876480,182,1,phosphate,2.3,2.3,mg/dL,mg/dL,201
+190831615,876480,394,4,bedside glucose,94.0,94.0,mg/dL,mg/dL,394

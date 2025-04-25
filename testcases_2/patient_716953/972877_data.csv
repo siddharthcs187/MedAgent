@@ -1,0 +1,94 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-468,calcium,9,mg/dL
+-468,bicarbonate,27,mmol/L
+-468,potassium,4,mmol/L
+-468,creatinine,1.29,mg/dL
+-468,chloride,89,mmol/L
+-468,ALT (SGPT),43,Units/L
+-468,AST (SGOT),19,Units/L
+-468,total protein,6.5,g/dL
+-468,albumin,4.1,g/dL
+-468,total bilirubin,0.5,mg/dL
+-468,direct bilirubin,0.2,mg/dL
+-468,lipase,718,Units/L
+-468,glucose,981,mg/dL
+-468,anion gap,10,
+-468,sodium,126,mmol/L
+-468,RBC,4.66,M/mcL
+-468,-lymphs,13.2,% 
+-468,-polys,82.7,% 
+-468,MPV,9.8,fL
+-468,-monos,3.3,% 
+-468,-eos,0.7,% 
+-468,-basos,0.1,% 
+-468,Hct,47.2,% 
+-468,Hgb,15.7,g/dL
+-468,WBC x 1000,6.5,K/mcL
+-468,RDW,12.5,% 
+-468,MCV,101.3,fL
+-199,sodium,138,mmol/L
+-199,potassium,3.3,mmol/L
+-199,bicarbonate,27,mmol/L
+-199,chloride,105,mmol/L
+-199,calcium,8.2,mg/dL
+-199,phosphate,3.3,mg/dL
+-199,magnesium,1.6,mg/dL
+-199,troponin - I,<0.015,ng/mL
+-199,anion gap,6,
+-199,BUN,11,mg/dL
+-199,lipase,804,Units/L
+-199,glucose,292,mg/dL
+-199,RBC,4.13,M/mcL
+-199,-lymphs,27.4,% 
+-199,-polys,66.4,% 
+-199,MPV,9.1,fL
+-199,-monos,4,% 
+-199,-eos,1.2,% 
+-199,-basos,1,% 
+-199,Hct,40.9,% 
+-199,Hgb,13.9,g/dL
+-199,WBC x 1000,6.1,K/mcL
+-199,RDW,12.2,% 
+-199,MCV,99.2,fL
+-199,MCHC,34.1,g/dL
+-199,MCH,33.8,pg
+-199,platelets x 1000,143,K/mcL
+860,sodium,141,mmol/L
+860,potassium,3.9,mmol/L
+860,chloride,113,mmol/L
+860,bicarbonate,18,mmol/L
+860,calcium,8.3,mg/dL
+860,creatinine,0.57,mg/dL
+860,BUN,10,mg/dL
+860,glucose,190,mg/dL
+860,anion gap,10,
+860,lipase,190,Units/L
+1182,sodium,139,mmol/L
+1182,potassium,3.8,mmol/L
+1182,chloride,110,mmol/L
+1182,bicarbonate,21,mmol/L
+1182,calcium,8.4,mg/dL
+1182,creatinine,0.62,mg/dL
+1182,BUN,10,mg/dL
+1182,glucose,220,mg/dL
+1182,total cholesterol,225,mg/dL
+1182,triglycerides,519,mg/dL
+1182,HDL,45,mg/dL
+1182,LDL,118,mg/dL
+1182,amylase,51,Units/L
+1182,anion gap,8,
+1182,RBC,4.08,M/mcL
+1182,-lymphs,19,% 
+1182,-polys,78.1,% 
+1182,MPV,9.5,fL
+1182,-monos,2.4,% 
+1182,-eos,0.4,% 
+1182,-basos,0.1,% 
+1182,Hct,39.8,% 
+1182,Hgb,14.1,g/dL
+1182,WBC x 1000,6.2,K/mcL
+1182,RDW,12.7,% 
+1182,MCV,97.7,fL
+1182,MCHC,35.5,g/dL
+1182,MCH,34.6,pg
+1182,platelets x 1000,81,K/mcL

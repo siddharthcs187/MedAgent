@@ -1,0 +1,14 @@
+patientunitstayid,diagnosisstring,diagnosispriority,icd9code,treatmentoffset,treatmentstring,activeupondischarge,labresultoffset,labname,labresult,labmeasurenamesystem
+renal|disorder of urinary tract / renal system infection|lower urinary tract infection,Major,595.9, N30.9,435,cardiovascular|hypertension|calcium channel blocker,False,119,albumin,3.4,g/dL
+neurologic|neuromuscular disorders|motor neuropathy|multiple sclerosis,Major,340.0, G35,435,cardiovascular|hypertension|calcium channel blocker,False,119,sodium,142,mmol/L
+infectious diseases|systemic/other infections|fever|infection related,Major,780.6, R50.9,429,pulmonary|medications|bronchodilator,False,119,AST (SGOT),39,Units/L
+renal|disorder of urinary tract / renal system infection|lower urinary tract infection,Major,595.9, N30.9,435,cardiovascular|hypertension|calcium channel blocker,False,119,creatinine,0.9,mg/dL
+neurologic|neuromuscular disorders|motor neuropathy|multiple sclerosis,Major,340.0, G35,435,cardiovascular|hypertension|calcium channel blocker,False,423,Hct,36.3,% 
+infectious diseases|systemic/other infections|fever|infection related,Major,780.6, R50.9,429,pulmonary|medications|bronchodilator,False,119,chloride,111,mmol/L
+endocrine|glucose metabolism|diabetes mellitus,Major,,435,cardiovascular|hypertension|calcium channel blocker,False,423,Hgb,12.4,g/dL,
+infectious diseases|systemic/other infections|signs and symptoms of sepsis (SIRS),Primary,995.9,3206,pulmonary|medications|bronchodilator,False,119,potassium,4,mmol/L,
+cardiovascular|ventricular disorders|hypertension,Major,401.9, I10,435,cardiovascular|hypertension|calcium channel blocker,False,119,FiO2,21,%
+neurologic|neuromuscular disorders|motor neuropathy|multiple sclerosis,Major,340.0, G35,435,cardiovascular|hypertension|calcium channel blocker,False,119,total bilirubin,0.4,mg/dL
+endocrine|glucose metabolism|diabetes mellitus,Major,,435,cardiovascular|hypertension|calcium channel blocker,False,423,WBC x 1000,6.5,K/mcL,
+cardiovascular|ventricular disorders|hypertension,Major,401.9, I10,435,cardiovascular|hypertension|calcium channel blocker,False,119,BUN,13,mg/dL
+neurologic|neuromuscular disorders|motor neuropathy|myasthenia gravis,Major,358.0, G70.0,177,renal|electrolyte correction|electrolyte administration|potassium,False,,,,

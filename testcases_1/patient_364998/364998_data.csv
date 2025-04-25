@@ -1,0 +1,41 @@
+Lab Name,Value,Unit,Lab Type,Time Offset (minutes)
+Ethanol,0.0,mg/dL,Drug Level,-127
+Acetaminophen,0.0,mcg/mL,Drug Level,-127
+Albumin,2.9,g/dL,Chemistry,-127
+Bicarbonate,29.0,mmol/L,Chemistry,-127
+Urinary specific gravity,1.02,,Misc,-121
+FiO2,21.0,%,ABG,14
+total protein,6.5,g/dL,Chemistry,-127
+paCO2,35.7,mm Hg,ABG,-44
+-lymphs,33.0,%,Hemo,-127
+potassium,3.9,mmol/L,Chemistry,-127
+platelets x 1000,106.0,K/mcL,Hemo,-127
+Base Excess,0.8,mEq/L,ABG,-44
+-monos,13.0,%,Hemo,-127
+creatinine,1.1,mg/dL,Chemistry,-127
+MCHC,35.0,g/dL,Hemo,-127
+Oxyhemoglobin,90.9,%,ABG,-44
+RDW,11.9,%,Hemo,-127
+alkaline phos.,45.0,Units/L,Chemistry,-127
+MCH,34.0,pg,Hemo,-127
+pH,7.453,,ABG,-44
+RBC,3.47,M/mcL,Hemo,-127
+salicylate,7.0,mg/dL,Drug Level,-127
+MCV,99.0,fL,Hemo,-127
+Hgb,11.9,g/dL,Hemo,-127
+total bilirubin,0.3,mg/dL,Chemistry,-127
+Methemoglobin,0.4,%,ABG,-44
+ALT (SGPT),13.0,Units/L,Chemistry,-127
+-polys,53.0,%,Hemo,-127
+AST (SGOT),9.0,Units/L,Chemistry,-127
+glucose,82.0,mg/dL,Chemistry,-127
+Hct,34.4,%,Hemo,-127
+paO2,82.0,mm Hg,ABG,-44
+chloride,107.0,mmol/L,Chemistry,-127
+WBC x 1000,5.1,K/mcL,Hemo,-127
+sodium,142.0,mmol/L,Chemistry,-127
+calcium,8.3,mg/dL,Chemistry,-127
+-basos,0.0,%,Hemo,-127
+Carboxyhemoglobin,4.6,%,ABG,-42
+BUN,11.0,mg/dL,Chemistry,-127
+-eos,1.0,%,Hemo,-127

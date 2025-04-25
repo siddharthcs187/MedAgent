@@ -1,0 +1,274 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-163,bedside glucose,288,mg/dL
+-162,-eos,2,%
+-162,-lymphs,83,%
+-162,-monos,10,%
+-162,-polys,5,%
+-162,Acetaminophen,<2.0,mcg/mL
+ethanol,108,mg/dL,
+salicylate,<1.7,mg/dL,
+-162,ALT (SGPT),1221,Units/L
+-162,AST (SGOT),1221,Units/L
+-162,BUN,7,mg/dL
+-162,calcium,7.4,mg/dL
+-162,chloride,106,mmol/L
+-162,CPK,249,Units/L
+-162,creatinine,1.08,mg/dL
+-162,direct bilirubin,<0.1,mg/dL
+-162,glucose,293,mg/dL
+-162,Hgb,12.8,g/dL
+-162,Hct,40.5,%
+-162,MCH,32,pg
+-162,MCHC,32,g/dL
+-162,MCV,100,fL
+-162,magnesium,1.4,mg/dL
+-162,MPV,10.5,fL
+-162,paCO2,66,mm Hg
+-162,paO2,332.4,mm Hg
+-162,phosphate,1.1,mg/dL
+-162,platelets x 1000,136,K/mcL
+-162,potassium,3.9,mmol/L
+-162,PT,45.9,sec
+-162,PT - INR,5.3,ratio
+-162,PTT,51.9,sec
+-162,RBC,4.05,M/mcL
+-162,RDW,13.2,%
+-162,salicylate,<1.7,mg/dL
+-162,sodium,143,mmol/L
+-162,total bilirubin,0.2,mg/dL
+-162,total protein,5.8,g/dL
+-162,troponin - I,0.09,ng/mL
+-162,WBC x 1000,5.4,K/mcL
+-119,Base Excess,-13.2,mEq/L
+-119,Carboxyhemoglobin,0.3,%
+-119,FiO2,100,%
+-119,HCO3,17.9,mmol/L
+-119,Methemoglobin,0.3,%
+-119,O2 Sat (%),99.2,%
+-119,paCO2,66,mm Hg
+-119,paO2,332.4,mm Hg
+-119,PEEP,5,cm H2O
+-119,Respiratory Rate,16,b/min
+-119,TV,400,mls
+-113,urinary specific gravity,1.001,
+-100,urinary specific gravity,1.001,
+-97,troponin - I,0.09,ng/mL
+-93,ALT (SGPT),1221,Units/L
+-93,AST (SGOT),1221,Units/L
+-93,BUN,7,mg/dL
+-93,calcium,7.4,mg/dL
+-93,chloride,106,mmol/L
+-93,creatinine,1.08,mg/dL
+-93,glucose,293,mg/dL
+-93,potassium,3.9,mmol/L
+-93,total bilirubin,0.2,mg/dL
+-93,total protein,5.8,g/dL
+-53,-eos,2,%
+-53,-lymphs,83,%
+-53,-monos,10,%
+-53,-polys,5,%
+-53,WBC x 1000,5.4,K/mcL
+-103,Hgb,12.8,g/dL
+-103,Hct,40.5,%
+-103,MCH,32,pg
+-103,MCHC,32,g/dL
+-103,MCV,100,fL
+-103,MPV,10.5,fL
+-103,platelets x 1000,136,K/mcL
+-103,RBC,4.05,M/mcL
+-103,RDW,13.2,%
+395,Base Excess,-10.3,mEq/L
+395,Carboxyhemoglobin,0.6,%
+395,FiO2,70,%
+395,HCO3,14.4,mmol/L
+395,Methemoglobin,0.3,%
+395,O2 Sat (%),98.6,%
+395,paCO2,29.1,mm Hg
+395,paO2,116.1,mm Hg
+395,PEEP,5,cm H2O
+395,pH,7.311,
+395,Respiratory Rate,22,b/min
+395,TV,400,mls
+507,ALT (SGPT),1273,Units/L
+507,AST (SGOT),2948,Units/L
+507,Hgb,13.9,g/dL
+507,Hct,42.2,%
+507,MCH,32,pg
+507,MCHC,33,g/dL
+507,MCV,97,fL
+507,MPV,9.8,fL
+507,platelets x 1000,211,K/mcL
+507,RBC,4.36,M/mcL
+507,RDW,13.2,%
+507,albumin,2.5,g/dL
+507,anion gap,13,
+507,bicarbonate,23,mmol/L
+507,BUN,16,mg/dL
+507,calcium,6,mg/dL
+507,chloride,115,mmol/L
+507,direct bilirubin,0.4,mg/dL
+507,glucose,216,mg/dL
+507,-bands,9,%
+507,-lymphs,3,%
+507,-monos,3,%
+507,-polys,84,%
+507,total bilirubin,0.7,mg/dL
+507,total protein,5.2,g/dL
+507,magnesium,1.4,mg/dL
+507,phosphate,1.1,mmol/L
+565,PT,45.9,sec
+565,PTT,51.9,sec
+565,TSH,1.57,mcU/ml
+565,-bands,9,%
+565,-lymphs,3,%
+565,-monos,3,%
+565,-polys,84,%
+581,-bands,9,%
+581,-lymphs,3,%
+581,-monos,3,%
+581,-polys,84,%
+587,magnesium,1.4,mg/dL
+589,albumin,2.5,g/dL
+589,anion gap,13,
+589,bicarbonate,23,mmol/L
+589,BUN,16,mg/dL
+589,calcium,6,mg/dL
+589,chloride,115,mmol/L
+589,glucose,216,mg/dL
+589,potassium,2.9,mmol/L
+589,total protein,5.2,g/dL
+603,ALT (SGPT),1273,Units/L
+603,AST (SGOT),2948,Units/L
+603,albumin,2.5,g/dL
+603,direct bilirubin,0.4,mg/dL
+603,total bilirubin,0.7,mg/dL
+603,total protein,5.2,g/dL
+638,TSH,1.57,mcU/ml
+777,ALT (SGPT),1309,Units/L
+777,AST (SGOT),2955,Units/L
+777,BUN,19,mg/dL
+777,calcium,5.9,mg/dL
+777,chloride,114,mmol/L
+777,creatinine,3.7,mg/dL
+777,glucose,169,mg/dL
+777,Hgb,13.3,g/dL
+777,Hct,39.9,%
+777,MCH,32,pg
+777,MCHC,33,g/dL
+777,MCV,95,fL
+777,magnesium,1.5,mg/dL
+777,MPV,10.5,fL
+777,O2 Sat (%),91.9,%
+777,paCO2,32.2,mm Hg
+777,paO2,62.3,mm Hg
+777,phosphate,1.7,mg/dL
+777,platelets x 1000,192,K/mcL
+777,PT,52.5,sec
+777,PTT,48.5,sec
+777,RBC,4.22,M/mcL
+777,RDW,13.4,%
+777,total bilirubin,1.1,mg/dL
+777,total protein,4.9,g/dL
+777,-bands,4,%
+777,-lymphs,10,%
+777,-monos,2,%
+777,-polys,84,%
+783,Base Excess,-7.8,mEq/L
+783,Carboxyhemoglobin,0,%
+783,FiO2,50,%
+783,HCO3,16.9,mmol/L
+783,Methemoglobin,0,%
+783,O2 Sat (%),91.9,%
+783,paCO2,32.2,mm Hg
+783,paO2,62.3,mm Hg
+783,PEEP,5,cm H2O
+783,pH,7.338,
+783,Respiratory Rate,22,b/min
+783,TV,400,mls
+793,Base Excess,-9.2,mEq/L
+793,Carboxyhemoglobin,0.8,%
+793,FiO2,50,%
+793,HCO3,15.3,mmol/L
+793,Methemoglobin,0.2,%
+793,O2 Sat (%),94.7,%
+793,paCO2,29.7,mm Hg
+793,paO2,69.8,mm Hg
+793,PEEP,5,cm H2O
+793,pH,7.329,
+793,Respiratory Rate,22,b/min
+793,TV,400,mls
+2224,Base Excess,-16,mEq/L
+2224,Carboxyhemoglobin,0.1,%
+2224,FiO2,80,%
+2224,HCO3,11.3,mmol/L
+2224,Methemoglobin,0.4,%
+2224,O2 Sat (%),99.8,%
+2224,paCO2,32.1,mm Hg
+2224,paO2,350.7,mm Hg
+2224,PEEP,5,cm H2O
+2224,pH,7.166,
+2224,Respiratory Rate,22,b/min
+2224,TV,400,mls
+2536,Base Excess,-8.1,mEq/L
+2536,Carboxyhemoglobin,0.1,%
+2536,FiO2,100,%
+2536,HCO3,21.1,mmol/L
+2536,Methemoglobin,0.5,%
+2536,O2 Sat (%),99.8,%
+2536,paCO2,62.7,mm Hg
+2536,paO2,441.6,mm Hg
+2536,PEEP,5,cm H2O
+2536,pH,7.145,
+2536,Respiratory Rate,8,b/min
+2536,TV,400,mls
+2560,Base Excess,-0.2,mEq/L
+2560,Carboxyhemoglobin,0.5,%
+2560,FiO2,45,%
+2560,HCO3,27.9,mmol/L
+2560,Methemoglobin,0.5,%
+2560,O2 Sat (%),80,%
+2560,paCO2,66.2,mm Hg
+2560,paO2,50.7,mm Hg
+3697,Base Excess,-6.8,mEq/L
+3697,Carboxyhemoglobin,0.5,%
+3697,FiO2,100,%
+3697,HCO3,18.8,mmol/L
+3697,Methemoglobin,0.6,%
+3697,O2 Sat (%),99.7,%
+3697,paCO2,37.7,mm Hg
+3697,paO2,536.1,mm Hg
+3697,PEEP,5,cm H2O
+3697,pH,7.315,
+3697,Respiratory Rate,20,b/min
+3697,TV,400,mls
+812,Hgb,13.3,g/dL
+812,Hct,39.9,%
+812,MCH,32,pg
+812,MCHC,33,g/dL
+812,MCV,95,fL
+812,MPV,10.5,fL
+812,platelets x 1000,192,K/mcL
+812,RBC,4.22,M/mcL
+812,RDW,13.4,%
+812,WBC x 1000,38.9,K/mcL
+824,magnesium,1.5,mg/dL
+825,chloride,114,mmol/L
+825,creatinine,3.7,mg/dL
+825,glucose,169,mg/dL
+825,potassium,3.6,mmol/L
+825,total bilirubin,1.1,mg/dL
+825,total protein,4.9,g/dL
+825,-bands,4,%
+825,-lymphs,10,%
+825,-monos,2,%
+825,-polys,84,%
+828,-bands,4,%
+828,-lymphs,10,%
+828,-monos,2,%
+828,-polys,84,%
+856,ALT (SGPT),1309,Units/L
+856,AST (SGOT),2955,Units/L
+856,total bilirubin,1.1,mg/dL
+856,total protein,4.9,g/dL
+1317,lactate,11,mmol/L
+1430,lactate,11,mmol/L

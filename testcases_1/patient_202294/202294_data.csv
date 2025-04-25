@@ -1,0 +1,342 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-113,PTT,23.0,sec
+2938,RDW,14.8,%
+-113,-monos,3.0,%
+2938,MCH,29.2,pg
+-113,MCHC,31.4,g/dL
+4590,WBC x 1000,6.6,K/mcL
+-113,platelets x 1000,386.0,K/mcL
+2938,MCHC,30.9,g/dL
+-113,Hgb,12.4,g/dL
+4590,-monos,5.0,%
+5855,RDW,14.3,%
+2938,WBC x 1000,6.3,K/mcL
+-113,RDW,14.6,%
+4590,MCV,93.6,fL
+5855,platelets x 1000,285.0,K/mcL
+2938,-monos,5.0,%
+4590,calcium,8.2,mg/dL
+1513,-lymphs,10.0,%
+2938,Hct,26.5,%
+-113,RBC,4.18,M/mcL
+4590,ALT (SGPT),24.0,Units/L
+5855,MCHC,32.1,g/dL
+4590,-eos,7.0,%
+1513,MCHC,31.1,g/dL
+4590,bicarbonate,22.0,mmol/L
+-113,WBC x 1000,22.2,K/mcL
+4590,total protein,5.7,g/dL
+1513,platelets x 1000,237.0,K/mcL
+4590,-basos,0.0,%
+5855,MCV,90.9,fL
+4590,glucose,83.0,mg/dL
+5855,Hct,34.0,%
+228,sodium,139.0,mmol/L
+1513,RBC,2.94,M/mcL
+4590,creatinine,0.7,mg/dL
+5855,PTT,29.0,sec
+228,glucose,100.0,mg/dL
+1513,WBC x 1000,8.8,K/mcL
+448,LPM O2,4.0,L/min
+-113,Hct,39.5,%
+2938,-basos,0.0,%
+123,pH,7.24,
+4590,-lymphs,15.0,%
+-113,-polys,89.0,%
+2938,platelets x 1000,231.0,K/mcL
+5855,RBC,3.74,M/mcL
+1498,HCO3,20.0,mmol/L
+1513,RDW,14.8,%
+4590,MCV,93.6,fL
+-113,PT,10.5,sec
+448,paO2,71.0,mm Hg
+1513,MCH,29.6,pg
+-113,-basos,0.0,%
+1513,-polys,83.0,%
+-113,-eos,0.0,%
+2938,RBC,2.81,M/mcL
+5855,MCH,29.1,pg
+228,anion gap,11.0,
+1513,Hgb,8.7,g/dL
+4590,RBC,3.27,M/mcL
+448,paCO2,65.0,mm Hg
+-113,-lymphs,8.0,%
+-113,MCV,94.5,fL
+4590,potassium,3.9,mmol/L
+1513,-monos,4.0,%
+2938,-polys,73.0,%
+228,WBC x 1000,15.1,K/mcL
+2006,potassium,3.7,mmol/L
+228,-eos,0.0,%
+-113,PT - INR,1.0,ratio
+-119,paO2,63.0,mm Hg
+3452,pH,7.36,
+2938,glucose,74.0,mg/dL
+1513,alkaline phos.,52.0,Units/L
+-113,glucose,166.0,mg/dL
+228,MCH,29.7,pg
+228,MCHC,31.1,g/dL
+-113,-polys,89.0,%
+2938,Hgb,8.2,g/dL
+1513,total protein,5.3,g/dL
+-113,albumin,3.3,g/dL
+1513,direct bilirubin,0.1,mg/dL
+-113,total protein,7.4,g/dL
+1513,AST (SGOT),28.0,Units/L
+-113,AST (SGOT),68.0,Units/L
+-113,BNP,47.0,pg/mL
+2938,BUN,8.0,mg/dL
+1513,chloride,111.0,mmol/L
+618,paO2,65.0,mm Hg
+2938,bicarbonate,20.0,mmol/L
+-86,lactate,1.4,mmol/L
+1513,anion gap,12.0,
+1513,ALT (SGPT),25.0,Units/L
+228,chloride,104.0,mmol/L
+3593,HCO3,17.0,mmol/L
+228,sodium,135.0,mmol/L
+228,potassium,3.7,mmol/L
+-113,bicarbonate,29.0,mmol/L
+3028,paCO2,27.0,mm Hg
+228,total bilirubin,0.5,mg/dL
+1513,calcium,7.8,mg/dL
+2008,urinary specific gravity,,>
+2549,potassium,3.7,mmol/L
+1513,glucose,105.0,mg/dL
+228,platelets x 1000,293.0,K/mcL
+228,MCHC,31.1,g/dL
+228,-basos,0.0,%
+3452,paCO2,32.0,mm Hg
+3201,paO2,68.0,mm Hg
+2938,chloride,111.0,mmol/L
+3201,HCO3,18.0,mmol/L
+3452,Base Deficit,7.0,mEq/L
+3593,paCO2,34.0,mm Hg
+3028,HCO3,19.0,mmol/L
+228,-lymphs,5.0,%
+228,Hct,36.3,%
+3452,FiO2,30.0,%
+3201,paCO2,37.0,mm Hg
+2938,anion gap,14.0,
+2938,MCV,94.3,fL
+2358,paO2,80.0,mm Hg
+2358,Base Deficit,5.0,mEq/L
+-113,troponin - I,,ng/mL
+838,Base Deficit,4.0,mEq/L
+2358,paCO2,34.0,mm Hg
+228,-polys,92.0,%
+838,HCO3,22.0,mmol/L
+3028,FiO2,30.0,%
+3028,paO2,72.0,mm Hg
+3028,Base Deficit,4.0,mEq/L
+3593,FiO2,30.0,%
+3593,pH,7.33,
+2358,FiO2,30.0,%
+3201,FiO2,30.0,%
+3201,pH,7.31,
+3201,Base Deficit,7.0,mEq/L
+838,pH,7.28,
+838,paCO2,49.0,mm Hg
+838,FiO2,75.0,%
+2938,platelets x 1000,247.0,K/mcL
+448,FiO2,36.0,%
+448,Base Deficit,6.0,mEq/L
+448,pH,7.17,
+618,HCO3,23.0,mmol/L
+618,Base Deficit,7.0,mEq/L
+618,FiO2,35.0,%
+-119,Base Deficit,4.0,mEq/L
+-119,FiO2,21.0,%
+-119,pH,7.16,
+-119,paCO2,74.0,mm Hg
+228,Hgb,11.3,g/dL
+2006,potassium,3.7,mmol/L
+45353692,potassium,3.3,mmol/L
+43019492,potassium,3.7,mmol/L
+45353693,creatinine,1.0,mg/dL
+45353694,anion gap,12.0,
+45353695,sodium,143.0,mmol/L
+45353696,bicarbonate,23.0,mmol/L
+45353697,calcium,7.8,mg/dL
+45353698,glucose,105.0,mg/dL
+45353699,chloride,111.0,mmol/L
+45353700,BUN,20.0,mg/dL
+46429710,total bilirubin,0.5,mg/dL
+46429711,potassium,3.6,mmol/L
+46429712,creatinine,1.6,mg/dL
+46429713,alkaline phos.,80.0,Units/L
+46429714,anion gap,10.0,
+46429715,AST (SGOT),68.0,Units/L
+46429716,sodium,135.0,mmol/L
+46429717,albumin,3.3,g/dL
+46429718,bicarbonate,29.0,mmol/L
+46429719,total protein,7.4,g/dL
+46429720,calcium,9.2,mg/dL
+46429721,ALT (SGPT),42.0,Units/L
+46429722,BUN,19.0,mg/dL
+46429723,chloride,100.0,mmol/L
+46429724,sodium,135.0,mmol/L
+48053409,potassium,3.8,mmol/L
+48053410,anion gap,14.0,
+48053411,potassium,3.8,mmol/L
+48053412,sodium,141.0,mmol/L
+48053413,bicarbonate,20.0,mmol/L
+48053414,calcium,7.9,mg/dL
+48053415,glucose,74.0,mg/dL
+48053416,chloride,111.0,mmol/L
+48053417,BUN,8.0,mg/dL
+49336256,total bilirubin,0.3,mg/dL
+49336257,alkaline phos.,52.0,Units/L
+49336258,AST (SGOT),28.0,Units/L
+49336259,albumin,2.1,g/dL
+49336260,total protein,5.3,g/dL
+49336261,direct bilirubin,0.1,mg/dL
+49336262,ALT (SGPT),25.0,Units/L
+49481765,magnesium,1.8,mg/dL
+49489699,potassium,3.7,mmol/L
+49489700,creatinine,1.8,mg/dL
+49489701,anion gap,11.0,
+49489702,sodium,139.0,mmol/L
+49489703,bicarbonate,28.0,mmol/L
+49489704,calcium,9.0,mg/dL
+49489705,glucose,100.0,mg/dL
+49489706,chloride,104.0,mmol/L
+49489707,BUN,24.0,mg/dL
+50252732,PT,10.5,sec
+50252733,PT - INR,1.0,ratio
+52313745,-lymphs,15.0,%
+52313746,RBC,2.81,M/mcL
+52313747,-basos,0.0,%
+52313748,-polys,73.0,%
+52313749,Hct,26.5,%
+52313750,-eos,7.0,%
+52313751,MCV,94.3,fL
+52313752,Hgb,8.2,g/dL
+52313753,WBC x 1000,6.3,K/mcL
+52313754,RDW,14.8,%
+52313755,MCH,29.2,pg
+52313756,-monos,5.0,%
+52313757,MCHC,30.9,g/dL
+52313758,platelets x 1000,231.0,K/mcL
+53634818,-lymphs,15.0,%
+53634819,RBC,3.27,M/mcL
+53634820,-basos,0.0,%
+53634821,-polys,73.0,%
+53634822,Hct,30.6,%
+53634823,-eos,7.0,%
+53634824,MCV,93.6,fL
+53634825,Hgb,9.5,g/dL
+53634826,WBC x 1000,6.6,K/mcL
+53634827,RDW,14.5,%
+53634828,MCH,29.1,pg
+53634829,-monos,5.0,%
+53634830,MCHC,31.0,g/dL
+53634831,platelets x 1000,247.0,K/mcL
+54695228,-lymphs,5.0,%
+54695229,RBC,3.81,M/mcL
+54695230,-basos,0.0,%
+54695231,-polys,92.0,%
+54695232,Hct,36.3,%
+54695233,-eos,0.0,%
+54695234,MCV,95.3,fL
+54695235,Hgb,11.3,g/dL
+54695236,WBC x 1000,15.1,K/mcL
+54695237,RDW,14.9,%
+54695238,MCH,29.7,pg
+54695239,-monos,3.0,%
+54695240,MCHC,31.1,g/dL
+54695241,platelets x 1000,293.0,K/mcL
+55181600,-lymphs,8.0,%
+55181601,RBC,4.18,M/mcL
+55181602,-basos,0.0,%
+55181603,-polys,89.0,%
+55181604,Hct,39.5,%
+55181605,-eos,0.0,%
+55181606,MCV,94.5,fL
+55181607,Hgb,12.4,g/dL
+55181608,WBC x 1000,22.2,K/mcL
+55181609,RDW,14.6,%
+55181610,MCH,29.7,pg
+55181611,-monos,3.0,%
+55181612,MCHC,31.4,g/dL
+55181613,platelets x 1000,386.0,K/mcL
+55205094,-lymphs,10.0,%
+55205095,RBC,2.94,M/mcL
+55205096,-basos,0.0,%
+55205097,-polys,83.0,%
+55205098,Hct,28.0,%
+55205099,-eos,3.0,%
+55205100,MCV,95.2,fL
+55205101,Hgb,8.7,g/dL
+55205102,WBC x 1000,8.8,K/mcL
+55205103,RDW,14.8,%
+55205104,MCH,29.6,pg
+55205105,-monos,4.0,%
+55205106,MCHC,31.1,g/dL
+55205107,platelets x 1000,237.0,K/mcL
+55739403,PTT,32.0,sec
+55790638,PTT,29.0,sec
+55868602,WBC x 1000,6.2,K/mcL
+55868603,RBC,3.74,M/mcL
+55868604,Hgb,10.9,g/dL
+55868605,Hct,34.0,%
+55868606,MCV,90.9,fL
+55868607,MCH,29.1,pg
+55868608,MCHC,32.1,g/dL
+55868609,RDW,14.3,%
+55868610,platelets x 1000,285.0,K/mcL
+57865179,BNP,47.0,pg/mL
+57988489,urinary specific gravity,,>
+66774117,HCO3,18.0,mmol/L
+66774118,Base Deficit,7.0,mEq/L
+66774119,FiO2,30.0,%
+66774120,paO2,68.0,mm Hg
+66774121,paCO2,37.0,mm Hg
+66774122,pH,7.31,
+66839640,HCO3,24.0,mmol/L
+66839641,Base Deficit,4.0,mEq/L
+66839642,FiO2,70.0,%
+66839643,paO2,200.0,mm Hg
+66839644,paCO2,59.0,mm Hg
+66910297,HCO3,19.0,mmol/L
+66910298,Base Deficit,4.0,mEq/L
+66910299,FiO2,30.0,%
+66910300,paO2,72.0,mm Hg
+66910301,paCO2,27.0,mm Hg
+66910302,pH,7.45,
+66912877,LPM O2,4.0,L/min
+66912878,Base Deficit,4.0,mEq/L
+66912879,FiO2,40.0,%
+66912880,paO2,89.0,mm Hg
+66912881,paCO2,34.0,mm Hg
+66912882,pH,7.4,
+67129362,HCO3,17.0,mmol/L
+67129363,Base Deficit,7.0,mEq/L
+67129364,paO2,73.0,mm Hg
+67129365,paCO2,34.0,mm Hg
+67129366,pH,7.33,
+67129367,FiO2,30.0,%
+67133606,HCO3,23.0,mmol/L
+67133607,Base Deficit,6.0,mEq/L
+67133608,LPM O2,4.0,L/min
+67133609,paO2,71.0,mm Hg
+67133610,paCO2,65.0,mm Hg
+67133611,pH,7.17,
+67133612,FiO2,36.0,%
+67180589,HCO3,19.0,mmol/L
+67180590,Base Deficit,5.0,mEq/L
+67180591,paO2,80.0,mm Hg
+67180592,paCO2,34.0,mm Hg
+67180593,pH,7.36,
+67180594,FiO2,30.0,%
+67291694,HCO3,22.0,mmol/L
+67291695,Base Deficit,4.0,mEq/L
+67291696,FiO2,75.0,%
+67291697,paO2,163.0,mm Hg
+67291698,paCO2,49.0,mm Hg
+67291699,pH,7.28,
+67641586,HCO3,23.0,mmol/L
+67641587,Base Deficit,7.0,mEq/L
+67641588,FiO2,35.0,%
+67641589,paO2,65.0,mm Hg
+67641590,paCO2,73.0,

@@ -1,0 +1,32 @@
+Labname,Initial Value,Initial Unit,Final Value,Final Unit,TimeOffset
+glucose,150,mg/dL,99.0,mg/dL,1286.0
+sodium,136,mmol/L,137.0,mmol/L,1286.0
+potassium,3.4,mmol/L,4.2,mmol/L,1286.0
+chloride,99,mmol/L,101.0,mmol/L,1286.0
+bicarbonate,28,mmol/L,30.0,mmol/L,1286.0
+AST (SGOT),17,Units/L,14.0,Units/L,1286.0
+ALT (SGPT),46,Units/L,38.0,Units/L,1286.0
+creatinine,0.9,mg/dL,1.0,mg/dL,1286.0
+BUN,16,mg/dL,11.0,mg/dL,1286.0
+total bilirubin,0.5,mg/dL,0.4,mg/dL,1286.0
+alkaline phos.,105,Units/L,108.0,Units/L,1286.0
+total protein,8.2,g/dL,8.2,g/dL,1286.0
+calcium,9.4,mg/dL,9.2,mg/dL,1286.0
+-monos,8,%,,,
+WBC x 1000,5.9,K/mcL,,,
+MCH,30.8,pg,,,
+RDW,12,%,,,
+platelets x 1000,237,K/mcL,,,
+Hct,42.4,%,,,
+-basos,0,%,,,
+-polys,70,%,,,
+-lymphs,21,%,,,
+-eos,1,%,,,
+MCV,84.8,fL,,,
+RBC,5,M/mcL,,,
+anion gap,12,mmol/L,10.0,mmol/L,1286.0
+albumin,4.6,g/dL,4.7,g/dL,1286.0
+Acetaminophen,<2,mcg/mL,,,
+salicylate,<1.7,mg/dL,,,
+CPK,191,Units/L,202.0,Units/L,1286.0
+urinary specific gravity,1.010,,,,

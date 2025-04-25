@@ -1,0 +1,12 @@
+Treatment Category,Treatment String,Active Upon Discharge
+Cardiovascular,narcotic analgesic,True
+normal saline administration,True,
+acetaminophen,True,
+oral analgesics,True,
+Pulmonary,oxygen therapy (< 40%)|nasal cannula,True
+chest x-ray,True,
+non-invasive ventilation|face mask,True,
+Pulmonary/CCM consultation,True,
+Gastrointestinal,ondansetron,True
+oral feeds,True,
+Endocrine,dexamethasone,True

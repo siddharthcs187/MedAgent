@@ -1,0 +1,59 @@
+labname,labresult,labresultoffset,labmeasurenamesystem
+anion gap,13,-139,
+creatinine,1.1,-139,mg/dL
+total protein,6,514,g/dL
+potassium,4.3,-139,mmol/L
+direct bilirubin,0,514,mg/dL
+sodium,139,-139,mmol/L
+albumin,3.8,514,g/dL
+bicarbonate,21,-139,mmol/L
+potassium,4.2,1059,mmol/L
+total protein,6,514,g/dL
+direct bilirubin,0,514,mg/dL
+sodium,138,1059,mmol/L
+albumin,3.8,514,g/dL
+bicarbonate,23,1059,mmol/L
+calcium,9.6,-139,mg/dL
+Hct,41.2,1059,%
+chloride,104,1059,mmol/L
+MCV,91.8,1059,fL
+alkaline phos.,71,514,Units/L
+MCHC,34.5,1059,g/dL
+glucose,99,1059,mg/dL
+MCH,31.6,1059,pg
+-monos,7.6,1059,%
+BUN,19,-139,mg/dL
+-eos,3.7,1059,%
+calcium,9.1,1059,mg/dL
+-polys,49.3,1059,%
+troponin - T,<0.01,514,ng/mL
+-lymphs,38.8,1059,%
+WBC x 1000,7.9,1059,K/mcL
+anion gap,11,1059,
+platelets x 1000,243,1059,K/mcL
+RDW,13,1059,%
+AST (SGOT),25,514,Units/L
+total bilirubin,0.9,514,mg/dL
+Hgb,14.2,1059,g/dL
+BUN,19,1059,mg/dL
+-polys,54.4,-139,%
+Hct,42.6,-139,%
+-eos,3.5,-139,%
+MCV,89.7,-139,fL
+-lymphs,33.1,-139,%
+platelets x 1000,276,-139,K/mcL
+MCH,31.4,-139,pg
+RDW,13,-139,%
+-monos,8.5,-139,%
+-basos,0.3,-139,%
+RBC,4.49,1059,M/mcL
+WBC x 1000,10.2,-139,K/mcL
+PT,9.8,-139,sec
+PT - INR,0.9,-139,ratio
+RBC,4.75,-139,M/mcL
+troponin - T,<0.01,177,ng/mL
+troponin - T,<0.01,-139,ng/mL
+troponin - T,<0.01,-139,ng/mL
+troponin - T,<0.01,911,ng/mL
+magnesium,2.1,-139,mg/dL
+-basos,0.5,1059,% 

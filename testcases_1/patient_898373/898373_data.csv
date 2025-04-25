@@ -1,0 +1,5 @@
+labname,labresult,units,time_since_unit_admission_minutes
+Potassium,4.6,mmol/L,372
+PT,18.2,sec,1377
+PT-INR,1.5,ratio,1377
+PTT,39.0,sec,1377

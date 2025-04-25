@@ -1,0 +1,96 @@
+Lab Test Name,Time Point (Minutes),Result Value,Units
+anion gap,2782,5.0,
+sodium,2782,137.0,mmol/L
+AST (SGOT),2782,5.0,IU/L
+potassium,2782,3.8,mmol/L
+total bilirubin,2782,0.3,mg/dL
+calcium,2782,8.3,mg/dL
+BUN,2782,23.0,mg/dL
+chloride,2782,105.0,mmol/L
+total protein,2782,7.0,g/dL
+ALT (SGPT),2782,13.0,IU/L
+-polys,2782,50.0,%
+-eos,2782,10.0,%
+-lymphs,2782,28.0,%
+-monos,2782,11.0,%
+-basos,2782,1.0,%
+Hct,2782,36.3,%
+Hgb,2782,12.3,g/dL
+MCV,2782,89.0,fL
+MCH,2782,30.2,pg
+MCHC,2782,33.9,g/dL
+platelets x 1000,2782,251.0,K/MM3
+WBC x 1000,2782,8.5,K/MM3
+RBC,2782,4.07,M/MM3
+anion gap,5954,6.0,
+sodium,5954,138.0,mmol/L
+AST (SGOT),5954,8.0,IU/L
+potassium,5954,4.0,mmol/L
+total bilirubin,5954,0.5,mg/dL
+calcium,5954,8.7,mg/dL
+BUN,5954,28.0,mg/dL
+chloride,5954,105.0,mmol/L
+total protein,5954,7.5,g/dL
+ALT (SGPT),5954,14.0,IU/L
+-polys,5954,54.0,%
+-eos,5954,11.0,%
+-lymphs,5954,26.0,%
+-monos,5954,9.0,%
+-basos,5954,1.0,%
+Hct,5954,36.3,%
+Hgb,5954,12.3,g/dL
+MCV,5954,90.0,fL
+MCH,5954,30.5,pg
+MCHC,5954,33.9,g/dL
+platelets x 1000,5954,292.0,K/MM3
+WBC x 1000,5954,8.4,K/MM3
+RBC,5954,4.03,M/MM3
+glucose,1469,131.0,mg/dL
+glucose,5954,123.0,mg/dL
+creatinine,1469,0.84,mg/dL
+creatinine,5954,0.97,mg/dL
+chloride,1469,106.0,mmol/L
+chloride,4225,106.0,mmol/L
+calcium,1469,8.3,mg/dL
+calcium,4225,8.2,mg/dL
+albumin,1469,2.4,g/dL
+albumin,5954,2.4,g/dL
+alkaline phos.,1469,75.0,IU/L
+alkaline phos.,5954,72.0,IU/L
+ALT (SGPT),1469,13.0,IU/L
+ALT (SGPT),4225,11.0,IU/L
+-polys,1469,62.0,%
+-polys,4225,57.0,%
+-eos,1469,6.0,%
+-eos,4225,11.0,%
+-lymphs,1469,22.0,%
+-lymphs,4225,23.0,%
+-monos,1469,10.0,%
+-monos,4225,8.0,%
+-basos,1469,0.0,%
+-basos,4225,0.0,%
+Hct,1469,36.3,%
+Hct,4225,35.0,%
+Hgb,1469,12.6,g/dL
+Hgb,4225,12.1,g/dL
+MCV,1469,88.0,fL
+MCV,4225,89.0,fL
+MCH,1469,30.6,pg
+MCH,4225,30.6,pg
+MCHC,1469,34.7,g/dL
+MCHC,4225,34.6,g/dL
+platelets x 1000,1469,262.0,K/MM3
+platelets x 1000,4225,257.0,K/MM3
+WBC x 1000,1469,9.5,K/MM3
+WBC x 1000,4225,9.3,K/MM3
+RBC,1469,4.12,M/MM3
+RBC,4225,3.95,M/MM3
+BUN,4225,22.0,mg/dL
+total protein,4225,6.9,g/dL
+sodium,1469,137.0,mmol/L
+sodium,4225,138.0,mmol/L
+potassium,1469,4.1,mmol/L
+potassium,4225,4.1,mmol/L
+total bilirubin,4225,0.3,mg/dL
+albumin,4225,2.2,g/dL
+anion gap,4225,7.0,

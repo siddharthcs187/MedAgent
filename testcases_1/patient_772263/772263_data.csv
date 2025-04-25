@@ -1,0 +1,19 @@
+Lab Name,Result,Unit,Time Offset (minutes)
+RBC,3.26,M/mcL,1031
+Hgb,9.5,g/dL,1031
+Hct,29.0,%,1031
+MCV,89.0,fL,1031
+MCH,29.1,pg,1031
+MCHC,32.8,g/dL,1031
+WBC x 1000,7.2,K/mcL,1031
+Platelets x 1000,190.0,K/mcL,1031
+-monos,8.0,%,1031
+-lymphs,23.0,%,1031
+-eos,2.0,%,1031
+-basos,0.0,%,1031
+-polys,66.0,%,1031
+Bedside Glucose,162.0,mg/dL,169
+Bedside Glucose,145.0,mg/dL,752
+Bedside Glucose,192.0,mg/dL,454
+Bedside Glucose,115.0,mg/dL,997
+Bedside Glucose,154.0,mg/dL,1369

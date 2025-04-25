@@ -1,0 +1,6 @@
+Time (minutes from admit),Acetaminophen (mcg/mL),ALT (Units/L),AST (Units/L),Hemoglobin (g/dL),Hematocrit (%),Platelets (K/mcL),WBC (K/mcL),Creatinine (mg/dL),BUN (mg/dL),Sodium (mmol/L),Potassium (mmol/L),Total Bilirubin (mg/dL),Anion Gap (mmol/L)
+-197,,28, ,13.3,38.9,225,5.3,0.9,11,138,3.4,0.3,13
+-17,81.0,, , , , , , , , , , ,
+221,27.0,, , , , , , , , , , ,
+627,,29,19,12.3,36.4,222,7.1,0.9,10,140,4,0.3,10
+-197,, , , , , , , , , , , , 

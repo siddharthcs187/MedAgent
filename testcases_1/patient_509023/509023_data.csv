@@ -1,0 +1,4 @@
+Time_Minutes,Hemoglobin_g/dL,Hematocrit_%,Platelets_K/mcL,Creatinine_mg/dL,BUN_mg/dL,Glucose_mg/dL,Sodium_mmol/L,Potassium_mmol/L,Chloride_mmol/L,Anion_Gap,Bicarbonate_mmol/L,Calcium_mg/dL,Magnesium_mg/dL,pH,PaO2_mmHg,PaCO2_mmHg,FiO2_%,Methemoglobin_%,Carboxyhemoglobin_%,Base_Excess_mEq/L
+-270,8.2,26.3,382,1.16,38,148,140,3.3,109,8,23,8.6,2.1,,,,,,,
+1089,8.3,26.7,267,1.12,33,150,145,2.5,112,12,21,8.1,,,,,,,,
+2535,9.4,31.4,231,1.53,39,151,152,3.1,119,9,24,8.4,7.489,58.2,27.3,34.0,0.5,0.7,-2.4,

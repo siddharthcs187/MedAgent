@@ -1,0 +1,90 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+potassium,3.5,mmol/L,2155
+sodium,142.0,mmol/L,2155
+albumin,3.5,g/dL,5015
+chloride,109.0,mmol/L,2155
+ALT (SGPT),40.0,Units/L,5015
+bicarbonate,22.0,mmol/L,2155
+creatinine,1.8,mg/dL,5015
+calcium,8.7,mg/dL,5015
+anion gap,11.0,,2155
+glucose,105.0,mg/dL,2155
+total protein,6.1,g/dL,5015
+chloride,106.0,mmol/L,5015
+AST (SGOT),24.0,Units/L,5015
+WBC x 1000,5.3,K/mcL,900
+RBC,3.59,M/mcL,900
+calcium,8.3,mg/dL,2155
+Hgb,11.7,g/dL,900
+MCV,97.0,fL,900
+MCHC,34.0,g/dL,900
+bicarbonate,23.0,mmol/L,5015
+-monos,11.0,%,900
+BUN,16.0,mg/dL,2155
+-basos,0.0,%,900
+platelets x 1000,209.0,K/mcL,900
+-lymphs,18.0,%,900
+RDW,16.0,%,900
+potassium,3.4,mmol/L,5015
+sodium,144.0,mmol/L,5015
+-polys,68.0,%,900
+anion gap,15.0,,5015
+WBC x 1000,5.4,K/mcL,-475
+RBC,3.51,M/mcL,-475
+Hgb,11.2,g/dL,-475
+MCV,97.0,fL,-475
+MCHC,33.0,g/dL,-475
+-monos,11.0,%,-475
+-eos,2.0,%,-475
+-basos,0.0,%,-475
+-lymphs,18.0,%,-475
+platelets x 1000,216.0,K/mcL,-475
+-polys,69.0,%,-475
+RDW,16.3,%,-475
+WBC's in urine,6.0,,-225
+MPV,10.1,fL,900
+MPV,10.1,fL,2155
+MPV,10.2,fL,-475
+-eos,3.0,%,2155
+-basos,0.0,%,2155
+-lymphs,17.0,%,2155
+-monos,10.0,%,2155
+-polys,70.0,%,2155
+WBC x 1000,5.0,K/mcL,2155
+RBC,3.61,M/mcL,2155
+Hgb,11.5,g/dL,2155
+Hct,34.8,%,2155
+MCV,96.0,fL,2155
+MCHC,33.0,g/dL,2155
+RDW,15.7,%,2155
+platelets x 1000,203.0,K/mcL,2155
+BUN,19.0,mg/dL,5015
+glucose,103.0,mg/dL,5015
+magnesium,1.7,mg/dL,5015
+alkaline phos.,263.0,Units/L,5015
+total bilirubin,1.0,mg/dL,5015
+PTT,30.5,sec,-475
+T4,,mcg/dL,-475
+T3,65.0,ng/dL,-475
+PT,14.7,sec,-475
+PT - INR,1.1,ratio,-475
+troponin - I,0.3,ng/mL,-475
+phosphate,3.9,mg/dL,-475
+chloride,112.0,mmol/L,-475
+sodium,145.0,mmol/L,-475
+magnesium,2.0,mg/dL,-475
+anion gap,10.0,,-475
+glucose,92.0,mg/dL,-475
+bicarbonate,23.0,mmol/L,-475
+TSH,3.1,mcU/ml,-475
+creatinine,1.6,mg/dL,-475
+potassium,3.9,mmol/L,-475
+bedside glucose,78.0,mg/dL,-10
+WBC's in urine,6.0,/HPF,-225
+urinary specific gravity,1.023,,-225
+PTT,44.0,sec,344
+CPK,65.0,Units/L,611
+troponin - I,0.22,ng/mL,611
+troponin - I,0.25,ng/mL,65
+CPK-MB,2.3,ng/mL,611
+PTT,114.4,sec,832

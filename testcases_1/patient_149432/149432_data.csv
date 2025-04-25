@@ -1,0 +1,20 @@
+labid,patientunitstayid,labresultoffset,labtypeid,labname,labresult,labresulttext,labmeasurenamesystem,labmeasurenameinterface,labresultrevisedoffset
+45300595,149432,127,1,sodium,143.0,143.0,mmol/L,mmol/L,169
+55505255,149432,127,3,Hgb,12.7,12.7,g/dL,g/dL,158
+45300601,149432,127,1,BUN,14.0,14.0,mg/dL,mg/dL,169
+55505261,149432,127,3,platelets x 1000,277.0,277.0,K/mcL,K/mcL,158
+45300599,149432,127,1,anion gap,15.0,15.0,,mmol/L,169
+55505260,149432,127,3,RDW,12.6,12.6,%,%,158
+45300598,149432,127,1,bicarbonate,24.0,24.0,mmol/L,mmol/L,169
+55505259,149432,127,3,MCHC,33.4,33.4,g/dL,g/dL,158
+45300603,149432,127,1,calcium,7.8,7.8,mg/dL,mg/dL,169
+55505257,149432,127,3,MCV,92.9,92.9,fL,fl,158
+45300597,149432,127,1,chloride,108.0,108.0,mmol/L,mmol/L,169
+55505258,149432,127,3,MCH,31.1,31.1,pg,pg,158
+45300600,149432,127,1,glucose,99.0,99.0,mg/dL,mg/dL,169
+55505253,149432,127,3,WBC x 1000,7.2,7.2,K/mcL,K/mcL,158
+45300602,149432,127,1,creatinine,0.6,0.6,mg/dL,mg/dL,169
+55505254,149432,127,3,RBC,4.09,4.09,M/mcL,mil/mcL,158
+45300596,149432,127,1,potassium,3.6,3.6,mmol/L,mmol/L,169
+55505256,149432,127,3,Hct,38.0,38.0,%,%,158
+43444805,149432,127,1,magnesium,1.8,1.8,mg/dL,mg/dL,169

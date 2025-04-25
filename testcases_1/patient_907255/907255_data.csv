@@ -1,0 +1,61 @@
+LabResultOffset,LabName,LabResult,LabMeasureNameInterface
+965,anion gap,6.0,
+965,alkaline phos.,53.0,IU/L
+965,AST (SGOT),20.0,IU/L
+965,sodium,144.0,mmol/L
+965,potassium,3.8,mmol/L
+965,platelets x 1000,252.0,K/MM3
+965,creatinine,0.61,mg/dL
+965,MCHC,33.3,g/dL
+965,BUN,8.0,mg/dL
+965,RBC,4.61,M/MM3
+965,WBC x 1000,5.5,K/MM3
+965,total bilirubin,0.8,mg/dL
+965,RDW,13.1,% 
+965,glucose,100.0,mg/dL
+965,albumin,3.3,g/dL
+965,MCH,28.9,pg
+965,chloride,112.0,mmol/L
+965,MPV,10.5,fL
+965,-lymphs,30.0,% 
+965,-polys,58.0,% 
+965,-basos,1.0,% 
+965,-monos,9.0,% 
+965,total protein,6.3,g/dL
+965,calcium,9.5,mg/dL
+965,ALT (SGPT),45.0,IU/L
+2450,platelets x 1000,235.0,K/MM3
+2450,MCHC,33.9,g/dL
+2450,WBC x 1000,6.6,K/MM3
+2450,MCH,28.9,pg
+2450,MCV,85.0,fL
+2450,chloride,108.0,mmol/L
+2450,BUN,12.0,mg/dL
+2450,potassium,3.6,mmol/L
+2450,creatinine,0.67,mg/dL
+2450,sodium,142.0,mmol/L
+2450,MPV,10.3,fL
+2450,Hgb,13.6,g/dL
+2450,Hct,40.1,% 
+2450,glucose,115.0,mg/dL
+2450,RBC,4.7,M/MM3
+2450,RDW,13.1,% 
+2450,calcium,9.3,mg/dL
+2450,bicarbonate,26.0,mmol/L
+3881,creatinine,0.64,mg/dL
+3881,anion gap,7.0,
+3881,sodium,142.0,mmol/L
+3881,BUN,14.0,mg/dL
+3881,chloride,109.0,mmol/L
+3881,potassium,3.8,mmol/L
+3881,calcium,9.3,mg/dL
+3881,glucose,112.0,mg/dL
+3881,bicarbonate,26.0,mmol/L
+5305,chloride,107.0,mmol/L
+5305,glucose,105.0,mg/dL
+5305,anion gap,4.0,
+5305,potassium,3.9,mmol/L
+5305,creatinine,0.67,mg/dL
+5305,BUN,9.0,mg/dL
+5305,calcium,9.8,mg/dL
+5305,bicarbonate,29.0,mmol/L

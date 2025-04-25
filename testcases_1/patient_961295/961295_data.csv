@@ -1,0 +1,7 @@
+TimeOffset,Glucose (mg/dL),HDL (mg/dL),Calcium (mg/dL),Magnesium (mg/dL),Total Bilirubin (mg/dL),Chloride (mmol/L),Total Protein (g/dL),Troponin-I (ng/mL),Creatinine (mg/dL),AST (SGOT) (Units/L),Alkaline Phosphatase (Units/L),Potassium (mmol/L),Sodium (mmol/L),BUN (mg/dL),Triglycerides (mg/dL),Albumin (g/dL),Anion Gap,MCH (pg),MCV (fL),MCHC (g/dL),Hgb (g/dL),Hct (%),RBC (M/mcL),WBC x 1000 (K/mcL),Platelets x 1000 (K/mcL),RDW (%),-monos (%),-eos (%),-basos (%),-lymphs (%),-polys (%),PT (sec),PTT (sec),PT-INR (ratio)
+-150,157.0,,8.7,,,103.0,,0.171,0.82,,,3.4,143.0,18.0,,,8.0,31.3,94.3,33.2,14.0,42.2,,6.9,224.0,13.2,7.9,2.9,0.9,48.9,39.4,10.7,,0.9
+255,,,,,,,,75.3,,,,,,,,,,,,,,,,,,,,,,,,,,
+657,,,,,,,,70.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+1245,109.0,71.0,8.6,1.7,1.1,108.0,6.4,32.0,0.6,155.0,73.0,3.9,141.0,10.0,71.0,3.2,8.0,31.6,94.9,33.3,13.2,39.8,4.19,7.1,207.0,13.3,9.9,1.5,0.4,30.8,57.4,11.8,,1.0
+2715,106.0,,8.6,,,109.0,,,0.64,,,4.2,142.0,16.0,,,6.0,31.2,93.6,33.3,12.6,37.9,4.05,6.0,188.0,13.4,11.5,3.5,0.7,31.5,52.8,12.2,,1.1
+4185,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.0,,1.3,

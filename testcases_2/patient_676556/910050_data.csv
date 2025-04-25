@@ -1,0 +1,13 @@
+Lab Name,Result Value,Unit,Time Offset (minutes)
+WBC x 1000,11.4,K/mcL,1052
+Platelets x 1000,255.0,K/mcL,1052
+Hct,41.2,%,1052
+Hgb,14.5,g/dL,1052
+MCV,87.0,fL,1052
+RBC,4.76,M/mcL,1052
+MPV,10.2,fL,1052
+RDW,12.7,%,1052
+MCH,30.5,pg,1052
+MCHC,35.2,g/dL,1052
+Bedside glucose,106.0,mg/dL,463
+Potassium,4.0,mmol/L,212

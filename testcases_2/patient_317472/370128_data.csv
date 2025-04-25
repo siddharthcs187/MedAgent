@@ -1,0 +1,38 @@
+LabName,LabResult,LabUnits,TimeOffsetMinutes
+pH,7.44,,178
+Respiratory Rate,24.0,/min,178
+glucose,299.0,mg/dL,732
+O2 Sat (%),92.0,%,178
+BUN,27.0,mg/dL,732
+sodium,129.0,mEq/L,732
+creatinine,1.6,mg/dL,732
+paCO2,29.0,mm Hg,178
+potassium,3.9,mEq/L,732
+HCO3,19.9,mmol/L,178
+calcium,8.1,mg/dL,732
+WBC x 1000,11.1,K/mcL,732
+platelets x 1000,188.0,K/mcL,732
+Hgb,12.8,g/dL,732
+Hct,37.1,%,732
+FiO2,50.0,%,178
+FiO2,50.0,%,34
+chloride,93.0,mEq/L,732
+paO2,57.0,mm Hg,178
+Total CO2,20.8,,178
+HR Current,128.0,bpm,34
+HR Lowest,128.0,bpm,34
+HR Highest,128.0,bpm,34
+BP (systolic) Current,108.0,mmHg,34
+BP (systolic) Lowest,108.0,mmHg,34
+BP (systolic) Highest,108.0,mmHg,34
+BP (diastolic) Current,72.0,mmHg,34
+BP (diastolic) Lowest,72.0,mmHg,34
+BP (diastolic) Highest,72.0,mmHg,34
+Resp Current,38.0,breaths/min,34
+Resp Lowest,38.0,breaths/min,34
+Resp Highest,38.0,breaths/min,34
+O2 Sat% Current,96.0,%,34
+O2 Sat% Lowest,96.0,%,34
+O2 Sat% Highest,96.0,%,34
+Admission Weight,100.0,kg,34
+FiO2%,50.0,%,34

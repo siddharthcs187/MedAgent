@@ -1,0 +1,16 @@
+TimeOffsetMinutes,Potassium_mmol/L,AnionGap_mmol/L,Sodium_mmol/L,Bicarbonate_mmol/L,Chloride_mmol/L,BUN_mg/dL,Glucose_mg/dL,Creatinine_mg/dL,Calcium_mg/dL
+1014,4.8,14,137,19,109,29,286,1.62,6.9
+2505,4.6,15,137,19,108,24,298,1.64,6.8
+TimeOffsetMinutes,WBC_K/mcL,RBC_M/mcL,Hgb_g/dL,Hct_%,MCV_fL,MCH_pg,MCHC_g/dL,RDW_%,Platelets_K/mcL
+2505,3.8,2.72,8.4,25.9,95.2,30.9,32.4,14.2,114
+TimeOffsetMinutes,BedsideGlucose_mg/dL,,,,,,,,
+313,295,,,,,,,,
+1116,277,,,,,,,,
+1465,240,,,,,,,,
+1706,215,,,,,,,,
+1967,205,,,,,,,,
+2564,269,,,,,,,,
+2878,186,,,,,,,,
+3159,107,,,,,,,,
+3390,93,,,,,,,,
+553,231,,,,,,,,

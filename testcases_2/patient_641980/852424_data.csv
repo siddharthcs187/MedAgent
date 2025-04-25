@@ -1,0 +1,99 @@
+Lab_Test_Name,Time_Since_Admission(minutes),Lab_Result,Units
+potassium,2023,4.0,mmol/L
+total bilirubin,2023,2.1,mg/dL
+creatinine,2023,1.52,mg/dL
+anion gap,2023,8.0,
+bicarbonate,4953,28.0,mmol/L
+alkaline phos.,2023,192.0,Units/L
+BUN,4953,20.0,mg/dL
+WBC x 1000,4953,7.9,K/mcL
+glucose,4953,142.0,mg/dL
+glucose,2023,196.0,mg/dL
+anion gap,4953,8.0,
+RBC,4953,3.55,M/mcL
+total protein,4953,5.9,g/dL
+AST (SGOT),2023,578.0,Units/L
+creatinine,4953,1.28,mg/dL
+MCHC,4953,34.2,g/dL
+sodium,4953,128.0,mmol/L
+sodium,2023,127.0,mmol/L
+RBC,3479,3.95,M/mcL
+RDW,4953,18.7,%
+albumin,4953,3.7,g/dL
+WBC x 1000,2023,11.4,K/mcL
+albumin,2023,3.3,g/dL
+WBC x 1000,546,17.4,K/mcL
+Hct,3479,35.1,%
+RDW,2023,18.2,%
+platelets x 1000,4953,76.0,K/mcL
+AST (SGOT),546,1447.0,Units/L
+bedside glucose,156,224.0,mg/dL
+RDW,546,17.4,%
+bicarbonate,2023,27.0,mmol/L
+sodium,546,124.0,mmol/L
+bedside glucose,2191,229.0,mg/dL
+MCH,2023,30.0,pg
+Hct,546,35.3,%
+Hgb,4953,10.8,g/dL
+MCV,2023,88.0,fL
+chloride,546,88.0,mmol/L
+ALT (SGPT),546,1359.0,Units/L
+phosphate,546,2.4,mg/dL
+bedside glucose,3283,175.0,mg/dL
+bedside glucose,2731,231.0,mg/dL
+bedside glucose,2987,329.0,mg/dL
+bedside glucose,2510,268.0,mg/dL
+MCV,546,87.0,fL
+bedside glucose,795,100.0,mg/dL
+bedside glucose,1255,76.0,mg/dL
+bedside glucose,1277,76.0,mg/dL
+bedside glucose,4453,253.0,mg/dL
+bedside glucose,4774,154.0,mg/dL
+bedside glucose,446,128.0,mg/dL
+bedside glucose,3959,167.0,mg/dL
+bedside glucose,3639,217.0,mg/dL
+bedside glucose,5124,174.0,mg/dL
+bedside glucose,5333,207.0,mg/dL
+MCH,546,30.0,pg
+MCH,4953,30.4,pg
+platelets x 1000,2023,115.0,K/mcL
+Hgb,2023,12.3,g/dL
+MCV,3479,89.0,fL
+MCV,4953,89.0,fL
+Hgb,546,12.2,g/dL
+Hgb,3479,11.5,g/dL
+platelets x 1000,3479,87.0,K/mcL
+potassium,546,3.8,mmol/L
+calcium,2023,8.1,mg/dL
+BUN,2023,40.0,mg/dL
+ALT (SGPT),2023,947.0,Units/L
+BUN,546,48.0,mg/dL
+calcium,546,7.8,mg/dL
+total protein,546,5.9,g/dL
+chloride,2023,92.0,mmol/L
+magnesium,2023,2.3,mg/dL
+alkaline phos.,546,168.0,Units/L
+total bilirubin,546,1.7,mg/dL
+chloride,4953,92.0,mmol/L
+calcium,4953,8.3,mg/dL
+ALT (SGPT),4953,469.0,Units/L
+magnesium,546,2.2,mg/dL
+magnesium,4953,2.0,mg/dL
+AST (SGOT),3479,240.0,Units/L
+total protein,3479,5.4,g/dL
+albumin,546,3.2,g/dL
+potassium,3479,3.6,mmol/L
+albumin,3479,3.0,g/dL
+sodium,3479,131.0,mmol/L
+chloride,3479,94.0,mmol/L
+total bilirubin,3479,2.5,mg/dL
+BUN,3479,27.0,mg/dL
+MPV,2023,10.8,fL
+MPV,546,10.4,fL
+MPV,4953,10.7,fL
+MPV,3479,9.8,fL
+RDW,3479,18.2,%
+MCHC,546,34.6,g/dL
+MCHC,2023,34.3,g/dL
+RBC,2023,4.1,M/mcL
+RBC,546,4.06,M/mcL

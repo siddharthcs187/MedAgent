@@ -1,0 +1,24 @@
+Lab Name,Result,Units
+Glucose,100.0,mg/dL
+Creatinine,0.9,mg/dL
+Albumin,3.2,g/dL
+Total Bilirubin,0.5,mg/dL
+BUN,15.0,mg/dL
+Hct,35.5,%
+Sodium,138.0,mEq/L
+WBC x 1000,7.7,K/mcL
+HR Current,91.0,bpm
+HR Lowest,90.0,bpm
+HR Highest,91.0,bpm
+BP Systolic Current,119.0,mmHg
+BP Systolic Lowest,119.0,mmHg
+BP Systolic Highest,118.0,mmHg
+BP Diastolic Current,59.0,mmHg
+BP Diastolic Lowest,59.0,mmHg
+BP Diastolic Highest,59.0,mmHg
+Respiratory Rate Current,18.0,breaths/min
+Respiratory Rate Lowest,18.0,breaths/min
+Respiratory Rate Highest,18.0,breaths/min
+O2 Sat Current,98.0,%
+O2 Sat Lowest,98.0,%
+O2 Sat Highest,98.0,%

@@ -1,0 +1,79 @@
+LabTestName,TimeOffset,LabResult,Units
+Total Bilirubin,466,0.7,mg/dL
+Creatinine,466,1.3,mg/dL
+Potassium,466,3.6,mmol/L
+Alkaline Phos.,466,60.0,IU/L
+AST (SGOT),466,78.0,IU/L
+MPV,466,8.9,fL
+Sodium,466,136.0,mmol/L
+Anion Gap,466,7.0,
+Albumin,466,2.9,g/dL
+BUN,466,21.0,mg/dL
+RDW,466,14.8,%
+RBC,466,3.57,M/mcL
+Hct,466,34.3,%
+Platelets x 1000,466,127.0,K/mcL
+Total Bilirubin,-304,0.6,mg/dL
+Creatinine,-304,1.4,mg/dL
+Potassium,-304,3.9,mmol/L
+Alkaline Phos.,-304,73.0,IU/L
+AST (SGOT),-304,69.0,IU/L
+Sodium,-304,132.0,mmol/L
+ALT (SGPT),-304,27.0,IU/L
+Calcium,-304,8.9,mg/dL
+Glucose,-304,138.0,mg/dL
+Total Protein,-304,7.2,g/dL
+Chloride,-304,99.0,mmol/L
+WBC x 1000,-304,9.4,K/mcL
+BUN,-304,25.0,mg/dL
+Anion Gap,-304,8.0,
+Albumin,-304,3.7,g/dL
+Bicarbonate,-304,25.0,mmol/L
+Total Protein,1966,6.1,g/dL
+Calcium,1966,7.9,mg/dL
+ALT (SGPT),1966,34.0,IU/L
+Potassium,1966,3.7,mmol/L
+AST (SGOT),1966,67.0,IU/L
+Total Bilirubin,1966,1.0,mg/dL
+Bicarbonate,1966,24.0,mmol/L
+Creatinine,1966,1.1,mg/dL
+Anion Gap,1966,4.0,
+Glucose,1966,135.0,mg/dL
+Chloride,1966,107.0,mmol/L
+Troponin - I,-304,0.02,ng/mL
+Platelets x 1000,-304,136.0,K/mcL
+RDW,-304,14.7,%
+RBC,-304,4.1,M/mcL
+Hgb,-304,13.3,g/dL
+Hct,-304,38.8,%
+MCV,-304,94.6,fL
+MCH,-304,32.4,pg
+MCHC,-304,34.3,g/dL
+ESR,-304,31.0,mm/hr
+WBC x 1000,1966,8.6,K/mcL
+Hct,1966,34.8,%
+MCHC,1966,34.3,g/dL
+MCV,1966,95.7,fL
+MCH,1966,32.8,pg
+RDW,1966,14.8,%
+Platelets x 1000,1966,119.0,K/mcL
+CPK,1966,2151.0,IU/L
+BNP,466,56.0,pg/mL
+BNP,1966,162.0,pg/mL
+Bedside Glucose,6,129.0,mg/dL
+Bedside Glucose,309,122.0,mg/dL
+Bedside Glucose,697,109.0,mg/dL
+Bedside Glucose,922,146.0,mg/dL
+Bedside Glucose,1244,113.0,mg/dL
+Bedside Glucose,1498,118.0,mg/dL
+Bedside Glucose,2136,120.0,mg/dL
+Bedside Glucose,-119,136.0,mg/dL
+PT,466,15.3,sec
+PT - INR,466,1.2,ratio
+FiO2,50,36.0,%
+paO2,2388,62.0,mm Hg
+paCO2,2388,59.0,mm Hg
+HCO3,2388,24.0,mmol/L
+Base Excess,2388,-4.4,mEq/L
+pH,2388,7.23,
+O2 Sat (%),2388,90.0,%

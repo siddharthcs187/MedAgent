@@ -1,0 +1,30 @@
+Lab Test Name,Lab Result Value,Unit,Lab Type
+Total bilirubin,0.3,mg/dL,Chemistry
+bicarbonate,35.0,mmol/L,Chemistry
+chloride,101.0,mmol/L,Chemistry
+potassium,3.9,mmol/L,Chemistry
+ALT (SGPT),24.0,IU/L,Chemistry
+alkaline phos.,107.0,IU/L,Chemistry
+BUN,22.0,mg/dL,Chemistry
+calcium,9.0,mg/dL,Chemistry
+creatinine,0.96,mg/dL,Chemistry
+glucose,79.0,mg/dL,Chemistry
+total protein,6.1,g/dL,Chemistry
+sodium,140.0,mmol/L,Chemistry
+anion gap,4.0,,Chemistry
+MCV,95.0,fL,Hematology
+MCH,28.8,pg,Hematology
+MCHC,30.4,g/dL,Hematology
+Hgb,10.2,g/dL,Hematology
+Hct,33.5,%,Hematology
+WBC,3.7,K/mcL,Hematology
+platelets,173.0,K/mcL,Hematology
+RDW,14.4,%,Hematology
+-eos,1.0,%,Hematology
+-basos,0.0,%,Hematology
+-monos,5.0,%,Hematology
+-polys,89.0,%,Hematology
+-lymphs,4.0,%,Hematology
+Tacrolimus-FK506,2.3,ng/mL,Drug Level
+bedside glucose,105.0,mg/dL,Misc
+bedside glucose,108.0,mg/dL,Misc

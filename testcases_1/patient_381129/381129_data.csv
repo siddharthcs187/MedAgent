@@ -1,0 +1,33 @@
+patientunitstayid,labname,labresult,labmeasurenamesystem,labresultoffset
+381129,glucose,185.0,mg/dL,1081
+381129,potassium,4.2,mmol/L,1081
+381129,sodium,140.0,mmol/L,1081
+381129,bicarbonate,24.0,mmol/L,1081
+381129,creatinine,0.82,mg/dL,1081
+381129,calcium,9.5,mg/dL,1081
+381129,BUN,10.0,mg/dL,1081
+381129,bedside glucose,173.0,mg/dL,28
+381129,bedside glucose,71.0,mg/dL,630
+381129,bedside glucose,161.0,mg/dL,1336
+381129,bedside glucose,293.0,mg/dL,1497
+381129,bedside glucose,190.0,mg/dL,1818
+381129,bedside glucose,188.0,mg/dL,2220
+381129,bedside glucose,219.0,mg/dL,2810
+381129,troponin - I,0.031,ng/mL,2676
+381129,bedside glucose,172.0,mg/dL,4009
+381129,bedside glucose,222.0,mg/dL,4290
+381129,bedside glucose,334.0,mg/dL,2906
+381129,bedside glucose,191.0,mg/dL,3432
+381129,RBC,4.31,M/mcL,1081
+381129,Hgb,13.8,g/dL,1081
+381129,Hct,41.2,%,1081
+381129,MCV,96.0,fL,1081
+381129,MCH,32.0,pg,1081
+381129,MCHC,34.0,g/dL,1081
+381129,platelets x 1000,136.0,K/mcL,1081
+381129,WBC x 1000,6.2,K/mcL,1081
+381129,-lymphs,24.0,%,1081
+381129,-monos,8.0,%,1081
+381129,-polys,66.0,%,1081
+381129,-eos,1.0,%,1081
+381129,-basos,1.0,%,1081

@@ -1,0 +1,20 @@
+Lab Parameter,Value,Unit
+Hgb,12.1,g/dL
+Hct,35.3,%
+WBC,7.5,K/mcL
+RBC,3.88,M/mcL
+MCV,91,fL
+MCH,31.2,pg
+MCHC,34.3,g/dL
+RDW,13.4,%
+Platelets,226,K/mcL
+-monos,8,%
+-basos,0,%
+-polys,76,%
+-lymphs,15,%
+-eos,1,%
+PT,48.8,sec
+PT_INR,4.4,ratio
+Troponin-I,<0.02,ng/mL
+BNP,545,pg/mL
+Total CO2,21,mmol/L

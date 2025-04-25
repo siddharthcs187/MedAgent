@@ -1,0 +1,55 @@
+Lab Name,Time Offset (minutes),Lab Result,Unit
+Hgb,-491,14.5, g/dL
+Hgb,799,12.4, g/dL
+Hgb,2329,12.3, g/dL
+Hct,-491,41.3, %
+Hct,799,36.6, %
+Hct,2329,36.7, %
+MCV,-491,88.0, fL
+MCV,799,89.0, fL
+MCV,2329,90.0, fL
+MCH,-491,31.0, pg
+MCH,799,30.2, pg
+MCH,2329,30.1, pg
+MCHC,-491,35.1, g/dL
+MCHC,799,33.9, g/dL
+MCHC,2329,33.5, g/dL
+RDW,-491,13.7, %
+RDW,799,13.6, %
+RDW,2329,13.7, %
+WBC x 1000,-491,8.7, K/mcL
+WBC x 1000,799,16.6, K/mcL
+WBC x 1000,2329,18.3, K/mcL
+Platelets x 1000,-491,238.0, K/mcL
+Platelets x 1000,799,205.0, K/mcL
+Platelets x 1000,2329,211.0, K/mcL
+RBC,-491,4.67, M/mcL
+RBC,799,4.11, M/mcL
+RBC,2329,4.09, M/mcL
+MPV,-491,9.2, fL
+MPV,799,9.2, fL
+MPV,2329,9.2, fL
+Bicarbonate,799,22.0, mmol/L
+Bicarbonate,2329,22.0, mmol/L
+Sodium,799,138.0, mmol/L
+Sodium,2329,136.0, mmol/L
+Potassium,799,4.0, mmol/L
+Potassium,2329,3.9, mmol/L
+Chloride,799,107.0, mmol/L
+Chloride,2329,106.0, mmol/L
+Creatinine,-453,0.9, mg/dL
+Creatinine,799,0.54, mg/dL
+Creatinine,2329,0.54, mg/dL
+BUN,799,8.0, mg/dL
+BUN,2329,14.0, mg/dL
+Glucose,799,143.0, mg/dL
+Glucose,2329,119.0, mg/dL
+Respiratory Rate,2329,15.0, /min
+FiO2,17,32.0, %
+FiO2,2329,37.0, %
+Glucose - CSF,2790,60.0, mg/dL
+WBC's in cerebrospinal fluid,2790,121.0, /mm3
+Protein - CSF,2790,85.0, mg/dL
+Anion gap,799,9.0,
+Anion gap,2329,8.0,
+Magnesium,2329,2.2, mg/dL

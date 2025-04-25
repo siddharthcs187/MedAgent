@@ -1,0 +1,127 @@
+LabResultOffset,LabName,LabResult,LabMeasureNameSystem
+-27,ALT (SGPT),11.0,Units/L
+-27,calcium,8.4,mg/dL
+-27,creatinine,0.9,mg/dL
+-27,glucose,129.0,mg/dL
+-27,chloride,105.0,mmol/L
+-27,magnesium,1.6,mg/dL
+-27,albumin,3.0,g/dL
+-27,bicarbonate,27.0,mmol/L
+-27,total protein,5.6,g/dL
+-27,BUN,15.0,mg/dL
+-27,AST (SGOT),20.0,Units/L
+-27,total bilirubin,0.5,mg/dL
+-27,potassium,4.6,mmol/L
+-27,anion gap,6.0,mmol/L
+-27,platelets x 1000,194.0,K/mcL
+-27,Hgb,15.5,g/dL
+-27,Hct,46.6,%
+-27,RBC,5.08,M/mcL
+-27,-lymphs,19.3,%
+-27,-basos,0.4,%
+-27,-polys,75.6,%
+-27,-monos,3.9,%
+-27,MCH,30.5,pg
+-27,MCV,91.7,fL
+-27,RDW,11.9,%
+-27,PTT,32.0,sec
+-27,PT,14.7,sec
+-27,PT - INR,1.1,ratio
+73532001,-lymphs,4.2,%
+73532002,RBC,5.14,M/mcL
+73532003,-basos,0.7,%
+73532004,-polys,89.3,%
+73532005,Hct,45.0,%
+73532006,-eos,0.0,%
+73532007,MCV,87.5,fL
+73532008,Hgb,15.7,g/dL
+73532009,WBC x 1000,17.5,K/mcL
+73532010,RDW,11.7,%
+73532011,MCH,30.5,pg
+73532012,-monos,5.4,%
+73532013,MCHC,34.9,g/dL
+73532014,platelets x 1000,189.0,K/mcL
+77282637,RBC,4.62,M/mcL
+77282638,Hgb,14.1,g/dL
+77282639,Hct,41.1,%
+77282640,MCV,89.0,fL
+77282641,MCH,30.5,pg
+77282642,MCHC,34.3,g/dL
+77282643,RDW,11.9,%
+77282644,platelets x 1000,177.0,K/mcL
+77282645,-polys,88.5,%
+77282646,-lymphs,5.1,%
+77282647,-monos,5.6,%
+77282648,-eos,0.0,%
+77282649,-basos,0.2,%
+80319475,HCO3,23.0,mmol/L
+80319476,Methemoglobin,0.8,%
+80319477,FiO2,60.0,%
+80319478,paO2,198.0,mm Hg
+80319479,paCO2,41.0,mm Hg
+80319480,pH,7.37, 
+80319481,O2 Sat (%),98.4,%
+80319483,Temperature,99.9,°C
+80319484,Base Excess,-2.0,mEq/L
+80362501,PEEP,10.0,cm H2O
+80362503,TV,480.0,mls
+80362504,Vent Rate,14.0,/min
+80362505,FiO2,40.0,%
+80630830,FiO2,36.0,%
+80630831,LPM O2,4.0,L/min
+80663504,PEEP,10.0,cm H2O
+80663505,FiO2,40.0,%
+81101861,HCO3,25.0,mmol/L
+81101862,Methemoglobin,0.6,%
+81101863,FiO2,40.0,%
+81101864,paO2,146.0,mm Hg
+81101865,Carboxyhemoglobin,0.7,%
+81101866,paCO2,40.0,mm Hg
+81101867,pH,7.42, 
+81101868,O2 Sat (%),97.9,%
+81101869,Temperature,97.9,°C
+81101870,Base Excess,1.0,mEq/L
+1023,glucose,163.0,mg/dL
+1023,chloride,99.0,mmol/L
+1023,magnesium,1.6,mg/dL
+1023,BUN,15.0,mg/dL
+1023,ALT (SGPT),14.0,Units/L
+1023,albumin,3.2,g/dL
+1023,sodium,135.0,mmol/L
+1023,creatinine,1.0,mg/dL
+1023,alkaline phos.,52.0,Units/L
+1023,anion gap,10.0,mmol/L
+1023,total protein,6.2,g/dL
+1023,total bilirubin,1.4,mg/dL
+1023,potassium,4.4,mmol/L
+1023,calcium,8.3,mg/dL
+1023,platelets x 1000,189.0,K/mcL
+1023,Hgb,15.7,g/dL
+1023,Hct,45.0,%
+1023,RBC,5.14,M/mcL
+1023,-lymphs,4.2,%
+1023,-basos,0.7,%
+1023,-polys,89.3,%
+1023,MCH,30.5,pg
+1023,MCV,87.5,fL
+1023,RDW,11.7,%
+1023,-monos,5.4,%
+1023,MCHC,34.9,g/dL
+1289,FiO2,40.0,%
+1289,PEEP,5.0,cm H2O
+1361,FiO2,36.0,%
+1361,LPM O2,4.0,L/min
+2649,RBC,4.62,M/mcL
+2649,Hgb,14.1,g/dL
+2649,Hct,41.1,%
+2649,MCV,89.0,fL
+2649,MCH,30.5,pg
+2649,MCHC,34.3,g/dL
+2649,RDW,11.9,%
+2649,platelets x 1000,177.0,K/mcL
+2649,-lymphs,5.1,%
+2649,-basos,0.2,%
+2649,-polys,88.5,%
+2649,-monos,5.6,%
+2649,-eos,0.0,%
+378,Hgb,18.0,g/dL

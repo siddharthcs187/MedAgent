@@ -1,0 +1,71 @@
+LabName,LabResult,LabResultUnits,LabResultOffsetMinutes,LabTypeId
+RDW,12.3,% ,116,3
+-monos,5,% ,116,3
+MCH,29.3,pg ,116,3
+-lymphs,28,% ,116,3
+MCHC,34.1,g/dL ,116,3
+-basos,0,% ,116,3
+RBC,4.06,M/mcL ,116,3
+platelets x 1000,271,K/mcL ,116,3
+MCV,86,fL ,116,3
+-eos,0,% ,116,3
+total protein,7.7,g/dL ,-326,1
+Hct,34.9,% ,116,3
+total bilirubin,0.4,mg/dL ,-326,1
+salicylate,<1.7,mg/dL ,-326,2
+Hgb,11.9,g/dL ,116,3
+MCH,29.8,pg ,-326,3
+urinary specific gravity,1.01,,-267,4
+WBC x 1000,7.5,K/mcL ,116,3
+alkaline phos.,107,Units/L ,-326,1
+Acetaminophen,<2,mcg/mL ,-326,2
+-polys,67,% ,116,3
+RDW,12.4,% ,-326,3
+alkaline phos.,94,Units/L ,116,1
+BUN,9,mg/dL ,-326,1
+creatinine,0.8,mg/dL ,116,1
+-eos,1,% ,-326,3
+bicarbonate,22,mmol/L ,116,1
+calcium,9.3,mg/dL ,-326,1
+total protein,6.7,g/dL ,116,1
+MCV,84.3,fL ,-326,3
+ALT (SGPT),29,Units/L ,116,1
+total bilirubin,0.4,mg/dL ,116,1
+chloride,107,mmol/L ,116,1
+AST (SGOT),17,Units/L ,-326,1
+Hct,33.7,% ,1536,3
+-polys,57,% ,-326,3
+calcium,8.5,mg/dL ,116,1
+sodium,136,mmol/L ,-326,1
+Hct,38.7,% ,-326,3
+potassium,3.2,mmol/L ,116,1
+albumin,4.1,g/dL ,-326,1
+Hgb,11.7,g/dL ,1536,3
+-lymphs,35,% ,-326,3
+creatinine,0.9,mg/dL ,-326,1
+WBC x 1000,6.2,K/mcL ,1536,3
+-basos,0,% ,-326,3
+glucose,96,mg/dL ,116,1
+potassium,3,mmol/L ,-326,1
+platelets x 1000,246,K/mcL ,1536,3
+WBC x 1000,6.8,K/mcL ,-326,3
+AST (SGOT),16,Units/L ,116,1
+ALT (SGPT),30,Units/L ,-326,1
+BUN,7,mg/dL ,116,1
+glucose,114,mg/dL ,-326,1
+magnesium,1.7,mg/dL ,116,1
+-monos,7,% ,-326,3
+RBC,3.9,M/mcL ,1536,3
+TSH,0.301,mcU/ml ,-326,4
+albumin,3.6,g/dL ,116,1
+creatinine,0.8,mg/dL ,1536,1
+platelets x 1000,297,K/mcL ,-326,3
+chloride,102,mmol/L ,-326,1
+anion gap,12,,116,1
+RDW,12.5,% ,1536,3
+-basos,0,% ,-326,3
+bedside glucose,98,mg/dL,103,4
+anion gap,12,,-326,1
+MCH,30,pg,1536,3
+MCHC,34.7,g/dL,1536,3
+MCV,86.4,fL,1536,3

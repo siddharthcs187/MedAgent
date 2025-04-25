@@ -1,0 +1,86 @@
+Lab Test,Time Offset (minutes),Result,Units
+BUN,-3339,26,mg/dL
+BUN,-634,66,mg/dL
+BUN,-2064,32,mg/dL
+total bilirubin,-3339,1.2,mg/dL
+total bilirubin,-2064,1.2,mg/dL
+potassium,-3339,3.4,mmol/L
+potassium,-2064,3.4,mmol/L
+potassium,-634,3.5,mmol/L
+albumin,-3339,3.9,g/dL
+albumin,-634,2.7,g/dL
+creatinine,-2064,1.1,mg/dL
+creatinine,-634,1.2,mg/dL
+creatinine,-3339,1.4,mg/dL
+bicarbonate,-3339,26,mmol/L
+bicarbonate,-634,28,mmol/L
+bicarbonate,-2064,29,mmol/L
+ALT (SGPT),-2064,25,Units/L
+ALT (SGPT),-634,31,Units/L
+ALT (SGPT),-3339,25,Units/L
+platelets x 1000,-3339,225,K/mcL
+platelets x 1000,-2064,178,K/mcL
+platelets x 1000,-634,158,K/mcL
+platelets x 1000,-2670,197,K/mcL
+calcium,-2064,8,mg/dL
+calcium,-634,8.2,mg/dL
+calcium,-3339,9.7,mg/dL
+RBC,-2064,4.19,M/mcL
+RBC,-634,3.29,M/mcL
+RBC,-3339,5.47,M/mcL
+RBC,-2670,5.06,M/mcL
+alkaline phos.,-2064,58,Units/L
+alkaline phos.,-634,49,Units/L
+alkaline phos.,-3339,86,Units/L
+AST (SGOT),-3339,30,Units/L
+AST (SGOT),-634,33,Units/L
+AST (SGOT),-2064,39,Units/L
+glucose,-634,117,mg/dL
+glucose,-2064,126,mg/dL
+glucose,-3339,161,mg/dL
+RDW,-634,12.3,% 
+RDW,-3339,11.9,% 
+RDW,-2064,12,% 
+RDW,-2670,12.2,% 
+chloride,-2064,107,mmol/L
+chloride,-634,111,mmol/L
+chloride,-3339,101,mmol/L
+total protein,-634,5.3,g/dL
+total protein,-3339,7.5,g/dL
+total protein,-2064,5.3,g/dL
+Hgb,-2064,13.4,g/dL
+Hgb,-634,10.6,g/dL
+Hgb,-3339,17.6,g/dL
+Hgb,-2670,16.1,g/dL
+Hgb,-403,9.3,g/dL
+Hgb,-310,9.9,g/dL
+Hct,-2064,39.5,% 
+Hct,-634,32.2,% 
+Hct,-3339,50.5,% 
+Hct,-2670,47.6,% 
+MCV,-3339,92,fL
+MCV,-2064,94,fL
+MCV,-634,98,fL
+MCV,-2670,94,fL
+MCH,-3339,32.2,pg
+MCH,-2064,32,pg
+MCH,-634,32.2,pg
+MCH,-2670,31.8,pg
+MCHC,-2064,34,g/dL
+MCHC,-634,33,g/dL
+MCHC,-3339,35,g/dL
+MCHC,-2670,34,g/dL
+anion gap,-3339,14,
+anion gap,-634,7,
+anion gap,-2064,8,
+PT,-3339,21.1,sec
+PT,-634,23.1,sec
+PT,-159,18.8,sec
+PT-INR,-634,2,ratio
+PT-INR,-3339,1.8,ratio
+PT-INR,-159,1.5,ratio
+PTT,-634,30.1,sec
+TSH,-3460,0.3,mcU/ml
+troponin - I,-3339,<0.02,ng/mL
+troponin - I,-413,0.07,ng/mL
+lipase,-2064,159,Units/L

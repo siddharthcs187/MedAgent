@@ -1,0 +1,68 @@
+LabName,LabResult,LabMeasure,TimeOffset
+Hgb,13.1,g/dL,-1121
+total cholesterol,145,mg/dL,-539
+MCHC,32.5,g/dL,-1121
+HDL,53,mg/dL,-539
+platelets x 1000,228,K/mcL,-1121
+triglycerides,115,mg/dL,-539
+-eos,5,%,-1121
+badside glucose,120,mg/dL,686
+LDL,69,mg/dL,-539
+MCV,92.2,fL,-1121
+Vitamin B12,236,pg/mL,-539
+badside glucose,138,mg/dL,-1118
+-lymphs,21,%,-1121
+alkaline phos.,105,Units/L,-1121
+RBC,4.37,M/mcL,-1121
+sodium,145,mmol/L,-1121
+-basos,1,%,-1121
+total protein,7,g/dL,-1121
+-polys,62,%,-1121
+calcium,9.8,mg/dL,-1121
+MCH,30,pg,-1121
+creatinine,1.03,mg/dL,-1121
+-monos,11,%,-1121
+anion gap,15,mmol/L,-1121
+RDW,13.9,%,-1121
+potassium,4,mmol/L,-1121
+chloride,108,mmol/L,900
+AST (SGOT),16,Units/L,-1121
+WBC x 1000,7.3,K/mcL,-1121
+total bilirubin,0.4,mg/dL,-1121
+BUN,15,mg/dL,-1121
+PT,10.3,sec,-1121
+bicarbonate,28,mmol/L,-1121
+Hct,40.3,%,-1121
+chloride,106,mmol/L,-1121
+BUN,14,mg/dL,900
+calcium,9.7,mg/dL,900
+-lymphs,18,%,900
+WBC x 1000,6.4,K/mcL,900
+RBC,4.18,M/mcL,900
+Hct,38.3,%,900
+MCV,91.6,fL,900
+-polys,65,%,900
+potassium,4.3,mmol/L,900
+MCHC,32.4,g/dL,900
+-monos,11,%,900
+-basos,1,%,900
+badside glucose,93,mg/dL,1550
+badside glucose,256,mg/dL,1245
+badside glucose,111,mg/dL,116
+LDL,64,mg/dL,-1121
+triglycerides,112,mg/dL,-1121
+badside glucose,160,mg/dL,2718
+badside glucose,162,mg/dL,2496
+badside glucose,69,mg/dL,3003
+badside glucose,99,mg/dL,1826
+badside glucose,187,mg/dL,-399
+troponin - I,<0.02,ng/mL,-1121
+glucose,136,mg/dL,-1121
+lipase,72,Units/L,-1121
+platelets x 1000,212,K/mcL,900
+urinary specific gravity,1.01,,1756
+TSH,2.367,mcU/ml,-1121
+albumin,3.6,g/dL,-1121
+anion gap,11,mmol/L,900
+PTT,26,sec,-1121
+PT - INR,1,ratio,-1121

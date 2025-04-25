@@ -1,0 +1,2 @@
+patientunitstayid,admission_weight_kg,urine_output_ml,intake_total_ml,output_total_ml,dialysis_net_ml,total_net_ml,gcs_eyes,gcs_verbal,gcs_motor
+319702,68,800,0,800,0,-800,4,4,6

@@ -1,0 +1,58 @@
+LabName,TimeOffset(minutes),Value,Units
+BUN,-1925,13.0,mg/dL
+BUN,441,10.0,mg/dL
+Creatinine,-1925,0.7,mg/dL
+Creatinine,441,0.6,mg/dL
+ALT (SGPT),-1925,30.0,IU/L
+ALT (SGPT),441,22.0,IU/L
+Glucose,-1925,101.0,mg/dL
+Glucose,441,171.0,mg/dL
+Chloride,-1925,96.0,mmol/L
+Chloride,441,105.0,mmol/L
+Potassium,-1925,4.2,mmol/L
+Potassium,441,4.3,mmol/L
+Total Bilirubin,-1925,0.3,mg/dL
+Total Bilirubin,441,0.2,mg/dL
+Anion Gap,-1925,13.0,
+Anion Gap,441,13.0,
+Bicarbonate,-1925,28.0,mmol/L
+Bicarbonate,441,22.0,mmol/L
+Calcium,-1925,9.1,mg/dL
+Calcium,441,8.5,mg/dL
+Total Protein,-1925,7.0,g/dL
+Total Protein,441,6.1,g/dL
+Albumin,-1925,3.5,g/dL
+Albumin,441,3.0,g/dL
+AST (SGOT),-1925,23.0,IU/L
+AST (SGOT),441,21.0,IU/L
+Sodium,-1925,137.0,mmol/L
+Sodium,441,140.0,mmol/L
+FiO2,-1925,28.0,%
+Hgb,-1925,10.4,g/dL
+Hgb,441,10.3,g/dL
+Hct,-1925,32.0,%
+Hct,441,32.3,%
+WBC,-1925,6.5,K/mcL
+WBC,441,8.0,K/mcL
+Platelets,-1925,345.0,K/mcL
+Platelets,441,294.0,K/mcL
+MCV,-1925,85.0,fL
+MCV,441,87.0,fL
+MCH,-1925,27.6,pg
+MCH,441,27.8,pg
+MCHC,-1925,32.5,g/dL
+MCHC,441,31.9,g/dL
+RDW,-1925,13.1,%
+RDW,441,13.2,%
+MPV,441,9.2,fL
+PT,-1925,15.3,sec
+PT-INR,-1925,1.4,ratio
+PTT,-1925,34.0,sec
+Platelets,6201,373.0,K/mcL
+Hgb,6201,11.1,g/dL
+Hct,6201,35.6,%
+WBC,6201,6.5,K/mcL
+MCV,6201,86.0,fL
+MCH,6201,26.9,pg
+MCHC,6201,31.2,g/dL
+RDW,6201,13.3,%

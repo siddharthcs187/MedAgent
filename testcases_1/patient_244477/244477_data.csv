@@ -1,0 +1,55 @@
+labname,labresult,labmeasurenamesystem,labresultoffset,timepoint
+Hgb,13.6,g/dL,-125,Initial
+Hgb,13.2,g/dL,-2880,Later
+Hct,39.1,%,-125,Initial
+Hct,38.1,%,-2880,Later
+WBC x 1000,15.9,K/mcL,-125,Initial
+WBC x 1000,10.4,K/mcL,-2880,Later
+platelets x 1000,265.0,K/mcL,-125,Initial
+platelets x 1000,316.0,K/mcL,-2880,Later
+sodium,136.0,mmol/L,-125,Initial
+sodium,137.0,mmol/L,235,Later
+potassium,3.5,mmol/L,-125,Initial
+potassium,3.2,mmol/L,235,Later
+chloride,103.0,mmol/L,-125,Initial
+chloride,108.0,mmol/L,235,Later
+bicarbonate,21.0,mmol/L,-125,Initial
+bicarbonate,20.0,mmol/L,235,Later
+BUN,12.0,mg/dL,-125,Initial
+BUN,12.0,mg/dL,235,Later
+creatinine,0.9,mg/dL,-125,Initial
+creatinine,0.9,mg/dL,235,Later
+lactate,3.6,mmol/L,-125,Initial
+lactate,3.4,mmol/L,235,Later
+-eos,1.0,%,-125,Initial
+-eos,6.7,%,-2880,Later
+-bands,12.0,%,-125,Initial
+-lymphs,1.0,%,-125,Initial
+-lymphs,28.4,%,-2880,Later
+-monos,1.0,%,-125,Initial
+-monos,5.0,%,-2880,Later
+-polys,85.0,%,-125,Initial
+-polys,59.3,%,-2880,Later
+-basos,0.6,%,-2880,Later
+PT,11.4,sec,-125,Initial
+PTT,25.9,sec,-125,Initial
+PT - INR,1.1,ratio,-125,Initial
+fibrinogen,471.0,mg/dL,-125,Initial
+MCV,87.6,fL,-125,Initial
+MCV,87.9,fL,-2880,Later
+MCH,30.5,pg,-125,Initial
+MCH,30.5,pg,-2880,Later
+MCHC,34.8,g/dL,-125,Initial
+MCHC,34.8,g/dL,-2880,Later
+RDW,13.9,%,-125,Initial
+RDW,13.4,%,-2880,Later
+RBC,4.47,M/mcL,-125,Initial
+RBC,4.33,M/mcL,-2880,Later
+calcium,9.1,mg/dL,-125,Initial
+calcium,7.7,mg/dL,235,Later
+albumin,3.7,g/dL,-125,Initial
+total protein,6.8,g/dL,-125,Initial
+total bilirubin,1.0,mg/dL,-125,Initial
+alkaline phos.,60.0,Units/L,-125,Initial
+ALT (SGPT),37.0,Units/L,-125,Initial
+AST (SGOT),47.0,Units/L,-125,Initial

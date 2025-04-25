@@ -1,0 +1,114 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+glucose,143,mg/dL,-1562
+chloride,100,mmol/L,-1562
+BUN,10,mg/dL,-1562
+calcium,9.1,mg/dL,-1562
+creatinine,0.6,mg/dL,-1562
+bicarbonate,29,mmol/L,-1562
+sodium,137,mmol/L,-1562
+anion gap,12,,-1562
+bedside glucose,127,mg/dL,557
+bedside glucose,155,mg/dL,-685
+potassium,4.2,mmol/L,186
+bedside glucose,121,mg/dL,-2066
+bedside glucose,124,mg/dL,1569
+bedside glucose,137,mg/dL,-1497
+MCV,85.5,fL,-1562
+PT,10.2,sec,-1267
+-eos,2,%,-1562
+RBC,3.63,M/mcL,1228
+Hgb,11.2,g/dL,-1562
+urinary specific gravity,<1.005,,-2002
+MCHC,32.7,g/dL,-1562
+potassium,3.7,mmol/L,-1531
+platelets x 1000,276,K/mcL,-1562
+Hct,31.2,%,1228
+-polys,64,%,-1562
+bedside glucose,118,mg/dL,1478
+bedside glucose,144,mg/dL,1847
+WBC x 1000,8.4,K/mcL,-1562
+PT - INR,1,ratio,-1267
+-basos,0,%,-1562
+platelets x 1000,310,K/mcL,1228
+RDW,13.9,%,-1562
+TSH,1.483,mcU/ml,-1267
+MCH,28,pg,-1562
+MCH,28.7,pg,1228
+-monos,8,%,-1562
+CRP,20.7,mg/dL,-1267
+-lymphs,26,%,-1562
+MCHC,33.3,g/dL,1228
+Hct,34.2,%,-1562
+WBC x 1000,10.4,K/mcL,-1267
+PTT,23,sec,186
+PT - INR,1,ratio,1228
+RBC,4,M/mcL,-1562
+RDW,13.7,%,1228
+-lymphs,7,%,186
+Hgb,12.2,g/dL,-1267
+RBC,3.92,M/mcL,186
+glucose,142,mg/dL,-1267
+Hct,33.8,%,186
+MCH,28.6,pg,-1267
+-basos,0,%,186
+-polys,92,%,186
+-polys,79,%,-1267
+-eos,0,%,186
+-monos,1,%,186
+chloride,99,mmol/L,-1267
+calcium,9.4,mg/dL,-1267
+platelets x 1000,286,K/mcL,186
+-eos,1,%,-1267
+magnesium,2.3,mg/dL,-1562
+AST (SGOT),24,Units/L,-1267
+alkaline phos.,97,Units/L,-1267
+BUN,8,mg/dL,-1267
+ALT (SGPT),36,Units/L,-1267
+sodium,137,mmol/L,-1267
+bicarbonate,31,mmol/L,-1267
+albumin,3,g/dL,-1267
+WBC x 1000,11.8,K/mcL,1228
+glucose,127,mg/dL,1228
+chloride,104,mmol/L,1228
+calcium,8.8,mg/dL,1228
+BUN,9,mg/dL,1228
+MCV,86,fL,1228
+magnesium,2.5,mg/dL,1228
+bedside glucose,114,mg/dL,436
+bedside glucose,37,mg/dL,479
+bedside glucose,140,mg/dL,480
+bedside glucose,196,mg/dL,354
+bedside glucose,94,mg/dL,1088
+bedside glucose,101,mg/dL,966
+bedside glucose,96,mg/dL,855
+bedside glucose,142,mg/dL,855
+bedside glucose,132,mg/dL,1340
+RBC,4.26,M/mcL,-1267
+Hgb,10.4,g/dL,1228
+bedside glucose,123,mg/dL,1226
+bedside glucose,218,mg/dL,301
+bedside glucose,135,mg/dL,1698
+platelets x 1000,304,K/mcL,-1267
+ionized calcium,4.92,mg/dL,1228
+LDH,269,Units/L,-1267
+Hgb,11.1,g/dL,186
+MCH,28.3,pg,186
+RDW,13.9,%,186
+MCHC,32.8,pg,186
+WBC x 1000,9.9,K/mcL,186
+Hct,36.5,%,-1267
+MCV,85.7,fL,-1267
+-monos,5,%,-1267
+-lymphs,15,%,-1267
+-basos,0,%,-1267
+-polys,79,%,-1267
+-eos,1,%,-1267
+bedside glucose,156,mg/dL,-818
+FiO2,32,%,186
+paCO2,47,mm Hg,186
+pH,7.34,,186
+paO2,75,mm Hg,186
+Base Deficit,1,mEq/L,186
+Total protein,7.4,g/dL,-1267
+urinary specific gravity,<1.005,,-1252
+ESR,80,mm/hr,-1267

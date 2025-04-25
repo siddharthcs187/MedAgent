@@ -1,0 +1,24 @@
+LabName,LabResult,LabMeasureNameSystem,LabResultRevisedOffset(minutes)
+RBC,3.83,M/mcL,414
+Hgb,10.7,g/dL,414
+Hct,33.1,%,414
+MCV,86.4,fL,414
+MCH,27.9,pg,414
+MCHC,32.3,g/dL,414
+RDW,14.7,%,414
+Platelets x 1000,265.0,K/mcL,414
+WBC x 1000,10.3,K/mcL,414
+-monos,7.0,%,414
+-eos,0.0,%,414
+-basos,0.0,%,414
+-polys,79.0,%,414
+-lymphs,14.0,%,414
+calcium,8.1,mg/dL,432
+anion gap,10.0,mmol/L,432
+glucose,124.0,mg/dL,432
+BUN,15.0,mg/dL,432
+creatinine,1.03,mg/dL,432
+sodium,139.0,mmol/L,432
+potassium,4.3,mmol/L,432
+chloride,105.0,mmol/L,432
+bicarbonate,28.0,mmol/L,432

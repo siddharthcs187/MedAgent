@@ -1,0 +1,25 @@
+Lab Name,Time Point (minutes),Result,Unit
+Hgb,827,11.0,g/dL
+WBC x 1000,827,9.3,K/mcL
+MCHC,827,33.6,g/dL
+MCH,827,30.5,pg
+MCV,827,91.0,fL
+Platelets x 1000,827,174.0,K/mcL
+RBC,827,3.61,M/mcL
+RDW,827,13.8,%
+MPV,827,9.2,fL
+Calcium,827,7.8,mg/dL
+Bicarbonate,827,21.0,mmol/L
+BUN,2230,23.0,mg/dL
+Anion Gap,2230,10.0,
+Creatinine,827,0.45,mg/dL
+Creatinine,2230,0.44,mg/dL
+Glucose,827,118.0,mg/dL
+Glucose,2230,131.0,mg/dL
+Chloride,827,110.0,mmol/L
+Chloride,2230,106.0,mmol/L
+Sodium,2230,138.0,mmol/L
+Potassium,827,3.6,mmol/L
+Potassium,2230,4.0,mmol/L
+Anion Gap,827,8.0,
+Hct,827,32.7,%

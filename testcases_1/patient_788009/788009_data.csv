@@ -1,0 +1,75 @@
+LabName,LabResult,LabMeasureNameSystem,TimeOffsetMinutes
+Sodium,138.0,mmol/L,3906
+Sodium,140.0,mmol/L,996
+Sodium,141.0,mmol/L,2426
+Sodium,138.0,mmol/L,6795
+Potassium,4.0,mmol/L,3906
+Potassium,3.6,mmol/L,996
+Potassium,3.6,mmol/L,2426
+Potassium,3.7,mmol/L,6795
+Potassium,4.2,mmol/L,161
+Chloride,103.0,mmol/L,3906
+Chloride,105.0,mmol/L,996
+Chloride,105.0,mmol/L,2426
+Chloride,103.0,mmol/L,6795
+Bicarbonate,26.0,mmol/L,3906
+Bicarbonate,27.0,mmol/L,996
+Bicarbonate,25.0,mmol/L,2426
+Bicarbonate,27.0,mmol/L,6795
+BUN,9.0,mg/dL,3906
+BUN,11.0,mg/dL,996
+BUN,10.0,mg/dL,2426
+BUN,11.0,mg/dL,6795
+Creatinine,1.0,mg/dL,3906
+Creatinine,1.1,mg/dL,996
+Creatinine,1.0,mg/dL,2426
+Creatinine,1.1,mg/dL,6795
+Creatinine,1.2,mg/dL,5316
+Glucose,83.0,mg/dL,3906
+Glucose,95.0,mg/dL,996
+Glucose,84.0,mg/dL,2426
+Glucose,80.0,mg/dL,6795
+Glucose,80.0,mg/dL,5316
+Anion gap,9.0, ,3906
+Anion gap,8.0, ,996
+Anion gap,11.0, ,2426
+Anion gap,8.0, ,6795
+Anion gap,8.0, ,5316
+Hgb,11.0,g/dL,3906
+Hgb,10.7,g/dL,996
+Hgb,10.8,g/dL,2426
+Hgb,10.3,g/dL,5316
+Hct,32.7,%,3906
+Hct,32.3,%,996
+Hct,33.5,%,2426
+Hct,30.9,%,5316
+MCV,82.0,fL,3906
+MCV,82.0,fL,996
+MCV,83.0,fL,2426
+MCV,81.0,fL,5316
+MCH,27.4,pg,3906
+MCH,27.0,pg,996
+MCH,26.7,pg,2426
+MCH,27.0,pg,5316
+MCHC,33.6,g/dL,3906
+MCHC,33.1,g/dL,996
+MCHC,32.2,g/dL,2426
+MCHC,33.3,g/dL,5316
+RDW,15.2,%,3906
+RDW,15.2,%,996
+RDW,15.3,%,2426
+RDW,15.4,%,5316
+Platelets x 1000,364.0,K/mcL,3906
+Platelets x 1000,348.0,K/mcL,996
+Platelets x 1000,364.0,K/mcL,2426
+Platelets x 1000,370.0,K/mcL,5316
+WBC x 1000,6.4,K/mcL,3906
+WBC x 1000,6.8,K/mcL,996
+WBC x 1000,6.6,K/mcL,2426
+WBC x 1000,5.6,K/mcL,5316
+PT,13.7,sec,2426
+PT,13.6,sec,996
+PT,14.8,sec,6795
+PT - INR,1.2,ratio,2426
+PT - INR,1.2,ratio,996
+PT - INR,1.3,ratio,6795

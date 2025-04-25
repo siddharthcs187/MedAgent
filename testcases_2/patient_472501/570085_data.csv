@@ -1,0 +1,62 @@
+LabName,LabResult,Units,LabResultOffset(minutes),LabType
+BUN,30,mg/dL,393,1
+BUN,26,mg/dL,-263,1
+glucose,146,mg/dL,393,1
+glucose,183,mg/dL,-263,1
+glucose,129,mg/dL,329,4
+glucose,126,mg/dL,633,4
+glucose,130,mg/dL,793,4
+glucose,160,mg/dL,-22,4
+chloride,111,mmol/L,393,1
+chloride,113,mmol/L,-263,1
+bicarbonate,19,mmol/L,393,1
+bicarbonate,19,mmol/L,-263,1
+potassium,3.9,mmol/L,393,1
+potassium,4,mmol/L,-263,1
+creatinine,2,mg/dL,393,1
+creatinine,1.94,mg/dL,-263,1
+sodium,143,mmol/L,393,1
+sodium,143,mmol/L,-263,1
+anion gap,13,,393,1
+anion gap,11,,-263,1
+calcium,8.3,mg/dL,393,1
+calcium,7.9,mg/dL,-263,1
+RBC,3.6,M/mcL,-263,3
+RBC,3.08,M/mcL,393,3
+platelets x 1000,287,K/mcL,-263,3
+platelets x 1000,233,K/mcL,393,3
+Hct,31.2,%,-263,3
+Hct,26.4,% ,393,3
+Hct,32.9,% ,939,3
+MCH,28.6,pg,-263,3
+MCH,28.9,pg,393,3
+RDW,14.3,%,-263,3
+RDW,15.7,% ,393,3
+MCV,87,fL,-263,3
+MCV,86,fL,393,3
+Hgb,10.3,g/dL,-263,3
+Hgb,8.9,g/dL,393,3
+Hgb,11.4,g/dL,939,3
+WBC x 1000,13.8,K/mcL,-263,3
+WBC x 1000,13.1,K/mcL,393,3
+MPV,10.7,fL,-263,3
+MPV,10.2,fL,393,3
+MCHC,33,g/dL,-263,3
+MCHC,33.7,g/dL,393,3
+AST (SGOT),25,Units/L,-263,1
+ALT (SGPT),22,Units/L,-263,1
+total bilirubin,0.6,mg/dL,-263,1
+albumin,3.2,g/dL,-263,1
+total protein,6.2,g/dL,-263,1
+troponin - I,0.03,ng/mL,-263,1
+free T4,1.2,ng/dL,-263,4
+magnesium,1.7,mg/dL,-263,1
+TSH,6,mcU/ml,-263,4
+TSH,2.71,mcU/ml,393,4
+Digoxin,<0.1,ng/mL,-263,2
+PT,34.4,sec,-263,3
+PT,15.3,sec,939,3
+PTT,39,sec,-263,3
+PT - INR,3.5,ratio,-263,3
+PT - INR,1.2,ratio,939,3
+FiO2,29,%,14,7

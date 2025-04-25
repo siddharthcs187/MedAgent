@@ -1,0 +1,97 @@
+patientunitstayid,labname,labresult,labmeasurenamesystem,labresultoffset
+701925,MCV,94,fL,-257
+701925,PEEP,0,cm H2O,-117
+701925,MCH,30.8,pg,-257
+701925,HCO3,24.1,mmol/L,-117
+701925,RDW,13.7,%,-257
+701925,Base Excess,-1.5,mEq/L,-117
+701925,MCHC,32.6,g/dL,-257
+701925,paO2,352,mm Hg,-117
+701925,WBC x 1000,7,K/mcL,-257
+701925,paCO2,43.9,mm Hg,-117
+701925,Hgb,15.5,g/dL,-257
+701925,pH,7.348, ,-117
+701925,glucose,232,mg/dL,-257
+701925,MPV,10.8,fL,-257
+701925,calcium,8.9,mg/dL,-257
+701925,TV,500,mls,-117
+701925,chloride,107,mmol/L,-257
+701925,platelets x 1000,168,K/mcL,-257
+701925,ALT (SGPT),40,Units/L,-257
+701925,total protein,7.5,g/dL,-257
+701925,PT,13.2,sec,-257
+701925,sodium,141,mmol/L,-257
+701925,TSH,1.61,mcU/ml,2788
+701925,albumin,3.7,g/dL,-257
+701925,RBC,5.04,M/mcL,-257
+701925,AST (SGOT),49,Units/L,-257
+701925,anion gap,10,,-257
+701925,RBC,4.08,M/mcL,872
+701925,FiO2,100,%,-117
+701925,RBC,3.73,M/mcL,2323
+701925,O2 Sat (%),>99.2,%,-117
+701925,Hct,37.4,%,872
+701925,PT - INR,1,ratio,-257
+701925,bicarbonate,24,mmol/L,-257
+701925,Hct,34.5,%,2323
+701925,bedside glucose,111,mg/dL,454
+701925,MPV,11.5,fL,2323
+701925,alkaline phos.,97,Units/L,-257
+701925,platelets x 1000,111,K/mcL,872
+701925,MCHC,32.9,g/dL,872
+701925,lactate,5.1,mmol/L,-257
+701925,potassium,4.5,mmol/L,-257
+701925,MCH,29.5,pg,2323
+701925,creatinine,1.15,mg/dL,-257
+701925,FiO2,40,%,970
+701925,MCHC,31.9,g/dL,2323
+701925,TV,500,mls,970
+701925,paO2,82.2,mm Hg,970
+701925,pH,7.442, ,970
+701925,HCO3,26.1,mmol/L,970
+701925,RDW,14.3,%,2323
+701925,total bilirubin,0.4,mg/dL,-257
+701925,paCO2,38.3,mm Hg,970
+701925,WBC x 1000,8.2,K/mcL,872
+701925,O2 Sat (%),97.7,%,970
+701925,PEEP,5,cm H2O,970
+701925,MPV,10.8,fL,872
+701925,MCH,30.1,pg,872
+701925,CPK,89,Units/L,-257
+701925,CPK-MB INDEX,1.7,%,-257
+701925,MCV,92,fL,2323
+701925,PTT,36,sec,-257
+701925,potassium,3.8,mmol/L,1498
+701925,CPK-MB,1.5,ng/mL,-257
+701925,WBC x 1000,8.5,K/mcL,2323
+701925,Hgb,11,g/dL,2323
+701925,platelets x 1000,100,K/mcL,2323
+701925,bedside glucose,172,mg/dL,1791
+701925,bedside glucose,120,mg/dL,2599
+701925,troponin - I,0.13,ng/mL,2788
+701925,BNP,527,pg/mL,-257
+701925,bedside glucose,109,mg/dL,676
+701925,troponin - I,0.18,ng/mL,508
+701925,bedside glucose,101,mg/dL,868
+701925,bedside glucose,116,mg/dL,-12
+701925,bedside glucose,104,mg/dL,205
+701925,troponin - I,0.06,ng/mL,-257
+701925,FiO2,50,%,10
+701925,bicarbonate,25,mmol/L,872
+701925,glucose,105,mg/dL,872
+701925,potassium,3.9,mmol/L,2323
+701925,BUN,17,mg/dL,872
+701925,lactate,1,mmol/L,2788
+701925,potassium,3.6,mmol/L,872
+701925,BUN,20,mg/dL,-257
+701925,-monos,5,%,-257
+701925,calcium,7.9,mg/dL,872
+701925,chloride,107,mmol/L,872
+701925,-basos,0,%,-257
+701925,-lymphs,31,%,-223
+701925,sodium,141,mmol/L,900
+701925,anion gap,9, ,900
+701925,-polys,56,%,-223
+701925,-eos,6,%,-223
+701925,creatinine,1,mg/dL,900
+701925,bedside glucose,214,mg/dL,-240

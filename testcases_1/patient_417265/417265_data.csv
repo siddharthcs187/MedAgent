@@ -1,0 +1,2 @@
+patientunitstayid,HR_Current,HR_Lowest,HR_Highest,BP_Systolic_Current,BP_Systolic_Lowest,BP_Systolic_Highest,BP_Diastolic_Current,BP_Diastolic_Lowest,BP_Diastolic_Highest,RR_Current,RR_Lowest,RR_Highest,O2_Sat_Current,O2_Sat_Lowest,O2_Sat_Highest,FiO2,Time_Since_Admission_minutes
+417265,90,88,90,107,96,107,72,65,72,18,15,18,100,99,100,28,316

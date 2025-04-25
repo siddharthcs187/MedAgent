@@ -1,0 +1,49 @@
+labname,labresult,unit,time_offset_minutes
+potassium,4.2,mmol/L,293
+potassium,4.1,mmol/L,-307
+calcium,9.4,mg/dL,-307
+calcium,8.7,mg/dL,293
+sodium,141.0,mmol/L,-307
+sodium,140.0,mmol/L,293
+anion gap,9.0,,293
+anion gap,13.0,,307
+BUN,14.0,mg/dL,-307
+BUN,10.0,mg/dL,293
+RBC,4.62,M/mcL,-307
+RBC,4.29,M/mcL,293
+platelets x 1000,260.0,K/mcL,-307
+platelets x 1000,218.0,K/mcL,293
+chloride,105.0,mmol/L,-307
+chloride,109.0,mmol/L,293
+ALT (SGPT),49.0,Units/L,-307
+Hct,42.8,%,-307
+Hct,40.7,%,293
+glucose,80.0,mg/dL,293
+glucose,79.0,mg/dL,293
+WBC x 1000,5.6,K/mcL,-307
+WBC x 1000,4.4,K/mcL,293
+total protein,8.0,g/dL,-307
+MCH,32.3,pg,-307
+MCH,32.4,pg,293
+creatinine,1.2,mg/dL,-307
+creatinine,1.0,mg/dL,293
+albumin,4.4,g/dL,-307
+bicarbonate,23.0,mmol/L,-307
+bicarbonate,22.0,mmol/L,293
+RDW,12.3,%,-307
+RDW,12.3,%,293
+alkaline phos.,81.0,Units/L,-307
+AST (SGOT),28.0,Units/L,-307
+total bilirubin,0.9,mg/dL,-307
+HDL,45.0,mg/dL,293
+triglycerides,70.0,mg/dL,293
+total cholesterol,147.0,mg/dL,293
+ethanol,75.0,mg/dL,-307
+troponin - I,0.0,ng/mL,-250
+PT,13.3,sec,-82
+PT - INR,1.0,ratio,-82
+PTT,30.3,sec,-82
+PTT,47.2,sec,293
+TSH,2.85,mcU/ml,-307
+Respiratory Rate,16.0,/min,11
+FiO2,21.0,%,11

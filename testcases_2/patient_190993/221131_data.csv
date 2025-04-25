@@ -1,0 +1,41 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+Hct,44.7,%,-371
+-polys,75.0,%,-371
+MCHC,34.5,g/dL,-371
+-monos,10.0,%,-371
+-eos,2.0,%,-371
+WBC x 1000,9.5,K/mcL,-371
+-lymphs,12.0,%,-371
+Hgb,15.4,g/dL,-371
+RDW,14.3,%,-371
+platelets x 1000,249.0,K/mcL,-371
+Base Excess,1.0,mEq/L,-264
+Total CO2,26.0,mmol/L,-264
+anion gap,11.0,,-73
+creatinine,0.7,mg/dL,-73
+calcium,8.5,mg/dL,-73
+paCO2,40.0,mm Hg,-264
+pH,7.41,Units,-264
+RBC,4.82,M/mcL,-371
+MCH,32.0,pg,-371
+potassium,4.0,mmol/L,-73
+-basos,1.0,%,-371
+glucose,117.0,mg/dL,-73
+BUN,12.0,mg/dL,-73
+PT,11.5,sec,-371
+PT - INR,1.1,ratio,-371
+calcium,8.1,mg/dL,752
+chloride,105.0,mmol/L,-73
+Sodium,141.0,mmol/L,-73
+O2 Sat (%),95.0,%,-264
+MCV,92.7,fL,-371
+potassium,3.7,mmol/L,752
+chloride,104.0,mmol/L,752
+Sodium,136.0,mmol/L,752
+BUN,9.0,mg/dL,752
+glucose,122.0,mg/dL,752
+anion gap,8.0,,752
+bedside glucose,102.0,mg/dL,-114
+creatinine,0.7,mg/dL,752
+bicarbonate,29.0,mmol/L,-73
+bicarbonate,28.0,mmol/L,752

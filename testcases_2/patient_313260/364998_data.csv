@@ -1,0 +1,40 @@
+Lab Name,Lab Result,Unit,Lab Type
+Albumin,2.9,g/dL,Chemistry
+Bicarbonate,29.0,mmol/L,Chemistry
+Total Protein,6.5,g/dL,Chemistry
+Urinary Specific Gravity,1.02,,Misc
+FiO2,21.0,%,ABG
+paCO2,35.7,mmHg,ABG
+Lymphocytes,33.0,%,Hematology
+Potassium,3.9,mmol/L,Chemistry
+Platelets,106.0,K/mcL,Hematology
+Base Excess,0.8,mEq/L,ABG
+Monocytes,13.0,%,Hematology
+Creatinine,1.1,mg/dL,Chemistry
+MCHC,35.0,g/dL,Hematology
+Oxyhemoglobin,90.9,%,ABG
+RDW,11.9,%,Hematology
+Alkaline Phosphatase,45.0,Units/L,Chemistry
+MCH,34.0,pg,Hematology
+pH,7.453,,ABG
+RBC,3.47,M/mcL,Hematology
+Ethanol,0.0,mg/dL,Drug Level
+Acetaminophen,0.0,mcg/mL,Drug Level
+Salicylate,7.0,mg/dL,Drug Level
+MCV,99.0,fL,Hematology
+Hgb,11.9,g/dL,Hematology
+Total Bilirubin,0.3,mg/dL,Chemistry
+Methemoglobin,0.4,%,ABG
+ALT (SGPT),13.0,Units/L,Chemistry
+Polys,53.0,%,Hematology
+AST (SGOT),9.0,Units/L,Chemistry
+Glucose,82.0,mg/dL,Chemistry
+Chloride,107.0,mmol/L,Chemistry
+Hct,34.4,%,Hematology
+WBC,5.1,K/mcL,Hematology
+Sodium,142.0,mmol/L,Chemistry
+Calcium,8.3,mg/dL,Chemistry
+Basophils,0.0,%,Hematology
+paO2,82.0,mmHg,ABG
+BUN,11.0,mg/dL,Chemistry
+Eosinophils,1.0,%,Hematology

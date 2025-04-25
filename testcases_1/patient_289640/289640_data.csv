@@ -1,0 +1,3 @@
+Time_Offset_Minutes,Heart_Rate_bpm,Systolic_BP_mmHg,Diastolic_BP_mmHg,Respiratory_Rate_bpm,O2_Saturation_%,Potassium_mmol/L,Glucose_mg/dL,Chloride_mmol/L
+-102,128,117,82,27,97,2.6,147.0,106.0
+86,128,117,82,27,97,,,

@@ -1,0 +1,87 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+chloride,94.0,mmol/L,146
+calcium,7.5,mg/dL,146
+potassium,3.7,mmol/L,-151
+creatinine,0.7,mg/dL,-151
+alkaline phos.,112.0,Units/L,-151
+creatinine,0.6,mg/dL,146
+BUN,18.0,mg/dL,146
+glucose,160.0,mg/dL,146
+anion gap,23.0,,-151
+anion gap,18.0,,146
+-lymphs,2.0,%,69
+AST (SGOT),40.0,Units/L,-151
+RBC,5.15,M/mcL,69
+Hct,43.5,%,69
+ALT (SGPT),27.0,Units/L,-151
+glucose,122.0,mg/dL,-151
+MCH,30.1,pg,69
+potassium,3.2,mmol/L,146
+-monos,4.0,%,69
+Total CO2,19.0,,146
+pH,7.28,,69
+total protein,6.1,g/dL,-151
+MCH,29.2,pg,-151
+Base Excess,-9.0,mEq/L,146
+HCO3,18.5,mmol/L,69
+calcium,8.7,mg/dL,-151
+MCV,85.8,fL,-151
+platelets x 1000,182.0,K/mcL,-151
+paO2,69.0,mm Hg,146
+MCHC,35.6,g/dL,69
+lactate,10.1,mmol/L,-151
+-polys,26.0,%,69
+O2 Sat (%),95.0,%,146
+platelets x 1000,188.0,K/mcL,69
+RDW,16.9,%,69
+sodium,129.0,mmol/L,-151
+Hgb,16.5,g/dL,-151
+-bands,49.0,%,-151
+chloride,86.0,mmol/L,-151
+BUN,17.0,mg/dL,-151
+total bilirubin,1.2,mg/dL,-151
+WBC x 1000,28.2,K/mcL,-151
+PT,21.3,sec,-151
+MCV,84.5,fL,69
+PT - INR,1.9,ratio,-151
+Hct,48.5,%,-151
+-monos,2.0,%,-151
+paCO2,39.0,mm Hg,69
+CRP,1148.0,mg/dL,69
+O2 Sat (%),84.0,%,-85
+-polys,32.0,%,-151
+-bands,41.0,%,69
+fibrinogen,353.0,mg/dL,92
+Total CO2,20.0,,69
+lactate,4.8,mmol/L,69
+Total CO2,16.0,,-85
+WBC x 1000,16.1,K/mcL,69
+PT - INR,2.0,ratio,92
+PT,22.2,sec,92
+calcium,7.2,mg/dL,372
+Total CO2,19.0,,372
+sodium,126.0,mmol/L,372
+bicarbonate,16.0,mmol/L,372
+creatinine,0.5,mg/dL,372
+MCHC,34.0,g/dL,-151
+glucose,184.0,mg/dL,372
+Base Excess,-8.0,mEq/L,372
+paCO2,39.0,mm Hg,372
+paO2,70.0,mm Hg,372
+O2 Sat (%),95.0,%,372
+anion gap,12.0,,372
+potassium,3.6,mmol/L,372
+chloride,98.0,mmol/L,372
+BUN,17.0,mg/dL,372
+Carboxyhemoglobin,2.5,%,372
+HCO3,18.2,mmol/L,372
+urinary specific gravity,1.015,,130
+PEEP,10.0,cm H2O,96
+PEEP,10.0,cm H2O,34
+amylase,85.0,Units/L,69
+PTT,39.2,sec,92
+FiO2,100.0,%,96
+FiO2,100.0,%,34
+Carboxyhemoglobin,2.6,%,146
+Carboxyhemoglobin,2.3,%,-85
+Carboxyhemoglobin,2.5,%,72

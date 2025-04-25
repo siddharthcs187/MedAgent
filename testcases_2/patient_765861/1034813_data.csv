@@ -1,0 +1,354 @@
+labname,labresult,labresultoffset,labtypeid,labmeasurenamesystem
+WBC x 1000,10.8,7095.0,3,K/mcL
+RBC,3.2,5700.0,3,M/mcL
+triglycerides,315.0,9980.0,1,mg/dL
+PT,10.6,1372.0,3,sec
+phosphate,2.7,8540.0,1,mg/dL
+WBC x 1000,25.2,21515.0,3,K/mcL
+RBC,2.32,21515.0,3,M/mcL
+Hgb,7.2,21515.0,3,g/dL
+PT - INR,1.0,1372.0,3,ratio
+triglycerides,284.0,7095.0,1,mg/dL
+phosphate,5.4,4245.0,1,mg/dL
+ALT (SGPT),27.0,9980.0,1,Units/L
+AST (SGOT),31.0,9980.0,1,Units/L
+alkaline phos.,91.0,9980.0,1,Units/L
+total protein,4.0,9980.0,1,g/dL
+albumin,1.9,9980.0,1,g/dL
+platelets x 1000,182.0,4245.0,3,K/mcL
+-lymphs,4.9,21515.0,3,%
+-monos,5.4,21515.0,3,%
+-polys,85.4,21515.0,3,%
+MPV,11.0,21515.0,3,fL
+Hct,22.7,21515.0,3,%
+lipase,397.0,15735.0,1,Units/L
+phosphate,3.5,7095.0,1,mg/dL
+ALT (SGPT),20.0,8540.0,1,Units/L
+AST (SGOT),38.0,8540.0,1,Units/L
+albumin,2.1,8540.0,1,g/dL
+total protein,4.6,8540.0,1,g/dL
+total bilirubin,2.6,8540.0,1,mg/dL
+Hct,29.7,7095.0,3,%
+-bands,5.0,7095.0,3,%
+-lymphs,4.0,7095.0,3,%
+-monos,17.0,7095.0,3,%
+-polys,73.0,7095.0,3,%
+-basos,1.0,7095.0,3,%
+lipase,510.0,8540.0,1,Units/L
+lipase,667.0,9980.0,1,Units/L
+lipase,5782.0,307.0,1,Units/L
+lipase,550.0,5700.0,1,Units/L
+lipase,517.0,12775.0,1,Units/L
+lipase,457.0,33045.0,1,Units/L
+lipase,282.0,14250.0,1,Units/L
+lipase,457.0,25755.0,1,Units/L
+lipase,577.0,11385.0,1,Units/L
+lipase,439.0,17100.0,1,Units/L
+lipase,1862.0,2865.0,1,Units/L
+lipase,3309.0,1372.0,1,Units/L
+lipase,911.0,4245.0,1,Units/L
+-lymphs,0.9,24385.0,3,%
+-polys,95.6,24385.0,3,%
+-monos,3.5,24385.0,3,%
+-basos,0.3,24385.0,3,%
+MPV,10.7,24385.0,3,fL
+RDW,16.9,24385.0,3,%
+Hgb,8.3,24385.0,3,g/dL
+Hct,25.0,24385.0,3,%
+WBC x 1000,18.7,24385.0,3,K/mcL
+RBC,2.72,24385.0,3,M/mcL
+MCHC,33.2,24385.0,3,g/dL
+MCH,30.5,24385.0,3,pg
+-lymphs,4.5,20025.0,3,%
+-polys,85.2,20025.0,3,%
+-monos,5.0,20025.0,3,%
+-basos,0.3,20025.0,3,%
+MPV,11.2,20025.0,3,fL
+RDW,16.0,20025.0,3,%
+Hgb,7.2,20025.0,3,g/dL
+Hct,23.9,20025.0,3,%
+WBC x 1000,20.5,20025.0,3,K/mcL
+RBC,2.37,20025.0,3,M/mcL
+MCHC,30.1,20025.0,3,g/dL
+MCH,30.4,20025.0,3,pg
+platelets x 1000,696.0,20025.0,3,K/mcL
+WBC x 1000,14.3,28700.0,3,K/mcL
+RBC,2.69,28700.0,3,M/mcL
+Hct,25.0,28700.0,3,%
+-lymphs,1.7,28700.0,3,%
+-monos,5.0,28700.0,3,%
+-polys,91.7,28700.0,3,%
+-basos,0.8,28700.0,3,%
+MPV,10.4,28700.0,3,fL
+RDW,15.2,28700.0,3,%
+Hgb,8.0,28700.0,3,g/dL
+platelets x 1000,566.0,28700.0,3,K/mcL
+WBC x 1000,13.3,31570.0,3,K/mcL
+RBC,2.7,31570.0,3,M/mcL
+Hct,24.5,31570.0,3,%
+-lymphs,9.5,31570.0,3,%
+-monos,2.6,31570.0,3,%
+-polys,83.5,31570.0,3,%
+-bands,0.9,31570.0,3,%
+MPV,10.2,31570.0,3,fL
+RDW,15.1,31570.0,3,%
+Hgb,8.2,31570.0,3,g/dL
+platelets x 1000,565.0,31570.0,3,K/mcL
+Vitamin B12,1047.0,31570.0,3,pg/mL
+WBC x 1000,11.9,36000.0,3,K/mcL
+RBC,3.01,36000.0,3,M/mcL
+Hct,27.9,36000.0,3,%
+-lymphs,13.6,36000.0,3,%
+-monos,11.2,36000.0,3,%
+-polys,66.2,36000.0,3,%
+-basos,0.7,36000.0,3,%
+MPV,10.6,36000.0,3,fL
+RDW,14.7,36000.0,3,%
+Hgb,8.8,36000.0,3,g/dL
+platelets x 1000,572.0,36000.0,3,K/mcL
+WBC x 1000,12.3,34510.0,3,K/mcL
+RBC,2.81,34510.0,3,M/mcL
+Hct,25.8,34510.0,3,%
+-lymphs,12.2,34510.0,3,%
+-monos,11.7,34510.0,3,%
+-polys,68.4,34510.0,3,%
+-bands,0.5,34510.0,3,%
+MPV,10.0,34510.0,3,fL
+RDW,14.7,34510.0,3,%
+Hgb,8.1,34510.0,3,g/dL
+platelets x 1000,550.0,34510.0,3,K/mcL
+WBC x 1000,9.9,2864.0,3,K/mcL
+RBC,4.05,2864.0,3,M/mcL
+Hct,39.2,2864.0,3,%
+-lymphs,12.0,2864.0,3,%
+-monos,21.0,2864.0,3,%
+-polys,49.0,2864.0,3,%
+-bands,15.0,2864.0,3,%
+-eos,2.0,2864.0,3,%
+-basos,21.0,2864.0,3,%
+MPV,9.4,2864.0,3,fL
+RDW,14.9,2864.0,3,%
+Hgb,13.1,2864.0,3,g/dL
+platelets x 1000,193.0,2864.0,3,K/mcL
+WBC x 1000,22.0,9695.0,3,K/mcL
+RBC,3.25,9695.0,3,M/mcL
+Hct,31.5,9695.0,3,%
+-lymphs,5.0,9695.0,3,%
+-monos,13.0,9695.0,3,%
+-polys,77.4,9695.0,3,%
+-bands,8.0,9695.0,3,%
+-eos,3.0,9695.0,3,%
+-basos,0.2,9695.0,3,%
+MPV,11.6,9695.0,3,fL
+RDW,15.2,9695.0,3,%
+Hgb,9.8,9695.0,3,g/dL
+platelets x 1000,289.0,9695.0,3,K/mcL
+WBC x 1000,17.2,8540.0,3,K/mcL
+RBC,3.08,8540.0,3,M/mcL
+Hct,29.7,8540.0,3,%
+-lymphs,5.0,8540.0,3,%
+-monos,13.0,8540.0,3,%
+-polys,69.0,8540.0,3,%
+-bands,8.0,8540.0,3,%
+-eos,1.0,8540.0,3,%
+-basos,1.0,8540.0,3,%
+MPV,9.8,8540.0,3,fL
+RDW,15.9,8540.0,3,%
+Hgb,9.7,8540.0,3,g/dL
+platelets x 1000,233.0,8540.0,3,K/mcL
+WBC x 1000,14.0,12775.0,3,K/mcL
+RBC,2.86,12775.0,3,M/mcL
+Hct,27.6,12775.0,3,%
+-lymphs,2.0,12775.0,3,%
+-monos,3.5,12775.0,3,%
+-polys,90.4,12775.0,3,%
+-bands,4.4,12775.0,3,%
+-eos,0.2,12775.0,3,%
+-basos,1.0,12775.0,3,%
+MPV,11.8,12775.0,3,fL
+RDW,15.5,12775.0,3,%
+Hgb,9.0,12775.0,3,g/dL
+platelets x 1000,377.0,12775.0,3,K/mcL
+WBC x 1000,30.0,14250.0,3,K/mcL
+RBC,2.56,14250.0,3,M/mcL
+Hct,24.6,14250.0,3,%
+-lymphs,2.0,14250.0,3,%
+-monos,2.0,14250.0,3,%
+-polys,92.0,14250.0,3,%
+-bands,3.0,14250.0,3,%
+-eos,1.0,14250.0,3,%
+-basos,3.0,14250.0,3,%
+MPV,11.4,14250.0,3,fL
+RDW,15.4,14250.0,3,%
+Hgb,8.2,14250.0,3,g/dL
+platelets x 1000,431.0,14250.0,3,K/mcL
+WBC x 1000,27.1,15735.0,3,K/mcL
+RBC,2.61,15735.0,3,M/mcL
+Hct,25.9,15735.0,3,%
+-lymphs,1.6,15735.0,3,%
+-monos,2.0,15735.0,3,%
+-polys,91.0,15735.0,3,%
+-bands,6.0,15735.0,3,%
+-eos,1.0,15735.0,3,%
+-basos,0.3,15735.0,3,%
+MPV,11.7,15735.0,3,fL
+RDW,15.6,15735.0,3,%
+Hgb,8.0,15735.0,3,g/dL
+platelets x 1000,525.0,15735.0,3,K/mcL
+WBC x 1000,11.2,1373.0,3,K/mcL
+RBC,4.4,1373.0,3,M/mcL
+Hct,42.2,1373.0,3,%
+-lymphs,10.0,1373.0,3,%
+-monos,12.2,1373.0,3,%
+-polys,77.4,1373.0,3,%
+-bands,14.5,1373.0,3,%
+-eos,0.2,1373.0,3,%
+-basos,0.2,1373.0,3,%
+MPV,9.6,1373.0,3,fL
+RDW,14.5,1373.0,3,%
+Hgb,14.1,1373.0,3,g/dL
+platelets x 232,1373.0,3.0,K/mcL,
+WBC x 1000,13.8,37360.0,3,K/mcL
+RBC,2.94,37360.0,3,M/mcL
+Hct,27.1,37360.0,3,%
+-lymphs,10.9,37360.0,3,%
+-monos,10.7,37360.0,3,%
+-polys,71.1,37360.0,3,%
+-bands,0.5,37360.0,3,%
+-eos,6.1,37360.0,3,%
+-basos,0.5,37360.0,3,%
+MPV,10.2,37360.0,3,fL
+RDW,14.6,37360.0,3,%
+Hgb,8.6,37360.0,3,g/dL
+platelets x 1000,551.0,37360.0,3,K/mcL
+WBC x 1000,11.8,33045.0,3,K/mcL
+RBC,2.81,33045.0,3,M/mcL
+Hct,25.9,33045.0,3,%
+-lymphs,14.9,33045.0,3,%
+-monos,12.4,33045.0,3,%
+-polys,63.9,33045.0,3,%
+-bands,0.9,33045.0,3,%
+-eos,6.1,33045.0,3,%
+-basos,0.9,33045.0,3,%
+MPV,10.0,33045.0,3,fL
+RDW,15.0,33045.0,3,%
+Hgb,8.4,33045.0,3,g/dL
+platelets x 1000,558.0,33045.0,3,K/mcL
+WBC x 1000,25.0,9980.0,3,K/mcL
+RBC,3.3,9980.0,3,M/mcL
+Hct,32.4,9980.0,3,%
+-lymphs,6.1,9980.0,3,%
+-monos,6.1,9980.0,3,%
+-polys,86.9,9980.0,3,%
+-bands,4.3,9980.0,3,%
+-eos,0.9,9980.0,3,%
+-basos,0.9,9980.0,3,%
+MPV,11.8,9980.0,3,fL
+RDW,15.4,9980.0,3,%
+Hgb,10.1,9980.0,3,g/dL
+platelets x 1000,286.0,9980.0,3,K/mcL
+WBC x 1000,7.4,5700.0,3,K/mcL
+RBC,3.2,5700.0,3,M/mcL
+Hct,30.8,5700.0,3,%
+-lymphs,4.0,5700.0,3,%
+-monos,18.0,5700.0,3,%
+-polys,54.0,5700.0,3,%
+-bands,19.0,5700.0,3,%
+-eos,3.0,5700.0,3,%
+-basos,0.2,5700.0,3,%
+MPV,9.7,5700.0,3,fL
+RDW,14.9,5700.0,3,%
+Hgb,10.2,5700.0,3,g/dL
+platelets x 1000,187.0,5700.0,3,K/mcL
+MCHC,33.2,5700.0,3,g/dL
+MCH,32.0,5700.0,3,pg
+Respiratory Rate,22.0,2869.0,7,/min
+pH,7.3,2869.0,7,
+Total CO2,23.0,2869.0,7,
+PEEP,5.0,2869.0,7,cm H2O
+Pressure Control,26.0,2869.0,7,cm H2O
+Temperature,37.0,2869.0,7,°C
+Vent Rate,20.0,1367.0,7,/min
+pH,7.19,1367.0,7,
+Total CO2,15.0,1367.0,7,
+PEEP,5.0,1367.0,7,cm H2O
+FiO2,50.0,1367.0,7,%
+Pressure Control,26.0,1367.0,7,cm H2O
+Base Excess,-14.0,1367.0,7,mEq/L
+Temperature,37.9,15093.0,7,°C
+Vent Rate,15.0,10523.0,7,/min
+pH,7.38,10523.0,7,
+Total CO2,27.0,10523.0,7,
+PEEP,10.0,10523.0,7,cm H2O
+Pressure Support,16.0,9718.0,7,cm H2O
+Vent Rate,18.0,9718.0,7,/min
+Temperature,37.0,9718.0,7,°C
+paO2,83.0,9718.0,7,mm Hg
+FiO2,30.0,9718.0,7,%
+Total CO2,23.0,9718.0,7,
+Base Excess,-3.0,9718.0,7,mEq/L
+paO2,98.0,10523.0,7,mm Hg
+FiO2,30.0,10523.0,7,%
+Total CO2,25.8,10523.0,7,
+Base Excess,1.0,10523.0,7,mEq/L
+Respiratory Rate,2.0,2067.0,7,/min
+pH,7.31,2067.0,7,
+Total CO2,18.0,2067.0,7,
+PEEP,5.0,2067.0,7,cm H2O
+FiO2,30.0,2067.0,7,%
+Pressure Control,26.0,2067.0,7,cm H2O
+Base Excess,-9.0,2067.0,7,mEq/L
+paO2,65.0,2067.0,7,mm Hg
+O2 Sat (%),91.0,2067.0,7,%
+Vent Other,11.0,2067.0,7,
+Temperature,37.9,15093.0,7,°C
+Vent Rate,25.0,13287.0,7,/min
+pH,7.31,13287.0,7,
+Total CO2,20.0,13287.0,7,
+PEEP,8.0,13287.0,7,cm H2O
+Pressure Control,26.0,13287.0,7,cm H2O
+FiO2,40.0,13287.0,7,%
+Base Excess,-7.0,13287.0,7,mEq/L
+paO2,147.0,13287.0,7,mm Hg
+O2 Sat (%),99.0,13287.0,7,%
+Vent Other,9.0,15093.0,7,
+Pressure Support,12.0,10523.0,7,cm H2O
+Vent Rate,15.0,10523.0,7,/min
+Temperature,37.0,10523.0,7,°C
+paO2,83.0,10523.0,7,mm Hg
+FiO2,30.0,10523.0,7,%
+Total CO2,27.0,10523.0,7,
+Base Excess,1.0,10523.0,7,mEq/L
+Respiratory Rate,33.0,9283.0,7,/min
+pH,7.36,9283.0,7,
+Total CO2,23.0,9283.0,7,
+PEEP,10.0,9283.0,7,cm H2O
+Vent Other,17.0,9283.0,7,
+FiO2,30.0,9283.0,7,%
+Base Excess,-3.0,9283.0,7,mEq/L
+paO2,73.0,9283.0,7,mm Hg
+O2 Sat (%),94.0,9283.0,7,%
+Pressure Support,12.0,10523.0,7,cm H2O
+Vent Rate,15.0,10523.0,7,/min
+Temperature,37.0,10523.0,7,°C
+paO2,98.0,10523.0,7,mm Hg
+FiO2,30.0,10523.0,7,%
+Total CO2,25.8,10523.0,7,
+Base Excess,1.0,10523.0,7,mEq/L
+bedside glucose,154.0,9018.0,4,mg/dL
+bedside glucose,139.0,8239.0,4,mg/dL
+bedside glucose,128.0,12776.0,4,mg/dL
+bedside glucose,121.0,23429.0,4,mg/dL
+bedside glucose,164.0,7521.0,4,mg/dL
+bedside glucose,137.0,14686.0,4,mg/dL
+bedside glucose,120.0,20773.0,4,mg/dL
+bedside glucose,140.0,17101.0,4,mg/dL
+bedside glucose,123.0,15652.0,4,mg/dL
+bedside glucose,130.0,21074.0,4,mg/dL
+bedside glucose,120.0,20377.0,4,mg/dL
+bedside glucose,140.0,17914.0,4,mg/dL
+bedside glucose,125.0,18187.0,4,mg/dL
+bedside glucose,167.0,12104.0,4,mg/dL
+bedside glucose,136.0,15003.0,4,mg/dL
+bedside glucose,113.0,17477.0,4,mg/dL
+bedside glucose,,,,

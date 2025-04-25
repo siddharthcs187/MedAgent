@@ -1,0 +1,45 @@
+Lab Name,Result,Units,Lab Type,Offset (minutes)
+Chloride,99.0,mmol/L,Chemistry,-118
+Chloride,105.0,mmol/L,Chemistry,2115
+Glucose,153.0,mg/dL,Chemistry,-118
+Glucose,143.0,mg/dL,Chemistry,2115
+Glucose,123.0,mg/dL,Misc,3602
+BUN,17.0,mg/dL,Chemistry,-118
+BUN,18.0,mg/dL,Chemistry,2115
+Bicarbonate,23.0,mmol/L,Chemistry,-118
+Bicarbonate,26.0,mmol/L,Chemistry,2115
+ALT (SGPT),21.0,U/L,Chemistry,-118
+RDW,12.3,%,Hematology,-118
+RDW,12.6,%,Hematology,2115
+Albumin,4.4,g/dL,Chemistry,-118
+MCH,29.9,pg,Hematology,-118
+MCH,29.6,pg,Hematology,2115
+MPV,10.1,fL,Hematology,2115
+MPV,10.2,fL,Hematology,-118
+Anion Gap,15.0,mmol/L,Chemistry,-118
+Anion Gap,10.0,mmol/L,Chemistry,2115
+MCHC,32.0,g/dL,Hematology,2115
+MCHC,34.0,g/dL,Hematology,-118
+WBC x 1000,12.84,K/mcL,Hematology,-118
+WBC x 1000,8.08,K/mcL,Hematology,2115
+Hgb,8.3,g/dL,Hematology,2115
+Hgb,12.1,g/dL,Hematology,-118
+RBC,2.8,M/mcL,Hematology,2115
+RBC,4.05,M/mcL,Hematology,-118
+Potassium,4.3,mmol/L,Chemistry,-118
+Potassium,4.9,mmol/L,Chemistry,2115
+Creatinine,0.98,mg/dL,Chemistry,-118
+Creatinine,1.02,mg/dL,Chemistry,2115
+Hct,25.9,%,Hematology,2115
+Hct,35.6,%,Hematology,-118
+PT,13.6,sec,Hematology,-48
+PT - INR,1.1,ratio,Hematology,-48
+Platelets x 1000,164.0,K/mcL,Hematology,2115
+Platelets x 1000,221.0,K/mcL,Hematology,-118
+Calcium,9.8,mg/dL,Chemistry,-118
+Calcium,9.1,mg/dL,Chemistry,2115
+Total Protein,7.6,g/dL,Chemistry,-118
+Total Bilirubin,0.3,mg/dL,Chemistry,-118
+AST (SGOT),18.0,U/L,Chemistry,-118
+Alkaline Phos.,69.0,U/L,Chemistry,-118
+BNP,44.0,pg/mL,Misc,2752

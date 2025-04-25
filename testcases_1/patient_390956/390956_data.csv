@@ -1,0 +1,27 @@
+PatientUnitStayID,DiagnosisString,ICD9Code,DiagnosisPriority
+cardiovascular|arrhythmias|atrial fibrillation,427.31, I48.0,Primary
+renal|disorder of kidney|chronic renal insufficiency,585.9, N18.9,Major
+gastrointestinal|esophageal disease|esophagitis|regurgitant,530.11, K21.0,Other
+neurologic|altered mental status / pain|dementia,294.9, F03,Major
+neurologic|altered mental status / pain|depression,311, F32.9,Major
+cardiovascular|chest pain / ASHD|hyperlipidemia,272.4, E78.5,Other
+endocrine|thyroid|hypothyroidism,244.9, E03.9,Major
+TreatmentString,ActiveUponDischarge,,
+cardiovascular|ventricular dysfunction|oral diuretic|po furosemide,True,,
+endocrine|thyroid disorder|thyroid hormone|oral,True,,
+hematology|oncological issues|allopurinol,True,,
+endocrine|thyroid disorder|thyroid hormone|levothyroxine (T4),True,,
+gastrointestinal|medications|stress ulcer prophylaxis|pantoprazole|oral,True,,
+cardiovascular|arrhythmias|antiarrhythmics|class IV antiarrhythmic|diltiazem,True,,
+cardiovascular|myocardial ischemia / infarction|analgesics|narcotic analgesic,True,,
+gastrointestinal|medications|antiemetic|anticholinergic|meclizine,True,,
+gastrointestinal|medications|antiemetic|serotonin antagonist|ondansetron,True,,
+cardiovascular|arrhythmias|electrolyte administration|oral,True,,
+cardiovascular|arrhythmias|electrolyte administration|potassium,True,,
+neurologic|procedures / diagnostics|head CT scan,True,,
+gastrointestinal|medications|antiemetic|promethazine,True,,
+cardiovascular|myocardial ischemia / infarction|anticoagulant administration|factor Xa inhibitor,True,,
+cardiovascular|myocardial ischemia / infarction|antihyperlipidemic agent|HMG-CoA reductase inhibitor|atorvastatin,True,,
+gastrointestinal|nutrition|enteral feeds|oral feeds,True,,
+cardiovascular|myocardial ischemia / infarction|analgesics|oral analgesics,True,,
+neurologic|pain / agitation / altered mentation|SSRI administration|citalopram (Celexa),True,,

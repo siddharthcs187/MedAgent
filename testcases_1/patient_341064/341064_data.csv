@@ -1,0 +1,123 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+-lymphs,14.0,%,6542
+-monos,5.0,%,6542
+RDW,16.7,%,6542
+-polys,74.0,%,6542
+-eos,7.0,%,6542
+platelets x 1000,392.0,K/mcL,6542
+-lymphs,12.0,%,757
+-polys,82.0,%,757
+RBC,3.29,M/mcL,757
+-monos,5.0,%,757
+-eos,1.0,%,757
+platelets x 1000,310.0,K/mcL,757
+Hgb,10.2,g/dL,757
+MCV,89.0,fL,757
+MCH,31.0,pg,757
+MCHC,35.0,g/dL,757
+RDW,15.8,%,757
+Hct,29.4,%,757
+Total bilirubin,15.0,mg/dL,-203
+Alkaline phos.,1456.0,Units/L,-203
+ALT (SGPT),602.0,Units/L,-203
+Total protein,6.0,g/dL,6542
+Direct bilirubin,11.4,mg/dL,-203
+AST (SGOT),363.0,Units/L,-203
+Albumin,3.1,g/dL,6542
+Lipase,4.0,Units/L,-203
+Potassium,3.2,mmol/L,-233
+Creatinine,0.55,mg/dL,-233
+Sodium,137.0,mmol/L,-233
+Bicarbonate,25.0,mmol/L,-233
+Chloride,99.0,mmol/L,-233
+Glucose,151.0,mg/dL,-233
+Troponin - I,0.0,ng/mL,-213
+Hgb,10.6,g/dL,6542
+Hct,30.8,%,6542
+RBC,3.47,M/mcL,6542
+MCV,89.0,fL,6542
+MCH,31.0,pg,6542
+MCHC,34.0,g/dL,6542
+WBC x 1000,12.1,K/mcL,6542
+-lymphs,12.0,%,6542
+-monos,5.0,%,6542
+-polys,74.0,%,6542
+-eos,7.0,%,6542
+platelets x 1000,392.0,K/mcL,6542
+RDW,16.7,%,6542
+Total protein,5.8,g/dL,-203
+Albumin,3.5,g/dL,-203
+Total bilirubin,4.6,mg/dL,6542
+Direct bilirubin,3.3,mg/dL,6542
+AST (SGOT),30.0,Units/L,6542
+ALT (SGPT),143.0,Units/L,6542
+Alkaline phos.,909.0,Units/L,6542
+BUN,10.0,mg/dL,2127
+Calcium,8.2,mg/dL,2127
+Chloride,107.0,mmol/L,2127
+Creatinine,0.54,mg/dL,2127
+Glucose,122.0,mg/dL,2127
+Potassium,4.0,mmol/L,2127
+Sodium,140.0,mmol/L,2127
+Bicarbonate,22.0,mmol/L,2127
+Hgb,9.5,g/dL,2127
+RBC,3.15,M/mcL,2127
+Hct,28.6,%,2127
+WBC x 1000,9.2,K/mcL,2127
+MCV,91.0,fL,2127
+MCH,30.0,pg,2127
+MCHC,33.0,g/dL,2127
+RDW,16.0,%,2127
+platelets x 1000,251.0,K/mcL,2127
+-lymphs,6.0,%,2127
+-monos,4.0,%,2127
+-polys,90.0,%,2127
+-eos,0.0,%,2127
+BUN,11.0,mg/dL,5858
+Glucose,245.0,mg/dL,5858
+Creatinine,0.78,mg/dL,5858
+Sodium,136.0,mmol/L,5858
+Potassium,4.8,mmol/L,5858
+Bicarbonate,25.0,mmol/L,5858
+Chloride,101.0,mmol/L,5858
+Calcium,9.1,mg/dL,5858
+AST (SGOT),84.0,Units/L,2127
+ALT (SGPT),278.0,Units/L,2127
+Total protein,4.7,g/dL,2127
+Total bilirubin,14.3,mg/dL,2127
+Direct bilirubin,10.3,mg/dL,2127
+Alkaline phos.,1082.0,Units/L,2127
+Albumin,2.4,g/dL,2127
+Urinary specific gravity,1.022,,352
+Urinary specific gravity,1.025,,-235
+Albumin,2.7,g/dL,757
+Total protein,4.8,g/dL,757
+Total bilirubin,16.3,mg/dL,757
+Direct bilirubin,12.3,mg/dL,757
+Alkaline phos.,1242.0,Units/L,757
+AST (SGOT),161.0,Units/L,757
+ALT (SGPT),399.0,Units/L,757
+BUN,14.0,mg/dL,757
+Calcium,8.2,mg/dL,757
+Chloride,101.0,mmol/L,757
+Creatinine,0.56,mg/dL,757
+Glucose,75.0,mg/dL,757
+Lipase,,Units/L,757
+Potassium,3.2,mmol/L,757
+Sodium,140.0,mmol/L,757
+FiO2,33.0,%,92
+Respiratory Rate,18.0,/min,92
+LPM O2,3.0,L/min,92
+Bedside glucose,94.0,mg/dL,6
+-basos,1.0,%,-243
+-polys,71.0,%,-243
+-lymphs,23.0,%,-243
+-monos,4.0,%,-243
+-eos,1.0,%,-243
+Hct,31.6,%,-243
+WBC x 1000,12.2,K/mcL,-243
+MCH,31.0,pg,-243
+MCHC,36.0,g/dL,-243
+RDW,15.7,%,-243
+platelets x 1000,508.0,K/mcL,-243
+RBC,3.6,M/mcL,-243

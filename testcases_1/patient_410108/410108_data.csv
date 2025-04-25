@@ -1,0 +1,5 @@
+patientunitstayid,diagnosisstring,icd9code,diagnosispriority,treatmentstring,activeupondischarge
+410108,cardiovascular|ventricular disorders|hypertension,"401.9, I10",Major,cardiovascular|ventricular dysfunction|intravenous diuretic,True
+410108,neurologic|altered mental status / pain|change in mental status,"780.09, R41.82",Major,cardiovascular|arrhythmias|antiarrhythmics|class IV antiarrhythmic|diltiazem,True
+410108,pulmonary|respiratory failure|acute respiratory distress,518.82,Major,endocrine|thyroid disorder|thyroid hormone|levothyroxine (T4),True
+410108,cardiovascular|ventricular disorders|congestive heart failure,"428.0, I50.9",Primary,gastrointestinal|medications|stress ulcer prophylaxis|pantoprazole,True

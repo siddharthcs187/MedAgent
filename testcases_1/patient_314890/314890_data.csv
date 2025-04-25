@@ -1,0 +1,2 @@
+patientunitstayid,patienthealthsystemstayid,gender,age,ethnicity,hospitalid,wardid,admissionheight,hospitaladmittime24,hospitaladmitoffset,hospitaldischargeyear,hospitaldischargetime24,hospitaldischargeoffset,unittype,unitadmittime24,unitadmitsource,unitvisitnumber,unitstaytype,unitdischargetime24,unitdischargeoffset,unitdischargelocation,unitdischargestatus
+314890,272106,Male,40,Caucasian,123,175,198.1,06:22:00,-1682,2015,13:00:00,7356,Med-Surg ICU,10:24:00,ICU to SDU,2,stepdown/other,12:48:00,144,Floor,Alive

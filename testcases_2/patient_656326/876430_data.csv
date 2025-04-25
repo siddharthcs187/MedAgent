@@ -1,0 +1,76 @@
+LabTest,TimeOffset(minutes),LabResult,Units
+BUN,746,26.0,mg/dL
+BUN,2366,26.0,mg/dL
+BUN,3781,21.0,mg/dL
+Calcium,746,8.3,mg/dL
+Calcium,2366,8.2,mg/dL
+Calcium,3781,8.4,mg/dL
+Chloride,2366,106.0,mmol/L
+Chloride,3781,103.0,mmol/L
+Creatinine,746,1.12,mg/dL
+Creatinine,2366,1.01,mg/dL
+Creatinine,3781,1.09,mg/dL
+Glucose,746,99.0,mg/dL
+Glucose,2366,94.0,mg/dL
+Glucose,3781,88.0,mg/dL
+Anion gap,746,6.0,
+Anion gap,2366,8.0,
+Anion gap,3781,9.0,
+Potassium,746,4.3,mmol/L
+Potassium,2366,3.8,mmol/L
+Potassium,3781,3.5,mmol/L
+Bicarbonate,746,24.0,mmol/L
+Bicarbonate,2366,26.0,mmol/L
+Bicarbonate,3781,28.0,mmol/L
+Sodium,746,137.0,mmol/L
+Sodium,2366,140.0,mmol/L
+Sodium,3781,140.0,mmol/L
+ALT (SGPT),2366,55.0,Units/L
+ALT (SGPT),3781,48.0,Units/L
+AST (SGOT),2366,51.0,Units/L
+AST (SGOT),3781,40.0,Units/L
+Total bilirubin,2366,1.2,mg/dL
+Total bilirubin,3781,1.2,mg/dL
+Total protein,2366,5.3,g/dL
+Total protein,3781,5.4,g/dL
+Albumin,3781,3.1,g/dL
+Alkaline phos.,2366,44.0,Units/L
+Alkaline phos.,3781,50.0,Units/L
+Hgb,746,10.7,g/dL
+Hgb,2366,10.3,g/dL
+Hgb,3781,11.3,g/dL
+Hct,746,30.9,%
+Hct,2366,29.9,%
+Hct,3781,32.2,%
+WBC x 1000,746,8.3,K/mcL
+WBC x 1000,2366,6.2,K/mcL
+WBC x 1000,3781,6.4,K/mcL
+Platelets x 1000,746,68.0,K/mcL
+Platelets x 1000,2366,93.0,K/mcL
+Platelets x 1000,3781,128.0,K/mcL
+MCV,746,91.0,fL
+MCV,2366,90.0,fL
+MCV,3781,89.0,fL
+MCH,746,31.6,pg
+MCH,2366,30.9,pg
+MCH,3781,31.4,pg
+MCHC,746,34.6,g/dL
+MCHC,2366,34.4,g/dL
+MCHC,3781,35.1,g/dL
+RDW,746,13.6,%
+RDW,2366,13.3,%
+RDW,3781,13.0,%
+MPV,746,11.3,fL
+MPV,2366,10.9,fL
+MPV,3781,10.5,fL
+RBC,746,3.39,M/mcL
+RBC,2366,3.33,M/mcL
+RBC,3781,3.6,M/mcL
+PT,746,16.1,sec
+PT,2366,16.2,sec
+PT,3781,16.9,sec
+PT - INR,746,1.3,ratio
+PT - INR,2366,1.3,ratio
+PT - INR,3781,1.4,ratio
+TSH,3781,2.51,mcU/ml
+Magnesium,3781,1.6,mg/dL

@@ -1,0 +1,26 @@
+LabName,AdmissionValue,AdmissionUnits,DischargeValue,DischargeUnits,TimeOffset
+creatinine,0.75,mg/dL,0.61,mg/dL,1002.0
+alkaline phos.,82.0,Units/L,83.0,Units/L,1002.0
+total bilirubin,0.5,mg/dL,0.5,mg/dL,1002.0
+sodium,134.0,mmol/L,133.0,mmol/L,1002.0
+chloride,99.0,mmol/L,99.0,mmol/L,1002.0
+potassium,4.5,mmol/L,3.9,mmol/L,1002.0
+CPK,44.0,Units/L,,,
+anion gap,16.0,mmol/L,16.0,mmol/L,1002.0
+albumin,3.8,g/dL,3.8,g/dL,1002.0
+calcium,8.7,mg/dL,8.6,mg/dL,1002.0
+bicarbonate,24.0,mmol/L,22.0,mmol/L,1002.0
+glucose,99.0,mg/dL,97.0,mg/dL,1002.0
+total protein,6.3,g/dL,6.3,g/dL,1002.0
+BUN,10.0,mg/dL,11.0,mg/dL,1002.0
+troponin - I,0.43,ng/mL,0.32,ng/mL,1002.0
+Hgb,12.3,g/dL,12.8,g/dL,1002.0
+Hct,37.4,%,38.7,%,1002.0
+WBC x 1000,10.6,K/mcL,9.9,K/mcL,1002.0
+platelets x 1000,288.0,K/mcL,218.0,K/mcL,1002.0
+MCV,88.0,fL,86.6,fL,1002.0
+MCHC,32.9,g/dL,33.1,g/dL,1002.0
+MCH,28.9,pg,28.6,pg,1002.0
+RDW,14.9,%,14.5,%,1002.0
+BNP,2025.0,pg/mL,,,
+TSH,2.712,mcU/ml,,,

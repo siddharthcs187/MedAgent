@@ -1,0 +1,47 @@
+labname,labresult,labmeasurenamesystem,labresultoffset (minutes)
+-eos,1,%,327
+chloride,104,mmol/L,327
+RDW,14.2,%,327
+BUN,12,mg/dL,327
+MCV,86,fL,327
+calcium,9.7,mg/dL,327
+Hgb,12.6,g/dL,327
+total protein,7,g/dL,327
+PT,10.9,sec,327
+albumin,4.2,g/dL,327
+-basos,1,%,327
+bicarbonate,22,mmol/L,327
+-polys,63,%,327
+ALT (SGPT),65,Units/L,327
+RBC,4.47,M/mcL,327
+glucose,106,mg/dL,327
+-lymphs,25,%,327
+AST (SGOT),32,Units/L,327
+MCHC,33,g/dL,327
+sodium,137,mmol/L,327
+platelets x 1000,222,K/mcL,327
+PT,12,sec,7951
+PT - INR,1.1,ratio,7951
+PT,11.1,sec,2237
+PT - INR,1.0,ratio,2237
+PT,11.1,sec,6657
+PT - INR,1.0,ratio,6657
+PT - INR,1.0,ratio,817
+PT,10.9,sec,817
+PT - INR,1.0,ratio,5102
+PT,11,sec,5102
+PT,11.1,sec,3697
+PT - INR,1.0,ratio,3697
+BNP,<10.0,pg/mL,57
+PT - INR,1.0,ratio,430
+PTT,29.6,sec,327
+-monos,10,%,327
+potassium,4,mmol/L,327
+Hct,38.3,%,327
+PT - INR,1.0,ratio,855
+BNP,12.4,pg/mL,1602
+-MCH,28,pg,327
+creatinine,0.78,mg/dL,327
+urinary specific gravity,1.011,,4684
+troponin - I,0.238,ng/mL,57
+bedside glucose,103,mg/dL,28

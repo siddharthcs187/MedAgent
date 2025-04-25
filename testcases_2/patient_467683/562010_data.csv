@@ -1,0 +1,6 @@
+LabResultOffsetMinutes,Hemoglobin (g/dL),Hematocrit (%),Platelets (K/mcL),RBC (M/mcL),MCV (fL),MCH (pg),MCHC (g/dL),RDW (%),WBC (K/mcL),BUN (mg/dL),Creatinine (mg/dL),Glucose (mg/dL),Sodium (mmol/L),Potassium (mmol/L),Chloride (mmol/L),Bicarbonate (mmol/L),Anion Gap,Calcium (mg/dL),Magnesium (mg/dL),Phosphate (mg/dL),Albumin (g/dL),ALT (IU/L),AST (IU/L),Total Bilirubin (mg/dL),Alkaline Phos. (IU/L),TSH (mIU/L)
+1286,14.5,40.4,150,4.96,82,29.2,35.9,13.5,6.6,6,0.84,96,139,3.6,108,21,10,8.1,2.4,2.4,2.5,28.0,21.0,1.0,60.0,
+2646,15.8,42.8,171,5.28,81,29.9,36.9,13.2,5.9,8,0.82,92,138,4.1,107,22,9,8.8,2.2,,,,,,2.18,
+4221,16.6,45.5,191,5.7,80,29.1,36.5,13.5,4.7,15,0.92,101,139,3.9,108,22,9,8.5,2.2,,,,,,,
+5865,17.4,47.6,224,5.96,80,29.2,36.6,13.7,5.4,16,0.88,108,139,4.1,108,22,9,8.3,2.2,3.7,,,1.0,,,
+7156,17.2,47.9,205,5.89,81,29.2,35.9,13.9,6.1,20,0.92,88,139,4.2,108,21,10,7.9,2.2,,,,,,,

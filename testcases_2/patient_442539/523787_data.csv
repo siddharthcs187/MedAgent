@@ -1,0 +1,158 @@
+LabName,LabResult,LabUnits,TimeOffset
+Hgb,8.8,g/dL,-320
+Hgb,11.9,g/dL,7428
+Hgb,11.5,g/dL,8865
+Hgb,11.2,g/dL,10270
+Hgb,12.0,g/dL,2550
+Hgb,7.7,g/dL,1640
+Hct,25.4,%,-320
+Hct,34.3,%,7428
+Hct,32.8,%,8865
+Hct,31.8,%,10270
+Hct,33.2,%,2550
+Hct,22.7,%,1640
+WBC x 1000,19.5,K/mcL,-320
+WBC x 1000,19.6,K/mcL,7428
+WBC x 1000,15.2,K/mcL,8865
+WBC x 1000,10.3,K/mcL,10270
+WBC x 1000,13.0,K/mcL,1640
+WBC x 1000,17.4,K/mcL,5990
+Platelets x 1000,620.0,K/mcL,-320
+Platelets x 1000,333.0,K/mcL,7428
+Platelets x 1000,325.0,K/mcL,8865
+Platelets x 1000,333.0,K/mcL,10270
+Platelets x 1000,348.0,K/mcL,1640
+Platelets x 1000,311.0,K/mcL,5990
+MCV,89.0,fL,-320
+MCV,86.0,fL,7428
+MCV,86.0,fL,8865
+MCV,86.0,fL,10270
+MCV,90.0,fL,1640
+MCV,86.0,fL,5990
+MCH,31.0,pg,-320
+MCH,30.0,pg,7428
+MCH,30.0,pg,8865
+MCH,30.0,pg,10270
+MCH,30.0,pg,1640
+MCH,30.0,pg,5990
+MCHC,35.0,g/dL,-320
+MCHC,35.0,g/dL,7428
+MCHC,35.0,g/dL,8865
+MCHC,35.0,g/dL,10270
+MCHC,34.0,g/dL,1640
+MCHC,35.0,g/dL,5990
+RDW,13.5,%,-320
+RDW,13.8,%,7428
+RDW,13.7,%,8865
+RDW,13.4,%,10270
+RDW,13.5,%,1640
+RDW,14.0,%,5990
+-basos,0.0,%,-320
+-basos,0.0,%,7428
+-basos,0.0,%,8865
+-basos,0.0,%,10270
+-basos,0.0,%,1640
+-basos,0.0,%,5990
+-monos,2.0,%,-320
+-monos,7.0,%,7428
+-monos,8.0,%,8865
+-monos,8.0,%,10270
+-monos,8.0,%,1640
+-monos,7.0,%,5990
+-lymphs,13.0,%,-320
+-lymphs,19.0,%,7428
+-lymphs,26.0,%,8865
+-lymphs,20.0,%,10270
+-lymphs,20.0,%,1640
+-lymphs,18.0,%,5990
+-eos,0.0,%,-320
+-eos,1.0,%,7428
+-eos,2.0,%,8865
+-eos,3.0,%,10270
+-eos,1.0,%,1640
+-eos,1.0,%,5990
+-polys,77.0,%,-320
+-polys,73.0,%,7428
+-polys,64.0,%,8865
+-polys,69.0,%,10270
+-polys,71.0,%,1640
+-polys,74.0,%,5990
+RBC,2.86,M/mcL,-320
+RBC,3.97,M/mcL,7428
+RBC,3.8,M/mcL,8865
+RBC,3.69,M/mcL,10270
+RBC,2.53,M/mcL,1640
+RBC,3.85,M/mcL,5990
+MPV,9.5,fL,-320
+MPV,9.4,fL,7428
+MPV,9.0,fL,8865
+MPV,8.8,fL,10270
+MPV,9.5,fL,1640
+MPV,9.3,fL,5990
+Sodium,127.0,mmol/L,-320
+Sodium,132.0,mmol/L,7428
+Sodium,133.0,mmol/L,8865
+Sodium,134.0,mmol/L,10270
+Sodium,128.0,mmol/L,1640
+Sodium,130.0,mmol/L,5990
+Potassium,4.9,mmol/L,-320
+Potassium,3.4,mmol/L,7428
+Potassium,3.5,mmol/L,8865
+Potassium,3.3,mmol/L,10270
+Potassium,4.3,mmol/L,1640
+Potassium,3.4,mmol/L,5990
+Chloride,95.0,mmol/L,-320
+Chloride,102.0,mmol/L,7428
+Chloride,102.0,mmol/L,8865
+Chloride,102.0,mmol/L,10270
+Chloride,98.0,mmol/L,1640
+Chloride,100.0,mmol/L,5990
+Bicarbonate,19.0,mmol/L,-320
+Bicarbonate,22.0,mmol/L,7428
+Bicarbonate,23.0,mmol/L,8865
+Bicarbonate,24.0,mmol/L,10270
+Bicarbonate,24.0,mmol/L,1640
+Bicarbonate,22.0,mmol/L,5990
+Glucose,212.0,mg/dL,-320
+Glucose,100.0,mg/dL,7428
+Glucose,89.0,mg/dL,8865
+Glucose,93.0,mg/dL,10270
+Glucose,105.0,mg/dL,1640
+Glucose,125.0,mg/dL,5990
+BUN,27.0,mg/dL,-320
+BUN,5.0,mg/dL,7428
+BUN,5.0,mg/dL,8865
+BUN,4.0,mg/dL,10270
+BUN,16.0,mg/dL,1640
+BUN,8.0,mg/dL,5990
+Creatinine,1.3,mg/dL,-320
+Creatinine,0.4,mg/dL,7428
+Creatinine,0.4,mg/dL,8865
+Creatinine,0.4,mg/dL,10270
+Creatinine,0.8,mg/dL,1640
+Creatinine,0.5,mg/dL,5990
+Anion gap,13.0,,-320
+Anion gap,8.0,,7428
+Anion gap,8.0,,8865
+Anion gap,8.0,,10270
+Anion gap,6.0,,1640
+Anion gap,8.0,,5990
+ALT (SGPT),25.0,Units/L,-320
+AST (SGOT),22.0,Units/L,-320
+Total bilirubin,0.3,mg/dL,-320
+Lipase,72.0,Units/L,-320
+PT,13.4,sec,-320
+PT - INR,1.0,ratio,-320
+PTT,30.8,sec,-320
+ESR,100.0,mm/hr,-320
+Urinary specific gravity,1.012,,-225
+WBC's in urine,2.0,/HPF,-225
+Bedside glucose,116.0,mg/dL,11
+pH,7.507,,-331
+paO2,161.6,mm Hg,-331
+paCO2,25.1,mm Hg,-331
+O2 Content,14.1,mls/dL,-331
+O2 Sat (%),99.3,%,-331
+Base Excess,-2.6,mEq/L,-331
+Carboxyhemoglobin,0.3,%,-331
+Methemoglobin,0.3,%,-331

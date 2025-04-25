@@ -1,0 +1,21 @@
+Time_Since_Admission_Minutes,Lab_Name,Result,Units
+7,FiO2,50.0,%
+7,Respiratory Rate,11.0,/min
+52,Hgb,13.1,g/dL
+52,Potassium,5.2,mmol/L
+52,MCV,91.0,fL
+52,Creatinine,2.1,mg/dL
+52,MCH,30.0,pg
+52,BUN,36.0,mg/dL
+52,MCHC,33.0,g/dL
+52,Calcium,8.6,mg/dL
+52,WBC x 1000,18.1,K/mcL
+52,Glucose,159.0,mg/dL
+52,Platelets x 1000,238.0,K/mcL
+52,Sodium,136.0,mmol/L
+52,RBC,4.37,M/mcL
+52,Chloride,104.0,mmol/L
+52,Hct,39.6,%
+52,Bicarbonate,23.0,mmol/L
+52,RDW,14.5,%
+52,Anion Gap,9.0,

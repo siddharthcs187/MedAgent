@@ -1,0 +1,22 @@
+Lab Name,Time Offset (minutes),Lab Result,Units
+Hgb,-105,11.4,g/dL
+Hgb,650,10.5,g/dL
+Hct,-105,33.4,% 
+Hct,650,31.3,% 
+Platelets,-105,106.0,K/mcL
+Platelets,650,95.0,K/mcL
+WBC,-105,4.5,K/mcL
+WBC,650,2.6,K/mcL
+MCV,-105,95.0,fL
+MCV,650,97.0,fL
+MCHC,-105,34.0,g/dL
+MCHC,650,34.0,g/dL
+MPV,-105,9.6,fL
+MPV,650,9.7,fL
+RDW,-105,14.4,%
+RDW,650,14.4,%
+MCH,-105,32.5,pg
+MCH,650,32.4,pg
+RBC,-105,3.51,M/mcL
+RBC,650,3.24,M/mcL
+FiO2,13,31.0,%

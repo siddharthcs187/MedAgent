@@ -1,0 +1,46 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+Hgb,13.1,g/dL,-1121
+Hgb,12.4,g/dL,900
+total cholesterol,145.0,mg/dL,-539
+total cholesterol,142.0,mg/dL,-1121
+HDL,53.0,mg/dL,-539
+HDL,56.0,mg/dL,-1121
+LDL,69.0,mg/dL,-539
+LDL,64.0,mg/dL,-1121
+triglycerides,115.0,mg/dL,-539
+triglycerides,112.0,mg/dL,-1121
+bedside glucose,120.0,mg/dL,686
+bedside glucose,138.0,mg/dL,-1118
+bedside glucose,187.0,mg/dL,-399
+bedside glucose,256.0,mg/dL,1245
+bedside glucose,93.0,mg/dL,1550
+bedside glucose,111.0,mg/dL,116
+bedside glucose,160.0,mg/dL,2718
+bedside glucose,162.0,mg/dL,2496
+bedside glucose,69.0,mg/dL,3003
+bedside glucose,241.0,mg/dL,-178
+bedside glucose,99.0,mg/dL,1826
+creatinine,1.03,mg/dL,-1121
+creatinine,1.0,mg/dL,900
+BUN,15.0,mg/dL,-1121
+BUN,14.0,mg/dL,900
+BUN,11.0,mg/dL,900
+sodium,145.0,mmol/L,-1121
+sodium,145.0,mmol/L,900
+potassium,4.0,mmol/L,-1121
+potassium,4.3,mmol/L,900
+chloride,106.0,mmol/L,-1121
+chloride,108.0,mmol/L,900
+bicarbonate,28.0,mmol/L,-1121
+bicarbonate,30.0,mmol/L,900
+anion gap,15.0,,-1121
+anion gap,11.0,mmol/L,900
+calcium,9.8,mg/dL,-1121
+calcium,9.7,mg/dL,900
+total protein,7.0,g/dL,-1121
+albumin,3.6,g/dL,-1121
+alkaline phos.,105.0,Units/L,-1121
+AST (SGOT),16.0,Units/L,-1121
+ALT (SGPT),23.0,Units/L,-1121
+lipase,72.0,Units/L,-1121
+TSH,2.367,mcU/ml,-1121

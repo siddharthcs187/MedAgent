@@ -1,0 +1,8 @@
+Time_Since_Admission (minutes),Hemoglobin (g/dL),Hematocrit (%),Platelets (K/mcL),White_Blood_Cells (K/mcL),PT (sec),PTT (sec),PT_INR (ratio),Sodium (mmol/L),Potassium (mmol/L),Chloride (mmol/L),Bicarbonate (mmol/L),Creatinine (mg/dL),BUN (mg/dL),Glucose (mg/dL)
+-469,8.4,25.0,189,6.9,46.4,51.3,5.1,128,4.4,97,23,1.4,43,113
+288,9.2,26.2,136,5.9,17.7,36,1.5, , , , , , , 
+793,8.9,25.5,125,6.7,16,34.5,1.3, ,4.1,107,25,1.1,29,74
+1684,9.3,27.0,153,6.3, , , , , , , , , , 
+2347,8.3,23.8,147,6.3,14, ,1.1,138,4.2,106,24,1.1,25,75
+3880,10.0,29.2,173,7.6,14.6, ,1.2, ,1.5, , , , , 
+5285,8.9,27.7,188,6.6,17.2, ,1.5, , , , , , , 

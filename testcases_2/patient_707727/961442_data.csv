@@ -1,0 +1,2 @@
+patientunitstayid,patienthealthsystemstayid,gender,age,ethnicity,hospitalid,wardid,admissionheight,admissionweight,hospitaladmittime24,hospitaldischargetime24,unitadmittime24,unitdischargetime24,unitvisitnumber,unitstaytype,hospitaladmitoffset,hospitaldischargeoffset,unitdischargeoffset
+961442,707727,Male,65,African American,181,425,180.3,142.9,10:49:00,23:30:00,16:24:00,16:24:00,2,readmit,-19055,14826,0

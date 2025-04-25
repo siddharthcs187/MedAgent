@@ -1,0 +1,149 @@
+LabName,LabResult,LabResultUnits,TimeOffsetMinutes
+ALT (SGPT),14.0,Units/L,570
+ALT (SGPT),14.0,Units/L,2020
+ALT (SGPT),15.0,Units/L,3500
+ALT (SGPT),18.0,Units/L,-330
+calcium,7.9,mg/dL,570
+calcium,8.4,mg/dL,2020
+calcium,8.3,mg/dL,3500
+calcium,8.6,mg/dL,-330
+chloride,101.0,mmol/L,570
+chloride,102.0,mmol/L,2020
+chloride,107.0,mmol/L,3500
+chloride,95.0,mmol/L,-330
+creatinine,0.58,mg/dL,570
+creatinine,0.63,mg/dL,2020
+creatinine,0.74,mg/dL,3500
+creatinine,0.69,mg/dL,-330
+glucose,102.0,mg/dL,570
+glucose,93.0,mg/dL,2020
+glucose,95.0,mg/dL,3500
+glucose,94.0,mg/dL,-330
+Hct,21.4,%,570
+Hct,28.5,%,2020
+Hct,28.9,%,3500
+Hct,26.5,%,-330
+Hct,30.9,%,1450
+Hct,32.2,%,6960
+Hgb,6.8,g/dL,570
+Hgb,9.4,g/dL,2020
+Hgb,9.7,g/dL,3500
+Hgb,8.9,g/dL,-330
+Hgb,10.8,g/dL,1450
+Hgb,10.9,g/dL,6960
+MCH,30.5,pg,570
+MCH,30.1,pg,2020
+MCH,31.4,pg,3500
+MCH,31.7,pg,-330
+MCH,31.4,pg,1450
+MCH,31.5,pg,6960
+MCHC,31.8,g/dL,570
+MCHC,33.0,g/dL,2020
+MCHC,33.6,g/dL,3500
+MCHC,33.6,g/dL,-330
+MCHC,35.0,g/dL,1450
+MCHC,33.9,g/dL,6960
+MCV,96.0,fL,570
+MCV,91.3,fL,2020
+MCV,93.5,fL,3500
+MCV,94.3,fL,-330
+MCV,89.8,fL,1450
+MCV,93.1,fL,6960
+-monos,5.0,%,570
+-monos,6.0,%,2020
+-monos,4.0,%,3500
+-monos,5.0,%,-330
+-monos,9.0,%,1450
+-monos,6.0,%,6960
+-bands,1.0,%,570
+-bands,2.0,%,3500
+-bands,3.0,%,-330
+-bands,6.0,%,6960
+platelets x 1000,94.0,K/mcL,570
+platelets x 1000,102.0,K/mcL,2020
+platelets x 1000,105.0,K/mcL,3500
+platelets x 1000,123.0,K/mcL,-330
+platelets x 1000,115.0,K/mcL,1450
+platelets x 1000,147.0,K/mcL,6960
+-lymphs,8.0,%,570
+-lymphs,13.0,%,2020
+-lymphs,21.0,%,3500
+-lymphs,9.0,%,-330
+-lymphs,6.0,%,1450
+-lymphs,15.0,%,6960
+potassium,3.2,mmol/L,570
+potassium,2.9,mmol/L,2020
+potassium,3.4,mmol/L,3500
+potassium,3.4,mmol/L,-330
+RBC,2.23,M/mcL,570
+RBC,3.12,M/mcL,2020
+RBC,3.09,M/mcL,3500
+RBC,2.81,M/mcL,-330
+RBC,3.44,M/mcL,1450
+RBC,3.46,M/mcL,6960
+RDW,17.8,%,570
+RDW,16.4,%,2020
+RDW,17.3,%,3500
+RDW,17.8,%,-330
+RDW,16.0,%,1450
+RDW,16.5,%,6960
+-polys,86.0,%,570
+-polys,77.0,%,2020
+-polys,68.0,%,3500
+-polys,83.0,%,-330
+-polys,85.0,%,1450
+-polys,70.0,%,6960
+sodium,135.0,mmol/L,570
+sodium,140.0,mmol/L,2020
+sodium,142.0,mmol/L,3500
+sodium,133.0,mmol/L,-330
+total protein,5.1,g/dL,570
+total protein,5.8,g/dL,2020
+total protein,5.7,g/dL,3500
+total protein,6.6,g/dL,-330
+BUN,7.0,mg/dL,570
+BUN,8.0,mg/dL,2020
+BUN,11.0,mg/dL,3500
+BUN,12.0,mg/dL,-330
+anion gap,10.0, ,570
+anion gap,13.0, ,2020
+anion gap,10.0, ,3500
+anion gap,12.0, ,-330
+albumin,2.2,g/dL,570
+albumin,2.3,g/dL,2020
+albumin,2.3,g/dL,3500
+albumin,2.9,g/dL,-330
+bicarbonate,27.0,mmol/L,570
+bicarbonate,28.0,mmol/L,2020
+bicarbonate,28.0,mmol/L,3500
+bicarbonate,29.0,mmol/L,-330
+AST (SGOT),8.0,Units/L,570
+AST (SGOT),10.0,Units/L,2020
+AST (SGOT),10.0,Units/L,3500
+AST (SGOT),11.0,Units/L,-330
+total bilirubin,0.4,mg/dL,570
+total bilirubin,0.6,mg/dL,2020
+total bilirubin,0.3,mg/dL,3500
+total bilirubin,0.3,mg/dL,-330
+WBC x 1000,8.0,K/mcL,570
+WBC x 1000,6.1,K/mcL,2020
+WBC x 1000,5.3,K/mcL,3500
+WBC x 1000,11.2,K/mcL,-330
+WBC x 1000,11.9,K/mcL,1450
+WBC x 1000,8.3,K/mcL,6960
+PT,17.2,sec,570
+PT,16.0,sec,2020
+PT,12.2,sec,3500
+PT,20.1,sec,-330
+PT,10.4,sec,4933
+PT,10.7,sec,6396
+PT,3.1,mmol/L,2795
+PT - INR,1.7,ratio,570
+PT - INR,1.5,ratio,2020
+PT - INR,1.2,ratio,3500
+PT - INR,1.9,ratio,-330
+PT - INR,1.0,ratio,4933
+PT - INR,1.1,ratio,6396
+ESR,66.0,mm/hr,3500
+TSH,2.58,mcU/ml,7130
+urinary specific gravity,1.01, ,-163

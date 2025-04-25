@@ -1,0 +1,79 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+ALT (SGPT),22.0,Units/L,344
+chloride,100.0,mmol/L,344
+MPV,11.1,fL,344
+chloride,100.0,mmol/L,-591
+BUN,24.0,mg/dL,344
+MPV,10.7,fL,-591
+RBC,4.14,M/mcL,344
+platelets x 1000,114.0,K/mcL,-591
+platelets x 1000,81.0,K/mcL,344
+glucose,127.0,mg/dL,344
+MCV,91.0,fL,-591
+RBC,4.7,M/mcL,-591
+MCHC,32.6,g/dL,344
+WBC x 1000,16.2,K/mcL,-591
+-basos,0.0,%,344
+MCHC,33.0,g/dL,-591
+calcium,8.8,mg/dL,344
+-eos,0.0,%,344
+MCV,90.0,fL,344
+-eos,0.0,%,-591
+Hct,42.7,%,-591
+total protein,6.2,g/dL,344
+MCH,30.0,pg,-591
+-monos,9.0,%,-591
+-polys,83.0,%,-591
+-basos,0.0,%,-578
+-lymphs,7.0,%,-578
+-monos,14.0,%,344
+-polys,71.0,%,344
+anion gap,7.0,,344
+bedside glucose,39.0,mg/dL,-566
+bedside glucose,50.0,mg/dL,-459
+bedside glucose,136.0,mg/dL,273
+bedside glucose,120.0,mg/dL,566
+albumin,2.9,g/dL,344
+bedside glucose,68.0,mg/dL,-539
+bedside glucose,64.0,mg/dL,-271
+Hct,37.1,%,344
+bedside glucose,113.0,mg/dL,-220
+WBC x 1000,7.2,K/mcL,344
+bedside glucose,137.0,mg/dL,163
+creatinine,0.87,mg/dL,344
+bedside glucose,93.0,mg/dL,507
+total bilirubin,0.7,mg/dL,344
+bedside glucose,103.0,mg/dL,-85
+alkaline phos.,96.0,Units/L,344
+bedside glucose,133.0,mg/dL,-14
+AST (SGOT),21.0,Units/L,344
+bedside glucose,42.0,mg/dL,-370
+sodium,137.0,mmol/L,344
+bedside glucose,187.0,mg/dL,695
+bedside glucose,116.0,mg/dL,758
+potassium,3.8,mmol/L,344
+bedside glucose,128.0,mg/dL,891
+bedside glucose,163.0,mg/dL,347
+bedside glucose,191.0,mg/dL,648
+MCH,29.2,pg,344
+bedside glucose,78.0,mg/dL,-142
+-lymphs,12.0,%,344
+bedside glucose,31.0,mg/dL,-498
+bedside glucose,40.0,mg/dL,-419
+troponin - I,0.02,ng/mL,-591
+bedside glucose,121.0,mg/dL,30
+bedside glucose,50.0,mg/dL,-253
+FiO2,21.0,%,49
+chloride,100.0,mmol/L,-551
+BUN,25.0,mg/dL,-551
+total protein,7.9,g/dL,-551
+calcium,9.4,mg/dL,-551
+alkaline phos.,107.0,Units/L,-551
+AST (SGOT),21.0,Units/L,-551
+sodium,137.0,mmol/L,-551
+glucose,22.0,mg/dL,-591
+Hgb,12.1,g/dL,344
+Hgb,14.1,g/dL,-591
+bicarbonate,30.0,mmol/L,344
+bicarbonate,32.0,mmol/L,-591
+total bilirubin,0.8,mg/dL,-551

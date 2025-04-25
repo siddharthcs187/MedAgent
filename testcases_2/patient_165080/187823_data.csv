@@ -1,0 +1,74 @@
+LabTest,TimeOffset (minutes),Result,Units
+Glucose,-1490,180,mg/dL
+Glucose,-876,162,mg/dL
+Glucose,-475,144,mg/dL
+Glucose,-1155,137,mg/dL
+Glucose,-124,109,mg/dL
+Glucose,726,177,mg/dL
+Glucose,948,173,mg/dL
+Glucose,1235,120,mg/dL
+Glucose,135,172,mg/dL
+Glucose,1514,262,mg/dL
+Glucose,2068,219,mg/dL
+Glucose,2156,190,mg/dL
+Creatinine,-1490,1.18,mg/dL
+Creatinine,-876,1.13,mg/dL
+Creatinine,2068,1.19,mg/dL
+Platelets,-1490,200,K/mcL
+Platelets,-876,157,K/mcL
+Platelets,2068,149,K/mcL
+Potassium,-1490,4.1,mmol/L
+Potassium,2068,4.1,mmol/L
+Sodium,-1490,141,mmol/L
+Sodium,2068,141,mmol/L
+Bicarbonate,-1490,25,mmol/L
+Bicarbonate,2068,26,mmol/L
+Anion gap,-1490,16,mmol/L
+Anion gap,2068,12,mmol/L
+ALT,-1490,25,Units/L
+AST,-1490,13,Units/L
+Total Bilirubin,-1490,0.5,mg/dL
+Albumin,-1490,3.9,g/dL
+Total Protein,-1490,7.2,g/dL
+Calcium,-1490,9.1,mg/dL
+Calcium,2068,8,mg/dL
+Chloride,-1490,104,mmol/L
+Chloride,2068,107,mmol/L
+BUN,-1490,15,mg/dL
+BUN,2068,12,mg/dL
+Hgb,-1490,15.2,g/dL
+Hgb,-876,14.5,g/dL
+Hgb,2068,13.6,g/dL
+Hct,-1490,42.6,% 
+Hct,-876,40.9,% 
+Hct,2068,38.4,% 
+MCV,-1490,81.8,fL
+MCV,-876,82,fL
+MCV,2068,82.4,fL
+MCH,-1490,29.2,pg
+MCH,-876,29.1,pg
+MCH,2068,29.2,pg
+MCHC,-1490,35.7,g/dL
+MCHC,-876,35.5,g/dL
+MCHC,2068,35.4,g/dL
+RDW,-1490,13.5,% 
+RDW,-876,13.5,% 
+RDW,2068,13.6,% 
+RBC,-1490,5.21,M/mcL
+RBC,-876,4.99,M/mcL
+RBC,2068,4.66,M/mcL
+WBC x 1000,-1490,8.9,K/mcL
+WBC x 1000,-876,8.2,K/mcL
+WBC x 1000,2068,6.5,K/mcL
+-monos,-1490,8,% 
+-lymphs,-1490,32,% 
+-polys,-1490,51,% 
+-eos,-1490,8,% 
+-basos,-1490,1,% 
+Troponin - I,-1490,<0.02,ng/mL
+Troponin - I,-1247,<0.02,ng/mL
+Troponin - I,-876,<0.02,ng/mL
+LDL,-876,60,mg/dL
+HDL,-876,37,mg/dL
+Total Cholesterol,-876,161,mg/dL
+Triglycerides,-876,321,mg/dL

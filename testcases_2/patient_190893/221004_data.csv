@@ -1,0 +1,81 @@
+LabName,LabResult,LabMeasureNameSystem,LabResultOffset (minutes)
+Hct,34.0,%,2271
+sodium,137.0,mmol/L,2271
+RBC,3.95,M/mcL,2271
+potassium,4.1,mmol/L,2271
+MCV,86.1,fL,2271
+glucose,170.0,mg/dL,2271
+WBC x 1000,8.6,K/mcL,2271
+anion gap,9.0,,2271
+Hgb,11.0,g/dL,2271
+BUN,11.0,mg/dL,2271
+RBC,4.1,M/mcL,5171
+Hgb,11.3,g/dL,5171
+Hct,35.5,%,5171
+MCV,86.6,fL,5171
+platelets x 1000,370.0,K/mcL,5171
+RDW,14.0,%,5171
+MCV,85.9,fL,768
+MCH,28.4,pg,768
+MCHC,33.0,g/dL,768
+calcium,8.9,mg/dL,768
+creatinine,0.7,mg/dL,768
+potassium,3.9,mmol/L,768
+chloride,101.0,mmol/L,768
+bicarbonate,28.0,mmol/L,768
+WBC x 1000,9.3,K/mcL,768
+RBC,3.91,M/mcL,768
+Hgb,11.1,g/dL,768
+Hct,33.6,%,768
+platelets x 1000,322.0,K/mcL,768
+RDW,13.9,%,768
+BUN,12.0,mg/dL,3721
+creatinine,0.7,mg/dL,3721
+calcium,9.2,mg/dL,3721
+potassium,4.2,mmol/L,3721
+chloride,100.0,mmol/L,3721
+bicarbonate,33.0,mmol/L,3721
+anion gap,8.0,,3721
+platelets x 1000,363.0,K/mcL,3721
+WBC x 1000,9.1,K/mcL,3721
+RBC,3.99,M/mcL,3721
+Hgb,11.1,g/dL,3721
+Hct,34.6,%,3721
+MCV,86.7,fL,3721
+MCH,27.8,pg,3721
+MCHC,32.1,g/dL,3721
+RDW,13.9,%,3721
+bedside glucose,123.0,mg/dL,3804
+bedside glucose,126.0,mg/dL,2421
+bedside glucose,122.0,mg/dL,101
+bedside glucose,172.0,mg/dL,489
+bedside glucose,149.0,mg/dL,4456
+bedside glucose,166.0,mg/dL,4674
+bedside glucose,144.0,mg/dL,1148
+bedside glucose,170.0,mg/dL,1744
+bedside glucose,129.0,mg/dL,999
+bedside glucose,158.0,mg/dL,3216
+bedside glucose,173.0,mg/dL,1589
+bedside glucose,119.0,mg/dL,4121
+bedside glucose,124.0,mg/dL,5265
+bedside glucose,133.0,mg/dL,751
+bedside glucose,144.0,mg/dL,5563
+bedside glucose,158.0,mg/dL,394
+bedside glucose,155.0,mg/dL,290
+bedside glucose,166.0,mg/dL,3017
+ionized calcium,4.92,mg/dL,2271
+PT,10.1,sec,2271
+PT - INR,1.0,ratio,2271
+calcium,9.4,mg/dL,5171
+creatinine,0.6,mg/dL,5171
+BUN,13.0,mg/dL,5171
+potassium,4.0,mmol/L,5171
+chloride,100.0,mmol/L,5171
+bicarbonate,31.0,mmol/L,5171
+anion gap,9.0,,5171
+PT,10.0,sec,3721
+PT - INR,1.0,ratio,3721
+PT,10.3,sec,768
+PT - INR,1.0,ratio,768
+PT,9.6,sec,5171
+PT - INR,0.9,ratio,5171

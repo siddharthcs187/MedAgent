@@ -1,0 +1,34 @@
+LabName,InitialValue,InitialUnits,FinalValue,FinalUnits
+Sodium,137.0,mmol/L,142.0,mmol/L
+Potassium,3.4,mmol/L,3.2,mmol/L
+Chloride,101.0,mmol/L,108.0,mmol/L
+Bicarbonate,25.0,mmol/L,28.0,mmol/L
+BUN,15.0,mg/dL,8.0,mg/dL
+Creatinine,0.7,mg/dL,0.8,mg/dL
+Glucose,108.0,mg/dL,94.0,mg/dL
+Total Protein,6.8,g/dL,5.6,g/dL
+Albumin,3.4,g/dL,2.5,g/dL
+Total Bilirubin,0.6,mg/dL,0.5,mg/dL
+Direct Bilirubin,0.2,mg/dL,,
+ALT (SGPT),40.0,IU/L,27.0,IU/L
+AST (SGOT),94.0,IU/L,47.0,IU/L
+Alkaline Phos.,155.0,IU/L,110.0,IU/L
+Lipase,114.0,IU/L,,
+Magnesium,,,1.8,mg/dL
+Phosphate,,,2.4,mg/dL
+Anion Gap,11.0,,8.0,
+RBC,4.53,mill/uL,4.15,mill/uL
+Hgb,12.7,g/dL,11.8,g/dL
+Hct,38.9,%,35.4,%
+MCV,85.7,fL,85.3,fL
+MCH,27.9,pg,28.4,pg
+MCHC,32.6,g/dL,33.3,g/dL
+RDW,13.3,%,13.4,%
+Platelets x 1000,199.0,th/uL,238.0,th/uL
+MPV,8.3,fL,8.0,fL
+WBC x 1000,21.2,th/uL,7.2,th/uL
+-Lymphs,3.0,%,20.9,%
+-Polys,74.0,%,63.4,%
+-Monos,2.0,%,12.4,%
+-Eos,,%,0.5,%
+-Bands,17.0,%,,%

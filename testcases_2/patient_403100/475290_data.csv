@@ -1,0 +1,194 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-345,potassium,4.3,mmol/L
+-345,creatinine,0.68,mg/dL
+-345,anion gap,28,
+-345,bicarbonate,8,mmol/L
+-345,total protein,8.4,g/dL
+-345,Hgb,12.9,g/dL
+-345,WBC x 1000,8.2,K/mcL
+-345,RDW,14.2,%
+-345,MCH,33,pg
+-345,MCHC,33,g/dL
+-345,platelets x 1000,385,K/mcL
+-345,MCV,99,fL
+-345,albumin,3.8,g/dL
+-345,total bilirubin,0.6,mg/dL
+-345,direct bilirubin,0.1,mg/dL
+-345,glucose,571,mg/dL
+-345,BUN,14,mg/dL
+-345,magnesium,1.9,mg/dL
+-345,lipase,63,Units/L
+-345,amylase,25,Units/L
+-345,CPK,88,Units/L
+-345,chloride,96,mmol/L
+-345,PTT,22.2,sec
+-345,PT,13.4,sec
+-345,PT - INR,1,ratio
+-345,RBC,3.97,M/mcL
+-345,-lymphs,30,%
+-345,-monos,6,%
+-345,-polys,63,%
+-345,-eos,1,%
+-345,-basos,1,%
+-345,MPV,11.2,fL
+-345,Hct,39.4,%
+-184,potassium,4.8,mmol/L
+-184,creatinine,0.77,mg/dL
+-184,anion gap,28,
+-184,bicarbonate,7,mmol/L
+-184,glucose,570,mg/dL
+-184,BUN,14,mg/dL
+-184,magnesium,1.3,mg/dL
+-184,calcium,9.4,mg/dL
+-184,chloride,97,mmol/L
+-184,sodium,132,mmol/L
+-32,bedside glucose,117,mg/dL
+39,bedside glucose,188,mg/dL
+93,bedside glucose,165,mg/dL
+186,bedside glucose,92,mg/dL
+230,bedside glucose,155,mg/dL
+297,bedside glucose,164,mg/dL
+358,bedside glucose,151,mg/dL
+423,bedside glucose,103,mg/dL
+491,bedside glucose,87,mg/dL
+539,bedside glucose,92,mg/dL
+593,bedside glucose,75,mg/dL
+681,bedside glucose,67,mg/dL
+708,bedside glucose,75,mg/dL
+778,bedside glucose,59,mg/dL
+800,bedside glucose,139,mg/dL
+990,MPV,10.8,fL
+990,MCHC,33,g/dL
+990,MCV,97,fL
+990,Hct,31,%
+990,Hgb,10.3,g/dL
+990,MCH,32,pg
+990,RDW,14.5,%
+990,WBC x 1000,6.3,K/mcL
+990,platelets x 1000,283,K/mcL
+990,Fe,43,mcg/dL
+990,TIBC,331,mcg/dL
+990,Ferritin,63.9,ng/mL
+990,RBC,3.21,M/mcL
+990,-lymphs,33,%
+990,-monos,10,%
+990,-polys,56,%
+990,-eos,1,%
+990,-basos,1,%
+1032,bedside glucose,110,mg/dL
+1052,MPV,10.8,fL
+1052,MCHC,33,g/dL
+1052,MCV,97,fL
+1052,Hct,31,%
+1052,Hgb,10.3,g/dL
+1052,MCH,32,pg
+1052,RDW,14.5,%
+1052,WBC x 1000,6.3,K/mcL
+1052,platelets x 1000,283,K/mcL
+1052,Fe,43,mcg/dL
+1052,TIBC,331,mcg/dL
+1052,Ferritin,63.9,ng/mL
+1052,RBC,3.21,M/mcL
+1052,-lymphs,33,%
+1052,-monos,10,%
+1052,-polys,56,%
+1052,-eos,1,%
+1052,-basos,1,%
+1066,Ferritin,63.9,ng/mL
+1465,bedside glucose,297,mg/dL
+1685,bedside glucose,242,mg/dL
+1793,bedside glucose,234,mg/dL
+2240,bedside glucose,34,mg/dL
+2242,bedside glucose,28,mg/dL
+2264,bedside glucose,84,mg/dL
+2305,magnesium,1.7,mg/dL
+2326,magnesium,1.7,mg/dL
+2340,anion gap,9,
+2340,bicarbonate,24,mmol/L
+2340,glucose,96,mg/dL
+2340,BUN,<1,mg/dL
+2340,total protein,6.8,g/dL
+2340,albumin,2.9,g/dL
+2340,total bilirubin,0.2,mg/dL
+2340,chloride,107,mmol/L
+2340,sodium,140,mmol/L
+2340,potassium,3.4,mmol/L
+2340,calcium,8.3,mg/dL
+2340,AST (SGOT),320,Units/L
+2340,ALT (SGPT),69,Units/L
+2340,alkaline phos.,176,Units/L
+2482,bedside glucose,127,mg/dL
+-345,AST (SGOT),27,Units/L
+595,chloride,112,mmol/L
+595,BUN,5,mg/dL
+595,anion gap,12,
+595,bicarbonate,18,mmol/L
+595,potassium,3.5,mmol/L
+595,creatinine,0.69,mg/dL
+595,Hct,30.7,%
+595,platelets x 1000,295,K/mcL
+595,MCHC,34,g/dL
+595,MCV,97,fL
+595,Hgb,10.3,g/dL
+595,MCH,33,pg
+595,RDW,14.3,%
+595,RBC,3.17,M/mcL
+595,HDL,72,mg/dL
+595,total cholesterol,203,mg/dL
+595,triglycerides,224,mg/dL
+-345,phosphate,2.7,mg/dL
+-318,pH,7.14,
+-318,paCO2,14,mm Hg
+-318,paO2,52.9,mm Hg
+-318,HCO3,4.7,mmol/L
+-318,Base Excess,-22,mEq/L
+-318,Methemoglobin,0.3,%
+-318,Carboxyhemoglobin,0.5,%
+-318,O2 Sat (%),77.7,%
+-150,pH,7.028,
+-150,paCO2,9.5,mm Hg
+-150,paO2,182.2,mm Hg
+-150,HCO3,2.4,mmol/L
+-150,Base Excess,-26.3,mEq/L
+-150,Methemoglobin,0.4,%
+-150,Carboxyhemoglobin,0.3,%
+-150,FiO2,35,%
+-150,O2 Sat (%),98.5,%
+-293,urinary specific gravity,1.026,
+-229,potassium,4,mmol/L
+-229,creatinine,0.66,mg/dL
+-229,anion gap,17,
+-229,bicarbonate,12,mmol/L
+-229,total protein,8.4,g/dL
+-229,glucose,184,mg/dL
+-229,BUN,9,mg/dL
+-229,magnesium,2.1,mg/dL
+-229,calcium,6.8,mg/dL
+-229,chloride,117,mmol/L
+-229,sodium,146,mmol/L
+-229,lipase,63,Units/L
+-229,amylase,25,Units/L
+-229,CPK,88,Units/L
+-229,ALT (SGPT),30,Units/L
+-229,alkaline phos.,167,Units/L
+15,scored,scored,
+15,Performed - Structured,Performed - Structured,
+15,HR Current,115,
+15,HR Lowest,115,
+15,HR Highest,115,
+15,Resp Current,19,
+15,Resp Lowest,19,
+15,Resp Highest,19,
+15,O2 Sat% Current,100,
+15,O2 Sat% Lowest,100,
+15,O2 Sat% Highest,100,
+15,Admission,65.7,
+15,6,6,
+15,5,5,
+15,4,4,
+33,normal saline administration,True,
+33,administration of electrolytes,True,
+33,insulin,True,
+33,mechanical ventilation,True,
+33,bronchodilator,True,
+33,non-invasive ventilation,True,

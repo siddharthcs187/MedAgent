@@ -1,0 +1,77 @@
+labname,value,units,labresultoffset
+ALT (SGPT),22.0,IU/L,344
+ALT (SGPT),24.0,IU/L,-591
+chloride,100.0,mmol/L,344
+chloride,100.0,mmol/L,-591
+MPV,11.1,fL,344
+MPV,10.7,fL,-591
+MPV,11.1,fL,453
+BUN,24.0,mg/dL,344
+BUN,25.0,mg/dL,-591
+RBC,4.14,M/mcL,344
+RBC,4.7,M/mcL,-591
+RBC,4.14,M/mcL,453
+platelets x 1000,114.0,K/mcL,-591
+platelets x 1000,81.0,K/mcL,453
+MCV,91.0,fL,-591
+MCV,90.0,fL,453
+MCHC,32.6,g/dL,453
+MCHC,33.0,g/dL,-591
+MCHC,32.6,g/dL,453
+WBC x 1000,16.2,K/mcL,-591
+WBC x 1000,7.2,K/mcL,453
+glucose,127.0,mg/dL,344
+glucose,22.0,mg/dL,-591
+bicarbonate,30.0,mmol/L,344
+bicarbonate,32.0,mmol/L,-591
+total protein,6.2,g/dL,344
+total protein,7.9,g/dL,-591
+calcium,8.8,mg/dL,344
+calcium,9.4,mg/dL,-591
+total bilirubin,0.7,mg/dL,344
+total bilirubin,0.8,mg/dL,-591
+AST (SGOT),21.0,IU/L,344
+AST (SGOT),21.0,IU/L,-591
+anion gap,7.0,,344
+anion gap,5.0,,-591
+albumin,2.9,g/dL,344
+albumin,3.8,g/dL,-591
+creatinine,0.87,mg/dL,344
+creatinine,1.02,mg/dL,-591
+potassium,3.8,mmol/L,344
+potassium,3.8,mmol/L,-591
+bedside glucose,39.0,mg/dL,-591
+bedside glucose,50.0,mg/dL,-459
+bedside glucose,64.0,mg/dL,-271
+bedside glucose,68.0,mg/dL,-539
+bedside glucose,78.0,mg/dL,-142
+bedside glucose,103.0,mg/dL,-85
+bedside glucose,113.0,mg/dL,-220
+bedside glucose,120.0,mg/dL,-566
+bedside glucose,121.0,mg/dL,30
+bedside glucose,128.0,mg/dL,891
+bedside glucose,132.0,mg/dL,464
+bedside glucose,136.0,mg/dL,273
+bedside glucose,137.0,mg/dL,163
+bedside glucose,163.0,mg/dL,347
+bedside glucose,187.0,mg/dL,695
+bedside glucose,191.0,mg/dL,648
+bedside glucose,31.0,mg/dL,-498
+bedside glucose,40.0,mg/dL,-419
+bedside glucose,42.0,mg/dL,-370
+FiO2,21.0,%,49
+-basos,0.0,%,344
+-basos,0.0,%,-591
+-eos,0.0,%,-591
+-eos,2.0,%,344
+-eos,0.0,%,344
+-monos,9.0,%,-591
+-monos,14.0,%,344
+-polys,83.0,%,-591
+-polys,71.0,%,344
+-lymphs,7.0,%,-591
+-lymphs,12.0,%,344
+Hct,42.7,%,-591
+Hct,37.1,%,453
+MCH,30.0,pg,-591
+MCH,29.2,pg,453

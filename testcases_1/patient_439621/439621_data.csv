@@ -1,0 +1,59 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+Glucose,648.0,mg/dL,-304.0
+Chloride,91.0,mmol/L,-304.0
+Creatinine,0.63,mg/dL,-304.0
+Sodium,127.0,mmol/L,-304.0
+Potassium,4.9,mmol/L,-304.0
+Calcium,9.9,mg/dL,-304.0
+BUN,16.0,mg/dL,-304.0
+Anion gap,26.0,,
+-basos,1.0,%,-304.0
+-lymphs,33.0,%,-304.0
+RBC,4.85,M/mcL,-304.0
+MPV,11.9,fL,-304.0
+Hct,48.4,%,-304.0
+-polys,62.0,%,-304.0
+-monos,4.0,%,-304.0
+-eos,0.0,%,-304.0
+RDW,12.9,%,-304.0
+Total protein,10.5,g/dL,-304.0
+Albumin,5.1,g/dL,-304.0
+Total bilirubin,0.6,mg/dL,-304.0
+Direct bilirubin,0.1,mg/dL,-304.0
+Alkaline phos.,363.0,Units/L,-304.0
+AST (SGOT),34.0,Units/L,-304.0
+ALT (SGPT),75.0,Units/L,-304.0
+Bedside glucose,187.0,mg/dL,0.0
+Bedside glucose,142.0,mg/dL,125.0
+Bedside glucose,139.0,mg/dL,543.0
+Bedside glucose,75.0,mg/dL,386.0
+Bedside glucose,70.0,mg/dL,475.0
+Bedside glucose,107.0,mg/dL,634.0
+Bedside glucose,85.0,mg/dL,785.0
+Bedside glucose,70.0,mg/dL,853.0
+Bedside glucose,309.0,mg/dL,1136.0
+Bedside glucose,277.0,mg/dL,-142.0
+Bedside glucose,177.0,mg/dL,56.0
+Bedside glucose,205.0,mg/dL,-60.0
+Bedside glucose,105.0,mg/dL,255.0
+Bedside glucose,88.0,mg/dL,316.0
+Bedside glucose,450.0,mg/dL,-215.0
+Bedside glucose,,mg/dL,-322.0
+Bedside glucose,,mg/dL,-276.0
+WBC's in urine,1.0,,
+Urinary specific gravity,1.03,,
+WBC x 1000,6.6,K/mcL,888.0
+Hgb,11.5,g/dL,888.0
+RBC,3.54,M/mcL,888.0
+MCV,96.0,fL,888.0
+MCH,33.0,pg,888.0
+MCHC,34.0,g/dL,888.0
+RDW,12.9,%,888.0
+Platelets x 1000,293.0,K/mcL,888.0
+MPV,10.4,fL,888.0
+Phosphate,4.2,mg/dL,888.0
+Chloride,109.0,mmol/L,888.0
+Sodium,136.0,mmol/L,888.0
+Potassium,4.2,mmol/L,888.0
+Bicarbonate,18.0,mmol/L,888.0
+Anion gap,9.0,,

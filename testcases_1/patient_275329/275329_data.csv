@@ -1,0 +1,24 @@
+Lab Name,Lab Result,Unit,Lab Type
+Hgb,15.2,g/dL,hemo
+MCH,31.7,pg,hemo
+WBC,5.1,K/mcL,hemo
+-monos,9.0,%,hemo
+RDW,13.1,%,hemo
+MCV,95.4,fL,hemo
+-bands,1.0,%,hemo
+anion gap,12.0,mmol/L,chemistry
+-lymphs,25.0,%,hemo
+MCHC,33.3,g/dL,hemo
+platelets x 1000,314.0,K/mcL,hemo
+sodium,142.0,mmol/L,chemistry
+-polys,63.0,%,hemo
+RBC,4.79,M/mcL,hemo
+bicarbonate,27.0,mmol/L,chemistry
+calcium,9.7,mg/dL,chemistry
+Hct,45.7,%,hemo
+potassium,5.0,mmol/L,chemistry
+BUN,18.0,mg/dL,chemistry
+creatinine,1.1,mg/dL,chemistry
+glucose,96.0,mg/dL,chemistry
+ESR,3.0,mm/hr,hemo
+-eos,2.0,%,hemo

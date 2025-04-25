@@ -1,0 +1,58 @@
+Lab Result Time,Lab Name,Lab Result,Units
+-181,Hgb,16.3,g/dL
+-181,Hct,49.5,%
+-181,WBC x 1000,18.6,K/mcL
+-181,platelets x 1000,240.0,K/mcL
+-181,MCHC,33.0,g/dL
+-181,RDW,17.2,%
+-181,MCH,28.0,pg
+-181,RBC,5.74,M/mcL
+-181,-monos,11.0,%
+-181,-lymphs,28.0,%
+-181,-eos,6.0,%
+-181,-polys,54.0,%
+-181,-basos,1.0,%
+-181,MCV,86.0,fL
+-181,sodium,140.0,mmol/L
+-181,bicarbonate,17.0,mmol/L
+-181,chloride,108.0,mmol/L
+-181,BUN,33.0,mg/dL
+-181,creatinine,1.17,mg/dL
+-181,glucose,159.0,mg/dL
+-181,total bilirubin,1.2,mg/dL
+-181,direct bilirubin,0.4,mg/dL
+-181,total protein,6.8,g/dL
+-181,albumin,4.1,g/dL
+-181,AST (SGOT),28.0,Units/L
+-181,ALT (SGPT),30.0,Units/L
+-181,CPK,139.0,Units/L
+-181,troponin - I,0.013,ng/mL
+-181,lipase,9.0,Units/L
+149,troponin - I,0.028,ng/mL
+149,CPK,97.0,Units/L
+236,Hgb,13.6,g/dL
+236,Hct,42.4,%
+236,WBC x 1000,15.8,K/mcL
+236,platelets x 1000,205.0,K/mcL
+236,MCHC,32.0,g/dL
+236,RDW,17.8,%
+236,MCH,28.0,pg
+236,RBC,4.78,M/mcL
+236,MCV,89.0,fL
+236,TSH,0.659,mcU/ml
+649,Hgb,12.0,g/dL
+649,Hct,36.9,%
+1035,Hgb,12.0,g/dL
+1035,Hct,36.3,%
+1346,Hgb,11.2,g/dL
+1346,Hct,33.5,%
+1707,Hgb,10.8,g/dL
+1707,Hct,32.7,%
+2002,Hgb,11.3,g/dL
+2002,Hct,33.8,%
+2472,Hgb,11.3,g/dL
+2472,Hct,34.1,%
+2814,Hgb,10.4,g/dL
+2814,Hct,31.5,%
+3144,Hgb,10.8,g/dL
+3144,Hct,32.9,%

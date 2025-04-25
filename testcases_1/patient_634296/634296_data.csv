@@ -1,0 +1,26 @@
+Parameter,Value,Units
+Heart Rate Current,78.0,bpm
+Heart Rate Lowest,73.0,bpm
+Heart Rate Highest,101.0,bpm
+BP Systolic Current,138.0,mmHg
+BP Systolic Lowest,116.0,mmHg
+BP Systolic Highest,167.0,mmHg
+BP Diastolic Current,100.0,mmHg
+BP Diastolic Lowest,86.0,mmHg
+BP Diastolic Highest,128.0,mmHg
+Respiratory Rate Current,25.0,breaths/minute
+Respiratory Rate Lowest,21.0,breaths/minute
+Respiratory Rate Highest,34.0,breaths/minute
+O2 Sat Current,96.0,% 
+O2 Sat Lowest,94.0,% 
+O2 Sat Highest,100.0,% 
+Weight Admission,90.0,kg
+Weight Current,91.5,kg
+Weight Change,1.5,kg
+Intake,930.0,ml
+Urine Output,750.0,ml
+Total Net I/O,178.0,ml
+GCS Total,13.0,score
+GCS Motor,6.0,score
+GCS Eyes,3.0,score
+GCS Verbal,4.0,score

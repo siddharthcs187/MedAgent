@@ -1,0 +1,84 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-278,calcium,7.9,mg/dL
+-278,sodium,137.0,mmol/L
+-278,AST (SGOT),18.0,Units/L
+-278,total protein,6.5,g/dL
+-278,bicarbonate,16.0,mmol/L
+-278,creatinine,5.1,mg/dL
+-278,chloride,114.0,mmol/L
+-278,glucose,191.0,mg/dL
+-278,Hct,20.9,%
+-278,-basos,0.2,%
+-278,-lymphs,23.7,%
+-278,-polys,65.1,%
+-278,RBC,2.5,M/mcL
+-278,Hgb,7.1,g/dL
+-278,MCV,83.7,fL
+-278,MCH,28.3,pg
+-278,MCHC,33.8,g/dL
+-278,RDW,18.1,%
+-278,alkaline phos.,156.0,Units/L
+-278,total bilirubin,0.2,mg/dL
+-171,bedside glucose,176.0,mg/dL
+-493,urinary creatinine,25.0,mg/dL
+-493,urinary sodium,121.0,mmol/L
+-4,urinary specific gravity,1.025,
+167,bedside glucose,160.0,mg/dL
+482,calcium,8.1,mg/dL
+482,sodium,137.0,mmol/L
+482,potassium,6.0,mmol/L
+482,bicarbonate,18.0,mmol/L
+482,chloride,112.0,mmol/L
+482,creatinine,5.2,mg/dL
+482,glucose,216.0,mg/dL
+719,potassium,6.3,mmol/L
+737,FiO2,21.0,%
+767,bedside glucose,204.0,mg/dL
+840,bedside glucose,179.0,mg/dL
+889,bedside glucose,175.0,mg/dL
+949,bedside glucose,159.0,mg/dL
+1012,bedside glucose,155.0,mg/dL
+1057,sodium,135.0,mmol/L
+1057,potassium,6.0,mmol/L
+1057,bicarbonate,17.0,mmol/L
+1057,chloride,110.0,mmol/L
+1057,creatinine,5.2,mg/dL
+1057,glucose,170.0,mg/dL
+1057,calcium,7.8,mg/dL
+1057,BUN,59.0,mg/dL
+1057,total protein,6.1,g/dL
+1057,albumin,2.4,g/dL
+1057,ALT (SGPT),9.0,Units/L
+1057,total bilirubin,0.3,mg/dL
+1057,direct bilirubin,0.0,mg/dL
+1059,bedside glucose,154.0,mg/dL
+1129,bedside glucose,144.0,mg/dL
+1196,bedside glucose,148.0,mg/dL
+1253,bedside glucose,157.0,mg/dL
+1306,bedside glucose,143.0,mg/dL
+1377,RBC,2.65,M/mcL
+1377,Hgb,7.4,g/dL
+1377,Hct,22.3,%
+1377,MCV,83.9,fL
+1377,MCH,27.8,pg
+1377,MCHC,33.1,g/dL
+1377,platelets x 1000,97.0,K/mcL
+1377,WBC x 1000,8.0,K/mcL
+1377,RDW,18.1,%
+1377,-monos,10.5,%
+1377,-lymphs,23.4,%
+1377,-eos,0.8,%
+1377,-polys,64.7,%
+1377,-basos,0.6,%
+1377,PT,10.8,sec
+1377,PTT,24.3,sec
+1377,PT - INR,1.0,ratio
+1377,albumin,2.4,g/dL
+1377,phosphate,6.3,mg/dL
+1377,chloride,112.0,mmol/L
+1377,glucose,160.0,mg/dL
+1377,BUN,57.0,mg/dL
+1437,bedside glucose,148.0,mg/dL
+1550,bedside glucose,278.0,mg/dL
+1598,bedside glucose,291.0,mg/dL
+1635,bedside glucose,253.0,mg/dL

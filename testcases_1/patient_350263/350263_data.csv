@@ -1,0 +1,18 @@
+PatientUnitStayID,LabName,LabResult,LabMeasureNameSystem
+350263,BUN,10.0,mg/dL
+350263,bicarbonate,26.7,mmol/L
+350263,potassium,3.9,mmol/L
+350263,AST (SGOT),29.0,Units/L
+350263,total bilirubin,0.4,mg/dL
+350263,CPK-MB,2.0,ng/mL
+350263,creatinine,0.9,mg/dL
+350263,magnesium,2.0,mg/dL
+350263,albumin,3.0,g/dL
+350263,chloride,100.0,mmol/L
+350263,CPK,108.0,Units/L
+350263,troponin - I,0.02,ng/mL
+350263,calcium,9.5,mg/dL
+350263,WBC x 1000,17.4,K/mcL
+350263,glucose,91.0,mg/dL
+350263,Hct,41.7,% 
+350263,sodium,137.0,mmol/L

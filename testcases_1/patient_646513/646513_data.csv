@@ -1,0 +1,83 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+BUN,26,mg/dL,-3339
+BUN,66,mg/dL,-634
+BUN,32,mg/dL,-2064
+total bilirubin,1.2,mg/dL,-3339
+total bilirubin,1.2,mg/dL,-2064
+total bilirubin,0.8,mg/dL,-634
+potassium,3.4,mmol/L,-3339
+potassium,3.4,mmol/L,-2064
+potassium,3.5,mmol/L,-634
+albumin,3.9,g/dL,-3339
+albumin,2.7,g/dL,-634
+albumin,2.8,g/dL,-2064
+platelets x 1000,225,K/mcL,-3339
+platelets x 1000,178,K/mcL,-2064
+platelets x 1000,158,K/mcL,-634
+platelets x 1000,197,K/mcL,-2670
+RBC,5.47,M/mcL,-3339
+RBC,4.19,M/mcL,-2064
+RBC,3.29,M/mcL,-634
+RBC,5.06,M/mcL,-2670
+creatinine,1.4,mg/dL,-3339
+creatinine,1.1,mg/dL,-2064
+creatinine,1.2,mg/dL,-634
+Hgb,17.6,g/dL,-3339
+Hgb,13.4,g/dL,-2064
+Hgb,10.6,g/dL,-634
+Hgb,16.1,g/dL,-2670
+Hgb,9.9,g/dL,-310
+Hgb,9.3,g/dL,-403
+Hct,50.5,%,-3339
+Hct,39.5,%,-2064
+Hct,32.2,%,-634
+Hct,47.6,%,-2670
+RDW,11.9,%,-3339
+RDW,12.3,%,-634
+RDW,12.0,%,-2064
+RDW,12.2,%,-2670
+MCV,92,fL,-3339
+MCV,94,fL,-2064
+MCV,98,fL,-634
+MCV,94,fL,-2670
+calcium,9.7,mg/dL,-3339
+calcium,8.0,mg/dL,-2064
+calcium,8.2,mg/dL,-634
+chloride,101,mmol/L,-3339
+chloride,111,mmol/L,-634
+chloride,107,mmol/L,-2064
+AST (SGOT),30,Units/L,-3339
+AST (SGOT),39,Units/L,-2064
+AST (SGOT),33,Units/L,-634
+ALT (SGPT),25,Units/L,-3339
+ALT (SGPT),25,Units/L,-2064
+ALT (SGPT),31,Units/L,-634
+ALT (SGPT),25,Units/L,-3311
+total protein,7.5,g/dL,-3339
+total protein,5.3,g/dL,-634
+total protein,5.3,g/dL,-2064
+anion gap,14,-,-3339
+anion gap,8,-,-2064
+anion gap,7,-,-634
+bicarbonate,26,mmol/L,-3339
+bicarbonate,28,mmol/L,-634
+bicarbonate,29,mmol/L,-2064
+glucose,161,mg/dL,-3339
+glucose,117,mg/dL,-634
+glucose,126,mg/dL,-2064
+alkaline phos.,86,Units/L,-3339
+alkaline phos.,58,Units/L,-2064
+alkaline phos.,49,Units/L,-634
+sodium,141,mmol/L,-3339
+sodium,146,mmol/L,-634
+sodium,144,mmol/L,-2064
+PT,21.1,sec,-3339
+PT,23.1,sec,-634
+PT,18.8,sec,-159
+PT - INR,1.8,ratio,-3339
+PT - INR,2.0,ratio,-634
+PT - INR,1.5,ratio,-159
+TSH,0.3,mcU/ml,-3460
+troponin - I,<0.02,ng/mL,-3339
+troponin - I,0.07,ng/mL,-413
+lipase,159,Units/L,-2064

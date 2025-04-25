@@ -1,0 +1,5 @@
+TimeOffset,Hemoglobin (g/dL),Hematocrit (%),WBC x 1000 (K/mcL),Platelets x 1000 (K/mcL),MCV (fL),MCH (pg),MCHC (g/dL),RDW (%),MPV (fL),AST (SGOT) (Units/L),Potassium (mmol/L),Creatinine (mg/dL),Albumin (g/dL),Troponin-I (ng/mL),Alkaline Phos. (Units/L),Total Protein (g/dL),Total Bilirubin (mg/dL),Bicarbonate (mmol/L),Chloride (mmol/L),Anion Gap,BUN (mg/dL),Calcium (mg/dL),BNP (pg/mL),Respiratory Rate (/min),FiO2 (%)
+-158,14.9,44.5,6.2,175.0,89.0,29.8,33.5,14.2,11.3,74.0,3.9,1.9,3.5,0.08,94.0,6.6,1.0,27.0,97.0,14.0,57.0,8.8,5250.0,,
+609,12.2,36.5,7.0,151.0,90.0,30.0,33.4,14.4,10.9,,3.3,1.4,,0.05,,,,24.0,104.0,11.0,45.0,7.6,,20.0,100.0
+1013,,,,,,,,,,,,,,0.04,,,,,,,,,,,
+2370,,,,,,,,,,3.4,1.0,,,,,,24.0,108.0,9.0,25.0,8.1,,,,

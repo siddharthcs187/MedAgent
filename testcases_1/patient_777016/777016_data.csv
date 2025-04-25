@@ -1,0 +1,37 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+MCH,29.0,pg,797
+pH,7.402,unit(s),85
+MCHC,31.3,g/dL,797
+paCO2,49.7,mm Hg,85
+MPV,9.7,fL,797
+O2 Sat (%),98.7,%,85
+platelets x 1000,154.0,K/mcL,797
+FiO2,40.0,%,85
+RBC,3.24,M/mcL,797
+HCO3,30.3,mmol/L,85
+Tacrolimus-FK506,5.2,ng/mL,797
+badside glucose,262.0,mg/dL,31
+badside glucose,203.0,mg/dL,245
+badside glucose,94.0,mg/dL,980
+badside glucose,113.0,mg/dL,1252
+badside glucose,116.0,mg/dL,517
+badside glucose,97.0,mg/dL,792
+badside glucose,131.0,mg/dL,1453
+MCV,93.0,fL,797
+chloride,102.0,mmol/L,797
+Base Excess,5.1,mEq/L,85
+BUN,14.0,mg/dL,797
+Hct,30.0,%,797
+potassium,3.5,mmol/L,797
+PEEP,5.0,cm H2O,85
+bicarbonate,36.0,mmol/L,797
+Hgb,9.4,g/dL,797
+glucose,96.0,mg/dL,797
+Pressure Support,10.0,cm H2O,85
+sodium,141.0,mmol/L,797
+anion gap,3.0,,797
+RDW,14.1,%,797
+-monos,5.0,%,797
+-polys,93.0,%,797
+-lymphs,2.0,%,797
+Respiratory Rate,60.0,/min,12

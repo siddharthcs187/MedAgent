@@ -1,0 +1,207 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+RBC,4.61,M/mcL,-4492
+MPV,9.4,fL,-4492
+RDW,13.6,%,-4492
+WBC x 1000,6.4,K/mcL,-4492
+Hct,42.6,%,-4492
+Hgb,13.9,g/dL,-4492
+MCHC,32.6,g/dL,-4492
+MCH,30.2,pg,-4492
+MCV,92.0,fL,-4492
+platelets x 1000,248.0,K/mcL,-4492
+alkaline phos.,46.0,Units/L,-4492
+anion gap,6.0,,-4492
+total bilirubin,0.3,mg/dL,-4492
+total protein,7.1,g/dL,-4492
+potassium,4.6,mmol/L,-4492
+creatinine,1.36,mg/dL,-4492
+sodium,135.0,mmol/L,-4492
+chloride,103.0,mmol/L,-4492
+calcium,9.0,mg/dL,-4492
+BUN,28.0,mg/dL,-4492
+ALT (SGPT),26.0,Units/L,-4492
+AST (SGOT),13.0,Units/L,-4492
+bedside glucose,88.0,mg/dL,-5878
+sodium,140.0,mmol/L,-5878
+creatinine,1.7,mg/dL,-5878
+chloride,103.0,mmol/L,-5878
+potassium,5.2,mmol/L,-5878
+BUN,28.0,mg/dL,-5878
+bedside glucose,164.0,mg/dL,42
+Respiratory Rate,19.0,/min,79
+FiO2,100.0,%,79
+HCO3,23.0,mmol/L,79
+paCO2,36.0,mm Hg,79
+paO2,291.0,mm Hg,42
+Base Excess,-1.0,mEq/L,42
+O2 Sat (%),100.0,%,42
+pH,7.41,,42
+bedside glucose,164.0,mg/dL,91
+FiO2,100.0,%,91
+HCO3,20.0,mmol/L,91
+PEEP,5.0,cm H2O,91
+paO2,218.0,mm Hg,91
+paCO2,37.0,mm Hg,91
+O2 Sat (%),100.0,%,91
+pH,7.34,,91
+Base Excess,-5.0,mEq/L,91
+TV,650.0,mls,91
+potassium,3.9,mmol/L,91
+bedside glucose,142.0,mg/dL,318
+TV,650.0,mls,319
+HCO3,22.0,mmol/L,319
+paO2,116.0,mm Hg,319
+paCO2,36.0,mm Hg,319
+FiO2,40.0,%,319
+O2 Sat (%),98.0,%,319
+Base Excess,-3.0,mEq/L,319
+pH,7.38,,319
+bedside glucose,107.0,mg/dL,470
+bedside glucose,128.0,mg/dL,567
+bedside glucose,145.0,mg/dL,790
+bedside glucose,152.0,mg/dL,199
+bedside glucose,124.0,mg/dL,403
+bedside glucose,145.0,mg/dL,706
+bedside glucose,151.0,mg/dL,91
+potassium,4.8,mmol/L,42
+sodium,139.0,mmol/L,42
+potassium,5.9,mmol/L,19
+sodium,137.0,mmol/L,19
+FiO2,100.0,%,19
+HCO3,22.0,mmol/L,19
+paO2,272.0,mm Hg,19
+paCO2,44.0,mm Hg,19
+O2 Sat (%),100.0,%,19
+pH,7.32,,19
+Base Excess,-4.0,mEq/L,19
+platelets x 1000,153.0,K/mcL,112
+RDW,13.5,%,112
+Hgb,9.9,g/dL,112
+Hct,30.0,%,112
+RBC,3.29,M/mcL,112
+MPV,9.5,fL,112
+WBC x 1000,22.0,K/mcL,112
+MCHC,33.0,g/dL,112
+MCH,30.1,pg,112
+MCV,91.0,fL,112
+platelets x 1000,146.0,K/mcL,425
+RBC,3.17,M/mcL,425
+MPV,9.8,fL,425
+Hct,29.2,%,425
+Hgb,9.6,g/dL,425
+WBC x 1000,14.8,K/mcL,425
+MCHC,32.9,g/dL,425
+MCH,30.3,pg,425
+MCV,92.0,fL,425
+RDW,13.6,%,1993
+MCH,29.9,pg,1993
+platelets x 1000,134.0,K/mcL,1993
+RBC,2.78,M/mcL,1993
+MPV,10.1,fL,1993
+MCHC,32.2,g/dL,1993
+Hct,25.8,%,1993
+WBC x 1000,12.5,K/mcL,1993
+anion gap,6.0,,1993
+creatinine,1.24,mg/dL,1993
+potassium,4.0,mmol/L,1993
+sodium,143.0,mmol/L,1993
+chloride,112.0,mmol/L,1993
+calcium,7.8,mg/dL,1993
+BUN,26.0,mg/dL,1993
+bicarbonate,25.0,mmol/L,1993
+glucose,110.0,mg/dL,1993
+phosphate,2.8,mg/dL,1993
+troponin - I,0.81,ng/mL,2216
+magnesium,2.0,mg/dL,1000
+troponin - I,1.2,ng/mL,1203
+troponin - I,1.0,ng/mL,1577
+magnesium,2.6,mg/dL,3913
+glucose,100.0,mg/dL,3433
+BUN,29.0,mg/dL,3433
+chloride,109.0,mmol/L,3433
+calcium,8.0,mg/dL,3433
+potassium,3.9,mmol/L,3433
+creatinine,1.12,mg/dL,3433
+bicarbonate,24.0,mmol/L,3433
+ALT (SGPT),23.0,Units/L,3433
+AST (SGOT),21.0,Units/L,3433
+albumin,2.8,g/dL,3433
+total bilirubin,0.6,mg/dL,3433
+total protein,5.2,g/dL,3433
+alkaline phos.,32.0,Units/L,3433
+anion gap,8.0,,3433
+magnesium,1.9,mg/dL,3538
+RDW,14.1,%,3433
+RBC,2.76,M/mcL,3433
+Hgb,8.3,g/dL,3433
+Hct,25.5,%,3433
+MCV,92.0,fL,3433
+MCH,30.1,pg,3433
+MCHC,32.5,g/dL,3433
+WBC x 1000,12.2,K/mcL,3483
+platelets x 1000,130.0,K/mcL,3483
+TSH,1.77,mcU/ml,3524
+PT,13.5,sec,-2303
+PT - INR,1.0,ratio,-2303
+PTT,38.0,sec,-2302
+RBC,4.35,M/mcL,-2321
+Hgb,13.1,g/dL,-2321
+Hct,39.9,%,-2321
+MPV,9.7,fL,-2321
+RDW,13.4,%,-2321
+MCHC,32.8,g/dL,-2321
+MCH,30.1,pg,-2321
+MCV,92.0,fL,-2321
+platelets x 1000,247.0,K/mcL,-2321
+WBC x 1000,6.6,K/mcL,-2321
+alkaline phos.,45.0,Units/L,-2038
+anion gap,10.0,,-2038
+total bilirubin,0.4,mg/dL,-2038
+total protein,6.6,g/dL,-2038
+potassium,4.6,mmol/L,-2038
+creatinine,1.32,mg/dL,-2038
+sodium,140.0,mmol/L,-2038
+chloride,109.0,mmol/L,-2038
+calcium,8.8,mg/dL,-2038
+BUN,25.0,mg/dL,-2038
+glucose,81.0,mg/dL,-2038
+ALT (SGPT),21.0,Units/L,-2038
+AST (SGOT),17.0,Units/L,-2038
+PT,18.7,sec,123
+PT - INR,1.6,ratio,123
+PTT,32.0,sec,124
+magnesium,3.1,mg/dL,125
+potassium,4.0,mmol/L,125
+sodium,141.0,mmol/L,125
+chloride,109.0,mmol/L,125
+BUN,22.0,mg/dL,125
+bicarbonate,19.0,mmol/L,125
+glucose,142.0,mg/dL,125
+calcium,7.8,mg/dL,125
+anion gap,13.0,,125
+phosphate,1.9,mg/dL,125
+RDW,13.4,%,-3648
+MCV,92.0,fL,-3648
+MCHC,32.9,g/dL,-3648
+MCH,30.3,pg,-3648
+RBC,4.35,M/mcL,-3648
+MPV,9.6,fL,-3648
+Hct,40.1,%,-3648
+Hgb,13.2,g/dL,-3648
+WBC x 1000,6.5,K/mcL,-3648
+platelets x 1000,240.0,K/mcL,-3648
+triglycerides,160.0,mg/dL,-3599
+total cholesterol,122.0,mg/dL,-3599
+HDL,31.0,mg/dL,-3597
+creatinine,1.35,mg/dL,-3597
+sodium,139.0,mmol/L,-3599
+chloride,107.0,mmol/L,-3599
+albumin,3.3,g/dL,-3599
+total bilirubin,0.7,mg/dL,-3599
+total protein,6.6,g/dL,-3599
+potassium,4.5,mmol/L,-3599
+BUN,25.0,mg/dL,-3599
+bicarbonate,23.0,mmol/L,-3599
+alt (sgpt),24.0,Units/L,-3599
+ast (sgot),9.0,Units/L,-3599
+anion gap,9.0,,-3599

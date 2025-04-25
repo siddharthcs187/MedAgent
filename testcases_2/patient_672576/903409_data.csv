@@ -1,0 +1,22 @@
+labname,labresultoffset,labresult,labmeasurenamesystem,time_point
+Hgb,-105,11.4,g/dL,Admission
+Hgb,650,10.5,g/dL,Discharge
+Hct,-105,33.4,%,Admission
+Hct,650,31.3,%,Discharge
+RBC,-105,3.51,M/mcL,Admission
+RBC,650,3.24,M/mcL,Discharge
+MCV,-105,95.0,fL,Admission
+MCV,650,97.0,fL,Discharge
+MCHC,-105,34.0,g/dL,Admission
+MCHC,650,34.0,g/dL,Discharge
+MCH,-105,32.5,pg,Admission
+MCH,650,32.4,pg,Discharge
+RDW,-105,14.4,%,Admission
+RDW,650,14.4,%,Discharge
+WBC,-105,4.5,K/mcL,Admission
+WBC,650,2.6,K/mcL,Discharge
+platelets x 1000,-105,106.0,K/mcL,Admission
+platelets x 1000,650,95.0,K/mcL,Discharge
+MPV,-105,9.6,fL,Admission
+MPV,650,9.7,fL,Discharge
+FiO2,13,31.0,%,Admission

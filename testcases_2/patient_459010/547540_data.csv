@@ -1,0 +1,17 @@
+lab_time_since_admission,minutes,Hgb,g/dL
+1,600,12.7,g/dL
+2,974,12.1,g/dL
+3,1327,11.1,g/dL
+4,1675,10.6,g/dL
+5,2126,11.5,g/dL
+6,3140,11.3,g/dL
+calcium,3165,8.2,mg/dL
+BUN,3165,6.0,mg/dL
+glucose,3165,102.0,mg/dL
+chloride,3165,108.0,mmol/L
+sodium,3165,137.0,mmol/L
+bicarbonate,3165,24.0,mmol/L
+potassium,3165,3.4,mmol/L
+creatinine,3165,1.0,mg/dL
+anion_gap,3165,5.0,
+FiO2,431,28.0,% 

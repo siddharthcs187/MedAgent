@@ -1,0 +1,191 @@
+LabName,LabResult,LabMeasureNameSystem,LabResultOffset (minutes)
+BUN,55.0,mg/dL,547
+BUN,51.0,mg/dL,3432
+BUN,52.0,mg/dL,2027
+BUN,48.0,mg/dL,4922
+BUN,43.0,mg/dL,6392
+BUN,39.0,mg/dL,7782
+Creatinine,2.9,mg/dL,547
+Creatinine,2.6,mg/dL,3432
+Creatinine,2.7,mg/dL,2027
+Creatinine,2.4,mg/dL,4922
+Creatinine,2.2,mg/dL,6392
+Creatinine,2.2,mg/dL,7782
+Potassium,3.5,mmol/L,547
+Potassium,3.8,mmol/L,3432
+Potassium,3.2,mmol/L,2027
+Potassium,3.8,mmol/L,4922
+Potassium,3.9,mmol/L,6392
+Potassium,4.0,mmol/L,7782
+Potassium,4.0,mmol/L,2467
+Bicarbonate,21.0,mmol/L,547
+Bicarbonate,18.0,mmol/L,3432
+Bicarbonate,20.0,mmol/L,2027
+Bicarbonate,20.0,mmol/L,4922
+Bicarbonate,19.0,mmol/L,6392
+Bicarbonate,18.0,mmol/L,7782
+Glucose,80.0,mg/dL,547
+Glucose,75.0,mg/dL,3432
+Glucose,32.0,mg/dL,2027
+Glucose,91.0,mg/dL,4922
+Glucose,126.0,mg/dL,6392
+Glucose,134.0,mg/dL,7782
+Glucose,119.0,mg/dL,180
+Glucose,85.0,mg/dL,970
+Glucose,70.0,mg/dL,2208
+Glucose,82.0,mg/dL,752
+Glucose,88.0,mg/dL,3845
+Glucose,110.0,mg/dL,1566
+Glucose,107.0,mg/dL,2980
+Glucose,140.0,mg/dL,4444
+Glucose,135.0,mg/dL,5594
+Glucose,139.0,mg/dL,5825
+Glucose,136.0,mg/dL,5235
+Glucose,143.0,mg/dL,6733
+Glucose,110.0,mg/dL,7942
+Glucose,126.0,mg/dL,8200
+Glucose,79.0,mg/dL,3528
+Glucose,96.0,mg/dL,2731
+Albumin,2.2,g/dL,547
+Albumin,2.0,g/dL,3432
+Albumin,2.3,g/dL,2027
+Albumin,2.0,g/dL,4922
+Albumin,2.0,g/dL,7782
+Total Protein,6.0,g/dL,547
+Total Protein,5.5,g/dL,3432
+Total Protein,6.2,g/dL,2027
+Total Protein,5.3,g/dL,4922
+Total Protein,5.5,g/dL,7782
+Total Bilirubin,0.7,mg/dL,547
+Total Bilirubin,0.7,mg/dL,3432
+Total Bilirubin,0.8,mg/dL,2027
+Total Bilirubin,0.9,mg/dL,4922
+Total Bilirubin,0.7,mg/dL,7782
+ALT (SGPT),73.0,Units/L,547
+ALT (SGPT),78.0,Units/L,3432
+ALT (SGPT),85.0,Units/L,2027
+ALT (SGPT),69.0,Units/L,4922
+ALT (SGPT),74.0,Units/L,7782
+AST (SGOT),65.0,Units/L,547
+AST (SGOT),74.0,Units/L,3432
+AST (SGOT),81.0,Units/L,2027
+AST (SGOT),66.0,Units/L,4922
+AST (SGOT),74.0,Units/L,7782
+Alkaline Phos.,125.0,Units/L,547
+Alkaline Phos.,144.0,Units/L,3432
+Alkaline Phos.,143.0,Units/L,2027
+Alkaline Phos.,136.0,Units/L,4922
+Alkaline Phos.,144.0,Units/L,7782
+Calcium,8.4,mg/dL,547
+Calcium,8.4,mg/dL,3432
+Calcium,8.8,mg/dL,2027
+Calcium,8.2,mg/dL,4922
+Calcium,8.2,mg/dL,6392
+Calcium,8.5,mg/dL,7782
+Magnesium,1.6,mg/dL,547
+Magnesium,1.5,mg/dL,2467
+Magnesium,1.4,mg/dL,4922
+Magnesium,1.7,mg/dL,7782
+Chloride,113.0,mmol/L,547
+Chloride,113.0,mmol/L,3432
+Chloride,114.0,mmol/L,2027
+Chloride,112.0,mmol/L,4922
+Chloride,112.0,mmol/L,6392
+Chloride,109.0,mmol/L,7782
+Sodium,145.0,mmol/L,547
+Sodium,145.0,mmol/L,3432
+Sodium,147.0,mmol/L,2027
+Sodium,143.0,mmol/L,4922
+Sodium,141.0,mmol/L,6392
+Sodium,139.0,mmol/L,7782
+Anion Gap,15.0,,547
+Anion Gap,18.0,,3432
+Anion Gap,16.0,mmol/L,2027
+Anion Gap,15.0,mmol/L,4922
+Anion Gap,14.0,mmol/L,6392
+Anion Gap,16.0,mmol/L,7782
+Hgb,10.8,g/dL,547
+Hgb,11.2,g/dL,3432
+Hgb,12.4,g/dL,2027
+Hgb,11.5,g/dL,4922
+Hgb,10.8,g/dL,547
+Hct,31.6,%,547
+Hct,33.1,%,3432
+Hct,36.6,%,2027
+Hct,34.7,%,4922
+Hct,31.6,%,547
+RBC,3.62,M/mcL,547
+RBC,3.79,M/mcL,3432
+RBC,4.17,M/mcL,2027
+RBC,3.8,M/mcL,4922
+RBC,3.62,M/mcL,547
+WBC x 1000,4.8,K/mcL,547
+WBC x 1000,3.5,K/mcL,3432
+WBC x 1000,7.0,K/mcL,2027
+WBC x 1000,3.8,K/mcL,4922
+WBC x 1000,4.8,K/mcL,547
+Platelets x 1000,68.0,K/mcL,547
+Platelets x 1000,66.0,K/mcL,3432
+Platelets x 1000,72.0,K/mcL,2027
+Platelets x 1000,78.0,K/mcL,4922
+Platelets x 1000,68.0,K/mcL,547
+MCV,87.3,fL,547
+MCV,87.3,fL,3432
+MCV,87.8,fL,2027
+MCV,91.3,fL,4922
+MCV,87.3,fL,547
+MCH,29.8,pg,547
+MCH,29.6,pg,3432
+MCH,29.7,pg,2027
+MCH,30.3,pg,4922
+MCH,29.8,pg,547
+MCHC,34.2,g/dL,547
+MCHC,33.8,g/dL,3432
+MCHC,33.9,g/dL,2027
+MCHC,33.1,g/dL,4922
+MCHC,34.2,g/dL,547
+RDW,17.0,%,547
+RDW,17.8,%,3432
+RDW,17.9,%,2027
+RDW,18.4,%,4922
+RDW,17.0,%,547
+-eos,0.0,%,547
+-eos,3.0,%,3432
+-eos,1.0,%,2027
+-eos,4.0,%,4922
+-eos,0.0,%,547
+-basos,0.0,%,547
+-basos,0.0,%,3432
+-basos,0.0,%,2027
+-basos,0.0,%,4922
+-basos,0.0,%,547
+-monos,8.0,%,547
+-monos,12.0,%,3432
+-monos,12.0,%,2027
+-monos,12.0,%,4922
+-monos,8.0,%,547
+-lymphs,7.0,%,547
+-lymphs,13.0,%,3432
+-lymphs,5.0,%,2027
+-lymphs,12.0,%,4922
+-lymphs,7.0,%,547
+-polys,85.0,%,547
+-polys,72.0,%,3432
+-polys,82.0,%,2027
+-polys,72.0,%,4922
+-polys,85.0,%,547
+BNP,664.0,pg/mL,547
+BNP,282.0,pg/mL,3432
+BNP,388.0,pg/mL,2027
+BNP,147.0,pg/mL,7987
+Bedside Glucose,81.0,mg/dL,553
+Bedside Glucose,115.0,mg/dL,1265
+Bedside Glucose,123.0,mg/dL,4108
+Bedside Glucose,136.0,mg/dL,5235
+Bedside Glucose,143.0,mg/dL,6733
+Bedside Glucose,110.0,mg/dL,7942
+Bedside Glucose,126.0,mg/dL,8200
+Bedside Glucose,191.0,mg/dL,7239
+Bedside Glucose,143.0,mg/dL,7055
+Bedside Glucose,86.0,mg/dL,4986
+Bedside Glucose,92.0,mg/dL,2398

@@ -1,0 +1,49 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+RDW,15.7,%,1361
+MCH,29.5,pg,1361
+WBC x 1000,4.5,K/mcL,1361
+platelets x 1000,184,K/mcL,-173
+MCV,89.8,fL,1361
+Hgb,9.8,g/dL,1361
+-eos,4.9,%,1361
+Hct,32.6,%,-173
+-monos,9.8,%,1361
+-basos,0.3,%,-173
+platelets x 1000,170,K/mcL,1361
+-monos,7.7,%,-173
+MCHC,32.8,g/dL,1361
+-eos,3.3,%,-173
+glucose,92,mg/dL,1361
+bicarbonate,25,mmol/L,1361
+calcium,7.9,mg/dL,1361
+creatinine,1.3,mg/dL,1361
+potassium,4.9,mmol/L,1361
+sodium,144,mmol/L,1361
+chloride,113,mmol/L,1361
+total protein,7.1,g/dL,-173
+ALT (SGPT),32,Units/L,-173
+AST (SGOT),37,Units/L,-173
+albumin,3.4,g/dL,-173
+total bilirubin,0.2,mg/dL,-173
+direct bilirubin,<0.1,mg/dL,-173
+alkaline phos.,113,Units/L,-173
+anion gap,6,,1361
+BUN,27,mg/dL,1361
+-polys,67.9,%,-173
+-basos,0.4,%,1361
+-lymphs,34.7,%,1361
+RBC,3.63,M/mcL,-173
+MPV,9.4,fL,-173
+PT,10.7,sec,-173
+PT - INR,0.9,ratio,-173
+PTT,34.5,sec,-173
+-lymphs,20.8,%,-173
+RBC,3.31,M/mcL,1361
+bedside glucose,104,mg/dL,-157
+Hgb,10.4,g/dL,322
+Hct,30.4,%,557
+Hgb,9.9,g/dL,557
+Hct,32.2,%,322
+Hct,32.8,%,87
+Hgb,10.8,g/dL,87
+-polys,50.2,%,1361

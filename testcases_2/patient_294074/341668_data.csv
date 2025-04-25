@@ -1,0 +1,23 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+creatinine,1.4,mg/dL,27
+sodium,135.0,mEq/L,27
+magnesium,1.8,mEq/L,27
+albumin,3.2,g/dL,27
+potassium,4.4,mEq/L,27
+chloride,102.0,mEq/L,27
+BUN,18.0,mg/dL,27
+total bilirubin,0.5,mg/dL,27
+glucose,567.0,mg/dL,27
+lactate,2.4,mmol/L,27
+WBC x 1000,17.0,K/mcL,26
+platelets x 1000,399.0,K/mcL,26
+Hgb,13.9,g/dL,26
+Hct,42.3,%,26
+calcium,8.8,mg/dL,27
+bicarbonate,4.0,mEq/L,27
+paO2,139.0,mm Hg,26
+paCO2,11.0,mm Hg,26
+pH,7.09,,26
+FiO2,21.0,%,26
+O2 Sat (%),98.0,%,26
+Total CO2,3.6,,26

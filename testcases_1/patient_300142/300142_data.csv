@@ -1,0 +1,5 @@
+Time_since_admission (minutes),Hemoglobin (g/dL),Creatinine (mg/dL),BUN (mg/dL),Lactate (mmol/L),WBC x 1000 (K/cmm),Platelets x 1000 (K/cmm)
+-76,,,,5.7,,
+380,7.8,2.1,56.0,2.2,0.7,108.0
+1595,8.8,,,,0.8,87.0
+2994,8.4,2.3,41.0,,0.8,93.0

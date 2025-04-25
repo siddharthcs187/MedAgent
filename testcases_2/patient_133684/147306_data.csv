@@ -1,0 +1,11 @@
+labid,patientunitstayid,labresultoffset,labtypeid,labname,labresult,labresulttext,labmeasurenamesystem,labmeasurenameinterface,labresultrevisedoffset
+53261157,147306,177,3,platelets x 1000,280.0,280.0,K/mcL,K/mcL,187
+53261156,147306,177,3,RDW,13.0,13.0,%,%,187
+53261155,147306,177,3,MCHC,33.2,33.2,g/dL,g/dL,187
+53261150,147306,177,3,RBC,4.04,4.04,M/mcL,mil/mcL,187
+53261151,147306,177,3,Hgb,12.1,12.1,g/dL,g/dL,187
+53261152,147306,177,3,Hct,36.4,36.4,%,%,187
+53261153,147306,177,3,MCV,90.1,90.1,fL,fl,187
+53261154,147306,177,3,MCH,30.0,30.0,pg,pg,187
+42882635,147306,207,1,creatinine,0.65,0.65,mg/dL,mg/dL,207
+53261149,147306,177,3,WBC x 1000,13.5,13.5,K/mcL,K/mcL,187

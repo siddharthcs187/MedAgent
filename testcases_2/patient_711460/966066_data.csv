@@ -1,0 +1,78 @@
+LabName,LabResult,Units,TimeOffsetFromAdmit (minutes)
+HCO3,24.7,mmol/L,-219
+pH,7.34,,-219
+Platelets x 1000,232.0,K/mcL,1938
+Vent Rate,20.0,/min,-219
+MCHC,32.1,g/dL,1938
+Base Excess,-0.9,mEq/L,-219
+MCH,30.3,pg,1938
+Respiratory Rate,39.0,/min,-219
+-monos,3.6,%,1938
+O2 Content,16.1,mls/dL,-219
+Hgb,12.3,g/dL,1938
+FiO2,100.0,%,-219
+RDW,15.3,%,1938
+Carboxyhemoglobin,0.4,%,-219
+MCV,94.6,fL,1938
+Hct,38.2,%,1938
+paO2,52.0,mm Hg,-219
+paCO2,47.0,mm Hg,-219
+WBC x 1000,21.2,K/mcL,1938
+-polys,88.5,%,1938
+Total CO2,58.6,,-219
+-basos,0.2,%,1938
+Methemoglobin,0.8,%,-219
+-bands,38.0,%,455
+-lymphs,7.7,%,1938
+BNP,230.0,pg/mL,455
+platelets x 1000,242.0,K/mcL,455
+MCV,93.3,fL,455
+RBC,4.04,M/mcL,1938
+bedside glucose,98.0,mg/dL,313
+WBC x 1000,16.4,K/mcL,455
+bedside glucose,82.0,mg/dL,681
+RDW,15.2,%,455
+bedside glucose,102.0,mg/dL,1307
+MCH,29.9,pg,455
+bedside glucose,99.0,mg/dL,1547
+BUN,24.0,mg/dL,455
+-lymphs,12.0,%,455
+chloride,107.0,mmol/L,455
+bedside glucose,85.0,mg/dL,2209
+troponin - I,0.118,ng/mL,455
+calcium,8.6,mg/dL,455
+bedside glucose,93.0,mg/dL,2522
+phosphate,2.6,mg/dL,455
+PT,13.0,sec,455
+Total Protein,5.3,g/dL,455
+INR,1.1,ratio,455
+ALT (SGPT),10.0,Units/L,455
+AST (SGOT),19.0,Units/L,455
+alkaline phos.,133.0,Units/L,455
+RBC,4.72,M/mcL,-242
+MPV,9.4,fL,-242
+-monos,4.0,%,-242
+-polys,87.0,%,-242
+-lymphs,1.0,%,-242
+-bands,9.0,%,-242
+Hct,44.4,%,-242
+Hgb,13.9,g/dL,-242
+platelets x 1000,334.0,K/mcL,-242
+MCHC,31.4,g/dL,-242
+MCH,29.5,pg,-242
+RDW,15.3,%,-242
+WBC x 1000,20.4,K/mcL,-242
+BUN,19.0,mg/dL,-242
+creatinine,1.04,mg/dL,-242
+anion gap,10.0,,-242
+glucose,153.0,mg/dL,-242
+sodium,139.0,mmol/L,-242
+calcium,8.5,mg/dL,-242
+bicarbonate,27.0,mmol/L,-242
+troponin - I,0.122,ng/mL,107
+bedside glucose,116.0,mg/dL,970
+Hct,40.0,%,455
+-polys,44.0,%,455
+RBC,4.29,M/mcL,455
+MPV,9.4,fL,455
+lactate,4.5,mmol/L,455

@@ -1,0 +1,31 @@
+labname,admission_result,admission_units,discharge_result,discharge_units
+Hct,43.3,%38.5,%,
+Hgb,12.6,g/dL,11.4,g/dL
+RBC,4.19,M/mcL,3.76,M/mcL
+MCV,103,fL,102,fL
+MCH,30.1,pg,30.3,pg
+MCHC,29.1,g/dL,29.6,g/dL
+RDW,15.2,%,15.1,%
+Platelets x 1000,204,K/mcL,180,K/mcL
+WBC x 1000,15.7,K/mcL,15.8,K/mcL
+glucose,120,mg/dL,275,mg/dL
+calcium,10.3,mg/dL,9.5,mg/dL
+chloride,92,mmol/L,91,mmol/L
+bicarbonate,>40,mmol/L,39,mmol/L
+potassium,3.4,mmol/L,3.6,mmol/L
+sodium,143,mmol/L,139,mmol/L
+total protein,7.8,g/dL,,
+albumin,4.0,g/dL,,
+BUN,42,mg/dL,38,mg/dL
+creatinine,1.39,mg/dL,1.31,mg/dL
+AST (SGOT),24,Units/L,,
+ALT (SGPT),38,Units/L,,
+total bilirubin,0.6,mg/dL,,
+alkaline phos.,74,Units/L,,
+anion gap,<11,,9,
+PT,13.5,sec,,
+PT - INR,1.06,ratio,,
+PTT,23.5,sec,,
+BNP,2050,pg/mL,,
+bedside glucose,180,mg/dL,288,mg/dL
+FiO2,,,35,%

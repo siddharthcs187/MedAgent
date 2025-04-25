@@ -1,0 +1,8 @@
+Time_Minutes_Since_Admission,Heart_Rate_bpm,Systolic_BP_mmHg,Diastolic_BP_mmHg,Respiratory_Rate_breaths_per_minute,Oxygen_Saturation_percent,Hemoglobin_g/dL,White_Blood_Cell_count_K/mcL,Potassium_mmol/L,Bicarbonate_mmol/L,Glucose_mg/dL,Lactate_mmol/L
+10,76.0,106.0,64.0,14.0,97.0,,,,,,
+1110,84.0,117.0,66.0,14.0,98.0,,,,,,
+2323,,,,,,11.0,8.5,,,,
+872,,,,,,12.3,8.2,,25.0,105.0,
+970,,,,,97.7,,,,26.1,,
+2788,,,,,,,,,,,1.0
+-257,,,,,,15.5,7.0,,24.0,232.0,5.1

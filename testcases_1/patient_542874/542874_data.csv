@@ -1,0 +1,38 @@
+labname,Initial Value,Final Value,Units
+platelets x 1000,393.0,151.0,K/mcL
+Hct,38.0,29.6,% 
+MPV,9.7,9.0,fL
+anion gap,1.0,4.0,
+MCV,96.0,92.0,fL
+chloride,102.0,105.0,mmol/L
+HCO3,32.0,30.0,mmol/L
+total bilirubin,0.1,0.4,mg/dL
+RBC,3.96,3.22,M/mcL
+calcium,8.2,8.4,mg/dL
+ALT (SGPT),30.0,33.0,Units/L
+Base Excess,4.0,6.0,mEq/L
+alkaline phos.,142.0,118.0,Units/L
+BUN,17.0,23.0,mg/dL
+MCH,29.3,29.2,pg
+MCHC,30.5,31.8,g/dL
+glucose,298.0,102.0,mg/dL
+O2 Sat (%),100.0,99.0,%
+PEEP,5.0,5.0,cm H2O
+paO2,266.0,126.0,mm Hg
+paCO2,85.0,42.0,mm Hg
+pH,7.18,7.46,
+total protein,6.4,5.5,g/dL
+RDW,14.2,14.1,%
+potassium,4.6,3.8,mmol/L
+sodium,137.0,140.0,mmol/L
+-polys,59.0,95.0,%
+-lymphs,19.0,1.0,%
+-monos,6.0,3.0,%
+-bands,3.0,0.0,%
+-eos,2.0,0.0,%
+BNP,1914.0,,pg/mL
+PT,13.8,,sec
+PT - INR,1.0,,ratio
+PTT,28.0,,sec
+Respiratory Rate,,16.0,/min
+bedside glucose,256.0,263.0,mg/dL

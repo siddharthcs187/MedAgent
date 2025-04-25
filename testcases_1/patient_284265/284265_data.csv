@@ -1,0 +1,69 @@
+Lab Name,Lab Result,Units,Time Offset (minutes)
+MPV,9.9,fL,-1207
+MPV,9.9,fL,-40
+-lymphs,24.7,%,-1207
+PT,13.0,sec,-40
+platelets x 1000,188.0,K/mcL,-1207
+PT - INR,1.0,ratio,-40
+RBC,5.24,M/mcL,-1207
+MCHC,35.9,g/dL,-31
+potassium,4.4,mmol/L,-40
+anion gap,13.0,,-40
+Hgb,15.8,g/dL,-1207
+RDW,12.6,%,-31
+creatinine,0.92,mg/dL,-40
+WBC x 1000,8.61,K/mcL,-1207
+sodium,136.0,mmol/L,-40
+glucose,195.0,mg/dL,-40
+MCHC,34.6,g/dL,-1192
+MCH,30.6,pg,-31
+Hgb,15.9,g/dL,-31
+platelets x 1000,208.0,K/mcL,-31
+Hct,45.6,%,-1192
+-eos,0.0,%,959
+TSH,0.01,mcU/ml,-40
+MCV,86.5,fL,959
+-polys,56.8,%,-1192
+Hct,41.0,%,957
+sodium,139.0,mmol/L,959
+-eos,11.0,%,-1192
+anion gap,12.0,,959
+MCH,30.2,pg,977
+calcium,8.7,mg/dL,959
+free T4,1.29,ng/dL,-40
+bicarbonate,25.0,mmol/L,959
+WBC x 1000,14.34,K/mcL,959
+chloride,102.0,mmol/L,959
+MCV,85.4,fL,-31
+-polys,90.8,%,959
+glucose,137.0,mg/dL,959
+RBC,5.19,M/mcL,-31
+BUN,25.0,mg/dL,959
+-monos,6.7,%,-1192
+albumin,4.0,g/dL,-1207
+platelets x 1000,196.0,K/mcL,977
+bicarbonate,27.0,mmol/L,-1174
+BNP,129.0,pg/mL,-40
+creatinine,0.95,mg/dL,-1174
+RDW,12.8,%,977
+BUN,18.0,mg/dL,-1174
+-monos,2.6,%,977
+calcium,9.2,mg/dL,-1174
+ALT (SGPT),35.0,Units/L,-1174
+PTT,26.9,sec,-22
+total protein,7.4,g/dL,-1174
+-basos,0.8,%,-1192
+AST (SGOT),23.0,Units/L,-1174
+-basos,0.1,%,977
+anion gap,13.0,,-1174
+chloride,101.0,mmol/L,-1174
+glucose,106.0,mg/dL,-1174
+bedside glucose,139.0,mg/dL,1320
+bedside glucose,120.0,mg/dL,241
+bedside glucose,162.0,mg/dL,1161
+bedside glucose,118.0,mg/dL,2495
+bedside glucose,135.0,mg/dL,-156
+bedside glucose,122.0,mg/dL,1601
+bedside glucose,116.0,mg/dL,1888
+LPM O2,2.0,L/min,546
+FiO2,28.0,%,546

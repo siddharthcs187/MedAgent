@@ -1,0 +1,70 @@
+LabName,LabResult,Unit,TimeOffset
+potassium,3.3,mmol/L,-184
+calcium,8.0,mg/dL,-184
+BUN,10.0,mg/dL,801
+BUN,16.0,mg/dL,-184
+calcium,8.9,mg/dL,801
+glucose,209.0,mg/dL,801
+Hgb,12.2,g/dL,-184
+glucose,135.0,mg/dL,-184
+WBC x 1000,10.6,K/mcL,-184
+chloride,27.0,mmol/L,801
+-eos,3.0,%,-184
+HDL,43.0,mg/dL,-459
+RDW,13.1,%,-184
+chloride,101.0,mmol/L,801
+RBC,3.9,M/mcL,-184
+sodium,141.0,mmol/L,-184
+-basos,0.0,%,-184
+creatinine,0.52,mg/dL,801
+-polys,57.0,%,-184
+total cholesterol,146.0,mg/dL,-459
+paCO2,48.0,mm Hg,13
+potassium,3.6,mmol/L,801
+MCH,31.3,pg,-184
+chloride,104.0,mmol/L,-184
+paO2,91.0,mm Hg,13
+anion gap,13.0,mmol/L,801
+Hct,35.2,%,-184
+triglycerides,353.0,mg/dL,-459
+pH,7.33,Units,13
+sodium,137.0,mmol/L,801
+Hct,38.0,%,801
+platelets x 1000,199.0,K/mcL,-184
+anion gap,15.0,mmol/L,-184
+RBC,4.16,M/mcL,801
+FiO2,32.0,%,13
+bedside glucose,127.0,mg/dL,-209
+MCHC,34.5,g/dL,801
+MCHC,34.7,g/dL,-184
+potassium,3.3,mmol/L,2251
+MCH,31.5,pg,801
+HCO3,23.0,mmol/L,13
+LDL,32.0,mg/dL,-459
+platelets x 1000,196.0,K/mcL,801
+MCV,90.3,fL,-184
+O2 Sat (%),97.0,%,-322
+WBC x 1000,11.8,K/mcL,801
+Base Deficit,2.0,mEq/L,13
+potassium,3.7,mmol/L,262
+bedside glucose,251.0,mg/dL,3284
+-lymphs,35.0,%,-184
+Base Deficit,1.0,mEq/L,-322
+MCV,91.3,fL,801
+bedside glucose,200.0,mg/dL,1358
+bedside glucose,245.0,mg/dL,3032
+bedside glucose,161.0,mg/dL,1893
+bedside glucose,220.0,mg/dL,1609
+HCO3,24.0,mmol/L,-322
+bedside glucose,163.0,mg/dL,2437
+bedside glucose,218.0,mg/dL,2686
+bedside glucose,193.0,mg/dL,559
+pH,7.31,Units,-322
+bedside glucose,128.0,mg/dL,3883
+potassium,3.6,mmol/L,3711
+potassium,3.2,mmol/L,2683
+potassium,3.6,mmol/L,3139
+Total CO2,28.0,mmol/L,-322
+O2 Sat (%),94.0,%,13
+Total CO2,26.0,mmol/L,13
+bedside glucose,247.0,mg/dL,4222

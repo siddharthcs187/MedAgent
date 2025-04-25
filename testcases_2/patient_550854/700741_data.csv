@@ -1,0 +1,28 @@
+LabName,InitialValue,InitialUnits,FollowUpValue,FollowUpUnits,TimeOffset
+AST (SGOT),38,U/L,,,-153
+Total bilirubin,0.3,mg/dL,,,-153
+Potassium,3.7,mmol/L,3.9,mmol/L,68
+Creatinine,0.85,mg/dL,0.77,mg/dL,68
+Anion gap,9,,10.0,,68
+Alkaline phos.,124,U/L,,,-153
+Calcium,8.9,mg/dL,8.4,mg/dL,68
+ALT (SGPT),32,U/L,,,-153
+Phosphate,2.8,mg/dL,2.4,mg/dL,328
+Magnesium,1.9,mg/dL,2.5,mg/dL,68
+Glucose,115,mg/dL,105.0,mg/dL,68
+Albumin,4.1,g/dL,,,-153
+Bicarbonate,28,mmol/L,25.0,mmol/L,68
+Platelets,265,K/mcL,,,-153
+Sodium,135,mmol/L,137.0,mmol/L,68
+MCH,30.6,pg,,,-153
+MCHC,34,g/dL,,,-153
+BUN,14,mg/dL,12.0,mg/dL,68
+WBC,5.1,K/mcL,,,-153
+RDW,12.5,%,,,-153
+RBC,4.64,M/mcL,,,-153
+MCV,91,fL,,,-153
+Ethanol,<3,mg/dL,,,-153
+Acetaminophen,0,mcg/mL,,,-153
+TSH,2.27,mcU/ml,,,-153
+Total protein,7.1,g/dL,,,-153
+FiO2,21,%,,,27

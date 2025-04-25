@@ -1,0 +1,16 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+BUN,23.0,mg/dL,-103
+total bilirubin,0.3,mg/dL,-103
+sodium,150.0,mmol/L,-103
+albumin,0.8,g/dL,-103
+WBC x 1000,52.4,K/mcL,-103
+creatinine,1.0,mg/dL,-103
+Hct,9.6,%,-103
+Hgb,2.7,g/dL,-103
+glucose,185.0,mg/dL,-103
+HR,80.0,bpm,88
+BP systolic,99.0,mmHg,88
+BP diastolic,58.0,mmHg,88
+Resp Rate,17.0,breaths/min,88
+O2 Sat%,95.0,%,88
+FiO2,22.0,%,88

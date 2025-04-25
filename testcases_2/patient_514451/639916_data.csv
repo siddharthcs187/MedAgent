@@ -1,0 +1,2 @@
+patientunitstayid,patienthealthsystemstayid,gender,age,ethnicity,hospitalid,wardid,hospitaladmittime24,hospitaldischargeyear,hospitaldischargetime24,hospitaldischargelocation,hospitaldischargestatus,unittype,unitadmittime24,unitdischargetime24,unitdischargelocation,unitdischargestatus,uniquepid
+639916,514451,Male,24,Caucasian,167,324,19:07:00,2014,12:01:00,Other External,Alive,Neuro ICU,16:31:00,02:34:00,Floor,Alive,006-100851

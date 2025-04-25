@@ -1,0 +1,24 @@
+Lab Test Name,Lab Result Value,Unit,Lab Test Type
+Hgb,13.1,g/dL,Hematology
+RBC,4.27,M/mcL,Hematology
+Hct,40.2,%,Hematology
+-monos,12.0,%,Hematology
+-eos,3.0,%,Hematology
+-lymphs,19.0,%,Hematology
+-basos,1.0,%,Hematology
+WBC x 1000,7.6,K/mcL,Hematology
+MCV,94.1,fL,Hematology
+MCHC,32.6,g/dL,Hematology
+MCH,30.7,pg,Hematology
+RDW,12.5,%,Hematology
+platelets x 1000,294.0,K/mcL,Hematology
+bicarbonate,27.0,mmol/L,Chemistry
+anion gap,12.0,mmol/L,Chemistry
+glucose,107.0,mg/dL,Chemistry
+BUN,15.0,mg/dL,Chemistry
+creatinine,0.89,mg/dL,Chemistry
+potassium,3.9,mmol/L,Chemistry
+chloride,108.0,mmol/L,Chemistry
+sodium,143.0,mmol/L,Chemistry
+calcium,8.5,mg/dL,Chemistry
+bedside glucose,93.0,mg/dL,Misc

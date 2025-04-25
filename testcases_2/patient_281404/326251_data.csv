@@ -1,0 +1,2 @@
+PatientID,Glucose(mg/dL),Sodium(mEq/L),WBC(K/mcL),Creatinine(mg/dL),Hct(%),BUN(mg/dL)
+004-12627,294,139,14,1.2,45.8,17

@@ -1,0 +1,8 @@
+Time_Since_Admission (minutes),Hemoglobin (g/dL),Hematocrit (%),Sodium (mmol/L),Potassium (mmol/L),BUN (mg/dL),Creatinine (mg/dL),Platelets x 1000 (K/mcL),WBC x 1000 (K/mcL),Lactate (mmol/L)
+-101,7.6,12.4,142.0,3.9,19.0,0.76,280.0,14.2,
+266,7.8,,,,,,,,0.6
+423,7.6,,,,,,,,
+698,7.7,22.7,141.0,3.6,17.0,0.83,191.0,11.7,
+984,7.7,,,,,,,,
+1349,8.2,,,,,,,,
+2140,8.0,24.0,142.0,3.6,11.0,0.83,316.0,8.8,

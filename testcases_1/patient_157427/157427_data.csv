@@ -1,0 +1,58 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+glucose,76,mg/dL,879
+glucose,87,mg/dL,218
+glucose,83,mg/dL,999
+glucose,111,mg/dL,1584
+glucose,84,mg/dL,1857
+glucose,88,mg/dL,1222
+glucose,84,mg/dL,2364
+glucose,136,mg/dL,-126
+creatinine,1.6,mg/dL,-126
+creatinine,1.32,mg/dL,879
+sodium,137,mmol/L,-126
+sodium,138,mmol/L,879
+chloride,101,mmol/L,-126
+chloride,105,mmol/L,879
+calcium,8.8,mg/dL,-126
+calcium,8.9,mg/dL,879
+potassium,3.9,mmol/L,-126
+potassium,4.4,mmol/L,879
+bicarbonate,25,mmol/L,-126
+bicarbonate,27,mmol/L,879
+anion gap,15,mmol/L,-126
+anion gap,10,mmol/L,879
+albumin,3.1,g/dL,-126
+AST (SGOT),15,Units/L,-126
+ALT (SGPT),22,Units/L,-126
+total bilirubin,0.4,mg/dL,-126
+total protein,7.7,g/dL,-126
+BUN,17,mg/dL,-126
+BUN,18,mg/dL,879
+troponin - I,<0.02,ng/mL,-126
+troponin - I,<0.02,ng/mL,879
+troponin - I,<0.02,ng/mL,442
+troponin - I,<0.02,ng/mL,2357
+PT,11.5,sec,-126
+PT,11.5,sec,879
+PT,11.5,sec,2357
+PT - INR,1.1,ratio,2357
+PT - INR,1.1,ratio,879
+PT - INR,1.1,ratio,-126
+PTT,25,sec,-126
+RBC,3.95,M/mcL,-126
+Hgb,11.5,g/dL,-126
+Hct,36.3,%,-126
+MCV,91.9,fL,-126
+MCH,29.1,pg,-126
+MCHC,31.7,g/dL,-126
+RDW,13.2,%,-126
+platelets x 1000,283,K/mcL,-126
+WBC x 1000,8.4,K/mcL,-126
+-monos,9,%,-126
+-polys,83,%,-126
+-lymphs,6,%,-126
+-eos,1,%,-126
+-basos,1,%,-126
+TSH,1.244,mcU/ml,-126
+BNP,61,pg/mL,-126
+urinary specific gravity,1.015,,1309

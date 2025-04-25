@@ -1,0 +1,164 @@
+labname,labresult,labresultoffset,labmeasurenamesystem
+Hgb,8.6,-4079,g/dL
+PT - INR,1.32,-4079,ratio
+PT,16.0,-4079,sec
+RDW,14.7,-4079,%
+WBC x 1000,13.0,-4079,K/mcL
+MCHC,33.8,-4079,g/dL
+-monos,8.8,-4079,%
+-lymphs,11.2,-4079,%
+platelets x 1000,163.0,-4079,K/mcL
+Hct,20.3,-1093,%
+MCV,89.0,-1093,fL
+RDW,15.7,-1093,%
+MCH,30.7,-1093,pg
+MCHC,34.4,-1093,g/dL
+RBC,2.28,-1093,M/mcL
+WBC x 1000,9.4,-1093,K/mcL
+PT - INR,1.54,-1093,ratio
+PT,18.2,-1093,sec
+RBC,2.16,-2844,M/mcL
+Hct,19.3,-2844,%
+MCV,89.4,-2844,fL
+Hgb,6.5,-2844,g/dL
+WBC x 1000,16.2,-2844,K/mcL
+-basos,0.2,-4079,%
+-polys,79.8,-4079,%
+-eos,0.0,-4079,%
+RDW,15.1,-2844,%
+MCH,30.0,-2844,pg
+MCHC,33.6,-2844,g/dL
+platelets x 1000,121.0,-2844,K/mcL
+bicarbonate,17.0,-2844,mmol/L
+total protein,4.6,-2844,g/dL
+AST (SGOT),28.0,-2844,Units/L
+sodium,133.0,-2844,mmol/L
+creatinine,3.54,-2844,mg/dL
+alkaline phos.,32.0,-2844,Units/L
+glucose,195.0,-2844,mg/dL
+ALT (SGPT),37.0,-2844,Units/L
+total bilirubin,0.2,-2844,mg/dL
+prealbumin,16.0,-2844,mg/dL
+BUN,50.0,-2844,mg/dL
+chloride,101.0,-2844,mmol/L
+calcium,7.4,-2844,mg/dL
+anion gap,15.0,-2844,
+bedside glucose,133.0,-1437,mg/dL
+bedside glucose,120.0,-1664,mg/dL
+bedside glucose,115.0,-1254,mg/dL
+bedside glucose,100.0,-2550,mg/dL
+bedside glucose,264.0,-2843,mg/dL
+bedside glucose,64.0,-2849,mg/dL
+Hct,24.1,-1702,%
+Hgb,8.3,-1702,g/dL
+Hct,25.5,-2009,%
+Hgb,8.7,-2009,g/dL
+sodium,135.0,-2099,mmol/L
+albumin,3.4,-2099,g/dL
+bicarbonate,20.0,-2099,mmol/L
+BUN,52.0,-2099,mg/dL
+chloride,102.0,-2099,mmol/L
+creatinine,3.28,-2099,mg/dL
+potassium,4.7,-2099,mmol/L
+anion gap,13.0,-2099,
+calcium,7.6,-2099,mg/dL
+glucose,148.0,-2099,mg/dL
+potassium,4.4,-1093,mmol/L
+sodium,138.0,-1093,mmol/L
+BUN,50.0,-1093,mg/dL
+chloride,109.0,-1093,mmol/L
+glucose,115.0,-1093,mg/dL
+calcium,7.1,-1093,mg/dL
+phosphate,3.3,-1093,mg/dL
+total protein,4.7,-1093,g/dL
+albumin,2.9,-1093,g/dL
+bicarbonate,21.0,-1093,mmol/L
+ALT (SGPT),30.0,-1093,Units/L
+AST (SGOT),27.0,-1093,Units/L
+anion gap,8.0,-1093,
+prealbumin,15.0,-1093,mg/dL
+total bilirubin,0.4,-1093,mg/dL
+Hgb,7.3,-1334,g/dL
+Hct,20.7,-1334,%
+bedside glucose,120.0,-2274,mg/dL
+urinary creatinine,247.7,-2274,mg/dL
+urinary sodium,24.0,-2274,mmol/L
+urinary osmolality,503.0,-2274,mOsm/L
+Hct,25.4,-519,%
+Hgb,8.7,-519,g/dL
+RBC,2.83,-519,M/mcL
+-lymphs,13.3,-519,%
+-basos,0.1,-519,%
+-polys,71.9,-519,%
+-eos,1.0,-519,%
+MCV,89.8,-519,fL
+MCH,30.7,-519,pg
+MCHC,34.2,-519,g/dL
+platelets x 1000,117.0,-519,K/mcL
+WBC x 1000,8.2,-519,K/mcL
+RDW,15.0,-519,%
+Hgb,9.1,-2442,g/dL
+Hct,26.7,-2442,%
+RBC,3.02,-2442,M/mcL
+MCV,88.4,-2442,fL
+MCH,30.1,-2442,pg
+MCHC,34.0,-2442,g/dL
+RDW,14.8,-2442,%
+platelets x 1000,117.0,-2442,K/mcL
+WBC x 1000,15.5,-2442,K/mcL
+bicarbonate,21.0,-2442,mmol/L
+albumin,3.2,-2442,g/dL
+calcium,7.6,-2442,mg/dL
+creatinine,3.6,-2442,mg/dL
+phosphate,3.9,-2442,mg/dL
+BUN,52.0,-2442,mg/dL
+chloride,101.0,-2442,mmol/L
+potassium,5.3,-2442,mmol/L
+anion gap,11.0,-2442,
+PT,19.2,-2442,sec
+PT - INR,1.65,-2442,ratio
+Hct,24.8,-2991,%
+Hgb,8.3,-2991,g/dL
+RBC,2.84,-2991,M/mcL
+sodium,134.0,-2991,mmol/L
+chloride,100.0,-2991,mmol/L
+glucose,147.0,-2991,mg/dL
+calcium,8.2,-2991,mg/dL
+BUN,48.0,-2991,mg/dL
+creatinine,3.26,-2991,mg/dL
+potassium,6.3,-2991,mmol/L
+anion gap,14.0,-2991,
+bicarbonate,20.0,-2991,mmol/L
+Hgb,7.5,-3583,g/dL
+Hct,22.2,-3583,%
+sodium,134.0,-3474,mmol/L
+bicarbonate,20.0,-3474,mmol/L
+calcium,8.2,-3474,mg/dL
+BUN,43.0,-3474,mg/dL
+chloride,101.0,-3474,mmol/L
+glucose,154.0,-3474,mg/dL
+creatinine,2.75,-3474,mg/dL
+potassium,6.2,-3474,mmol/L
+anion gap,13.0,-3474,
+albumin,3.1,423,g/dL
+calcium,7.7,423,mg/dL
+bicarbonate,22.0,423,mmol/L
+BUN,37.0,423,mg/dL
+chloride,113.0,423,mmol/L
+creatinine,1.42,423,mg/dL
+glucose,96.0,423,mg/dL
+phosphate,2.2,423,mg/dL
+Hgb,9.6,423,g/dL
+Hct,27.9,423,%
+RBC,3.15,423,M/mcL
+MCV,88.6,423,fL
+MCH,30.4,423,pg
+MCHC,34.4,423,g/dL
+RDW,15.0,423,%
+platelets x 1000,87.0,423,K/mcL
+WBC x 1000,6.7,423,K/mcL
+PT,14.1,423,sec
+PT - INR,1.12,423,ratio
+potassium,4.1,423,mmol/L
+sodium,142.0,423,mmol/L
+anion gap,7.0,423,

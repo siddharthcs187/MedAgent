@@ -1,0 +1,5 @@
+TimeOffset,Hgb (g/dL),Hct (%),WBC (K/uL),Platelets (K/uL),RBC (M/mcL),MCV (fL),MCHC (g/dL),RDW (%),Sodium (mmol/L),Potassium (mmol/L),Chloride (mmol/L),Bicarbonate (mmol/L),BUN (mg/dL),Creatinine (mg/dL),Glucose (mg/dL),Calcium (mg/dL),Anion Gap,Lactate (mmol/L),Ferritin (ng/mL)
+-3102,10.9,32.1,18.4,481,3.76,85,34,12.8,134.0,4.4,99.0,27,7,0.73,110,8.0,0.8,,
+-910,9.5,28.2,12.7,454,3.29,86,34,13.2,,4.0,,29,6,0.72,118,8.7,0.8,,
+382,8.9,27.1,8.7,458,3.11,87,33,13.5,137.0,4.0,103.0,28,6,0.55,94,8.2,0.8,,
+1971,9.8,29.2,6.0,532,3.41,86,34,13.7,135.0,3.7,100.0,27,5,0.7,97,8.4,8.0,0.8,1168.2

@@ -1,0 +1,4 @@
+Time_Since_Admission_Minutes,Glucose_mg/dL,Sodium_mEq/L,Creatinine_mg/dL,BUN_mg/dL,Albumin_g/dL,Hct_percent,WBC_K/mcL
+-112,804,134,1.4,23,3.2,41.1,9.1
+-112,594,134,1.4,23,3.2,41.1,9.1
+88,438,134,1.4,23,3.2,41.1,9.1

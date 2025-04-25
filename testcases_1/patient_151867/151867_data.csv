@@ -1,0 +1,88 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+AST (SGOT),22.0,Units/L,-413
+sodium,136.0,mmol/L,-413
+glucose,150.0,mg/dL,-413
+MCH,30.3,pg,3603
+ALT (SGPT),26.0,Units/L,-413
+-basos,0.0,%,3603
+bicarbonate,22.0,mmol/L,-413
+WBC x 1000,7.6,K/mcL,3603
+albumin,3.4,g/dL,-413
+RBC,3.79,M/mcL,3603
+creatinine,1.23,mg/dL,-413
+Hct,34.3,%,3603
+alkaline phos.,101.0,Units/L,-413
+Hgb,11.5,g/dL,3603
+anion gap,19.0,,-413
+platelets x 1000,220.0,K/mcL,3603
+total protein,7.5,g/dL,-413
+-lymphs,18.0,%,3603
+chloride,100.0,mmol/L,-413
+BUN,13.0,mg/dL,-413
+MCH,30.8,pg,724
+-lymphs,10.0,%,724
+-eos,0.0,%,724
+-monos,9.0,%,724
+MCHC,33.6,g/dL,724
+platelets x 1000,178.0,K/mcL,724
+MCV,91.6,fL,724
+Hgb,13.5,g/dL,724
+-eos,1.0,%,2188
+-monos,9.0,%,2188
+-basos,0.0,%,2188
+-polys,76.0,%,2188
+-lymphs,14.0,%,2188
+platelets x 1000,193.0,K/mcL,2188
+RDW,13.4,%,2188
+-polys,81.0,%,750
+bedside glucose,103.0,mg/dL,1518
+MCV,91.9,fL,2174
+MCH,30.6,pg,2174
+WBC x 1000,10.3,K/mcL,2174
+RBC,3.95,M/mcL,2174
+Hct,36.3,%,2174
+MCHC,33.3,g/dL,2174
+creatinine,1.08,mg/dL,2174
+calcium,8.0,mg/dL,2199
+BUN,10.0,mg/dL,2174
+bedside glucose,78.0,mg/dL,4436
+bedside glucose,118.0,mg/dL,1164
+sodium,134.0,mmol/L,3603
+potassium,4.2,mmol/L,3639
+glucose,95.0,mg/dL,3639
+chloride,99.0,mmol/L,3639
+calcium,8.2,mg/dL,3639
+BUN,9.0,mg/dL,3639
+creatinine,0.94,mg/dL,3639
+bedside glucose,113.0,mg/dL,2596
+bedside glucose,93.0,mg/dL,3671
+bedside glucose,98.0,mg/dL,2970
+bedside glucose,95.0,mg/dL,4060
+bedside glucose,85.0,mg/dL,4784
+bicarbonate,26.0,mmol/L,2199
+bedside glucose,113.0,mg/dL,449
+potassium,4.0,mmol/L,2199
+sodium,132.0,mmol/L,2199
+chloride,99.0,mmol/L,2199
+anion gap,11.0,,2199
+potassium,3.9,mmol/L,724
+creatinine,1.07,mg/dL,724
+anion gap,13.0,,724
+bicarbonate,25.0,mmol/L,724
+calcium,7.8,mg/dL,750
+RDW,13.6,%,724
+RDW,13.5,%,-413
+-monos,8.0,%,-413
+-basos,0.0,%,-413
+-polys,83.0,%,-395
+-lymphs,9.0,%,-395
+RBC,5.29,M/mcL,-395
+Hct,47.1,%,-395
+Hgb,16.2,g/dL,-395
+-eos,0.0,%,-395
+MCHC,34.4,g/dL,-395
+MCH,30.6,pg,-395
+WBC x 1000,18.7,K/mcL,-395
+MCV,89.0,fL,-395
+lipase,158.0,Units/L,-381
+potassium,4.5,mmol/L,-413

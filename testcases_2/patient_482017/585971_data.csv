@@ -1,0 +1,381 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-1658,total protein,4.2,g/dL
+-1658,calcium,7.8,mg/dL
+4382,AST (SGOT),28.0,Units/L
+-1658,ALT (SGPT),13.0,Units/L
+4382,sodium,142.0,mmol/L
+-1658,total bilirubin,0.4,mg/dL
+4382,albumin,1.9,g/dL
+-1658,glucose,190.0,mg/dL
+4382,creatinine,1.16,mg/dL
+-1658,sodium,139.0,mmol/L
+4382,alkaline phos.,60.0,Units/L
+-1658,albumin,2.0,g/dL
+4382,total bilirubin,0.4,mg/dL
+-1658,bicarbonate,19.0,mmol/L
+4382,potassium,4.1,mmol/L
+-1658,BUN,43.0,mg/dL
+4382,chloride,110.0,mmol/L
+-1658,creatinine,1.18,mg/dL
+-88,calcium,6.7,mg/dL
+4382,anion gap,8.0,
+-88,anion gap,10.0,
+-1658,alkaline phos.,96.0,Units/L
+-88,bicarbonate,18.0,mmol/L
+4382,bicarbonate,24.0,mmol/L
+-88,sodium,139.0,mmol/L
+-1658,total protein,3.0,g/dL
+2887,-polys,78.0,%
+-88,total protein,3.0,g/dL
+4382,BUN,50.0,mg/dL
+-88,ALT (SGPT),10.0,Units/L
+2887,-basos,0.0,%
+-88,glucose,294.0,mg/dL
+-1658,potassium,4.2,mmol/L
+-88,AST (SGOT),14.0,Units/L
+-88,anion gap,10.0,
+-1658,anion gap,9.0,
+-88,albumin,1.4,g/dL
+2887,-lymphs,12.0,%
+-88,calcium,6.7,mg/dL
+-1247,bedside glucose,232.0,mg/dL
+-1658,magnesium,1.7,mg/dL
+1506,paO2,107.0,mm Hg
+-8,bedside glucose,233.0,mg/dL
+1506,Temperature,98.6,°C
+4382,magnesium,1.6,mg/dL
+1506,FiO2,30.0,%
+4382,glucose,171.0,mg/dL
+1506,Base Excess,-2.6,mEq/L
+-88,phosphate,3.5,mg/dL
+2887,-eos,2.0,%
+1506,paCO2,27.0,mm Hg
+-893,uric acid,5.8,mg/dL
+2887,MPV,9.9,fL
+-860,phosphate,2.9,mg/dL
+2887,RBC,3.99,M/mcL
+-8,bedside glucose,233.0,mg/dL
+2916,AST (SGOT),14.0,Units/L
+2887,Hct,34.0,%
+2916,total protein,4.0,g/dL
+2887,MCV,85.0,fL
+2887,-lymphs,8.0,%
+2887,Hgb,11.9,g/dL
+2916,calcium,7.6,mg/dL
+2887,RDW,16.4,%
+1506,PEEP,5.0,cm H2O
+2887,platelets x 1000,166.0,K/mcL
+2916,albumin,2.0,g/dL
+-893,bedside glucose,232.0,mg/dL
+-1658,phosphate,3.0,mg/dL
+692,troponin - I,0.02,ng/mL
+-88,troponin - I,0.02,ng/mL
+692,lactate,3.4,mmol/L
+-1658,lactate,1.1,mmol/L
+-17,lactate,3.4,mmol/L
+-88,ALT (SGPT),10.0,Units/L
+4090,bedside glucose,197.0,mg/dL
+-88,total protein,3.0,g/dL
+-88,albumin,1.4,g/dL
+-88,bicarbonate,18.0,mmol/L
+-88,sodium,139.0,mmol/L
+-88,alkaline phos.,51.0,Units/L
+-88,AST (SGOT),14.0,Units/L
+-88,creatinine,1.58,mg/dL
+-88,potassium,5.1,mmol/L
+-88,glucose,294.0,mg/dL
+-88,chloride,111.0,mmol/L
+-88,BUN,67.0,mg/dL
+-88,total bilirubin,0.4,mg/dL
+-893,magnesium,1.7,mg/dL
+-88,-basos,0.0,%
+-88,-lymphs,12.0,%
+-88,-monos,11.0,%
+-88,-eos,0.0,%
+2887,-polys,78.0,%
+2887,-basos,0.0,%
+2887,-lymphs,8.0,%
+2887,-monos,12.0,%
+2887,-eos,2.0,%
+4382,phosphate,3.0,mg/dL
+-1658,platelets x 1000,369.0,K/mcL
+-1658,MCHC,34.1,g/dL
+-1658,MCH,30.3,pg
+-1658,MCV,89.0,fL
+-1658,Hgb,11.5,g/dL
+-1658,Hct,33.7,%
+-1658,RDW,16.5,%
+-1658,WBC x 1000,24.1,K/mcL
+-88,MCV,92.0,fL
+692,creatinine,1.38,mg/dL
+692,anion gap,12.0,
+692,sodium,138.0,mmol/L
+692,potassium,4.7,mmol/L
+692,total bilirubin,1.2,mg/dL
+692,alkaline phos.,53.0,Units/L
+692,AST (SGOT),18.0,Units/L
+692,total protein,4.0,g/dL
+692,albumin,2.6,g/dL
+692,ALT (SGPT),11.0,Units/L
+692,BUN,63.0,mg/dL
+692,chloride,111.0,mmol/L
+692,glucose,352.0,mg/dL
+692,troponin - I,0.2,ng/mL
+692,Hgb,12.9,g/dL
+692,Hct,35.6,%
+1887,phosphate,3.5,mg/dL
+1449,PTT,35.0,sec
+-1658,PTT,38.0,sec
+1449,PT,18.8,sec
+-1658,PT,18.2,sec
+1449,PT - INR,1.6,ratio
+-1658,PT - INR,1.5,ratio
+1449,-polys,72.0,%
+1449,-basos,0.0,%
+1449,-lymphs,12.0,%
+1449,-monos,12.0,%
+1449,-eos,3.0,%
+1449,Hgb,11.5,g/dL
+1449,Hct,31.9,%
+1449,MCV,83.0,fL
+1449,MCH,29.9,pg
+1449,MCHC,36.1,g/dL
+1449,RDW,15.8,%
+1449,platelets x 1000,141.0,K/mcL
+1449,WBC x 1000,17.0,K/mcL
+-88,PT,24.4,sec
+-88,PT - INR,2.2,ratio
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-31,AST (SGOT),14.0,Units/L
+-31,ALT (SGPT),10.0,Units/L
+-25,alkaline phos.,51.0,Units/L
+-24,magnesium,1.9,mg/dL
+-38,anion gap,10.0,
+-38,bicarbonate,18.0,mmol/L
+-25,total protein,3.0,g/dL
+-30,ALT (SGPT),10.0,Units/L
+-37,alkaline phos.,51.0,Units/L
+-25,total protein,3.0,g/dL
+-30,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-38,chloride,111.0,mmol/L
+-30,BUN,67.0,mg/dL
+-37,alkaline phos.,51.0,Units/L
+-25,total protein,3.0,g/dL
+-31,ALT (SGPT),10.0,Units/L
+-38,anion gap,10.0,
+-38,bicarbonate,18.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+-30,ALT (SGPT),10.0,Units/L
+-31,AST (SGOT),14.0,Units/L
+-33,total bilirubin,0.4,mg/dL
+-37,albumin,1.4,g/dL
+-37,alkaline phos.,51.0,Units/L
+-30,BUN,67.0,mg/dL
+-38,chloride,111.0,mmol/L
+4382,anion gap,8.0,
+4382,total protein,4.0,g/dL
+4382,sodium,142.0,mmol/L
+4382,total bilirubin,0.4,mg/dL
+4382,albumin,1.9,g/dL
+4382,bicarbonate,24.0,mmol/L
+4382,potassium,4.1,mmol/L
+4382,BUN,50.0,mg/dL
+4382,chloride,110.0,mmol/L
+2887,platelets x 1000,166.0,K/mcL
+2887,WBC x 1000,17.1,K/mcL
+2887,RBC,3.99,M/mcL
+2887,Hgb,11.9,g/dL
+2887,Hct,34.0,%
+2887,MCV,85.0,fL
+28,,,

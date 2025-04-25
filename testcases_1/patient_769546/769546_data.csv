@@ -1,0 +1,33 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+sodium,134,mmol/L,-274
+albumin,3.3,g/dL,-274
+potassium,4.4,mmol/L,-274
+creatinine,0.88,mg/dL,-274
+bicarbonate,26,mmol/L,-274
+WBC x 1000,11.3,K/mcL,-274
+calcium,8.5,mg/dL,-274
+MCV,103,fL,-274
+total bilirubin,0.4,mg/dL,-274
+RDW,13.3,%,-274
+total protein,8.3,g/dL,-274
+platelets x 1000,257,K/mcL,-274
+ALT (SGPT),22,Units/L,-274
+Hgb,11.5,g/dL,-274
+AST (SGOT),25,Units/L,-274
+MCH,33.5,pg,-274
+anion gap,8,,-274
+MPV,9.1,fL,-274
+BUN,17,mg/dL,-274
+chloride,100,mmol/L,-274
+FiO2,40,%,28
+Respiratory Rate,15,/min,28
+Hct,35.3,%,-274
+troponin - I,<0.02,ng/mL,-274
+glucose,161,mg/dL,-274
+bedside glucose,152,mg/dL,3
+Acetaminophen,<2,mcg/mL,-274
+ethanol,<10,mg/dL,-274
+PT,13.5,sec,-274
+PT - INR,1,ratio,-274
+alkaline phos.,72,Units/L,-274
+BNP,905,pg/mL,-274

@@ -1,0 +1,368 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-319,-monos,5.0,%
+-319,MCHC,34.0,g/dL
+-319,RDW,14.2,%
+-319,-basos,0.0,%
+-319,-polys,72.0,%
+-319,-lymphs,23.0,%
+-319,MPV,12.8,fL
+-319,Hgb,13.5,g/dL
+-319,RBC,4.14,M/mcL
+-319,platelets x 1000,196.0,K/mcL
+-284,anion gap,17.0,
+-284,total protein,7.2,g/dL
+-284,direct bilirubin,0.0,mg/dL
+-284,BUN,31.0,mg/dL
+-284,chloride,87.0,mmol/L
+-284,potassium,4.6,mmol/L
+-284,creatinine,2.0,mg/dL
+-284,sodium,126.0,mmol/L
+-284,albumin,4.5,g/dL
+-284,AST (SGOT),61.0,Units/L
+-284,bicarbonate,21.0,mmol/L
+-284,amylase,197.0,Units/L
+-284,lipase,362.0,Units/L
+-284,total bilirubin,1.7,mg/dL
+-284,troponin - I,1.24,ng/mL
+-284,TSH,2.16,mcU/ml
+-284,PTT,25.5,sec
+-284,urinary specific gravity,1.019,
+-135,T4,6.49,mcg/dL
+134,bedside glucose,112.0,mg/dL
+134,urinary sodium,28.0,mmol/L
+149,anion gap,17.0,
+149,BUN,37.0,mg/dL
+149,calcium,7.6,mg/dL
+149,chloride,91.0,mmol/L
+149,glucose,104.0,mg/dL
+149,magnesium,2.0,mg/dL
+149,phosphate,4.7,mg/dL
+149,potassium,4.1,mmol/L
+149,sodium,126.0,mmol/L
+149,CPK,1436.0,Units/L
+149,CPK-MB,5.6,ng/mL
+177,urinary sodium,28.0,mmol/L
+222,TV,360.0,mls
+222,Methemoglobin,0.3,%
+222,FiO2,50.0,%
+222,Respiratory Rate,20.0,/min
+222,paCO2,26.2,mm Hg
+222,O2 Content,16.2,mls/dL
+222,paO2,78.3,mm Hg
+222,Base Excess,-8.6,mEq/L
+222,pH,7.377,
+257,Infectious Disease consultation,,
+257,Nephrology consultation,,
+257,acetaminophen,,
+257,levofloxacin,,
+257,metronidazole,,
+257,vancomycin,,
+257,cefepime,,
+257,pantoprazole,,
+257,CT scan,,
+257,oxygen therapy (40% to 60%),,
+257,mechanical ventilation,,
+257,cultures,,
+257,Neurology consultation,,
+257,Cardiology consultation,,
+257,foley catheter,,
+257,aspirin,,
+257,enoxaparin,,
+257,head CT scan,,
+257,non-invasive testing for DVT,,
+1309,TV,360.0,mls
+1309,Methemoglobin,0.3,%
+1309,FiO2,50.0,%
+1309,Respiratory Rate,20.0,/min
+1309,paCO2,23.1,mm Hg
+1309,O2 Content,16.2,mls/dL
+1309,paO2,175.7,mm Hg
+1309,Base Excess,-9.6,mEq/L
+1309,pH,7.383,
+1334,anion gap,16.0,
+1334,total protein,5.3,g/dL
+1334,direct bilirubin,0.5,mg/dL
+1334,BUN,49.0,mg/dL
+1334,chloride,94.0,mmol/L
+1334,potassium,4.6,mmol/L
+1334,creatinine,3.7,mg/dL
+1334,sodium,127.0,mmol/L
+1334,albumin,3.0,g/dL
+1334,AST (SGOT),448.0,Units/L
+1334,bicarbonate,17.0,mmol/L
+1334,glucose,104.0,mg/dL
+1334,total bilirubin,1.5,mg/dL
+1334,cortisol,38.3,mcg/dL
+1411,glucose,104.0,mg/dL
+1411,chloride,94.0,mmol/L
+1411,potassium,4.6,mmol/L
+1411,creatinine,3.7,mg/dL
+1411,sodium,127.0,mmol/L
+1411,albumin,3.0,g/dL
+1411,AST (SGOT),448.0,Units/L
+1411,bicarbonate,17.0,mmol/L
+1411,BUN,49.0,mg/dL
+1411,total bilirubin,1.5,mg/dL
+1507,RBC,4.31,M/mcL
+1507,Hct,41.1,%
+1507,Hgb,13.9,g/dL
+1507,MCV,95.0,fL
+1507,MCH,32.0,pg
+1507,MCHC,34.0,g/dL
+1507,RDW,13.9,%
+1507,platelets x 1000,38.0,K/mcL
+1507,WBC x 1000,12.4,K/mcL
+1538,RBC,4.31,M/mcL
+1538,Hct,41.1,%
+1538,Hgb,13.9,g/dL
+1538,MCV,95.0,fL
+1538,MCH,32.0,pg
+1538,MCHC,34.0,g/dL
+1538,RDW,13.9,%
+1538,platelets x 1000,38.0,K/mcL
+1538,WBC x 1000,12.4,K/mcL
+179,Performed - Structured,,
+179,HR Current,66.0,
+179,HR Lowest,66.0,
+179,HR Highest,85.0,
+179,BP (systolic) Current,67.0,
+179,BP (systolic) Lowest,62.0,
+179,BP (systolic) Highest,152.0,
+179,BP (diastolic) Current,48.0,
+179,BP (diastolic) Lowest,42.0,
+179,BP (diastolic) Highest,112.0,
+179,Resp Current,30.0,
+179,Resp Lowest,28.0,
+179,Resp Highest,34.0,
+179,O2 Sat% Current,79.0,
+179,O2 Sat% Lowest,72.0,
+179,O2 Sat% Highest,100.0,
+179,FiO2%,50.0,
+179,PEEP,8.0,
+179,Vent Rate Current,20.0,
+179,Admission,61.2,
+179,unable to score due to meds,,
+21,HR Lowest,85.0,
+21,HR Highest,85.0,
+21,BP (systolic) Lowest,98.0,
+21,BP (systolic) Highest,98.0,
+21,BP (diastolic) Lowest,70.0,
+21,BP (diastolic) Highest,70.0,
+21,Resp Lowest,28.0,
+21,Resp Highest,28.0,
+21,O2 Sat% Lowest,79.0,
+21,O2 Sat% Highest,79.0,
+75,HR Lowest,84.0,
+75,HR Highest,85.0,
+75,BP (systolic) Lowest,105.0,
+75,BP (systolic) Highest,98.0,
+75,BP (diastolic) Lowest,60.0,
+75,BP (diastolic) Highest,70.0,
+75,Resp Lowest,28.0,
+75,Resp Highest,33.0,
+75,O2 Sat% Lowest,76.0,
+75,O2 Sat% Highest,79.0,
+75,FiO2%,100.0,
+75,PEEP,5.0,
+75,Vent Rate Current,18.0,
+1309,paO2,175.7,mm Hg
+1309,paCO2,23.1,mm Hg
+1309,O2 Sat (%),99.2,%
+1309,FiO2,50.0,%
+1309,TV,360.0,mls
+1309,Base Excess,-9.6,mEq/L
+1309,pH,7.383,
+1309,Carboxyhemoglobin,0.3,%
+1309,Methemoglobin,0.3,%
+1309,Respiratory Rate,20.0,/min
+1309,HCO3,23.1,mmol/L
+1334,anion gap,16.0,
+1334,total protein,5.3,g/dL
+1334,direct bilirubin,0.5,mg/dL
+1334,BUN,49.0,mg/dL
+1334,chloride,94.0,mmol/L
+1334,potassium,4.6,mmol/L
+1334,creatinine,3.7,mg/dL
+1334,sodium,127.0,mmol/L
+1334,albumin,3.0,g/dL
+1334,AST (SGOT),448.0,Units/L
+1334,bicarbonate,17.0,mmol/L
+1334,glucose,104.0,mg/dL
+1334,total bilirubin,1.5,mg/dL
+1334,cortisol,38.3,mcg/dL
+1414,anion gap,16.0,
+1414,total protein,5.3,g/dL
+1414,direct bilirubin,0.5,mg/dL
+1414,BUN,49.0,mg/dL
+1414,chloride,94.0,mmol/L
+1414,potassium,4.6,mmol/L
+1414,creatinine,3.7,mg/dL
+1414,sodium,127.0,mmol/L
+1414,albumin,3.0,g/dL
+1414,AST (SGOT),448.0,Units/L
+1414,bicarbonate,17.0,mmol/L
+1414,glucose,104.0,mg/dL
+1414,total bilirubin,1.5,mg/dL
+1507,RBC,4.31,M/mcL
+1507,Hct,41.1,%
+1507,Hgb,13.9,g/dL
+1507,MCV,95.0,fL
+1507,MCH,32.0,pg
+1507,MCHC,34.0,g/dL
+1507,RDW,13.9,%
+1507,platelets x 1000,38.0,K/mcL
+1507,WBC x 1000,12.4,K/mcL
+1919,Vancomycin - trough,15.9,mcg/mL
+1972,Vancomycin - trough,15.9,mcg/mL
+2004,fibrinogen,186.0,mg/dL
+2033,fibrinogen,186.0,mg/dL
+2033,fibrinogen,186.0,mg/dL
+21,HR Lowest,85.0,
+21,HR Highest,85.0,
+21,BP (systolic) Lowest,98.0,
+21,BP (systolic) Highest,98.0,
+21,BP (diastolic) Lowest,70.0,
+21,BP (diastolic) Highest,70.0,
+21,Resp Lowest,28.0,
+21,Resp Highest,28.0,
+21,O2 Sat% Lowest,79.0,
+21,O2 Sat% Highest,79.0,
+22,bedside glucose,112.0,mg/dL
+251,Vancomycin - trough,15.9,mcg/mL
+257,Infectious Disease consultation,,
+257,Nephrology consultation,,
+257,acetaminophen,,
+257,levofloxacin,,
+257,metronidazole,,
+257,vancomycin,,
+257,cefepime,,
+257,pantoprazole,,
+257,CT scan,,
+257,oxygen therapy (40% to 60%),,
+257,mechanical ventilation,,
+257,cultures,,
+257,Neurology consultation,,
+257,Cardiology consultation,,
+257,foley catheter,,
+257,aspirin,,
+257,enoxaparin,,
+257,head CT scan,,
+257,non-invasive testing for DVT,,
+2694,MCHC,34.0,g/dL
+2694,platelets x 1000,58.0,K/mcL
+2694,MPV,13.4,fL
+2694,-monos,5.0,%
+2694,-basos,0.0,%
+2694,Hgb,12.0,g/dL
+2694,RBC,3.7,M/mcL
+2694,-polys,87.0,%
+2694,-lymphs,8.0,%
+2694,MCH,32.0,pg
+2694,RDW,14.0,%
+2694,anion gap,14.0,
+2694,total protein,4.6,g/dL
+2694,direct bilirubin,1.2,mg/dL
+2694,BUN,59.0,mg/dL
+2694,chloride,96.0,mmol/L
+2694,potassium,4.2,mmol/L
+2694,creatinine,4.9,mg/dL
+2694,sodium,127.0,mmol/L
+2694,albumin,2.5,g/dL
+2694,AST (SGOT),260.0,Units/L
+2694,bicarbonate,17.0,mmol/L
+2694,total bilirubin,1.2,mg/dL
+2694,ALT (SGPT),259.0,Units/L
+2694,magnesium,2.0,mg/dL
+2710,MCHC,34.0,g/dL
+2710,platelets x 1000,58.0,K/mcL
+2710,MPV,13.4,fL
+2710,-monos,5.0,%
+2710,-basos,0.0,%
+2710,Hgb,12.0,g/dL
+2710,RBC,3.7,M/mcL
+2710,-polys,87.0,%
+2710,-lymphs,8.0,%
+2710,MCH,32.0,pg
+2710,RDW,14.0,%
+2727,MCHC,34.0,g/dL
+2727,platelets x 1000,58.0,K/mcL
+2727,MPV,13.4,fL
+2727,-monos,5.0,%
+2727,-basos,0.0,%
+2727,Hgb,12.0,g/dL
+2727,RBC,3.7,M/mcL
+2727,-polys,87.0,%
+2727,-lymphs,8.0,%
+2727,MCH,32.0,pg
+2727,RDW,14.0,%
+2727,anion gap,14.0,
+2727,total protein,4.6,g/dL
+2727,direct bilirubin,1.2,mg/dL
+2727,BUN,59.0,mg/dL
+2727,chloride,96.0,mmol/L
+2727,potassium,4.2,mmol/L
+2727,creatinine,4.9,mg/dL
+2727,sodium,127.0,mmol/L
+2727,albumin,2.5,g/dL
+2727,AST (SGOT),260.0,Units/L
+2727,bicarbonate,17.0,mmol/L
+2727,total bilirubin,1.2,mg/dL
+2727,ALT (SGPT),259.0,Units/L
+2727,magnesium,2.0,mg/dL
+2783,TV,360.0,mls
+2783,Methemoglobin,0.6,%
+2783,FiO2,50.0,%
+2783,Respiratory Rate,20.0,/min
+2783,paCO2,29.1,mm Hg
+2783,O2 Content,18.2,mls/dL
+2783,paO2,213.8,mm Hg
+2783,Base Excess,-11.3,mEq/L
+2783,pH,7.293,
+2783,Carboxyhemoglobin,0.2,%
+2783,HCO3,13.8,mmol/L
+302,CPK-MB,5.6,ng/mL
+302,troponin - I,5.82,ng/mL
+3249,urinary creatinine,52.2,mg/dL
+3249,urinary sodium,14.0,mmol/L
+3396,urinary sodium,14.0,mmol/dL
+3505,magnesium,2.0,mg/dL
+357,anion gap,17.0,
+357,BUN,37.0,mg/dL
+357,calcium,7.6,mg/dL
+357,chloride,91.0,mmol/L
+357,glucose,104.0,mg/dL
+357,magnesium,2.0,mg/dL
+357,potassium,4.1,mmol/L
+357,sodium,126.0,mmol/L
+4164,WBC x 1000,9.4,K/mcL
+4164,platelets x 1000,59.0,K/mcL
+4164,MPV,13.9,fL
+4164,-monos,7.0,%
+4164,-basos,0.0,%
+4164,Hgb,12.1,g/dL
+4164,RBC,3.7,M/mcL
+4164,-polys,87.0,%
+4164,-lymphs,6.0,%
+4164,MCV,96.0,fL
+4164,MCH,33.0,pg
+4164,MCHC,34.0,g/dL
+4164,RDW,14.2,%
+4164,anion gap,14.0,
+4164,total protein,4.4,g/dL
+4164,direct bilirubin,1.1,mg/dL
+4164,BUN,59.0,mg/dL
+4164,chloride,100.0,mmol/L
+4164,potassium,3.8,mmol/L
+4164,creatinine,5.1,mg/dL
+4164,sodium,131.0,mmol/L
+4164,albumin,2.4,g/dL
+4164,AST (SGOT),163.0,Units/L
+4164,bicarbonate,17.0,mmol/L
+4164,total bilirubin,1.1,mg/dL
+4164,ALT (SGPT),225.0,Units/L
+4164,magnesium,2.1,mg/dL
+4237,TV,360.0,mls
+4237,Methemoglobin,0.6,%
+4237,FiO2,50.0,%
+4237,Respiratory Rate,20.0,/min
+4237,paCO2,30.3,mm Hg

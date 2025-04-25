@@ -1,0 +1,11 @@
+patientunitstayid,Treatment,TreatmentOffset(minutes),ActiveUponDischarge
+392935,potassium,2303,True
+392935,intravenous fluids,2303,True
+392935,bupropion (Wellbutrin),2303,True
+392935,enoxaparin,2303,True
+oral feeds,2303,True,
+392935,subcutaneous regular insulin,2303,True
+392935,sliding scale insulin,2303,True
+392935,normal saline administration,24,False
+392935,continuous insulin infusion,24,False
+392935,enoxaparin,24,False

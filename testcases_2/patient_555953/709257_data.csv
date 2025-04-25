@@ -1,0 +1,7 @@
+Time (minutes),BUN (mg/dL),Anion Gap,Calcium (mg/dL),Glucose (mg/dL),Hemoglobin (g/dL),Creatinine (mg/dL),Hematocrit (%),Sodium (mmol/L),Potassium (mmol/L),Bicarbonate (mmol/L),Platelets (K/mcL),MCV (fL),MCH (pg),MCHC (g/dL),RBC (M/mcL),WBC (K/mcL),Lymphocytes (%),Polymorphonuclear Leukocytes (%),Basophils (%),FiO2 (%)
+82,13.0,7.0,8.1,172.0,12.1,0.66,34.3,139.0,3.3,23.0,271.0,86.0,30.5,35.3,3.97,18.3,9.0,86.0,0.0,21.0
+121,,,,,,,,,,,,86.0,30.5,35.3,3.97,18.3,9.0,86.0,0.0,
+516,,,,,,,,,4.5,,,,,,,,,,,
+942,11.0,4.0,8.2,91.0,11.2,0.72,32.7,136.0,4.0,26.0,250.0,88.0,30.1,34.3,3.72,11.6,26.0,64.0,0.0,
+952,,,,,,,,,,,,88.0,30.1,34.3,3.72,11.6,26.0,64.0,0.0,
+6787,7.0,8.0,8.5,94.0,11.4,0.7,32.2,138.0,3.8,26.0,263.0,86.0,30.5,35.4,3.74,6.5,,,,

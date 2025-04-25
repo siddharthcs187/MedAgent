@@ -1,0 +1,61 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+Hgb,13.6,g/dL,-125
+-eos,1.0,%,-125
+-bands,12.0,%,-125
+MCV,87.6,fL,-125
+sodium,136.0,mmol/L,-125
+WBC x 1000,15.9,K/mcL,-125
+magnesium,1.1,mg/dL,-125
+PT - INR,1.1,ratio,-125
+potassium,3.5,mmol/L,-125
+fibrinogen,471.0,mg/dL,-125
+creatinine,0.9,mg/dL,-125
+platelets x 1000,265.0,K/mcL,-125
+alkaline phos.,60.0,Units/L,-125
+PTT,25.9,sec,-125
+chloride,103.0,mmol/L,-125
+MCH,30.5,pg,-125
+RDW,13.9,%,-125
+total bilirubin,1.0,mg/dL,-125
+-lymphs,1.0,%,-125
+glucose,112.0,mg/dL,-125
+-polys,85.0,%,-125
+calcium,9.1,mg/dL,-125
+-monos,1.0,%,-125
+albumin,3.7,g/dL,-125
+RBC,4.47,M/mcL,-125
+bicarbonate,21.0,mmol/L,-125
+calcium,7.7,mg/dL,235
+creatinine,0.9,mg/dL,235
+sodium,137.0,mmol/L,235
+bicarbonate,20.0,mmol/L,235
+potassium,3.2,mmol/L,235
+glucose,108.0,mg/dL,235
+chloride,108.0,mmol/L,235
+lactate,3.4,mmol/L,235
+lactate,3.6,mmol/L,-125
+PT,11.4,sec,-125
+BUN,12.0,mg/dL,-125
+-polys,59.3,%,-2880
+-lymphs,28.4,%,-2880
+-basos,0.6,%,-2880
+-monos,5.0,%,-2880
+RBC,4.33,M/mcL,-2880
+Hgb,13.2,g/dL,-2880
+Hct,38.1,%,-2880
+MCV,87.9,fL,-2880
+MCH,30.5,pg,-2880
+MCHC,34.8,g/dL,-2880
+RDW,13.4,%,-2880
+platelets x 1000,316.0,K/mcL,-2880
+WBC x 1000,10.4,K/mcL,-2880
+-eos,6.7,%,-2880
+Total CO2,18.0,,-40
+paO2,61.0,mm Hg,-40
+HCO3,22.0,mmol/L,-40
+paCO2,30.0,mm Hg,-40
+Base Excess,-4.0,mEq/L,-40
+O2 Sat (%),93.0,%,-40
+FiO2,21.0,%,-40
+FiO2,28.0,%,185
+LPM O2,2.0,L/min,185

@@ -1,0 +1,37 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-157,creatinine,4.41,mg/dL
+238,creatinine,4.11,mg/dL
+1478,creatinine,2.67,mg/dL
+2933,creatinine,1.23,mg/dL
+-157,potassium,4.6,mmol/L
+238,potassium,5.1,mmol/L
+1478,potassium,5.6,mmol/L
+2933,potassium,4.1,mmol/L
+2108,potassium,4.4,mmol/L
+-157,troponin - I,4.97,ng/mL
+238,troponin - I,6.49,ng/mL
+1478,troponin - I,4.72,ng/mL
+1982,troponin - I,4.72,ng/mL
+-157,BUN,38.0,mg/dL
+238,BUN,41.0,mg/dL
+1478,BUN,45.0,mg/dL
+2933,BUN,37.0,mg/dL
+-157,glucose,105.0,mg/dL
+238,glucose,176.0,mg/dL
+1478,glucose,124.0,mg/dL
+2933,glucose,104.0,mg/dL
+1823,pH,7.34,Units
+188,pH,7.24,Units
+443,pH,7.32,Units
+1823,paO2,90.0,mm Hg
+188,paO2,100.0,mm Hg
+443,paO2,113.0,mm Hg
+1823,paCO2,54.0,mm Hg
+188,paCO2,69.0,mm Hg
+443,paCO2,57.0,mm Hg
+1823,HCO3,29.0,mmol/L
+188,HCO3,29.0,mmol/L
+443,HCO3,28.0,mmol/L
+1823,Base Excess,3.0,mEq/L
+188,Base Excess,0.0,mEq/L
+443,Base Excess,2.0,mEq/L

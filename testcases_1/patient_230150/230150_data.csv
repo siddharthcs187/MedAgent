@@ -1,0 +1,70 @@
+LabName,LabResult,LabUnits,TimeOffsetMinutes
+AST (SGOT),21.0,Units/L,-2046
+AST (SGOT),33.0,Units/L,-1998
+AST (SGOT),21.0,Units/L,5
+bicarbonate,25.0,mmol/L,-2046
+bicarbonate,20.0,mmol/L,5
+Sodium,132.0,mmol/L,-2046
+Sodium,139.0,mmol/L,5
+anion gap,11.0,mmol/L,-2046
+anion gap,15.0,mmol/L,5
+albumin,2.7,g/dL,-2046
+alkaline phos.,68.0,Units/L,-2046
+total protein,4.7,g/dL,-2046
+glucose,165.0,mg/dL,-2046
+glucose,145.0,mg/dL,5
+chloride,100.0,mmol/L,-2046
+chloride,109.0,mmol/L,5
+BUN,26.0,mg/dL,-2046
+BUN,59.0,mg/dL,5
+calcium,7.0,mg/dL,-2046
+calcium,6.9,mg/dL,5
+Hct,22.5,%,-2046
+Hct,23.5,%,5
+Hct,18.6, %,-382
+Hct,25.2, %,-1395
+Hct,26.7, %,-764
+-polys,85.0,%,-2046
+-polys,84.0,%,5
+-eos,1.0,%,-2046
+-eos,1.0,%,5
+RDW,14.4,%,-2046
+RDW,14.9,%,5
+RDW,15.1, %,-764
+RBC,2.38,M/mcL,-2046
+RBC,2.59,M/mcL,5
+RBC,2.9,M/mcL,-764
+MCV,94.5,fL,-2046
+MCV,90.7,fL,5
+MCV,92.1,fL,-764
+platelets x 1000,207.0,K/mcL,-2046
+platelets x 1000,121.0,K/mcL,5
+platelets x 1000,136.0,K/mcL,-764
+WBC x 1000,15.2,K/mcL,-2046
+WBC x 1000,14.7,K/mcL,5
+WBC x 1000,9.2,K/mcL,-764
+troponin - I,0.25,ng/mL,-2046
+troponin - I,0.17,ng/mL,5
+troponin - I,0.26,ng/mL,-1371
+creatinine,1.06,mg/dL,-2046
+creatinine,1.36,mg/dL,5
+creatinine,1.06,mg/dL,-1371
+-lymphs,8.0,%,-2046
+-lymphs,7.0,%,5
+-monos,6.0,%,-2046
+-monos,4.0,%,5
+-bands,1.0,%,5
+Hgb,7.5,g/dL,-2046
+Hgb,7.8,g/dL,5
+Hgb,6.1,g/dL,-382
+Hgb,8.6,g/dL,-1395
+Hgb,8.9,g/dL,-764
+potassium,4.2,mmol/L,-2046
+potassium,4.9,mmol/L,5
+potassium,4.1,mmol/L,-1371
+MCH,31.5,pg,-2046
+MCH,30.1,pg,5
+MCH,30.7,pg,-764
+MCHC,33.3,g/dL,-2046
+MCHC,33.2,g/dL,5
+MCHC,33.3,g/dL,-764

@@ -1,0 +1,78 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+troponin - I,1.35,ng/mL,-220
+troponin - I,18.46,ng/mL,181
+troponin - I,30.77,ng/mL,521
+troponin - I,22.43,ng/mL,900
+creatinine,1.19,mg/dL,-469
+creatinine,0.95,mg/dL,181
+creatinine,1.19,mg/dL,1713
+calcium,9.3,mg/dL,-469
+calcium,9.1,mg/dL,181
+calcium,9.3,mg/dL,1713
+sodium,140.0,mmol/L,-469
+sodium,137.0,mmol/L,181
+sodium,142.0,mmol/dL,1713
+chloride,105.0,mmol/L,-469
+chloride,105.0,mmol/L,181
+chloride,105.0,mmol/L,1713
+potassium,3.6,mmol/L,-469
+potassium,3.4,mmol/L,181
+potassium,3.9,mmol/L,1713
+Hgb,14.8,g/dL,-469
+Hgb,13.4,g/dL,181
+Hgb,14.1,g/dL,1713
+Hct,41.5,%,-469
+Hct,38.5,%,181
+Hct,40.7,%,1713
+RBC,4.67,M/mcL,-469
+RBC,4.31,M/mcL,181
+RBC,4.5,M/mcL,1713
+platelets x 1000,186.0,K/mcL,-469
+platelets x 1000,167.0,K/mcL,181
+platelets x 1000,169.0,K/mcL,1713
+MCV,88.9,fL,-469
+MCV,89.3,fL,181
+MCV,90.4,fL,1713
+MCHC,35.7,g/dL,-469
+MCHC,34.8,g/dL,181
+MCHC,34.6,g/dL,1713
+MCH,31.7,pg,-469
+MCH,31.1,pg,181
+MCH,31.3,pg,1713
+RDW,13.9,%,-469
+RDW,14.1,%,181
+RDW,14.2,%,1713
+WBC x 1000,7.1,K/mcL,-469
+WBC x 1000,6.0,K/mcL,181
+WBC x 1000,6.3,K/mcL,1713
+-lymphs,18.0,%,-469
+-lymphs,28.0,%,181
+-polys,71.0,%,-469
+-polys,61.0,%,181
+-monos,9.0,%,-469
+-monos,9.0,%,181
+-eos,2.0,%,-469
+-eos,2.0,%,181
+-basos,0.0,%,-469
+-basos,0.0,%,181
+BUN,17.0,mg/dL,-469
+BUN,16.0,mg/dL,181
+BUN,12.0,mg/dL,1713
+ALT (SGPT),52.0,Units/L,-469
+AST (SGOT),29.0,Units/L,-469
+alkaline phos.,75.0,Units/L,-469
+total protein,7.3,g/dL,-469
+albumin,3.9,g/dL,-469
+Total cholesterol,223.0,mg/dL,181
+Triglycerides,254.0,mg/dL,181
+LDL,138.0,mg/dL,181
+HDL,34.0,mg/dL,181
+Glucose,150.0,mg/dL,-469
+Glucose,115.0,mg/dL,181
+Glucose,115.0,mg/dL,1713
+Anion gap,12.0, ,-469
+Anion gap,9.0, ,181
+Anion gap,12.0, ,1713
+bedside glucose,112.0,mg/dL,566
+bedside glucose,110.0,mg/dL,339
+TSH,4.749,mcU/ml,181

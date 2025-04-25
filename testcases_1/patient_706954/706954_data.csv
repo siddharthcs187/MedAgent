@@ -1,0 +1,89 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+MPV,10.7,fL,-1221
+RBC,5.17,M/mcL,-1221
+Hct,44.9,%,-1221
+MCV,87.0,fL,-1221
+platelets x 1000,279.0,K/mcL,-1221
+RDW,13.6,%,-1221
+pH,7.37,,232
+paCO2,38.0,mm Hg,232
+O2 Sat (%),96.0,%,232
+MCH,29.0,pg,-1221
+PT - INR,1.0,ratio,-1221
+WBC x 1000,8.9,K/mcL,-1221
+MPV,10.3,fL,-2
+RBC,3.99,M/mcL,-2
+Hct,34.3,%,-2
+MCV,86.0,fL,-2
+platelets x 1000,197.0,K/mcL,-2
+RDW,13.5,%,-2
+MCH,29.1,pg,-2
+MCHC,33.8,g/dL,-2
+WBC x 1000,15.4,K/mcL,-2
+bedside glucose,125.0,mg/dL,678
+PT,13.7,sec,-1221
+PTT,33.0,sec,-1221
+bedside glucose,136.0,mg/dL,130
+magnesium,2.4,mg/dL,-2
+sodium,142.0,mmol/L,571
+anion gap,8.0,,571
+bicarbonate,26.0,mmol/L,571
+calcium,8.0,mg/dL,571
+chloride,108.0,mmol/L,571
+BUN,15.0,mg/dL,571
+platelets x 1000,185.0,K/mcL,571
+creatinine,0.91,mg/dL,571
+Hct,28.8,%,571
+MCH,28.7,pg,571
+RDW,13.9,%,571
+Hgb,9.4,g/dL,571
+MCV,88.0,fL,571
+WBC x 1000,13.2,K/mcL,571
+MCHC,32.6,g/dL,571
+alkaline phos.,82.0,Units/L,-1221
+creatinine,1.0,mg/dL,-1221
+total bilirubin,1.0,mg/dL,-1221
+potassium,3.7,mmol/L,-1221
+BUN,17.0,mg/dL,-1221
+chloride,106.0,mmol/L,-1221
+glucose,129.0,mg/dL,-1221
+sodium,141.0,mmol/L,-1221
+PT - INR,1.3,ratio,-2
+PTT,32.0,sec,-2
+PT,15.9,sec,-2
+albumin,3.6,g/dL,-1221
+anion gap,7.0,,-1221
+AST (SGOT),19.0,Units/L,-1221
+ALT (SGPT),42.0,Units/L,-1221
+calcium,9.3,mg/dL,-1221
+bicarbonate,28.0,mmol/L,-1221
+potassium,4.5,mmol/L,-2
+chloride,105.0,mmol/L,-2
+glucose,111.0,mg/dL,-2
+anion gap,10.0,,-2
+calcium,8.2,mg/dL,-2
+BUN,15.0,mg/dL,-2
+phosphate,2.8,mg/dL,-2
+total protein,6.6,g/dL,-1221
+potassium,4.4,mmol/L,-466
+bedside glucose,142.0,mg/dL,439
+magnesium,2.4,mg/dL,1064
+bedside glucose,155.0,mg/dL,365
+bedside glucose,143.0,mg/dL,573
+bedside glucose,135.0,mg/dL,617
+bedside glucose,137.0,mg/dL,734
+bedside glucose,164.0,mg/dL,819
+bedside glucose,87.0,mg/dL,-343
+bedside glucose,126.0,mg/dL,74
+paO2,115.0,mm Hg,19
+HCO3,23.0,mmol/L,19
+pH,7.42,,19
+O2 Sat (%),99.0,%,19
+FiO2,100.0,%,36
+paO2,99.0,mm Hg,321
+HCO3,24.0,mmol/L,321
+pH,7.35,,321
+O2 Sat (%),97.0,%,321
+potassium,4.2,mmol/L,229
+Hgb,10.3,g/dL,229
+Hct,31.2,%,229

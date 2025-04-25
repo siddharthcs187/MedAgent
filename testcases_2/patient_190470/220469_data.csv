@@ -1,0 +1,7 @@
+Time (minutes from admit),Troponin-I (ng/mL),Creatinine (mg/dL),Potassium (mmol/L),Sodium (mmol/L),Chloride (mmol/L),Bicarbonate (mmol/L),Weight (kg),Heart Rate (bpm),Systolic BP (mmHg),Diastolic BP (mmHg),Oxygen Saturation (%)
+-469,0.08,1.19,3.6,140.0,105.0,27.0,,,,,
+181,1.35,0.95,3.4,137.0,105.0,26.0,124.0,,,,
+521,30.77,,,,,,,,,,
+552,,,,,,,121.9,65.0,128.0,74.0,96.0
+900,22.43,,,,,,,,,,
+1713,,,3.9,142.0,105.0,29.0,,,,,

@@ -1,0 +1,53 @@
+labname,labresult,labmeasurenamesystem,labresultoffset,labtypeid
+potassium,3.9,mmol/L,539,1
+creatinine,1.65,mg/dL,539,1
+anion gap,6.0,,539,1
+sodium,140.0,mmol/L,539,1
+bicarbonate,30.0,mmol/L,539,1
+calcium,9.0,mg/dL,539,1
+glucose,129.0,mg/dL,539,1
+chloride,104.0,mmol/L,539,1
+BUN,27.0,mg/dL,539,1
+-lymphs,9.0,%,539,3
+-eos,1.0,%,539,3
+-monos,10.0,%,539,3
+-polys,80.0,%,539,3
+-basos,0.0,%,539,3
+Hgb,13.0,g/dL,539,3
+Hct,41.0,%,539,3
+MCV,93.0,fL,539,3
+MCHC,31.7,g/dL,539,3
+MPV,9.8,fL,539,3
+WBC x 1000,10.0,K/mcL,539,3
+platelets x 1000,273.0,K/mcL,539,3
+RBC,4.4,M/mcL,539,3
+FiO2,100.0,%,44,7
+glucose,141.0,mg/dL,2044,1
+-lymphs,9.0,%,2044,3
+chloride,106.0,mmol/L,2044,1
+calcium,9.0,mg/dL,2044,1
+BUN,35.0,mg/dL,2044,1
+-eos,1.0,%,2044,3
+-monos,10.0,%,2044,3
+-polys,80.0,%,2044,3
+-basos,0.0,%,2044,3
+Hgb,12.7,g/dL,2044,3
+Hct,39.8,%,2044,3
+MCV,93.0,fL,2044,3
+MCHC,31.9,g/dL,2044,3
+MPV,10.4,fL,2044,3
+WBC x 1000,9.4,K/mcL,2044,3
+platelets x 1000,276.0,K/mcL,2044,3
+RBC,4.26,M/mcL,2044,3
+potassium,3.6,mmol/L,2044,1
+creatinine,1.79,mg/dL,2044,1
+anion gap,7.0,,2044,1
+sodium,142.0,mmol/L,2044,1
+bicarbonate,29.0,mmol/L,2044,1
+bedside glucose,193.0,mg/dL,1332,4
+bedside glucose,140.0,mg/dL,774,4
+bedside glucose,127.0,mg/dL,472,4
+bedside glucose,170.0,mg/dL,1032,4
+bedside glucose,164.0,mg/dL,1309,4
+bedside glucose,149.0,mg/dL,1550,4
+bedside glucose,149.0,mg/dL,2174,4

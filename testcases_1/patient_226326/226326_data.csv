@@ -1,0 +1,4 @@
+Time_Since_Admission (minutes),PT (sec),PT_INR (ratio),Magnesium (mg/dL),Potassium (mmol/L),Bedside_Glucose (mg/dL)
+15,25.2,2.4,1.8,4.1,
+45,,,,,222.0
+251,,,,,149.0

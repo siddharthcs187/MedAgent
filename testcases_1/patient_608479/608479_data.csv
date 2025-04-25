@@ -1,0 +1,51 @@
+LabName,LabResult,LabMeasureNameSystem,LabResultOffset
+-polys,50.0,%,302
+-basos,1.0,%,302
+-eos,3.0,%,302
+PT,13.4,sec,302
+PT - INR,1.06,ratio,302
+-monos,14.0,%,302
+Respiratory Rate,19.0,/min,195
+PT - INR,1.05,ratio,2006
+FiO2,50.0,%,195
+Hgb,15.0,g/dL,-179
+PT,13.3,sec,2006
+-lymphs,32.0,%,302
+WBC x 1000,9.0,K/mcL,-179
+creatinine,1.25,mg/dL,302
+potassium,3.7,mmol/L,302
+anion gap,7.0,,302
+chloride,107.0,mmol/L,302
+calcium,8.7,mg/dL,302
+glucose,130.0,mg/dL,302
+BUN,15.0,mg/dL,302
+MCH,30.4,pg,-179
+MCV,91.0,fL,-179
+platelets x 1000,203.0,K/mcL,-179
+PT - INR,0.98,ratio,-179
+glucose,83.0,mg/dL,-179
+WBC x 1000,7.9,K/mcL,302
+PT,13.4,sec,3453
+PT - INR,1.06,ratio,3511
+MCH,30.5,pg,302
+Hct,42.0,%,302
+RBC,4.59,M/mcL,302
+MCV,92.0,fL,302
+Hgb,14.0,g/dL,302
+MPV,10.0,fL,-179
+troponin - I,0.284,ng/mL,766
+chloride,101.0,mmol/L,-179
+calcium,9.5,mg/dL,-179
+MPV,9.8,fL,302
+Hct,44.9,%,-179
+troponin - I,0.563,ng/mL,302
+BUN,15.0,mg/dL,-179
+PTT,24.7,sec,-179
+anion gap,16.0,,-179
+sodium,141.0,mmol/L,302
+sodium,142.0,mmol/L,-179
+-eos,2.0,%,-179
+-monos,16.0,%,-179
+-lymphs,24.0,%,-179
+-basos,1.0,%,-179
+-polys,57.0,%,-179

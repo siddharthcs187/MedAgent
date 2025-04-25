@@ -1,0 +1,6 @@
+Lab_Time_Offset_Minutes,Sodium_mmol/L,Chloride_mmol/L,Potassium_mmol/L,Bicarbonate_mmol/L,Creatinine_mg/dL,Hemoglobin_g/dL,Hematocrit_%,Platelets_K/mcL,WBC_K/mcL
+-220,141.0,104.0,3.3,25.0,0.65,16.1,44.5,9.7,
+580,143.0,110.0,4.2,27.0,0.6,14.0,40.5,9.6,
+2040,,,,,,13.7,39.2,7.6,
+3479,,,,,,13.4,38.4,6.1,
+4910,139.0,109.0,4.7,21.0,0.58,14.9,42.8,7.3,

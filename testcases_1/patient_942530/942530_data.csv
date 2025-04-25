@@ -1,0 +1,91 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-1372,sodium,133.0,mmol/L
+-1270,sodium,136.0,mmol/L
+-1195,sodium,133.0,mmol/L
+2635,sodium,134.0,mmol/L
+-1372,potassium,4.5,mmol/L
+-1270,potassium,6.6,mmol/L
+-1195,potassium,4.7,mmol/L
+2635,potassium,4.2,mmol/L
+-1372,Hgb,11.2,g/dL
+-1270,Hgb,7.8,g/dL
+-1195,Hgb,6.1,g/dL
+1097,Hgb,7.9,g/dL
+2635,Hgb,7.8,g/dL
+-1372,Hct,33.0,%
+-1270,Hct,23.0,%
+-1195,Hct,18.0,%
+1097,Hct,24.4,%
+2635,Hct,23.7,%
+-1372,bedside glucose,166.0,mg/dL
+-1270,bedside glucose,231.0,mg/dL
+-1195,bedside glucose,200.0,mg/dL
+545,potassium,4.8,mmol/L
+583,bedside glucose,273.0,mg/dL
+1097,MCH,28.6,pg
+1097,MCV,88.0,fL
+1097,MCHC,32.4,g/dL
+1097,MPV,10.1,fL
+1097,platelets x 1000,140.0,K/mcL
+1097,RBC,2.76,M/mcL
+1097,WBC x 1000,11.5,K/mcL
+1097,-polys,77.0,%
+1097,-lymphs,12.0,%
+1097,-monos,11.0,%
+1097,-eos,1.0,%
+1097,-basos,0.0,%
+2635,MCH,28.9,pg
+2635,MCV,88.0,fL
+2635,MCHC,32.9,g/dL
+2635,MPV,10.2,fL
+2635,platelets x 1000,147.0,K/mcL
+2635,RBC,2.7,M/mcL
+2635,WBC x 1000,11.8,K/mcL
+1440,bedside glucose,322.0,mg/dL
+1727,bedside glucose,209.0,mg/dL
+190672694,bedside glucose,225.0,mg/dL
+191315485,bedside glucose,147.0,mg/dL
+191557469,bedside glucose,182.0,mg/dL
+191622324,bedside glucose,299.0,mg/dL
+192085018,bedside glucose,225.0,mg/dL
+2054,bedside glucose,230.0,mg/dL
+2582,bedside glucose,182.0,mg/dL
+2635,BUN,23.0,mg/dL
+2635,glucose,196.0,mg/dL
+2635,creatinine,0.98,mg/dL
+2635,calcium,8.5,mg/dL
+2635,chloride,97.0,mmol/L
+2635,bicarbonate,31.0,mmol/L
+2635,anion gap,6.0,
+1097,chloride,101.0,mmol/L
+1097,bicarbonate,28.0,mmol/L
+1097,anion gap,7.0,
+1097,BUN,23.0,mg/dL
+1097,creatinine,1.11,mg/dL
+1097,calcium,8.4,mg/dL
+1097,magnesium,2.0,mg/dL
+-1372,FiO2,100.0,%
+-1270,FiO2,100.0,%
+-1195,FiO2,100.0,%
+-1372,O2 Sat (%),100.0,%
+-1270,O2 Sat (%),100.0,%
+-1195,O2 Sat (%),100.0,%
+-1372,paO2,339.0,mm Hg
+-1270,paO2,326.0,mm Hg
+-1195,paO2,484.0,mm Hg
+-1372,paCO2,67.0,mm Hg
+-1270,paCO2,32.0,mm Hg
+-1195,paCO2,36.0,mm Hg
+-1372,pH,7.23,
+-1270,pH,7.48,
+-1195,pH,7.48,
+-1372,HCO3,28.0,mmol/L
+-1270,HCO3,24.0,mmol/L
+-1195,HCO3,27.0,mmol/L
+-1372,Base Excess,0.0,mEq/L
+-1270,Base Excess,0.0,mEq/L
+-1195,Base Excess,3.0,mEq/L
+2904,bedside glucose,200.0,mg/dL
+190323859,bedside glucose,200.0,mg/dL
+188584369,bedside glucose,200.0,mg/dL
+188905854,bedside glucose,230.0,mg/dL

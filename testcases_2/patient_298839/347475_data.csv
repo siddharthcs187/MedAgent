@@ -1,0 +1,27 @@
+Diagnosis ID,Diagnosis String,ICD-9 Code(s),Priority,Active Upon Discharge,Diagnosis Offset (minutes)
+cardiovascular|arrhythmias|ventricular tachycardia,427.1, I47.2,Primary,True,51.0
+pulmonary|disorders of the airways|COPD,491.20, J44.9,Major,True,51.0
+cardiovascular|vascular disorders|hypertension,401.9, I10,Major,False,33.0
+cardiovascular|ventricular disorders|congestive heart failure,428.0, I50.9,Major,False,33.0
+pulmonary|disorders of the airways|COPD,491.20, J44.9,Major,False,33.0
+cardiovascular|vascular disorders|hypertension,401.9, I10,Major,True,51.0
+neurologic|altered mental status / pain|dementia,294.9, F03,Other,False,33.0
+cardiovascular|ventricular disorders|congestive heart failure,428.0, I50.9,Major,True,51.0
+neurologic|altered mental status / pain|dementia,294.9, F03,Other,True,51.0
+cardiovascular|arrhythmias|ventricular tachycardia,427.1, I47.2,Primary,False,33.0
+Result,Units,,,,
+101,mEq/L,,,,
+114,mg/dL,,,,
+1.8,mEq/L,,,,
+2.92,ng/mL,,,,
+3.5,mEq/L,,,,
+27,mEq/L,,,,
+1.8,mg/dL,,,,
+12.8,g/dL,,,,
+40.5,%,,,,
+28,mg/dL,,,,
+30,IU/L,,,,
+4248,pg/mL,,,,
+138,mEq/L,,,,
+10.4,K/mcL,,,,
+28,%,,,,

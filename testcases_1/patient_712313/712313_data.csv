@@ -1,0 +1,21 @@
+LabName,LabResult,Units,TimeFromAdmission(minutes)
+Potassium,7.3,mmol/L,-246
+Potassium,3.6,mmol/L,714
+Potassium,3.5,mmol/L,1669
+Creatinine,2.3,mg/dL,-246
+Creatinine,1.1,mg/dL,714
+Creatinine,0.8,mg/dL,1669
+Creatinine,2.0,mg/dL,179
+Creatinine,2.0,mg/dL,-146
+BUN,53.0,mg/dL,-246
+BUN,39.0,mg/dL,714
+BUN,21.0,mg/dL,1669
+BUN,55.0,mg/dL,179
+BUN,56.0,mg/dL,-146
+AST (SGOT),165.0,IU/L,-246
+AST (SGOT),838.0,IU/L,714
+AST (SGOT),721.0,IU/L,1669
+ALT (SGPT),79.0,IU/L,-246
+ALT (SGPT),307.0,IU/L,714
+ALT (SGPT),306.0,IU/L,1669
+Troponin - I,0.04,ng/mL,-183

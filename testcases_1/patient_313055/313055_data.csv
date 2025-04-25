@@ -1,0 +1,22 @@
+Lab_Name,Value,Units,Time_Offset_Minutes
+Troponin - I,0.036,ng/mL,-303
+Troponin - I,1.821,ng/mL,401
+Creatinine,1.02,mg/dL,-303
+Creatinine,0.77,mg/dL,401
+Potassium,3.4,mmol/L,-303
+Potassium,3.8,mmol/L,401
+CPK,247.0,Units/L,-303
+CPK,204.0,Units/L,401
+WBC x 1000,11.8,K/mcL,-303
+RBC,5.13,M/mcL,-303
+Hgb,15.6,g/dL,-303
+Hct,44.8,%,-303
+Platelets x 1000,196.0,K/mcL,-303
+BUN,18.0,mg/dL,-303
+BUN,12.0,mg/dL,401
+Glucose,86.0,mg/dL,-303
+Glucose,80.0,mg/dL,401
+Sodium,142.0,mmol/L,-303
+Sodium,142.0,mmol/L,401
+Chloride,108.0,mmol/L,-303
+Chloride,111.0,mmol/L,401

@@ -1,0 +1,51 @@
+labname,labresult,labmeasurenamesystem,labresultoffset,unit
+WBC x 1000,6.9,K/mcL,-317,initial
+MCH,29.3,pg,-317,initial
+PT - INR,1.2,ratio,-317,initial
+MCHC,33.0,g/dL,-317,initial
+-basos,1.0,%,-317,initial
+PTT,32.0,sec,-317,initial
+-lymphs,25.0,%,-317,initial
+platelets x 1000,183.0,K/mcL,-317,initial
+-monos,7.0,%,952,follow-up
+Anion gap,6.0,,-317,initial
+-polys,64.0,%,-317,initial
+chloride,107.0,mmol/L,-317,initial
+glucose,89.0,mg/dL,952,follow-up
+-eos,2.0,%,952,follow-up
+bicarbonate,25.0,mmol/L,-317,initial
+calcium,7.8,mg/dL,952,follow-up
+PT,14.4,sec,-317,initial
+BUN,28.0,mg/dL,-317,initial
+creatinine,1.0,mg/dL,952,follow-up
+-polys,71.0,%,952,follow-up
+glucose,95.0,mg/dL,-317,initial
+sodium,141.0,mmol/L,952,follow-up
+-eos,2.0,%,-317,initial
+potassium,3.9,mmol/L,952,follow-up
+-basos,1.0,%,952,follow-up
+potassium,4.1,mmol/L,-317,initial
+BUN,24.0,mg/dL,952,follow-up
+Hgb,16.7,g/dL,-317,initial
+platelets x 1000,160.0,K/mcL,952,follow-up
+creatinine,1.3,mg/dL,-317,initial
+MCHC,34.0,g/dL,952,follow-up
+-lymphs,20.0,%,952,follow-up
+WBC x 1000,6.9,K/mcL,952,follow-up
+bicarbonate,27.0,mmol/L,952,follow-up
+Hgb,15.2,g/dL,952,follow-up
+Hct,45.2,%,952,follow-up
+MCV,88.0,fL,952,follow-up
+MCH,29.7,pg,952,follow-up
+-monos,8.0,%,-317,initial
+Hct,50.2,%,-317,initial
+MPV,10.6,fL,-317,initial
+RBC,5.69,M/mcL,-317,initial
+RBC,5.11,M/mcL,952,follow-up
+MPV,10.8,fL,952,follow-up
+MCV,88.0,fL,-317,initial
+FiO2,21.0,%,23,ABG
+Anion gap,4.0,,952,follow-up
+sodium,138.0,mmol/L,-317,initial
+calcium,9.1,mg/dL,-317,initial
+chloride,110.0,mmol/L,952,follow-up

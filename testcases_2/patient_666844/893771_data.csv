@@ -1,0 +1,47 @@
+LabName,LabResult,LabMeasureNameSystem,LabResultOffset,TimeSinceAdmit
+creatinine,0.66,mg/dL,-118,0
+creatinine,0.56,mg/dL,995,1113
+creatinine,0.64,mg/dL,2370,3475
+creatinine,0.48,mg/dL,3915,4033
+creatinine,0.52,mg/dL,5285,6380
+glucose,99.0,mg/dL,-118,0
+glucose,92.0,mg/dL,995,1113
+glucose,108.0,mg/dL,2370,3475
+glucose,110.0,mg/dL,3915,4033
+glucose,105.0,mg/dL,5285,6380
+glucose,52.0,mg/dL,2678,3793
+glucose,77.0,mg/dL,2703,3818
+glucose,149.0,mg/dL,3475,4580
+glucose,175.0,mg/dL,3704,4819
+glucose,149.0,mg/dL,4866,5971
+glucose,140.0,mg/dL,5835,7000
+glucose,173.0,mg/dL,4438,5543
+glucose,120.0,mg/dL,3245,4350
+glucose,113.0,mg/dL,3914,4030
+glucose,128.0,mg/dL,5560,6665
+glucose,197.0,mg/dL,5131,6246
+albumin,2.7,g/dL,-118,0
+albumin,2.4,g/dL,995,1113
+albumin,2.3,g/dL,3915,4033
+albumin,2.2,g/dL,5285,6380
+total bilirubin,0.4,mg/dL,-118,0
+total bilirubin,0.3,mg/dL,995,1113
+total bilirubin,0.5,mg/dL,3915,4033
+total bilirubin,0.4,mg/dL,5285,6380
+Hgb,10.2,g/dL,250,250
+Hgb,11.2,g/dL,-398,0
+Hgb,10.7,g/dL,2370,2370
+Hgb,9.7,g/dL,3915,3915
+Hgb,9.4,g/dL,5285,5285
+Hgb,9.2,g/dL,995,995
+Hct,29.4,%,250,250
+Hct,32.5,%,-398,0
+Hct,31.3,%,2370,2370
+Hct,27.6,%,3915,3915
+Hct,27.3,%,5285,5285
+platelets x 1000,114.0,K/mcL,250,250
+platelets x 1000,119.0,K/mcL,-398,0
+platelets x 1000,123.0,K/mcL,2370,2370
+platelets x 1000,140.0,K/mcL,3915,3915
+platelets x 1000,141.0,K/mcL,5285,5285
+platelets x 1000,108.0,K/mcL,995,995

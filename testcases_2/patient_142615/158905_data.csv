@@ -1,0 +1,5 @@
+labid,patientunitstayid,labresultoffset,labtypeid,labname,labresult,labresulttext,labmeasurenamesystem,labmeasurenameinterface,labresultrevisedoffset
+47530109,158905,-153,1,total cholesterol,106,106,mg/dL,mg/dL,-128
+47530110,158905,-153,1,LDL,47,47,mg/dL,mg/dL,-128
+47530112,158905,-153,1,triglycerides,79,79,mg/dL,mg/dL,-128
+47530111,158905,-153,1,HDL,43,43,mg/dL,mg/dL,-128

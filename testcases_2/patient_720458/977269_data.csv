@@ -1,0 +1,64 @@
+Lab Name,Result,Units,LabResultOffset (minutes),LabResultRevisedOffset (minutes)
+Bedside Glucose,399.0,mg/dL,-679,-679
+Chloride,98.0,mmol/L,-783,-718
+Glucose,683.0,mg/dL,-783,-718
+Bicarbonate,22.0,mmol/L,-783,-718
+Calcium,8.2,mg/dL,-783,-718
+Creatinine,1.38,mg/dL,-783,-718
+Sodium,131.0,mmol/L,-783,-718
+Anion gap,11.0,,-783,-718
+BUN,40.0,mg/dL,-783,-718
+Potassium,4.4,mmol/L,-783,-718
+-monos,7.7,%,-783,-735
+MPV,8.2,fL,-783,-735
+-lymphs,22.2,%,-783,-735
+MCH,24.7,pg,-783,-735
+MCHC,31.7,g/dL,-783,-735
+platelets x 1000,178.0,K/mcL,-783,-735
+Hgb,9.1,g/dL,-783,-735
+Hct,28.6,%,-783,-735
+-eos,0.8,%,-783,-735
+-polys,68.8,%,-783,-735
+RBC,3.66,M/mcL,-783,-735
+-basos,0.5,%,-783,-735
+RDW,14.6,%,-783,-735
+MCV,78.0,fL,-783,-735
+Bedside Glucose,118.0,mg/dL,32,32
+Bedside Glucose,227.0,mg/dL,221,221
+Bedside Glucose,79.0,mg/dL,-297,-297
+Bedside Glucose,329.0,mg/dL,-602,-602
+Bedside Glucose,128.0,mg/dL,-93,-93
+Bedside Glucose,114.0,mg/dL,-211,-211
+Bedside Glucose,111.0,mg/dL,-462,-462
+Bedside Glucose,154.0,mg/dL,-386,-386
+Bedside Glucose,278.0,mg/dL,-539,-539
+Bedside Glucose,316.0,mg/dL,367,367
+Bedside Glucose,195.0,mg/dL,959,959
+Bedside Glucose,97.0,mg/dL,1465,1465
+Bedside Glucose,315.0,mg/dL,1176,1176
+Bedside Glucose,328.0,mg/dL,624,624
+Bedside Glucose,51.0,mg/dL,-233,-233
+Bedside Glucose,66.0,mg/dL,-407,-407
+Bedside Glucose,127.0,mg/dL,-42,-42
+Serum ketones,1.41,,-783,-689
+Urinary specific gravity,1.02,,-775,-733
+Potassium,3.7,mmol/L,213,213
+Anion gap,9.0,,213,213
+Chloride,112.0,mmol/L,213,213
+Bicarbonate,21.0,mmol/L,213,213
+Glucose,93.0,mg/dL,213,213
+BUN,22.0,mg/dL,213,213
+Sodium,142.0,mmol/L,213,213
+Calcium,8.0,mg/dL,213,213
+Creatinine,0.95,mg/dL,213,213
+Magnesium,2.2,mg/dL,-785,-615
+Phosphate,4.0,mg/dL,-785,-615
+Potassium,3.7,mmol/L,660,718
+Anion gap,13.0,,660,718
+Chloride,106.0,mmol/L,660,718
+Bicarbonate,20.0,mmol/L,660,718
+BUN,19.0,mg/dL,660,718
+Sodium,139.0,mmol/L,660,718
+Calcium,7.9,mg/dL,660,718
+Creatinine,1.07,mg/dL,660,718
+Glucose,356.0,mg/dL,660,718

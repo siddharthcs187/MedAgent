@@ -1,0 +1,2 @@
+patientunitstayid,patienthealthsystemstayid,gender,age,ethnicity,hospitalid,wardid,hospitaladmittime24,hospitaldischargetime24,hospitaldischargelocation,hospitaldischargestatus,unittype,unitadmittime24,unitdischargetime24,unitdischargelocation,unitdischargestatus,uniquepid
+165841,148008,Male,81,Caucasian,61,120,22:33:00,02:22:00,Death,Expired,Med-Surg ICU,23:48:00,03:15:00,Death,Expired,002-12363

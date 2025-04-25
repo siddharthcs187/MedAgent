@@ -1,0 +1,50 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+BUN,18.0,mg/dL,872
+potassium,3.5,mmol/L,872
+creatinine,1.35,mg/dL,872
+anion gap,9.0,,872
+chloride,100.0,mmol/L,872
+calcium,7.9,mg/dL,872
+bicarbonate,28.0,mmol/L,872
+sodium,137.0,mmol/L,872
+CPK,129.0,Units/L,-1721
+CPK-MB INDEX,16.0,%,-1721
+CPK-MB,20.7,ng/mL,-1721
+troponin - I,5.9,ng/mL,-1721
+WBC x 1000,7.8,K/mcL,872
+Hgb,11.9,g/dL,872
+MCH,29.5,pg,872
+MCHC,33.1,g/dL,872
+MCV,89.0,fL,872
+RDW,14.7,%,872
+platelets x 1000,229.0,K/mcL,872
+MPV,9.6,fL,872
+bun,20.0,mg/dL,-388
+potassium,3.8,mmol/L,-388
+creatinine,1.26,mg/dL,-388
+anion gap,8.0,,-388
+chloride,104.0,mmol/L,-388
+calcium,8.2,mg/dL,-388
+bicarbonate,26.0,mmol/L,-388
+sodium,138.0,mmol/L,-388
+troponin - I,2.5,ng/mL,-388
+WBC x 1000,6.5,K/mcL,-388
+Hgb,13.5,g/dL,-388
+MCH,30.0,pg,-388
+MCHC,33.9,g/dL,-388
+MCV,88.0,fL,-388
+RDW,14.7,%,-388
+platelets x 1000,209.0,K/mcL,-388
+MPV,9.6,fL,-388
+bedside glucose,111.0,mg/dL,-1271
+bedside glucose,125.0,mg/dL,-943
+bedside glucose,153.0,mg/dL,-1554
+bedside glucose,157.0,mg/dL,-1826
+bedside glucose,144.0,mg/dL,575
+bedside glucose,170.0,mg/dL,1081
+bedside glucose,123.0,mg/dL,-321
+glucose,149.0,mg/dL,872
+glucose,125.0,mg/dL,-388
+magnesium,1.8,mg/dL,872
+FiO2,28.0,%,6
+troponin - I,2.3,ng/mL,872

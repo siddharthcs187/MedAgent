@@ -1,0 +1,65 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+HCO3,21.5,mmol/L,-688
+RDW,18.1,%,3968
+pH,7.456,,-688
+platelets x 1000,164.0,K/mcL,3968
+paCO2,31.2,mm Hg,-688
+Hgb,8.3,g/dL,3968
+Base Excess,-2.3,mEq/L,-688
+chloride,116.0,mmol/L,-627
+Hct,24.7,%,3968
+glucose,113.0,mg/dL,-627
+FiO2,21.0,%,-688
+Hgb,7.2,g/dL,-322
+lipase,418.0,Units/L,-627
+RBC,2.79,M/mcL,3968
+bedside glucose,185.0,mg/dL,-19
+total bilirubin,0.1,mg/dL,-627
+Carboxyhemoglobin,2.0,%,-688
+Hct,21.2,%,-322
+potassium,4.5,mmol/L,-627
+WBC x 1000,6.4,K/mcL,3968
+MPV,11.1,fL,573
+Methemoglobin,0.2,%,-688
+RDW,16.0,%,573
+MCV,89.0,fL,3968
+platelets x 1000,125.0,K/mcL,573
+paO2,82.5,mm Hg,-688
+O2 Content,6.6,mls/dL,-688
+Hct,24.1,%,573
+MCHC,34.0,g/dL,3968
+Hgb,8.3,g/dL,573
+O2 Sat (%),96.4,%,-688
+MCH,30.0,pg,3968
+Hgb,8.2,g/dL,3508
+Hct,25.1,%,3547
+PTT,29.8,sec,-627
+Hgb,4.8,g/dL,-677
+Hgb,7.2,g/dL,168
+Hct,20.4,%,168
+platelets x 1000,171.0,K/mcL,-677
+MPV,10.1,fL,-677
+RBC,1.6,M/mcL,-677
+AST (SGOT),14.0,Units/L,-627
+MCV,90.0,fL,-677
+MCHC,33.0,g/dL,-677
+WBC x 1000,13.0,K/mcL,-677
+Hgb,8.6,g/dL,2083
+Hct,26.0,%,2083
+-eos,1.0,%,-677
+-polys,60.0,%,-677
+RDW,17.1,%,-677
+RBC,2.78,M/mcL,573
+PT,16.6,sec,-627
+alkaline phos.,43.0,Units/L,-627
+Hct,14.4,%,-677
+-lymphs,33.0,%,-677
+Hgb,8.3,g/dL,2721
+Hct,24.7,%,2721
+ALT (SGPT),24.0,Units/L,-627
+creatinine,1.3,mg/dL,-627
+PT - INR,1.3,ratio,-627
+BUN,71.0,mg/dL,-627
+Hgb,9.1,g/dL,1271
+Hct,26.1,%,1271
+MCH,30.0,pg,-677

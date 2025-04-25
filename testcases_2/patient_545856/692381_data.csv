@@ -1,0 +1,36 @@
+labid,patientunitstayid,labresultoffset,labtypeid,labname,labresult,labresulttext,labmeasurenamesystem,labmeasurenameinterface,labresultrevisedoffset
+156946241,692381,6471,1,bicarbonate,42.0,42,mmol/L,mmol/L,6543.0
+156946244,692381,6471,1,BUN,19.0,19,mg/dL,mg/dL,6543.0
+156946243,692381,6471,1,glucose,79.0,79,mg/dL,mg/dL,6543.0
+156946242,692381,6471,1,anion gap,4.0,4,,,
+143628848,692381,5121,1,calcium,8.9,8.9,mg/dL,mg/dL,5200.0
+156946245,692381,6471,1,creatinine,0.63,0.63,mg/dL,mg/dL,6541.0
+158059419,692381,3722,1,creatinine,0.62,0.62,mg/dL,mg/dL,3869.0
+156946240,692381,6471,1,chloride,80.0,80,mmol/L,mmol/L,6543.0
+143628847,692381,5121,1,creatinine,0.61,0.61,mg/dL,mg/dL,5200.0
+156946246,692381,6471,1,calcium,8.9,8.9,mg/dL,mg/dL,6543.0
+158059417,692381,3722,1,glucose,78.0,78,mg/dL,mg/dL,3869.0
+156946239,692381,6471,1,potassium,3.3,3.3,mmol/L,mmol/L,6543.0
+143628845,692381,5121,1,glucose,84.0,84,mg/dL,mg/dL,5200.0
+156946238,692381,6471,1,sodium,126.0,126,mmol/L,mmol/L,6543.0
+158059420,692381,3722,1,calcium,8.4,8.4,mg/dL,mg/dL,3854.0
+189109710,692381,269,4,bedside glucose,150.0,150,mg/dL,mg/dL,269.0
+163831133,692381,3722,1,sodium,129.0,129,mmol/L,mmol/L,3854.0
+143628846,692381,5121,1,BUN,21.0,21,mg/dL,mg/dL,5200.0
+155075679,692381,266,1,glucose,140.0,140,mg/dL,mg/dL,302.0
+158059414,692381,3722,1,chloride,81.0,81,mmol/L,mmol/L,3854.0
+155075678,692381,266,1,calcium,8.4,8.4,mg/dL,mg/dL,302.0
+143628840,692381,5121,1,sodium,125.0,125,mmol/L,mmol/L,5200.0
+155075676,692381,266,1,sodium,124.0,124,mmol/L,mmol/L,302.0
+158059415,692381,3722,1,bicarbonate,,>45,mmol/L,mmol/L,3979.0
+155075674,692381,266,1,creatinine,0.7,0.70,mg/dL,mg/dL,302.0
+143628841,692381,5121,1,potassium,3.6,3.6,mmol/L,mmol/L,5200.0
+155075677,692381,266,1,bicarbonate,38.0,38,mmol/L,mmol/L,302.0
+158059418,692381,3722,1,BUN,23.0,23,mg/dL,mg/dL,3854.0
+155075680,692381,266,1,chloride,84.0,84,mmol/L,mmol/L,302.0
+143628842,692381,5121,1,chloride,80.0,80,mmol/L,mmol/L,5200.0
+155075675,692381,266,1,anion gap,2.0,2,,,
+158059413,692381,3722,1,potassium,4.3,4.3,mmol/L,mmol/L,3854.0
+155075681,692381,266,1,BUN,28.0,28,mg/dL,mg/dL,302.0
+143628843,692381,5121,1,bicarbonate,45.0,45,mmol/L,mmol/L,5200.0
+155075673,692381,266,1,potassium,4.4,4.4,mmol/L,mmol/L,302.0

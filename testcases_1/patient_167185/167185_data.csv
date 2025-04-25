@@ -1,0 +1,11 @@
+labid,patientunitstayid,labresultoffset,labtypeid,labname,labresult,labresulttext,labmeasurenamesystem,labmeasurenameinterface,labresultrevisedoffset
+45701096,167185,989,1,sodium,139.0,139.0,mmol/L,mmol/L,1036
+45701097,167185,989,1,potassium,3.9,3.9,mmol/L,mmol/L,1036
+45701098,167185,989,1,chloride,103.0,103.0,mmol/L,mmol/L,1036
+45701104,167185,989,1,calcium,8.8,8.8,mg/dL,mg/dL,1036
+45701103,167185,989,1,creatinine,1.48,1.48,mg/dL,mg/dL,1036
+45701099,167185,989,1,bicarbonate,28.0,28.0,mmol/L,mmol/L,1036
+45701100,167185,989,1,anion gap,12.0,12.0,,mmol/L,1036
+45701101,167185,989,1,glucose,102.0,102.0,mg/dL,mg/dL,1036
+58761887,167185,133,4,bedside glucose,85.0,85.0,mg/dL,mg/dL,154
+45701102,167185,989,1,BUN,28.0,28.0,mg/dL,mg/dL,1036

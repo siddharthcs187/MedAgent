@@ -1,0 +1,2 @@
+labid,patientunitstayid,labresultoffset,labtypeid,labname,labresult,labresulttext,labmeasurenamesystem,labmeasurenameinterface,labresultrevisedoffset
+190921078,852422,-12,4,bedside glucose,160,160,mg/dL,mg/dL,-12

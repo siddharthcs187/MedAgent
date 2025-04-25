@@ -1,0 +1,189 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-355,sodium,136.0,mmol/L
+-355,anion gap,22.0,mmol/L
+-355,BUN,24.0,mg/dL
+-355,bicarbonate,21.0,mmol/L
+2802,magnesium,1.9,mg/dL
+-355,chloride,97.0,mmol/L
+127,lactate,1.8,mmol/L
+-355,glucose,220.0,mg/dL
+1127,potassium,4.2,mmol/L
+-355,potassium,4.4,mmol/L
+2802,calcium,7.0,mg/dL
+2287,WBC x 1000,12.8,K/mcL
+-355,calcium,9.1,mg/dL
+2287,RDW,19.5,%
+4055,bedside glucose,74.0,mg/dL
+2287,MCHC,32.2,g/dL
+2062,ionized calcium,4.52,mg/dL
+1537,potassium,4.3,mmol/L
+2287,MCH,28.3,pg
+647,potassium,5.5,mmol/L
+-355,creatinine,1.1,mg/dL
+2287,-monos,17.0,%
+37,-bands,1.0,%
+1262,potassium,4.1,mmol/L
+37,Hgb,8.6,g/dL
+2287,-lymphs,2.0,%
+37,MCV,92.9,fL
+37,total protein,4.3,g/dL
+37,Hct,27.5,%
+1262,glucose,120.0,mg/dL
+1262,chloride,111.0,mmol/L
+37,calcium,6.1,mg/dL
+37,RBC,2.96,M/mcL
+2287,MCV,88.0,fL
+2287,platelets x 1000,21.0,K/mcL
+37,-polys,61.0,%
+2287,Hgb,8.5,g/dL
+1537,phosphate,2.9,mg/dL
+37,-lymphs,4.0,%
+1262,BUN,28.0,mg/dL
+37,RDW,19.7,%
+2287,WBC x 1000,19.2,K/mcL
+1262,anion gap,9.0,mmol/L
+37,bicarbonate,18.0,mmol/L
+37,ALT (SGPT),14.0,Units/L
+37,PT,16.1,sec
+37,PT - INR,1.5,ratio
+2287,RBC,3.0,M/mcL
+2802,MCH,28.2,pg
+2802,-monos,12.0,%
+2802,MCHC,31.8,g/dL
+4892,platelets x 1000,44.0,K/mcL
+2952,PT - INR,1.3,ratio
+2952,PT,13.6,sec
+2657,ionized calcium,4.56,mg/dL
+4892,RDW,19.2,%
+1537,Hgb,9.7,g/dL
+1262,creatinine,1.1,mg/dL
+4892,-polys,87.0,%
+37,-monos,28.0,%
+2287,-bands,9.0,%
+4892,-lymphs,3.0,%
+2287,Hct,26.4,%
+2802,Hgb,8.1,g/dL
+1957,Hgb,9.5,g/dL
+1957,Hct,29.5,%
+2802,platelets x 1000,22.0,K/mcL
+2802,RDW,19.4,%
+2802,MCHC,31.9,g/dL
+2802,MCH,28.1,pg
+2802,RBC,2.87,M/mcL
+2802,-polys,82.0,%
+2802,-lymphs,5.0,%
+2802,Hct,25.5,%
+875,pH,7.33,Units
+387,paO2,116.0,mm Hg
+-355,-lymphs,5.0,%
+-355,RBC,4.18,M/mcL
+-355,-polys,39.0,%
+-355,Hct,39.0,%
+-355,-bands,9.0,%
+387,Base Deficit,9.0,mEq/L
+-355,-monos,36.0,%
+-355,MCHC,31.3,g/dL
+-355,MCH,29.2,pg
+-355,WBC x 1000,35.2,K/mcL
+387,FiO2,100.0,%
+875,FiO2,50.0,%
+387,paCO2,35.0,mm Hg
+387,-lymphs,1.0,%
+875,Base Deficit,9.0,mEq/L
+387,MCHC,31.2,g/dL
+387,platelets x 1000,54.0,K/mcL
+387,RDW,20.0,%
+387,MCH,28.8,pg
+387,RBC,3.19,M/mcL
+387,-polys,34.0,%
+387,Hct,29.5,%
+387,BUN,25.0,mg/dL
+387,chloride,113.0,mmol/L
+387,-bands,5.0,%
+387,sodium,142.0,mmol/L
+387,anion gap,15.0,mmol/L
+387,calcium,6.3,mg/dL
+387,glucose,106.0,mg/dL
+37,albumin,2.2,g/dL
+42,lactate,1.9,mmol/L
+875,paCO2,31.0,mm Hg
+127,FiO2,100.0,%
+1359,pH,7.38,Units
+1359,HCO3,15.0,mmol/L
+1359,Base Deficit,8.0,mEq/L
+1359,paO2,75.0,mm Hg
+1359,paCO2,26.0,mm Hg
+1537,creatinine,1.1,mg/dL
+1817,pH,7.39,Units
+1817,paO2,70.0,mm Hg
+1817,HCO3,16.0,mmol/L
+1817,paCO2,27.0,mm Hg
+1817,Base Deficit,8.0,mEq/L
+1817,FiO2,39.0,%
+1127,potassium,4.1,mmol/L
+2,bedside glucose,81.0,mg/dL
+2532,pH,7.32,Units
+2532,HCO3,16.0,mmol/L
+2532,Base Deficit,9.0,mEq/L
+2532,paO2,62.0,mm Hg
+2532,FiO2,33.0,%
+2532,paCO2,32.0,mm Hg
+3407,potassium,3.4,mmol/L
+3411,bedside glucose,82.0,mg/dL
+922,Hct,27.8,%
+922,Hgb,8.8,g/dL
+2062,phosphate,2.6,mg/dL
+647,FiO2,100.0,%
+647,Base Deficit,9.0,mEq/L
+647,paO2,143.0,mm Hg
+647,paCO2,33.0,mm Hg
+647,HCO3,16.0,mmol/L
+4037,potassium,3.7,mmol/L
+1537,calcium,7.5,mg/dL
+1537,magnesium,1.8,mg/dL
+2952,phosphate,2.3,mg/dL
+2952,magnesium,2.2,mg/dL
+2313,bedside glucose,87.0,mg/dL
+4892,RBC,3.38,M/mcL
+4892,Hgb,9.5,g/dL
+4892,Hct,29.8,%
+4892,MCV,88.2,fL
+4892,-basos,0.0,%
+3407,ionized calcium,4.4,mg/dL
+2952,fibrinogen,431.0,mg/dL
+875,potassium,4.1,mmol/L
+875,calcium,6.2,mg/dL
+875,phosphate,3.0,mg/dL
+875,LPM O2,10.0,L/min
+2287,calcium,7.0,mg/dL
+2287,sodium,139.0,mmol/L
+2287,bicarbonate,18.0,mmol/L
+2287,creatinine,0.9,mg/dL
+2287,anion gap,14.0,mmol/L
+2287,potassium,4.1,mmol/L
+1905,ionized calcium,4.6,mg/dL
+2950,bedside glucose,76.0,mg/dL
+1957,magnesium,2.0,mg/dL
+1562,pH,7.39,Units
+1562,paCO2,26.0,mm Hg
+1562,paO2,63.0,mm Hg
+1562,Base Deficit,8.0,mEq/L
+1562,HCO3,15.0,mmol/L
+1562,FiO2,33.0,%
+37,troponin - I,0.03,ng/mL
+2661,bedside glucose,73.0,mg/dL
+37,magnesium,1.6,mg/dL
+37,phosphate,3.0,mg/dL
+-70,bedside glucose,82.0,mg/dL
+1537,ionized calcium,3.92,mg/dL
+1127,Base Deficit,8.0,mEq/L
+1127,FiO2,40.0,%
+1127,paO2,88.0,mm Hg
+1127,HCO3,15.0,mmol/L
+1127,paCO2,27.0,mm Hg
+1359,ionized calcium,4.2,mg/dL
+-148,urinary specific gravity,1.025,
+4862,potassium,3.9,mmol/L
+257,lactate,1.3,mmol/L
+2952,PTT,44.0,sec
+37,PTT,38.0,sec

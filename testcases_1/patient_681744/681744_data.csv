@@ -1,0 +1,2 @@
+patientunitstayid,patienthealthsystemstayid,uniquepid,gender,age,ethnicity,hospitalid,wardid,admissionheight,admissionweight,hospitaladmittime24,hospitaldischargeyear,hospitaldischargetime24,unittype,unitadmittime24,unitdischargetime24,hospitaladmitoffset,hospitaldischargeoffset,unitdischargeoffset,hospitaldischargelocation,hospitaldischargestatus,unitdischargelocation,unitdischargestatus
+681744,539538,006-101147,Male,63,Caucasian,157,369,198.1,75.4,01:59:00,2015,17:50:00,Med-Surg ICU,02:00:00,08:00:00,-1441,2390,360,Death,Expired,Acute Care/Floor,Alive

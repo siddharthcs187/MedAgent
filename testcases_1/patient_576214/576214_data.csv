@@ -1,0 +1,48 @@
+labname,labresult,labmeasurenamesystem,labresultoffset,labtypeid
+MCH,31.2,pg,-924,3
+BUN,28.0,mg/dL,276,1
+MCV,98.0,fL,-924,3
+glucose,118.0,mg/dL,276,1
+Hgb,16.2,g/dL,-924,3
+calcium,10.3,mg/dL,276,1
+WBC x 1000,14.3,K/mcL,-924,3
+bicarbonate,28.0,mmol/L,276,1
+platelets x 1000,221.0,K/mcL,-924,3
+PT,12.7,sec,-108,3
+potassium,4.5,mmol/L,-924,1
+MCHC,32.0,g/dL,-924,3
+PTT,29.7,sec,-108,3
+RDW,12.4,%,-924,3
+lipase,84.0,Units/L,-924,1
+total bilirubin,0.5,mg/dL,-924,1
+creatinine,1.1,mg/dL,276,1
+AST (SGOT),47.0,Units/L,-924,1
+TSH,3.64,mcU/ml,-731,4
+chloride,106.0,mmol/L,276,1
+ALT (SGPT),34.0,Units/L,-924,1
+total protein,6.8,g/dL,-924,1
+PT - INR,0.9,ratio,-108,3
+anion gap,14.0,,-924,1
+MCH,31.7,pg,276,3
+MCHC,34.0,g/dL,276,3
+platelets x 1000,140.0,K/mcL,276,3
+RBC,4.36,M/mcL,276,3
+Hct,41.1,%,276,3
+MCV,94.0,fL,276,3
+bicarbonate,24.0,mmol/L,-924,1
+RDW,12.5,%,276,3
+Hgb,13.8,g/dL,276,3
+sodium,139.0,mmol/L,-924,1
+troponin - I,0.73,ng/mL,276,1
+PTT,190.5,sec,276,3
+BUN,28.0,mg/dL,-924,1
+calcium,10.9,mg/dL,-924,1
+chloride,101.0,mmol/L,-924,1
+glucose,304.0,mg/dL,-924,1
+alkaline phos.,86.0,Units/L,-924,1
+creatinine,1.5,mg/dL,-924,1
+AST (SGOT),47.0,Units/L,-924,1
+sodium,139.0,mmol/L,-924,1
+troponin - I,0.22,ng/mL,-924,1
+troponin - I,1.85,ng/mL,-356,1
+troponin - I,0.96,ng/mL,-731,1

@@ -1,0 +1,16 @@
+Lab Value,Time (minutes post-admission),Value,Units
+Hgb,1007,10.9,g/dL
+Hgb,2417,11.2,g/dL
+Hgb,3882,11.0,g/dL
+Hct,1007,34.5,%
+Hct,2417,36.8,%
+Hct,3882,34.6,%
+PT,1007,11.4,sec
+PT,2417,11.8,sec
+PT,3882,14.1,sec
+PT-INR,1007,1.1,ratio
+PT-INR,2417,1.1,ratio
+PT-INR,3882,1.3,ratio
+Platelets,1007,180.0,K/mcL
+Creatinine,1007,0.8,mg/dL
+BUN,1007,20.0,mg/dL

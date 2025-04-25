@@ -1,0 +1,7 @@
+Time_Since_Admission (minutes),pH,PaO2 (mmHg),PaCO2 (mmHg),HCO3 (mmol/L),Base Excess (mEq/L),O2 Sat (%),PEEP (cm H2O),Pressure Support (cm H2O),Glucose (mg/dL),Tacrolimus (ng/mL),Hgb (g/dL),Hct (%),WBC (K/mcL),Platelets (K/mcL),MCH (pg),MCHC (g/dL),MCV (fL),RDW (%),RBC (M/mcL),Chloride (mmol/L),Potassium (mmol/L),Sodium (mmol/L),Calcium (mg/dL),Anion Gap,Unnamed: 25
+85,7.402,183.0,49.7,30.3,5.1,98.7,5.0,10.0,203.0,,,,,,,,,,,,,,,,
+797,,,,,,,,,97.0,5.2,9.4,30.0,4.4,154.0,29.0,31.3,93.0,14.1,3.24,102.0,3.5,141.0,8.6,3.0,
+1252,,,,,,,,,113.0,,,,,,,,,,,,,,,,
+1453,,,,,,,,,131.0,,,,,,,,,,,,,,,,
+517,,,,,,,,,116.0,,,,,,,,,,,,,,,,
+12,,,,,,,,,,,,,,,,,,,,,,,,,

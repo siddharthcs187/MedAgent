@@ -1,0 +1,349 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+glucose,120.0,mg/dL,9296.0
+glucose,126.0,mg/dL,4939.0
+glucose,138.0,mg/dL,6364.0
+chloride,103.0,mmol/L,9296.0
+chloride,103.0,mmol/L,4939.0
+chloride,104.0,mmol/L,6364.0
+potassium,3.8,mmol/L,9296.0
+potassium,4.0,mmol/L,4939.0
+potassium,4.0,mmol/L,6364.0
+sodium,140.0,mmol/L,9296.0
+sodium,137.0,mmol/L,4939.0
+sodium,136.0,mmol/L,6364.0
+creatinine,0.6,mg/dL,4939.0
+creatinine,0.6,mg/dL,6364.0
+creatinine,0.6,mg/dL,9296.0
+anion gap,7.0,mmol/L,4939.0
+anion gap,14.0,mmol/L,9296.0
+anion gap,7.0,mmol/L,6364.0
+BUN,11.0,mg/dL,9296.0
+BUN,10.0,mg/dL,4939.0
+BUN,11.0,mg/dL,6364.0
+calcium,8.4,mg/dL,4939.0
+calcium,8.7,mg/dL,6364.0
+calcium,8.9,mg/dL,9296.0
+PT - INR,1.2,ratio,3497.0
+PT - INR,1.2,ratio,4939.0
+PT - INR,1.0,ratio,594.0
+PT - INR,1.4,ratio,7846.0
+PT - INR,1.3,ratio,6364.0
+PT,12.1,sec,3497.0
+PT,10.7,sec,4939.0
+PT,13.7,sec,6364.0
+PT,14.3,sec,7846.0
+PT,11.6,sec,-16.0
+PT,16.3,sec,9296.0
+Hct,39.4,%,594.0
+Hct,39.8,-16,
+Hct,36.3,%,3497.0
+Hct,36.1,%,9296.0
+Hct,36.4,%,6364.0
+Hct,44.1,%,-510.0
+Hct,37.6,%,2074.0
+Hct,36.2,%,4939.0
+Hct,39.4,%,7846.0
+MCV,89.1,fL,594.0
+MCV,88.8,fL,4939.0
+MCV,87.8,fL,-510.0
+MCV,88.5,fL,4939.0
+MCV,89.3,fL,2074.0
+MCV,88.1,-16,
+MCV,88.5,fL,7846.0
+MCV,87.8,fL,9296.0
+Hgb,13.0,g/dL,594.0
+Hgb,11.8,g/dL,3497.0
+Hgb,12.0,g/dL,6364.0
+Hgb,11.6,g/dL,9296.0
+Hgb,12.4,g/dL,2074.0
+Hgb,12.9,g/dL,7846.0
+Hgb,15.0,g/dL,-510.0
+Hgb,13.2,-16,
+Hgb,11.8,g/dL,4939.0
+platelets x 1000,145.0,K/mcL,-16.0
+platelets x 1000,127.0,K/mcL,594.0
+platelets x 1000,106.0,K/mcL,3497.0
+platelets x 1000,100.0,K/mcL,2074.0
+platelets x 1000,142.0,K/mcL,4939.0
+platelets x 1000,207.0,K/mcL,-510.0
+platelets x 1000,208.0,K/mcL,7846.0
+platelets x 1000,209.0,K/mcL,9296.0
+WBC x 1000,17.3,K/mcL,-16.0
+WBC x 1000,11.4,K/mcL,6364.0
+WBC x 1000,10.4,K/mcL,3497.0
+WBC x 1000,8.1,K/mcL,6364.0
+WBC x 1000,8.2,K/mcL,4939.0
+WBC x 1000,8.9,K/mcL,-510.0
+WBC x 1000,8.5,K/mcL,7846.0
+WBC x 1000,7.3,K/mcL,9296.0
+RDW,13.7,%,-16.0
+RDW,14.3,%,6364.0
+RDW,13.9,%,4939.0
+RDW,13.7,%,9296.0
+RDW,14.1,%,3497.0
+RDW,13.9,%,4939.0
+RDW,14.5,%,2074.0
+RDW,13.7,%,-510.0
+magnesium,1.9,mg/dL,6364.0
+magnesium,2.0,mg/dL,9296.0
+magnesium,1.8,mg/dL,7846.0
+magnesium,2.4,mg/dL,594.0
+bedside glucose,149.0,mg/dL,7188.0
+bedside glucose,131.0,mg/dL,6844.0
+bedside glucose,112.0,mg/dL,5074.0
+bedside glucose,112.0,mg/dL,4505.0
+bedside glucose,158.0,mg/dL,4506.0
+bedside glucose,116.0,mg/dL,2075.0
+bedside glucose,132.0,mg/dL,3690.0
+bedside glucose,118.0,mg/dL,6500.0
+bedside glucose,120.0,mg/dL,6963.0
+bedside glucose,102.0,mg/dL,2366.0
+bedside glucose,121.0,mg/dL,342.0
+bedside glucose,137.0,mg/dL,-536.0
+bedside glucose,119.0,mg/dL,217.0
+bedside glucose,162.0,mg/dL,7391.0
+bedside glucose,107.0,mg/dL,822.0
+bedside glucose,110.0,mg/dL,5385.0
+bedside glucose,149.0,mg/dL,5874.0
+bedside glucose,100.0,mg/dL,160.0
+bedside glucose,133.0,mg/dL,33.0
+bedside glucose,139.0,mg/dL,592.0
+bedside glucose,176.0,mg/dL,8829.0
+bedside glucose,114.0,mg/dL,1969.0
+bedside glucose,103.0,mg/dL,2520.0
+bedside glucose,117.0,mg/dL,9669.0
+bedside glucose,125.0,mg/dL,2861.0
+bedside glucose,127.0,mg/dL,1751.0
+bedside glucose,113.0,mg/dL,9404.0
+bedside glucose,99.0,mg/dL,1064.0
+bedside glucose,119.0,mg/dL,1827.0
+bedside glucose,118.0,mg/dL,707.0
+bedside glucose,150.0,mg/dL,4291.0
+bedside glucose,97.0,mg/dL,2247.0
+bedside glucose,94.0,mg/dL,1241.0
+bedside glucose,104.0,-34,
+bedside glucose,125.0,mg/dL,95.0
+bedside glucose,101.0,mg/dL,2390.0
+ionized calcium,4.6,mg/dL,2074.0
+ionized calcium,4.44,mg/dL,594.0
+ionized calcium,4.68,mg/dL,3499.0
+Total CO2,29.0,mmol/L,-214.0
+Total CO2,34.0,mmol/L,174.0
+Total CO2,27.0,mmol/L,-214.0
+Total CO2,32.0,mmol/L,7846.0
+Total CO2,29.0,mmol/L,-185.0
+Total CO2,33.0,mmol/L,219.0
+Total CO2,31.0,mmol/L,-278.0
+Total CO2,25.0,mmol/L,-32.0
+Total CO2,30.0,mmol/L,-275.0
+Total CO2,27.0,mmol/L,-114.0
+Total CO2,25.0,mmol/L,-78.0
+Total CO2,28.0,mmol/L,-189.0
+Total CO2,29.0,mmol/L,-157.0
+Total CO2,31.0,mmol/L,-214.0
+Total CO2,24.0,mmol/L,-32.0
+Total CO2,30.0,mmol/L,-275.0
+Total CO2,25.0,mmol/L,-157.0
+Total CO2,28.0,mmol/L,-114.0
+Total CO2,24.0,mmol/L,-78.0
+Total CO2,27.0,mmol/L,-108.0
+Total CO2,25.0,mmol/L,-70.0
+Total CO2,28.0,mmol/L,-178.0
+Total CO2,25.0,mmol/L,-108.0
+Total CO2,27.0,mmol/L,-269.0
+Total CO2,29.0,mmol/L,-178.0
+Total CO2,25.0,mmol/L,-70.0
+Total CO2,29.0,mmol/L,-150.0
+Total CO2,30.0,mmol/L,-268.0
+Total CO2,27.0,mmol/L,-214.0
+Total CO2,24.0,mmol/L,-32.0
+Total CO2,28.0,mmol/L,-178.0
+Total CO2,29.0,mmol/L,-150.0
+Total CO2,24.0,mmol/L,-78.0
+Total CO2,27.0,mmol/L,-214.0
+Total CO2,25.0,mmol/L,-70.0
+Total CO2,25.0,mmol/L,-108.0
+Total CO2,27.0,mmol/L,-269.0
+Total CO2,29.0,mmol/L,-178.0
+Total CO2,24.0,mmol/L,-78.0
+Total CO2,27.0,mmol/L,-214.0
+Total CO2,25.0,mmol/L,-70.0
+Total CO2,25.0,mmol/L,-108.0
+Total CO2,27.0,mmol/L,-269.0
+Total CO2,29.0,mmol/L,-178.0
+Total CO2,24.0,mmol/L,-78.0
+Total CO2,27.0,mmol/L,-214.0
+Total CO2,25.0,mmol/L,-70.0
+Total CO2,25.0,mmol/L,-108.0
+Total CO2,27.0,mmol/L,-269.0
+pH,7.46,Units,-214.0
+pH,7.38,Units,219.0
+pH,7.4,Units,-185.0
+pH,7.4,Units,-114.0
+pH,7.47,Units,-278.0
+pH,7.25,Units,-32.0
+pH,7.45,Units,-275.0
+pH,7.4,Units,-114.0
+pH,7.4,Units,-108.0
+pH,7.4,Units,-78.0
+pH,7.47,Units,-269.0
+pH,7.4,Units,-108.0
+pH,7.4,Units,-70.0
+pH,7.4,Units,-178.0
+pH,7.4,Units,-108.0
+pH,7.4,Units,-70.0
+pH,7.25,Units,40.0
+pH,7.4,Units,-157.0
+pH,7.42,Units,-157.0
+pH,7.4,Units,-108.0
+pH,7.45,Units,-268.0
+pH,7.4,Units,-150.0
+pH,7.34,Units,-78.0
+paCO2,38.0,mm Hg,-214.0
+paCO2,52.0,mm Hg,174.0
+paCO2,43.0,mm Hg,-185.0
+paCO2,41.0,mm Hg,-114.0
+paCO2,41.0,mm Hg,-278.0
+paCO2,54.0,mm Hg,-32.0
+paCO2,41.0,mm Hg,-269.0
+paCO2,44.0,mm Hg,-78.0
+paCO2,45.0,mm Hg,-178.0
+paCO2,41.0,mm Hg,-108.0
+paCO2,41.0,mm Hg,-269.0
+paCO2,55.0,mm Hg,35.0
+paCO2,43.0,mm Hg,-157.0
+paCO2,41.0,mm Hg,-108.0
+paCO2,41.0,mm Hg,-268.0
+paCO2,44.0,mm Hg,-70.0
+paCO2,45.0,mm Hg,-178.0
+paCO2,41.0,mm Hg,-70.0
+paCO2,41.0,mm Hg,-108.0
+paCO2,41.0,mm Hg,-269.0
+paO2,338.0,mm Hg,-214.0
+paO2,118.0,mm Hg,174.0
+paO2,246.0,mm Hg,-157.0
+paO2,254.0,mm Hg,-185.0
+paO2,80.0,mm Hg,-278.0
+paO2,112.0,mm Hg,-32.0
+paO2,82.0,mm Hg,-275.0
+paO2,284.0,mm Hg,-114.0
+paO2,383.0,mm Hg,-78.0
+paO2,86.0,mm Hg,35.0
+paO2,254.0,mm Hg,-178.0
+paO2,246.0,mm Hg,-150.0
+paO2,82.0,mm Hg,-268.0
+paO2,93.0,mm Hg,219.0
+paO2,112.0,mm Hg,40.0
+paO2,284.0,mm Hg,-108.0
+paO2,383.0,mm Hg,-70.0
+paO2,80.0,mm Hg,-269.0
+HCO3,27.0,mmol/L,-214.0
+HCO3,32.0,mmol/L,174.0
+HCO3,28.0,mmol/L,-185.0
+HCO3,31.0,mmol/L,-278.0
+HCO3,24.0,mmol/L,-32.0
+HCO3,29.0,mmol/L,-275.0
+HCO3,25.0,mmol/L,-114.0
+HCO3,24.0,mmol/L,-78.0
+HCO3,28.0,mmol/L,-178.0
+HCO3,31.0,mmol/L,-214.0
+HCO3,28.0,mmol/L,-157.0
+HCO3,24.0,mmol/L,-32.0
+HCO3,29.0,mmol/L,-157.0
+HCO3,25.0,mmol/L,-114.0
+HCO3,24.0,mmol/L,-78.0
+HCO3,28.0,mmol/L,-178.0
+HCO3,32.0,mmol/L,7846.0
+HCO3,27.0,mmol/L,-150.0
+HCO3,30.0,mmol/L,-268.0
+HCO3,31.0,mmol/L,-269.0
+HCO3,27.0,mmol/L,-108.0
+HCO3,24.0,mmol/L,-70.0
+HCO3,28.0,mmol/L,-178.0
+HCO3,25.0,mmol/L,-108.0
+HCO3,27.0,mmol/L,-269.0
+HCO3,28.0,mmol/L,-150.0
+HCO3,24.0,mmol/L,-70.0
+HCO3,24.0,mmol/L,-108.0
+HCO3,24.0,mmol/L,-70.0
+HCO3,25.0,mmol/L,-269.0
+HCO3,29.0,mmol/L,-178.0
+HCO3,24.0,mmol/L,-70.0
+HCO3,28.0,mmol/L,-150.0
+HCO3,24.0,mmol/L,-78.0
+HCO3,27.0,mmol/L,-214.0
+HCO3,24.0,mmol/L,-70.0
+HCO3,25.0,mmol/L,-108.0
+HCO3,27.0,mmol/L,-269.0
+Base Excess,3.0,mEq/L,-214.0
+Base Excess,6.0,mEq/L,174.0
+Base Excess,2.0,mEq/L,-185.0
+Base Excess,5.0,mEq/L,225.0
+Base Excess,4.0,mEq/L,40.0
+Base Excess,3.0,mEq/L,-157.0
+Base Excess,0.0,mEq/L,-114.0
+Base Excess,6.0,mEq/L,-278.0
+Base Excess,2.0,mEq/L,-70.0
+Base Excess,4.0,mEq/L,-150.0
+Base Excess,0.0,mEq/L,-108.0
+Base Excess,2.0,mEq/L,-269.0
+Base Excess,4.0,mEq/L,-150.0
+Base Excess,2.0,mEq/L,-70.0
+Base Excess,0.0,mEq/L,-108.0
+Base Excess,2.0,mEq/L,-269.0
+Base Excess,3.0,mEq/L,-214.0
+Base Excess,4.0,mEq/L,40.0
+Base Excess,3.0,mEq/L,-157.0
+Base Excess,0.0,mEq/L,-114.0
+Base Excess,6.0,mEq/L,-278.0
+Base Excess,2.0,mEq/L,-70.0
+Base Excess,4.0,mEq/L,-150.0
+Base Excess,0.0,mEq/L,-108.0
+Base Excess,2.0,mEq/L,-269.0
+Base Excess,4.0,mEq/L,-150.0
+Base Excess,2.0,mEq/L,-70.0
+Base Excess,0.0,mEq/L,-108.0
+Base Excess,2.0,mEq/L,-269.0
+Base Excess,4.0,mEq/L,-150.0
+Base Excess,2.0,mEq/L,-70.0
+Base Excess,0.0,mEq/L,-108.0
+Base Excess,2.0,mEq/L,-269.0
+Base Excess,4.0,mEq/L,-150.0
+Base Excess,2.0,mEq/L,-70.0
+Base Excess,0.0,mEq/L,-108.0
+Base Excess,2.0,mEq/L,-269.0
+Base Deficit,4.0,mEq/L,-32.0
+Base Deficit,2.0,mEq/L,-70.0
+O2 Sat (%),100.0,%,-214.0
+O2 Sat (%),97.0,%,219.0
+O2 Sat (%),100.0,%,-185.0
+O2 Sat (%),97.0,%,-32.0
+O2 Sat (%),100.0,%,-275.0
+O2 Sat (%),99.0,%,174.0
+O2 Sat (%),100.0,%,-114.0
+O2 Sat (%),100.0,%,-78.0
+O2 Sat (%),100.0,%,-178.0
+O2 Sat (%),94.0,%,35.0
+O2 Sat (%),100.0,%,-157.0
+O2 Sat (%),97.0,%,-269.0
+O2 Sat (%),96.0,%,-278.0
+O2 Sat (%),100.0,%,-108.0
+O2 Sat (%),97.0,%,-268.0
+O2 Sat (%),99.0,%,179.0
+O2 Sat (%),100.0,%,-178.0
+O2 Sat (%),96.0,%,-269.0
+O2 Sat (%),100.0,%,-150.0
+O2 Sat (%),100.0,%,-70.0
+FiO2,55.0,%,174.0
+FiO2,50.0,%,219.0
+FiO2,50.0,%,-278.0
+FiO2,50.0,%,-32.0
+FiO2,50.0,%,-275.0
+FiO2,50.0,%,1911.0
+FiO2,50.0,%,-70.0
+FiO2,50.0,%,1912.0
+-basos,0.0,%,-510.0
+-polys,67.0,%,-510.0
+-lymphs,25.0,%,-510.0
+-monos,7.0,%,-510.0
+-eos,1.0,%,-510.0

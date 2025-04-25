@@ -1,0 +1,82 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+creatinine,4.45,mg/dL,-6951
+creatinine,5.25,mg/dL,1009
+creatinine,3.48,mg/dL,2509
+creatinine,4.0,mg/dL,4039
+creatinine,3.27,mg/dL,5449
+potassium,4.5,mmol/L,-6951
+potassium,4.6,mmol/L,1009
+potassium,4.0,mmol/L,2509
+potassium,3.9,mmol/L,4039
+potassium,3.8,mmol/L,5449
+Hgb,8.8,g/dL,-6951
+Hgb,10.8,g/dL,24
+Hgb,8.7,g/dL,2379
+Hgb,8.6,g/dL,4039
+Hgb,8.7,g/dL,5449
+Hgb,8.5,g/dL,1354
+Hgb,8.5,g/dL,2089
+platelets x 1000,192.0,K/mcL,-6951
+platelets x 1000,206.0,K/mcL,1009
+platelets x 1000,198.0,K/mcL,2509
+platelets x 1000,225.0,K/mcL,4039
+platelets x 1000,200.0,K/mcL,5449
+platelets x 1000,170.0,K/mcL,-5856
+platelets x 1000,154.0,K/mcL,-4217
+platelets x 1000,305.0,K/mcL,24
+platelets x 1000,220.0,K/mcL,-8606
+BUN,50.0,mg/dL,-6951
+BUN,62.0,mg/dL,1009
+BUN,38.0,mg/dL,2509
+BUN,43.0,mg/dL,4039
+BUN,30.0,mg/dL,5449
+BUN,53.0,mg/dL,-5856
+BUN,39.0,mg/dL,-4217
+BUN,56.0,mg/dL,24
+BUN,77.0,mg/dL,-8606
+calcium,8.3,mg/dL,-6951
+calcium,8.2,mg/dL,1009
+calcium,8.4,mg/dL,2509
+calcium,7.8,mg/dL,4039
+calcium,8.8,mg/dL,5449
+calcium,8.5,mg/dL,-5856
+calcium,8.7,mg/dL,24
+calcium,9.1,mg/dL,-8606
+glucose,112.0,mg/dL,-6951
+glucose,99.0,mg/dL,1009
+glucose,97.0,mg/dL,2509
+glucose,91.0,mg/dL,4039
+glucose,110.0,mg/dL,5449
+glucose,98.0,mg/dL,-5856
+glucose,116.0,mg/dL,24
+glucose,70.0,mg/dL,-8606
+glucose,77.0,mg/dL,320
+glucose,86.0,mg/dL,1541
+glucose,86.0,mg/dL,2284
+glucose,95.0,mg/dL,3540
+glucose,98.0,mg/dL,3758
+glucose,105.0,mg/dL,4426
+glucose,98.0,mg/dL,4203
+glucose,94.0,mg/dL,216
+glucose,91.0,mg/dL,673
+glucose,88.0,mg/dL,1341
+glucose,116.0,mg/dL,1820
+glucose,141.0,mg/dL,-29
+glucose,76.0,mg/dL,2976
+glucose,93.0,mg/dL,-8152
+chloride,102.0,mmol/L,-6951
+chloride,106.0,mmol/L,1009
+chloride,104.0,mmol/L,2509
+chloride,101.0,mmol/L,4039
+chloride,101.0,mmol/L,5449
+chloride,103.0,mmol/L,-4217
+chloride,105.0,mmol/L,24
+chloride,102.0,mmol/L,-8606
+anion gap,8.0, ,-6951
+anion gap,10.0, ,1009
+anion gap,9.0, ,2509
+anion gap,11.0, ,4039
+anion gap,9.0, ,5449
+anion gap,7.0, ,-4217
+anion gap,8.0, ,24
+anion gap,9.0, ,-8606

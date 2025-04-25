@@ -1,0 +1,2 @@
+PatientID,HeartRateCurrent,HeartRateLowest,HeartRateHighest,SystolicBPCurrent,SystolicBPLowest,SystolicBPHighest,DiastolicBPCurrent,DiastolicBPLowest,DiastolicBPHighest,RespiratoryRateCurrent,RespiratoryRateLowest,RespiratoryRateHighest,OxygenSaturationCurrent,OxygenSaturationLowest,OxygenSaturationHighest,WeightAdmission,WeightCurrent,WeightDelta,IntakeTotal,UrineOutput,TotalNetIO,GCS,GCSEyes,GCSVerbal,GCSMotor
+006-107303,78,73,101,138,116,167,100,86,128,25,21,34,96,94,100,90,91.5,1.5,930,750,178,13,3,4,6

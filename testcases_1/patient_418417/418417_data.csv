@@ -1,0 +1,25 @@
+labname,labresult,labmeasurenamesystem
+creatinine,1.0,mg/dL
+albumin,2.5,g/dL
+sodium,139.0,mmol/L
+glucose,113.0,mg/dL
+total bilirubin,0.6,mg/dL
+WBC x 1000,17.2,K/mcL
+FiO2,28.0,%
+Hct,35.1,%
+BUN,35.0,mg/dL
+HR Current,70.0,bpm
+HR Lowest,69.0,bpm
+HR Highest,70.0,bpm
+BP (systolic) Current,87.0,mmHg
+BP (systolic) Lowest,78.0,mmHg
+BP (systolic) Highest,87.0,mmHg
+BP (diastolic) Current,53.0,mmHg
+BP (diastolic) Lowest,48.0,mmHg
+BP (diastolic) Highest,51.0,mmHg
+Resp Current,15.0,breaths/min
+Resp Lowest,14.0,breaths/min
+Resp Highest,15.0,breaths/min
+O2 Sat% Current,95.0,%
+O2 Sat% Lowest,94.0,%
+O2 Sat% Highest,96.0,%

@@ -1,0 +1,436 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+WBC x 1000,30.2,K/mcL,5688.0
+anion gap,17,,5688.0
+RBC,4.45,M/mcL,5688.0
+bicarbonate,23,mmol/L,5688.0
+MPV,9.5,fL,9843.0
+Hgb,13.4,g/dL,5688.0
+platelets x 1000,320,K/mcL,5688.0
+chloride,91,mmol/L,5688.0
+MCH,29.9,pg,9843.0
+MCHC,37,g/dL,5688.0
+MCHC,36.3,g/dL,9843.0
+platelets x 1000,136,K/mcL,1113.0
+glucose,75,mg/dL,5688.0
+RDW,15.8,%,9843.0
+anion gap,18,,9843.0
+bicarbonate,21,mmol/L,9843.0
+chloride,95,mmol/L,9843.0
+platelets x 1000,321,K/mcL,11203.0
+MPV,8.9,fL,11203.0
+RDW,15.9,%,11203.0
+ALT (SGPT),68,Units/L,9843.0
+platelets x 1000,268,K/mcL,5688.0
+paO2,71.6,mm Hg,6484.0
+RBC,4.27,M/mcL,1113.0
+anion gap,14,,6918.0
+glucose,90,mg/dL,6918.0
+BUN,73,mg/dL,6918.0
+bicarbonate,24,mmol/L,6918.0
+chloride,94,mmol/L,6918.0
+Hgb,11.9,g/dL,6918.0
+Base Excess,0.7,mEq/L,6484.0
+WBC x 1000,24.6,K/mcL,9843.0
+Hct,33.1,%,9843.0
+MCH,30.4,pg,1113.0
+MCHC,36.5,g/dL,1113.0
+BUN,87,mg/dL,5688.0
+creatinine,5.92,mg/dL,5688.0
+RBC,3.99,M/mcL,6918.0
+RBC,3.82,M/mcL,8331.0
+Hct,33.4,%,6918.0
+PT,19.6,sec,4533.0
+PT,28.2,sec,5448.0
+PTT,69,sec,1533.0
+PTT,186,sec,5448.0
+PT - INR,1.7,ratio,4533.0
+PT - INR,2.7,ratio,5449.0
+PTT,79,sec,1938.0
+PTT,40,sec,8331.0
+PTT,39,sec,9843.0
+PTT,44,sec,6918.0
+PTT,39,sec,11203.0
+PT,25.4,sec,11203.0
+PT,22.3,sec,8331.0
+PT,23.7,sec,9843.0
+PT - INR,2.0,ratio,8355.0
+PT - INR,2.1,ratio,9920.0
+PT - INR,2.4,ratio,6945.0
+PT - INR,2.3,ratio,11230.0
+ALT (SGPT),192,Units/L,2408.0
+AST (SGOT),43,Units/L,9843.0
+AST (SGOT),197,Units/L,2408.0
+AST (SGOT),113,Units/L,4318.0
+AST (SGOT),51,Units/L,6918.0
+AST (SGOT),44,Units/L,8331.0
+AST (SGOT),239,Units/L,1113.0
+total bilirubin,7.4,mg/dL,2408.0
+total bilirubin,5.0,mg/dL,9843.0
+total bilirubin,5.6,mg/dL,1113.0
+total bilirubin,5.2,mg/dL,8331.0
+total bilirubin,6.8,mg/dL,6918.0
+total bilirubin,8.3,mg/dL,4318.0
+total protein,5.7,g/dL,1113.0
+total protein,5.9,g/dL,9843.0
+total protein,5.6,g/dL,4318.0
+total protein,5.5,g/dL,6918.0
+total protein,5.7,g/dL,8331.0
+alkaline phos.,122,Units/L,2408.0
+alkaline phos.,71,Units/L,1113.0
+alkaline phos.,94,Units/L,6918.0
+alkaline phos.,98,Units/L,9843.0
+alkaline phos.,110,Units/L,4318.0
+alkaline phos.,104,Units/L,8331.0
+albumin,2.2,g/dL,1113.0
+albumin,1.6,g/dL,6918.0
+albumin,1.8,g/dL,4318.0
+albumin,1.6,g/dL,8331.0
+calcium,7.4,mg/dL,1113.0
+calcium,6.6,mg/dL,6918.0
+calcium,7.4,mg/dL,4318.0
+calcium,5.8,mg/dL,8331.0
+calcium,6.0,mg/dL,9843.0
+calcium,6.2,mg/dL,11203.0
+chloride,96,mmol/L,1113.0
+chloride,90,mmol/L,4318.0
+BUN,67,mg/dL,1113.0
+BUN,85,mg/dL,9843.0
+BUN,98,mg/dL,8331.0
+creatinine,4.46,mg/dL,2408.0
+creatinine,7.13,mg/dL,8331.0
+creatinine,6.49,mg/dL,9843.0
+creatinine,6.17,mg/dL,4318.0
+creatinine,5.55,mg/dL,6918.0
+creatinine,5.78,mg/dL,11203.0
+creatinine,4.68,mg/dL,1113.0
+potassium,4.2,mmol/L,1113.0
+potassium,4.8,mmol/L,6918.0
+potassium,4.2,mmol/L,8331.0
+potassium,3.8,mmol/L,9843.0
+potassium,3.3,mmol/L,11203.0
+potassium,4.9,mmol/L,5688.0
+potassium,5.2,mmol/L,4318.0
+potassium,4.6,mmol/L,2408.0
+sodium,131,mmol/L,5688.0
+sodium,130,mmol/L,4318.0
+sodium,133,mmol/L,1113.0
+sodium,133,mmol/L,8331.0
+sodium,132,mmol/L,6918.0
+sodium,134,mmol/L,9843.0
+sodium,137,mmol/L,11203.0
+bicarbonate,24,mmol/L,1113.0
+bicarbonate,22,mmol/L,4318.0
+bicarbonate,21,mmol/L,8331.0
+magnesium,2.1,mg/dL,1113.0
+magnesium,2.3,mg/dL,6918.0
+magnesium,2.1,mg/dL,2408.0
+magnesium,2.5,mg/dL,8331.0
+glucose,97,mg/dL,1113.0
+glucose,72,mg/dL,9843.0
+glucose,78,mg/dL,4318.0
+glucose,92,mg/dL,8331.0
+glucose,118,mg/dL,2408.0
+glucose,75,mg/dL,11203.0
+phosphate,7.6,mg/dL,6918.0
+phosphate,9.5,mg/dL,9843.0
+ammonia,<10,mcg/dL,6918.0
+bedside glucose,73,mg/dL,5830.0
+bedside glucose,155,mg/dL,5898.0
+bedside glucose,79,mg/dL,388.0
+bedside glucose,94,mg/dL,6454.0
+CPK,663,Units/L,5688.0
+CPK,6781,Units/L,1113.0
+CPK,3822,Units/L,2408.0
+CPK,289,Units/L,9843.0
+troponin - I,0.16,ng/mL,5688.0
+FiO2,21,%,6484.0
+paCO2,32.6,mm Hg,6484.0
+paCO2,33.5,mm Hg,8742.0
+paCO2,33,mm Hg,5851.0
+pH,7.477,,6484.0
+pH,7.405,,5851.0
+O2 Sat (%),95.4,%,6484.0
+O2 Sat (%),97.6,%,5851.0
+O2 Sat (%),97.2,%,8742.0
+MCV,81,fL,5688.0
+MCV,84,fL,1113.0
+MCV,84,fL,6918.0
+MCV,82,fL,9843.0
+MCV,83,fL,4318.0
+MCV,81,fL,8331.0
+MCV,83,fL,11203.0
+Hct,36.2,%,5688.0
+Hct,35.6,%,1113.0
+Hct,31,%,8331.0
+Hct,32.6,%,11203.0
+Hct,36.3,%,4318.0
+WBC x 1000,18.2,K/mcL,1113.0
+WBC x 1000,25.3,K/mcL,4318.0
+WBC x 1000,28.8,K/mcL,6918.0
+WBC x 1000,27.1,K/mcL,8331.0
+WBC x 1000,20.7,K/mcL,11203.0
+RDW,15.3,%,1113.0
+RDW,15.4,%,6918.0
+RDW,15.7,%,8331.0
+RDW,15.4,%,4318.0
+MPV,9.8,fL,5688.0
+MPV,9.4,fL,8347.0
+MPV,9.9,fL,4318.0
+MCH,30.1,pg,5688.0
+MCH,29.6,pg,8347.0
+MCH,29.9,pg,4318.0
+MCHC,35.2,g/dL,2465.0
+MCHC,36.1,g/dL,4379.0
+MCHC,35.6,g/dL,6940.0
+platelets x 1000,178,K/mcL,2465.0
+platelets x 1000,241,K/mcL,4379.0
+platelets x 1000,261,K/mcL,6940.0
+platelets x 1000,295,K/mcL,8347.0
+PT,17.4,sec,3311.0
+PT,25.9,sec,6945.0
+PTT,76,sec,476.0
+PTT,85,sec,4586.0
+PTT,70,sec,2473.0
+PT,23.7,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.9,sec,6940.0
+PT,17.4,sec,2408.0
+PT,25.,,

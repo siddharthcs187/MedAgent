@@ -1,0 +1,5 @@
+Time_Since_Admission (minutes),Heart_Rate (bpm),Systolic_BP (mmHg),Diastolic_BP (mmHg),Respiratory_Rate (breaths/min),O2_Saturation (%),PTT (sec),BUN (mg/dL),Creatinine (mg/dL),Bedside_Glucose (mg/dL)
+-28,,,,,,62.2,,,
+-25,,,,,,,23.0,0.9,
+-46,,,,,,,,,245.0
+54,77.0,114.0,40.0,13.0,99.0,,,,

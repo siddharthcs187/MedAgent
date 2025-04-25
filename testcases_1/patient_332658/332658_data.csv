@@ -1,0 +1,13 @@
+labname,labresult,labmeasurenameinterface,labresultoffset
+lipase,7893.0,IU/L,65
+lipase,3584.0,IU/L,509
+amylase,1484.0,IU/L,65
+amylase,739.0,IU/L,509
+ALT (SGPT),17.0,IU/L,65
+ALT (SGPT),14.0,IU/L,509
+AST (SGOT),19.0,IU/L,65
+AST (SGOT),10.0,IU/L,509
+WBC x 1000,20.3,K/CMM,66
+WBC x 1000,19.2,K/CMM,509
+creatinine,1.1,mg/dL,65
+creatinine,1.0,mg/dL,509

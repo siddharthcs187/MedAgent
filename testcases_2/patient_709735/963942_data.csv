@@ -1,0 +1,42 @@
+Lab Name,Result,Unit,Time Offset (minutes)
+Glucose,204.0,mg/dL,142
+Glucose,184.0,mg/dL,427
+Glucose,178.0,mg/dL,1304
+Glucose,158.0,mg/dL,1893
+Glucose,173.0,mg/dL,693
+Glucose,226.0,mg/dL,1570
+Glucose,136.0,mg/dL,2593
+Glucose,254.0,mg/dL,3031
+Glucose,198.0,mg/dL,2784
+Glucose,165.0,mg/dL,2164
+Calcium,8.9,mg/dL,2593
+Calcium,9.4,mg/dL,1074
+Anion Gap,12.0,,2593
+Anion Gap,10.0,,1074
+Magnesium,1.8,mg/dL,2593
+Bicarbonate,24.0,mmol/L,2593
+Bicarbonate,25.0,mmol/L,1074
+Potassium,3.3,mmol/L,2593
+Potassium,3.3,mmol/L,1074
+Chloride,106.0,mmol/L,2593
+Chloride,104.0,mmol/L,1074
+Sodium,142.0,mmol/L,2593
+Sodium,139.0,mmol/L,1074
+Creatinine,1.6,mg/dL,2593
+Creatinine,1.6,mg/dL,1074
+BUN,57.0,mg/dL,2593
+BUN,53.0,mg/dL,1074
+-eos,4.9,%,2593
+-basos,0.5,%,2593
+-polys,56.0,%,2593
+-lymphs,28.2,%,2593
+MPV,9.3,fL,2593
+-monos,10.4,%,2593
+Hgb,12.2,g/dL,2593
+Hct,36.5,%,2593
+RBC,3.83,M/mcL,2593
+RDW,12.2,%,2593
+MCH,31.8,pg,2593
+platelets x 1000,168.0,K/mcL,2593
+WBC x 1000,8.6,K/mcL,2593
+MCHC,33.3,g/dL,2593

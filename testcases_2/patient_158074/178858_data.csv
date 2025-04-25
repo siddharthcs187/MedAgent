@@ -1,0 +1,16 @@
+physicalexamid,patientunitstayid,physicalexamoffset,physicalexampath,physicalexamvalue,physicalexamtext,unit
+6279342,178858,317,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Vital Sign and Physiological Data/HR/HR Current,HR Current,54.0,bpm
+6279343,178858,317,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Vital Sign and Physiological Data/HR/HR Lowest,HR Lowest,44.0,bpm
+6279344,178858,317,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Vital Sign and Physiological Data/HR/HR Highest,HR Highest,60.0,bpm
+6279345,178858,317,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Vital Sign and Physiological Data/BP (systolic)/BP (systolic) Current,BP (systolic) Current,127.0,mmHg
+6279346,178858,317,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Vital Sign and Physiological Data/BP (systolic)/BP (systolic) Lowest,BP (systolic) Lowest,114.0,mmHg
+6279347,178858,317,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Vital Sign and Physiological Data/BP (systolic)/BP (systolic) Highest,BP (systolic) Highest,129.0,mmHg
+6279348,178858,317,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Vital Sign and Physiological Data/BP (diastolic)/BP (diastolic) Current,BP (diastolic) Current,68.0,mmHg
+6279349,178858,317,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Vital Sign and Physiological Data/BP (diastolic)/BP (diastolic) Lowest,BP (diastolic) Lowest,67.0,mmHg
+6279350,178858,317,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Vital Sign and Physiological Data/BP (diastolic)/BP (diastolic) Highest,BP (diastolic) Highest,71.0,mmHg
+6279351,178858,317,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Vital Sign and Physiological Data/O2 Sat%/O2 Sat% Current,O2 Sat% Current,99.0,% 
+6279352,178858,317,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Vital Sign and Physiological Data/O2 Sat%/O2 Sat% Lowest,O2 Sat% Lowest,98.0,% 
+6279353,178858,317,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Vital Sign and Physiological Data/O2 Sat%/O2 Sat% Highest,O2 Sat% Highest,100.0,% 
+6279357,178858,317,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Weight and I&O/Weight (kg)/Admission,Admission,107.9,kg
+6279358,178858,317,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Weight and I&O/Weight (kg)/Current,Current,110.0,kg
+6279359,178858,317,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Weight and I&O/Weight (kg)/Delta,Delta,2.1,kg

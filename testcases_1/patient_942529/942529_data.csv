@@ -1,0 +1,246 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-9677,troponin - I,0.02,ng/mL
+-10008,troponin - I,,ng/mL
+-9452,creatinine,0.95,mg/dL
+-1930,creatinine,0.98,mg/dL
+-2,creatinine,1.05,mg/dL
+-9452,sodium,138.0,mmol/L
+-146,sodium,137.0,mmol/L
+-1930,sodium,136.0,mmol/L
+-2,sodium,143.0,mmol/L
+-65,sodium,140.0,mmol/L
+-5049,glucose,162.0,mg/dL
+-9452,glucose,121.0,mg/dL
+698,glucose,128.0,mg/dL
+-1930,glucose,170.0,mg/dL
+-217,paO2,352.0,mm Hg
+-146,paO2,205.0,mm Hg
+216,paO2,83.0,mm Hg
+122,paO2,99.0,mm Hg
+2,paO2,154.0,mm Hg
+-217,paCO2,39.0,mm Hg
+-146,paCO2,35.0,mm Hg
+216,paCO2,42.0,mm Hg
+122,paCO2,42.0,mm Hg
+2,paCO2,50.0,mm Hg
+-217,pH,7.42,
+-146,pH,7.41,
+122,pH,7.39,
+2,pH,7.32,
+-217,O2 Sat (%),100.0,% 
+-146,O2 Sat (%),100.0,% 
+216,O2 Sat (%),96.0,% 
+122,O2 Sat (%),98.0,% 
+2,O2 Sat (%),99.0,% 
+-217,HCO3,26.0,mmol/L
+-146,HCO3,22.0,mmol/L
+122,HCO3,25.0,mmol/L
+2,HCO3,26.0,mmol/L
+-65,HCO3,24.0,mmol/L
+-217,FiO2,100.0,% 
+-146,FiO2,100.0,% 
+216,FiO2,3.0,% 
+122,FiO2,40.0,% 
+2,FiO2,80.0,% 
+-217,Base Excess,1.0,mEq/L
+-146,Base Excess,-2.0,mEq/L
+122,Base Excess,0.0,mEq/L
+2,Base Excess,-1.0,mEq/L
+-65,Base Excess,0.0,mEq/L
+-9452,potassium,4.2,mmol/L
+-1930,potassium,4.7,mmol/L
+-2,potassium,4.1,mmol/L
+698,potassium,4.2,mmol/L
+-65,potassium,4.1,mmol/L
+2,potassium,4.0,mmol/L
+216,potassium,3.5,mmol/L
+-217,potassium,4.7,mmol/L
+86,potassium,4.1,mmol/L
+-9452,chloride,104.0,mmol/L
+-1930,chloride,102.0,mmol/L
+-2,chloride,108.0,mmol/L
+698,chloride,107.0,mmol/L
+-4967,chloride,106.0,mmol/L
+86,chloride,108.0,mmol/L
+-9452,bicarbonate,29.0,mmol/L
+-1930,bicarbonate,28.0,mmol/L
+-2,bicarbonate,26.0,mmol/L
+698,bicarbonate,26.0,mmol/L
+-4967,bicarbonate,28.0,mmol/L
+86,bicarbonate,26.0,mmol/L
+-9452,BUN,19.0,mg/dL
+-1930,BUN,21.0,mg/dL
+-2,BUN,16.0,mg/dL
+698,BUN,16.0,mg/dL
+-4967,BUN,8.0,mg/dL
+86,BUN,16.0,mg/dL
+-9452,calcium,9.1,mg/dL
+-1930,calcium,9.3,mg/dL
+-2,calcium,8.7,mg/dL
+698,calcium,8.3,mg/dL
+-4967,calcium,8.9,mg/dL
+86,calcium,8.7,mg/dL
+-9452,alkaline phos.,75.0,Units/L
+-1930,alkaline phos.,75.0,Units/L
+-2,alkaline phos.,75.0,Units/L
+-1930,ALT (SGPT),15.0,Units/L
+-2,ALT (SGPT),15.0,Units/L
+-1930,AST (SGOT),18.0,Units/L
+-2,AST (SGOT),18.0,Units/L
+-1930,total protein,7.9,g/dL
+-2,total protein,7.9,g/dL
+-1930,albumin,3.4,g/dL
+-2,albumin,3.4,g/dL
+-1930,total bilirubin,0.4,mg/dL
+-2,total bilirubin,0.4,mg/dL
+-9452,magnesium,1.8,mg/dL
+-1930,magnesium,2.0,mg/dL
+-2,magnesium,2.6,mg/dL
+698,magnesium,2.2,mg/dL
+-10008,magnesium,1.8,mg/dL
+-8057,magnesium,1.9,mg/dL
+-7372,magnesium,2.0,mg/dL
+-9452,anion gap,5.0,
+-1930,anion gap,6.0,
+-2,anion gap,9.0,
+698,anion gap,7.0,
+-4967,anion gap,5.0,
+86,anion gap,9.0,
+-9452,phosphate,1.3,mg/dL
+698,phosphate,2.5,mg/dL
+-2,phosphate,1.3,mg/dL
+-1930,PT,13.1,sec
+-2,PT,16.2,sec
+-1930,PT - INR,1.0,ratio
+-2,PT - INR,1.3,ratio
+-1930,PTT,29.0,sec
+-2,PTT,35.0,sec
+-1930,MPV,10.5,fL
+-2,MPV,9.2,fL
+698,MPV,10.3,fL
+-4985,MPV,11.0,fL
+-9472,MPV,11.9,fL
+92,MPV,9.2,fL
+-1893,MPV,10.5,fL
+-1893,RBC,4.0,M/mcL
+698,RBC,2.71,M/mcL
+92,RBC,2.75,M/mcL
+-4985,RBC,4.16,M/mcL
+-9472,RBC,3.72,M/mcL
+-1893,RBC,4.0,M/mcL
+-1893,Hgb,11.7,g/dL
+698,Hgb,7.8,g/dL
+92,Hgb,7.7,g/dL
+-4985,Hgb,12.0,g/dL
+-9472,Hgb,10.7,g/dL
+2,Hgb,8.2,g/dL
+-146,Hgb,8.2,g/dL
+216,Hgb,8.8,g/dL
+-65,Hgb,8.8,g/dL
+-1893,Hct,34.9,% 
+698,Hct,23.7,% 
+-2,Hct,24.0,% 
+-4985,Hct,36.7,% 
+92,Hct,24.0,% 
+-217,Hct,25.0,% 
+-65,Hct,26.0,% 
+216,Hct,26.0,% 
+-146,Hct,24.0,% 
+-1893,Hct,34.9,% 
+-2,Hct,24.0,% 
+-1893,MCV,87.0,fL
+698,MCV,88.0,fL
+92,MCV,87.0,fL
+-4985,MCV,88.0,fL
+-9472,MCV,88.0,fL
+-1930,MCV,87.0,fL
+-1893,MCH,29.3,pg
+698,MCH,28.8,pg
+92,MCH,28.0,pg
+-4985,MCH,28.8,pg
+-9472,MCH,28.8,pg
+-1930,MCH,29.3,pg
+92,MCH,28.0,pg
+-1893,MCHC,33.5,g/dL
+698,MCHC,32.9,g/dL
+92,MCHC,32.1,g/dL
+-4985,MCHC,32.7,g/dL
+-9472,MCHC,32.7,g/dL
+-1930,MCHC,33.5,g/dL
+-1893,platelets x 1000,185.0,K/mcL
+698,platelets x 1000,142.0,K/mcL
+92,platelets x 1000,162.0,K/mcL
+-4985,platelets x 1000,173.0,K/mcL
+-9472,platelets x 1000,122.0,K/mcL
+-1930,platelets x 1000,185.0,K/mcL
+-1893,WBC x 1000,8.1,K/mcL
+698,WBC x 1000,9.1,K/mcL
+92,WBC x 1000,11.8,K/mcL
+-4985,WBC x 1000,8.9,K/mcL
+-9472,WBC x 1000,7.4,K/mcL
+-1930,WBC x 1000,8.1,K/mcL
+-2,WBC x 1000,11.8,K/mcL
+-1893,-eos,8.0,% 
+698,-eos,8.0,% 
+-2,-eos,1.0,% 
+-4985,-eos,8.0,% 
+-9472,-eos,9.0,% 
+-1893,-basos,0.0,% 
+698,-basos,0.0,% 
+-2,-basos,0.0,% 
+-4985,-basos,0.0,% 
+92,-basos,0.0,% 
+-1893,-lymphs,26.0,% 
+698,-lymphs,10.0,% 
+-2,-lymphs,12.0,% 
+-4985,-lymphs,24.0,% 
+-9472,-lymphs,27.0,% 
+92,-lymphs,12.0,% 
+-1893,-monos,10.0,% 
+698,-monos,10.0,% 
+-2,-monos,6.0,% 
+-4985,-monos,10.0,% 
+-9472,-monos,11.0,% 
+-1893,-polys,56.0,% 
+698,-polys,79.0,% 
+-2,-polys,80.0,% 
+-4985,-polys,57.0,% 
+-9472,-polys,52.0,% 
+92,-polys,80.0,% 
+-8877,magnesium,1.8,mg/dL
+-10026,bedside glucose,135.0,mg/dL
+-8637,bedside glucose,138.0,mg/dL
+-591,bedside glucose,167.0,mg/dL
+460,bedside glucose,170.0,mg/dL
+-1421,bedside glucose,174.0,mg/dL
+972,bedside glucose,192.0,mg/dL
+354,bedside glucose,199.0,mg/dL
+860,bedside glucose,143.0,mg/dL
+-4039,bedside glucose,222.0,mg/dL
+-6046,bedside glucose,164.0,mg/dL
+-6635,bedside glucose,134.0,mg/dL
+-5492,bedside glucose,161.0,mg/dL
+-1741,bedside glucose,174.0,mg/dL
+-2875,bedside glucose,208.0,mg/dL
+-7539,bedside glucose,222.0,mg/dL
+-9509,bedside glucose,143.0,mg/dL
+-9839,bedside glucose,178.0,mg/dL
+-7213,bedside glucose,127.0,mg/dL
+617,bedside glucose,154.0,mg/dL
+-4609,bedside glucose,187.0,mg/dL
+-3476,bedside glucose,156.0,mg/dL
+-7801,bedside glucose,146.0,mg/dL
+-3715,bedside glucose,131.0,mg/dL
+-2604,bedside glucose,145.0,mg/dL
+-4930,bedside glucose,144.0,mg/dL
+58,bedside glucose,214.0,mg/dL
+-8963,bedside glucose,175.0,mg/dL
+-9225,bedside glucose,131.0,mg/dL
+-1080,bedside glucose,160.0,mg/dL
+-5730,bedside glucose,152.0,mg/dL
+2,bedside glucose,200.0,mg/dL
+-9225,bedside glucose,131.0,mg/dL
+12,FiO2,50.0,% 
+-65,FiO2,100.0,% 
+-2,TV,700.0,mls
+-2,PEEP,5.0,cm H2O

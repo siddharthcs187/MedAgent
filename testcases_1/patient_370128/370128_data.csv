@@ -1,0 +1,2 @@
+Time,Heart Rate (bpm),Systolic BP (mmHg),Diastolic BP (mmHg),Respiratory Rate (breaths/min),O2 Sat (%),Glucose (mg/dL),BUN (mg/dL),Sodium (mEq/L),Creatinine (mg/dL),Potassium (mEq/L),Chloride (mEq/L),Calcium (mg/dL),WBC x 1000 (K/mcL),Platelets x 1000 (K/mcL),Hgb (g/dL),Hct (%),pH,paCO2 (mmHg),paO2 (mmHg),HCO3 (mmol/L),Total CO2,FiO2 (%),Resp Mode
+Initial,128,108,72,38,96,299,27,129,1.6,3.9,93,8.1,11.1,188,12.8,37.1,7.44,29,57,19.9,20.8,50,spontaneous

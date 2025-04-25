@@ -1,0 +1,98 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+RDW,14.9,%,1032
+Hgb,14.5,g/dL,1032
+MCV,98.2,fL,1032
+-eos,3,%,1032
+MCV,96.9,fL,-159
+Hgb,14.2,g/dL,-159
+WBC x 1000,4.7,K/mcL,1032
+-polys,45,%,-159
+-basos,0,%,1032
+-basos,0,%,-159
+-polys,55,%,1032
+Hct,41.2,%,-159
+-lymphs,26,%,1032
+RBC,4.25,M/mcL,-159
+Hct,43.2,%,1032
+-lymphs,38,%,-159
+badside glucose,97,mg/dL,3840
+MCV,101,fL,2384
+-basos,0,%,2384
+-eos,8,%,2384
+platelets x 1000,308,K/mcL,-159
+Hct,39.9,%,2384
+PT,11.3,sec,-159
+PT - INR,1,ratio,-159
+RBC,4.4,M/mcL,1032
+Total CO2,31,,-154
+MCHC,34.5,g/dL,-159
+MCH,32.7,pg,2384
+-monos,13,%,-159
+Hgb,12.9,g/dL,2384
+-lymphs,38,%,2384
+-polys,41,%,2384
+-monos,13,%,2384
+bedside glucose,98,mg/dL,533
+urinary specific gravity,1.019,,-166
+WBC x 1000,4.5,K/mcL,-159
+RDW,14.9,%,-159
+MCH,33.4,pg,-159
+bedside glucose,90,mg/dL,2680
+albumin,3.8,g/dL,-159
+total bilirubin,1.2,mg/dL,-159
+bedside glucose,113,mg/dL,4091
+direct bilirubin,0.1,mg/dL,-159
+total protein,7.7,g/dL,-159
+AST (SGOT),27,Units/L,-159
+ALT (SGPT),13,Units/L,-159
+alkaline phos.,47,Units/L,-159
+bedside glucose,102,mg/dL,1211
+bedside glucose,103,mg/dL,887
+WBC x 1000,4.4,K/mcL,3868
+Hgb,14.1,g/dL,3868
+Hct,42.3,%,3868
+RDW,15,%,3868
+platelets x 1000,285,K/mcL,3868
+-monos,12,%,3868
+-eos,6,%,3868
+-polys,45,%,3868
+-lymphs,37,%,3868
+MCH,32.9,pg,3868
+MCHC,33.3,g/dL,3868
+MCV,98.6,fL,3868
+potassium,4,mmol/L,3868
+chloride,109,mmol/L,3868
+BUN,2,mg/dL,3868
+glucose,84,mg/dL,3868
+anion gap,11,,3868
+calcium,8.4,mg/dL,3868
+creatinine,0.54,mg/dL,3868
+bedside glucose,86,mg/dL,2357
+potassium,4.4,mmol/L,2384
+chloride,116,mmol/L,2384
+BUN,2,mg/dL,2384
+glucose,85,mg/dL,2384
+anion gap,10,,2384
+calcium,7.8,mg/dL,2384
+creatinine,0.58,mg/dL,2384
+magnesium,2.7,mg/dL,2384
+bedside glucose,95,mg/dL,3020
+creatinine,0.51,mg/dL,1032
+magnesium,1.1,mg/dL,1032
+BUN,2,mg/dL,1032
+chloride,107,mmol/L,1032
+sodium,142,mmol/L,1032
+calcium,8.3,mg/dL,1032
+potassium,3.2,mmol/L,1032
+bicarbonate,24,mmol/L,1032
+anion gap,14,,1032
+sodium,143,mmol/L,2384
+bicarbonate,21,mmol/L,2384
+bicarbonate,21,mmol/L,3868
+PTT,27,sec,-159
+Acetaminophen,<2,mcg/mL,-159
+salicylate,<1.7,mg/dL,-63
+BNP,86,pg/mL,-159
+bedside glucose,113,mg/dL,321
+badside glucose,113,mg/dL,1812
+badside glucose,93,mg/dL,1068

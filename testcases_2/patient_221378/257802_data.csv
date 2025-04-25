@@ -1,0 +1,98 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+-eos,3.9,%,0
+MCV,80.0,fL,0
+BUN,18.0,mg/dL,3944
+Hgb,11.5,g/dL,0
+creatinine,0.8,mg/dL,3944
+WBC x 1000,5.4,K/mcL,0
+glucose,122.0,mg/dL,3944
+-basos,0.7,%,0
+anion gap,7.0,,3944
+platelets x 1000,181.0,K/mcL,0
+potassium,3.9,mmol/L,3944
+chloride,109.0,mmol/L,3944
+sodium,143.0,mmol/L,3944
+bicarbonate,27.0,mmol/L,3944
+calcium,8.7,mg/dL,3944
+FiO2,21.0,%,1550
+sodium,140.0,mmol/L,3758
+BUN,17.0,mg/dL,2885
+creatinine,0.9,mg/dL,2885
+potassium,3.9,mmol/L,2885
+chloride,105.0,mmol/L,2885
+sodium,137.0,mmol/L,2885
+calcium,8.5,mg/dL,2885
+bicarbonate,25.0,mmol/L,2885
+anion gap,7.0,,2885
+glucose,134.0,mg/dL,2885
+FiO2,28.0,%,70
+LPM O2,2.0,L/min,70
+PTT,33.0,sec,0
+PT - INR,0.9,ratio,0
+PT,12.6,sec,0
+Hct,36.1,%,0
+bicarbonate,23.0,mmol/L,0
+sodium,136.0,mmol/L,0
+potassium,4.1,mmol/L,0
+creatinine,1.0,mg/dL,0
+anion gap,9.0,,0
+glucose,107.0,mg/dL,0
+chloride,104.0,mmol/L,0
+calcium,9.3,mg/dL,0
+-polys,60.5,%,0
+-lymphs,21.3,%,0
+-monos,13.2,%,0
+RBC,4.51,M/mcL,0
+MCH,25.5,pg,0
+RDW,16.8,%,0
+-eos,3.9,%,0
+MCV,80.0,fL,0
+BUN,18.0,mg/dL,3944
+Hgb,11.5,g/dL,0
+creatinine,0.8,mg/dL,3944
+WBC x 1000,5.4,K/mcL,0
+glucose,122.0,mg/dL,3944
+-basos,0.7,%,0
+anion gap,7.0,,3944
+platelets x 1000,181.0,K/mcL,0
+potassium,3.9,mmol/L,3944
+chloride,109.0,mmol/L,3944
+sodium,143.0,mmol/L,3944
+bicarbonate,27.0,mmol/L,3944
+calcium,8.7,mg/dL,3944
+FiO2,21.0,%,1550
+sodium,140.0,mmol/L,3758
+BUN,17.0,mg/dL,2885
+creatinine,0.9,mg/dL,2885
+potassium,3.9,mmol/L,2885
+chloride,105.0,mmol/L,2885
+sodium,137.0,mmol/L,2885
+calcium,8.5,mg/dL,2885
+bicarbonate,25.0,mmol/L,2885
+anion gap,7.0,,2885
+glucose,134.0,mg/dL,2885
+FiO2,28.0,%,70
+LPM O2,2.0,L/min,70
+PTT,33.0,sec,0
+PT - INR,0.9,ratio,0
+PT,12.6,sec,0
+Hct,36.1,%,0
+bicarbonate,23.0,mmol/L,0
+sodium,136.0,mmol/L,0
+potassium,4.1,mmol/L,0
+creatinine,1.0,mg/dL,0
+anion gap,9.0,,0
+glucose,107.0,mg/dL,0
+chloride,104.0,mmol/L,0
+calcium,9.3,mg/dL,0
+-polys,60.5,%,0
+-lymphs,21.3,%,0
+-monos,13.2,%,0
+RBC,4.51,M/mcL,0
+MCH,25.5,pg,0
+RDW,16.8,%,0
+urinary osmolality,241.0,mOsm/L,4116
+urinary sodium,70.0,mmol/L,4116
+serum osmolality,290.0,mOsm/kg H2O,4148
+urinary specific gravity,1.006,,3945
+BUN,30.0,mg/dL,0

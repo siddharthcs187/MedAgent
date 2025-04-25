@@ -1,0 +1,59 @@
+LabName,LabResult,LabResultOffset,LabMeasureNamesystem,LabTypeId
+RBC,4.83,-173,M/mcL,3
+platelets x 1000,271.0,-173,K/mcL,3
+RBC,4.65,55,M/mcL,3
+potassium,4.5,-173,mmol/L,1
+RDW,13.2,-173,%,3
+sodium,142.0,-173,mmol/L,1
+MCV,96.0,-173,fL,3
+direct bilirubin,0.0,-127,mg/dL,1
+Hct,46.3,-173,%,3
+ALT (SGPT),32.0,-127,Units/L,1
+MCH,31.9,-173,pg,3
+Hct,43.6,55,%,3
+PT - INR,0.9,-173,ratio,3
+BUN,13.0,-173,mg/dL,1
+WBC x 1000,6.5,-173,K/mcL,3
+PT - INR,0.9,1977,ratio,3
+WBC x 1000,11.3,55,K/mcL,3
+PT,12.9,-173,sec,3
+PT,12.7,1977,sec,3
+glucose,81.0,-173,mg/dL,1
+chloride,107.0,-173,mmol/L,1
+alkaline phos.,46.0,55,Units/L,1
+AST (SGOT),27.0,55,Units/L,1
+creatinine,1.2,55,mg/dL,1
+Hgb,15.4,-173,g/dL,3
+PT,13.7,55,sec,3
+PT - INR,1.0,55,ratio,3
+Total protein,6.6,-127,g/dL,1
+anion gap,7.0,55,,1
+MCHC,34.0,55,g/dL,3
+chloride,110.0,55,mmol/L,1
+BUN,15.0,55,mg/dL,1
+PT,13.5,812,sec,3
+glucose,105.0,55,mg/dL,1
+ALT (SGPT),30.0,55,Units/L,1
+calcium,8.6,55,mg/dL,1
+PT - INR,1.0,812,ratio,3
+creatinine,1.2,-173,mg/dL,1
+CPK,118.0,812,Units/L,1
+Hgb,14.8,55,g/dL,3
+Total protein,5.7,55,g/dL,1
+Total bilirubin,0.6,-127,mg/dL,1
+PTT,27.3,812,sec,3
+bicarbonate,25.0,55,mmol/L,1
+sodium,142.0,55,mmol/L,1
+albumin,3.5,55,g/dL,1
+platelets x 1000,241.0,55,K/mcL,3
+Total bilirubin,0.4,55,mg/dL,1
+PTT,26.5,55,sec,3
+platelets x 1000,238.0,1977,K/mcL,3
+calcium,9.6,-173,mg/dL,1
+alkaline phos.,52.0,-127,Units/L,1
+AST (SGOT),35.0,-127,Units/L,1
+anion gap,15.0,-173,,1
+PTT,25.7,-173,sec,3
+MCHC,33.0,-173,g/dL,3
+RBC,4.67,-173,M/mcL,3
+CPK,223.0,55,Units/L,1

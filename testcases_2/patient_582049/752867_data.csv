@@ -1,0 +1,104 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-310,Temperature,37,°C
+-310,Base Excess,2.1,mEq/L
+-310,paO2,72.3,mm Hg
+-310,paCO2,43.4,mm Hg
+-310,FiO2,21,%
+-310,HCO3,27,mmol/L
+-310,O2 Sat (%),94.6,%
+-290,lactate,2.2,mmol/L
+-290,chloride,106,mmol/L
+-290,troponin - I,<0.01,ng/mL
+-290,ALT (SGPT),23,Units/L
+-290,calcium,9.1,mg/dL
+-290,BUN,19,mg/dL
+-290,glucose,175,mg/dL
+-290,total protein,7,g/dL
+-290,alkaline phos.,72,Units/L
+-290,potassium,3.5,mmol/L
+-290,total bilirubin,0.3,mg/dL
+-290,anion gap,8,
+-290,MPV,13.1,fL
+-290,RDW,16.1,%
+-290,WBC x 1000,7.6,K/mcL
+-290,Hgb,10.7,g/dL
+-290,Hct,34.8,%
+-290,MCHC,30.7,g/dL
+-290,MCH,24.5,pg
+-290,MCV,80,fL
+-290,platelets x 1000,158,K/mcL
+-130,Temperature,37,°C
+-130,Base Excess,0.9,mEq/L
+-130,paO2,73.4,mm Hg
+-130,paCO2,50.4,mm Hg
+-130,FiO2,50,%
+-130,HCO3,27.1,mmol/L
+-130,O2 Sat (%),93.7,%
+-130,pH,7.348,
+-130,PEEP,5,cm H2O
+-130,TV,500,mls
+65,magnesium,2.1,mg/dL
+65,troponin - I,0.07,ng/mL
+65,bedside glucose,205,mg/dL
+65,TSH,.434,mcU/ml
+65,BNP,1050,pg/mL
+65,lactate,3.8,mmol/L
+177,bedside glucose,203,mg/dL
+239,troponin - I,0.08,ng/mL
+268,bedside glucose,205,mg/dL
+575,lactate,0.8,mmol/L
+583,bedside glucose,156,mg/dL
+650,lactate,1.5,mmol/L
+650,glucose,142,mg/dL
+650,bicarbonate,28,mmol/L
+650,chloride,106,mmol/L
+650,calcium,9,mg/dL
+650,BUN,21,mg/dL
+650,creatinine,0.9,mg/dL
+650,potassium,4.1,mmol/L
+650,sodium,142,mmol/L
+650,anion gap,8,
+650,triglycerides,568,mg/dL
+650,total cholesterol,115,mg/dL
+650,HDL,20,mg/dL
+650,troponin - I,0.06,ng/mL
+650,Hgb,9.8,g/dL
+650,Hct,31.8,%
+650,MCV,80,fL
+650,MCH,24.6,pg
+650,MCHC,30.8,g/dL
+650,MPV,13.3,fL
+650,RDW,16.4,%
+650,WBC x 1000,7.9,K/mcL
+650,RBC,3.99,M/mcL
+650,platelets x 1000,159,K/mcL
+918,Temperature,37,°C
+918,TV,450,mls
+918,FiO2,50,%
+918,HCO3,29,mmol/L
+918,paO2,83.9,mm Hg
+918,paCO2,48.7,mm Hg
+918,pH,7.393,
+918,PEEP,7,cm H2O
+918,O2 Sat (%),96.2,%
+918,Base Excess,3.5,mEq/L
+1059,lactate,1.2,mmol/L
+1059,troponin - I,0.05,ng/mL
+1089,bedside glucose,103,mg/dL
+1211,bedside glucose,162,mg/dL
+1481,bedside glucose,215,mg/dL
+1604,lactate,1.5,mmol/L
+1604,troponin - I,0.02,ng/mL
+1774,bedside glucose,172,mg/dL
+2036,bedside glucose,207,mg/dL
+2142,chloride,108,mmol/L
+2142,glucose,221,mg/dL
+2142,BUN,27,mg/dL
+2142,calcium,9.2,mg/dL
+2142,potassium,4.6,mmol/L
+2142,sodium,142,mmol/L
+2142,anion gap,7,
+2142,triglycerides,254,mg/dL
+2142,Hgb,9.8,g/dL
+2142,Hct,32.2,%
+2627,bedside glucose,179,mg/dL

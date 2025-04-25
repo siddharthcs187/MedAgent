@@ -1,0 +1,8 @@
+Time_Since_Admission (minutes),Sodium (mmol/L),Potassium (mmol/L),Chloride (mmol/L),WBC x 1000 (K/mcL),ALT (SGPT) (Units/L),RBC (M/mcL),Alkaline_phos (Units/L),Hgb (g/dL),AST (SGOT) (Units/L),MCV (fL),Total_Bilirubin (mg/dL),MPV (fL),Total_Protein (g/dL),RDW (%),Creatinine (mg/dL),Platelets x 1000 (K/mcL),BUN (mg/dL),Bicarbonate (mmol/L),Calcium (mg/dL),Anion_Gap,Albumin (g/dL),Magnesium (mg/dL),PT (sec),PT_INR (ratio),PTT (sec),Hct (%),MCHC (g/dL),MCH (pg),CPK (Units/L)
+309, , , , , , , , , , , , , , , , , , , , , , , , , , , , 66,
+724, , , , , , , , , , , , , , , , , , , , , , , , , ,106,,,
+1134, ,3.9,109,7.2, ,3.45, ,10, , , ,11.6, ,14.8,0.94,160,6,25,8.5,8, , ,14,1.1,80,30.6,32.7,29,97
+1500, , , , , , , , , , , , , , , , , , , , , , , , , ,53,,,
+1959, , , , , , , , , , , , , , , , , , , , , , , , , ,97,,,
+2379,144,3.7,111, ,146, ,95, ,41, ,0.1, ,6.2, ,0.93, ,8,28,8.4,5,2.6,1.6,14.3,1.1,80, , , , 
+3904,143,3.9,109,7.9, ,3.61, ,10.5, ,88, ,10.9, ,14.6,0.92,213,6,26,8.7,8, ,1.7,16,1.3,76,31.9,32.9,29.1, 

@@ -1,0 +1,30 @@
+LabTestName,LabResultValue,LabResultUnits,LabType
+Chloride,107,mmol/L,Chemistry
+Potassium,4.4,mmol/L,Chemistry
+Bicarbonate,21,mmol/L,Chemistry
+Anion Gap,14,mmol/L,Chemistry
+Glucose,75,mg/dL,Chemistry
+BUN,16,mg/dL,Chemistry
+Creatinine,0.64,mg/dL,Chemistry
+Calcium,8.9,mg/dL,Chemistry
+Total Protein,7.3,g/dL,Chemistry
+Albumin,3.5,g/dL,Chemistry
+AST,26,Units/L,Chemistry
+ALT,49,Units/L,Chemistry
+Alkaline phos.,96,Units/L,Chemistry
+Total bilirubin,0.2,mg/dL,Chemistry
+-eos,1,%,Hematology
+RDW,12.9,%,Hematology
+Platelets,305,K/mcL,Hematology
+RBC,4.76,M/mcL,Hematology
+Hct,42.4,%,Hematology
+Hgb,14.6,g/dL,Hematology
+WBC,11.1,K/mcL,Hematology
+MCV,89.1,fL,Hematology
+MCH,30.7,pg,Hematology
+MCHC,34.4,g/dL,Hematology
+-basos,0,%,Hematology
+-lymphs,38,%,Hematology
+-monos,5,%,Hematology
+-polys,56,%,Hematology
+Urinary specific gravity,<1.005,,Miscellaneous

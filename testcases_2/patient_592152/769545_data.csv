@@ -1,0 +1,9 @@
+TimeOffset,Glucose(mg/dL),Hemoglobin(g/dL),Hematocrit(%),WBC(K/mcL),Platelets(K/mcL),Troponin-I(ng/mL),Albumin(g/dL),Calcium(mg/dL),AlkalinePhosphatase(Units/L),ALT(IU/L),AST(IU/L),TotalBilirubin(mg/dL),Creatinine(mg/dL),BUN(mg/dL),Potassium(mmol/L),Chloride(mmol/L),Bicarbonate(mmol/L),Phosphate(mg/dL),Magnesium(mg/dL),TotalProtein(g/dL),MCV(fL),MCH(pg),MCHC(g/dL),MPV(fL),RDW(%),AnionGap
+175,181.0,,,,,<0.02,,,,,,,,,,,,,,,,,,,,
+433,141.0,,,,,<0.02,,,,,,,,,,,,,,,,,,,,
+487,,,,,<0.02,,,,,,,,,,,,,,,,,,,,,
+729,186.0,,,,,<0.02,,,,,,,,,,,,,,,,,,,,
+838,,,,,<0.02,,,,,,,,,,,,,,,,,,,,,
+1138,114.0,10.1,29.5,13.2,255,2.6,8.2,58.0,22.0,21.0,0.2,0.72,22.0,4.5,105.0,26.0,2.8,2.1,6.4,100.0,34.1,34.2,9.0,13.4,8.0,
+1212,,,,,,,,,,,,,,,,,,,,,,,,,,
+1318,105.0,,,,,,,,,,,,,,,,,,,,,,,,,

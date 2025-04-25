@@ -1,0 +1,2 @@
+patientunitstayid,patienthealthsystemstayid,gender,age,ethnicity,hospitalid,wardid,admissionheight,hospitaladmittime24,hospitaladmitoffset,hospitaldischargeyear,hospitaldischargetime24,hospitaldischargeoffset,hospitaldischargelocation,hospitaldischargestatus,unittype,unitadmittime24,unitadmitsource,unitvisitnumber,unitstaytype,unitdischargetime24,unitdischargeoffset,unitdischargelocation,unitdischargestatus
+165841,148008,Male,81,Caucasian,61,120,167,22:33:00,-75,2015,02:22:00,154,Death,Expired,Med-Surg ICU,23:48:00,ICU to SDU,2,stepdown/other,03:15:00,207,Death,Expired

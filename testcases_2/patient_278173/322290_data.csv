@@ -1,0 +1,5 @@
+Time (minutes from unit admit),Hemoglobin (g/dL),Hematocrit (%),MCV (fL),MCH (pg),MCHC (g/dL),RBC (M/mcL),WBC (K/mcL),Platelets (K/mcL),RDW (%),PT (sec),PT-INR (ratio),Glucose (mg/dL),BUN (mg/dL),Creatinine (mg/dL),Sodium (mmol/L),Potassium (mmol/L),Chloride (mmol/L),Bicarbonate (mmol/L),Total Protein (g/dL),Albumin (g/dL),Total Bilirubin (mg/dL),Alkaline Phosphatase (Units/L),AST (IU/L),ALT (IU/L),Total Cholesterol (mg/dL),HDL (mg/dL),LDL (mg/dL),Triglycerides (mg/dL),BNP (pg/mL),FiO2 (%)
+-44,9.9,31,86,28,32,3.61,10.7,126,17.9,11.4,1.0,126,31,0.64,139,4.5,105,17.4,5.4,2.7,0.8,420,65,98,121,32,77,58.0,568.3,
+34, , , , , , , , , ,10.9,1.0, , , , , , , , , , , , , , , , ,,,
+183, , , , , , , , , , , , , , , , , , , , , , , , , ,21,,,,
+1213, , , , , , , , , ,11.2,1.0, , , , , , , , , , , , , , , ,,,,

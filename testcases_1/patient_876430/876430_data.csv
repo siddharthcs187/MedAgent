@@ -1,0 +1,4 @@
+Time_Minutes,BUN (mg/dL),Calcium (mg/dL),Chloride (mmol/L),Creatinine (mg/dL),Glucose (mg/dL),Potassium (mmol/L),Sodium (mmol/L),Anion Gap,Bicarbonate (mmol/L),Albumin (g/dL),Total Protein (g/dL),ALT (SGPT) (IU/L),AST (SGOT) (IU/L),Total Bilirubin (mg/dL),WBC x 1000 (K/mcL),RBC (M/mcL),Hgb (g/dL),Hct (%),MCV (fL),MCH (pg),MCHC (g/dL),MPV (fL),PT (sec),PT-INR (ratio),Platelets x 1000 (K/mcL),TSH (mIU/L)
+746,26.0,8.3,107,1.12,99,4.3,137.0,6,24,,,,,,8.3,3.39,10.7,30.9,91,31.6,34.6,11.3,16.1,1.3,68,
+2366,,8.2,106,1.01,94,3.8,,8,26,3.0,5.3,55.0,51.0,1.2,6.2,3.33,10.3,29.9,90,30.9,34.4,10.9,16.2,1.3,93,
+3781,21.0,8.4,103,1.09,88,3.5,140.0,9,28,3.1,5.4,48.0,40.0,1.2,6.4,3.6,11.3,32.2,89,31.4,35.1,10.5,16.9,1.4,128,2.51

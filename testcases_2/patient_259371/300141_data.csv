@@ -1,0 +1,4 @@
+TimeOffsetMinutes,Hemoglobin(g/dL),Hematocrit(%),Platelets(K/cmm),WBC(K/cmm),Creatinine(mg/dL),AnionGap(mmol/L),Bicarbonate(mmol/L),Glucose(mg/dL),BUN(mg/dL),Calcium(mg/dL),Sodium(mmol/L),Chloride(mmol/L)
+339,9.0,27.3,99,1.4,2.4,16,20,93,36,9.3,138,102
+1613,7.6,23.9,76,2.1,2.4,18,16,101,36,8.6,135,101
+3024,9.7,30.0,82,5.7,2.3,17,16,96,30,8.4,135,102

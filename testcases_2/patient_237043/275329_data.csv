@@ -1,0 +1,25 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+Hgb,15.2,g/dL,987
+MCH,31.7,pg,987
+WBC,5.1,K/mcL,987
+MCV,95.4,fL,987
+RDW,13.1,%,987
+-monos,9.0,%,987
+-lymphs,25.0,%,987
+-polys,63.0,%,987
+-eos,2.0,%,987
+-bands,1.0,%,987
+Hct,45.7,%,987
+MCHC,33.3,g/dL,987
+platelets x 1000,314.0,K/mcL,987
+RBC,4.79,M/mcL,987
+anion gap,12.0,mmol/L,987
+sodium,142.0,mmol/L,987
+potassium,5.0,mmol/L,987
+chloride,103.0,mmol/L,987
+bicarbonate,27.0,mmol/L,987
+calcium,9.7,mg/dL,987
+BUN,18.0,mg/dL,987
+creatinine,1.1,mg/dL,987
+glucose,96.0,mg/dL,987
+ESR,3.0,mm/hr,987

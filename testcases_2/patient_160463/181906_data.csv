@@ -1,0 +1,68 @@
+LabName,TimeOffset,LabResult,Units
+BUN,478,13,mg/dL
+BUN,-164,17,mg/dL
+anion gap,478,17,mmol/L
+anion gap,-164,20,mmol/L
+Sodium,478,147,mmol/L
+Sodium,-164,145,mmol/L
+Bicarbonate,478,22,mmol/L
+Bicarbonate,-164,22,mmol/L
+Creatinine,478,0.9,mg/dL
+Creatinine,-164,0.95,mg/dL
+Calcium,478,7.9,mg/dL
+Calcium,-164,8.9,mg/dL
+Glucose,478,81,mg/dL
+Glucose,-164,103,mg/dL
+Chloride,478,112,mmol/L
+Chloride,-164,107,mmol/L
+Hgb,478,13.3,g/dL
+Hgb,-164,14.3,g/dL
+Hct,478,39.9,%
+Hct,-164,41.6,%
+MCV,478,94.8,fL
+MCV,-164,93.5,fL
+RDW,478,12.7,%
+RDW,-164,12.3,%
+Platelets x 1000,478,285,K/mcL
+Platelets x 1000,-164,301,K/mcL
+WBC x 1000,478,5.6,K/mcL
+WBC x 1000,-164,9.1,K/mcL
+-eos,478,4,%
+-eos,-164,3,%
+-polys,478,58,%
+-polys,-164,55,%
+-monos,478,10,%
+-monos,-164,10,%
+-basos,478,1,%
+-basos,-164,1,%
+-lymphs,478,27,%
+-lymphs,-164,31,%
+RBC,478,4.21,M/mcL
+RBC,-164,4.45,mil/mcL
+PTT,-164,26,sec
+PT,-164,10,sec
+PT - INR,-164,1,ratio
+Lactate,478,1.7,mmol/L
+Lactate,-128,2.3,mmol/L
+Lactate,132,2.5,mmol/L
+Glucose,759,104,mg/dL
+Glucose,1018,142,mg/dL
+Cortisol,753,21.4,mcg/dL
+BNP,-164,39,pg/mL
+Total protein,-164,6.9,g/dL
+Albumin,-164,3.6,g/dL
+AST (SGOT),-164,29,Units/L
+ALT (SGPT),-164,22,Units/L
+Total bilirubin,-164,0.3,mg/dL
+LDL,-164,105,mg/dL
+Triglycerides,-164,79,mg/dL
+HDL,-164,75,mg/dL
+Troponin - I,-164,<0.02,ng/mL
+Alkaline phos.,-164,58,Units/L
+Urinary specific gravity,-156,<1.005,
+Total cholesterol,-164,196,mg/dL
+ESR,132,11,mm/hr
+MCH,478,31.6,pg
+MCH,-164,32.1,pg
+MCHC,478,33.3,g/dL
+MCHC,-164,34.4,g/dL

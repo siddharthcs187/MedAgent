@@ -1,0 +1,7 @@
+TimeOffset,Troponin-I (ng/mL),Creatinine (mg/dL),Hemoglobin (g/dL),Glucose (mg/dL),HeartRate (bpm),RespRate (breaths/min),O2Sat (%),BPSys (mmHg),BPDias (mmHg),Weight (kg)
+-210,1.39,1.14,13.0,92.0,60.0,29.0,86.0,163.0,79.0,90.0
+165,1.62,,,,,,,,,
+610,3.05,,,,,,,,,
+955,,1.03,11.6,94.0,60.0,27.0,98.0,,,
+1884,,0.79,10.4,89.0,60.0,64.0,100.0,142.0,68.0,91.0
+2305,,,,,,,,,,

@@ -1,0 +1,80 @@
+LabName,LabResult,LabMeasureNameSystem,LabResultOffsetMinutes
+Total Protein,7.6,g/dL,-137
+Anion Gap,8.0,,-137
+Total Bilirubin,0.7,mg/dL,-137
+AST (SGOT),207.0,Units/L,-137
+MCHC,33.4,g/dL,2273
+Chloride,103.0,mmol/L,-137
+Hct,41.5,% ,2273
+Albumin,4.0,g/dL,-137
+Hgb,13.9,g/dL,2273
+Calcium,9.3,mg/dL,-137
+MCV,95.3,fL,2273
+Alkaline Phos.,78.0,Units/L,-137
+RDW,13.5,% ,2273
+Magnesium,1.9,mg/dL,-137
+BUN,21.0,mg/dL,858
+MCH,31.9,pg,2273
+Chloride,108.0,mmol/L,858
+MPV,8.5,fL,-137
+Glucose,149.0,mg/dL,-137
+RDW,13.9,%,-123
+Calcium,9.0,mg/dL,858
+WBC x 1000,12.8,K/mcL,-137
+Platelets x 1000,158.0,K/mcL,2273
+Hgb,15.5,g/dL,-123
+Magnesium,1.9,mg/dL,947
+MCH,31.3,pg,-123
+Total Protein,6.5,g/dL,947
+Potassium,4.2,mmol/L,2273
+ALT (SGPT),46.0,Units/L,-137
+Hct,47.2,%,-123
+Potassium,4.1,mmol/L,947
+Chloride,105.0,mmol/L,2273
+-basos,0.3,% ,2273
+MCHC,32.7,g/dL,-123
+Total Bilirubin,1.4,mg/dL,947
+Creatinine,0.87,mg/dL,2273
+Sodium,137.0,mmol/L,-137
+-basos,0.3,%,-123
+Creatinine,0.74,mg/dL,947
+Sodium,140.0,mmol/L,2273
+-lymphs,8.3,% ,2273
+-polys,85.6,%,-123
+triglycerides,47.0,mg/dL,2273
+RBC,4.44,M/mcL,858
+MPV,8.7,fL,2273
+PT - INR,1.2,ratio,-137
+-lymphs,8.6,% ,858
+AST (SGOT),381.0,Units/L,947
+total cholesterol,129.0,mg/dL,2273
+MPV,8.9,fL,858
+RBC,4.35,M/mcL,2273
+Platelets x 1000,214.0,K/mcL,-123
+ALT (SGPT),65.0,Units/L,947
+Anion Gap,8.0,,2273
+-monos,9.5,% ,858
+Potassium,4.3,mmol/L,-97
+PTT,31.6,sec,-137
+MCHC,34.0,g/dL,858
+Phosphate,2.6,mg/dL,947
+HDL,69.0,mg/dL,2273
+MCH,32.3,pg,858
+-polys,81.4,% ,2273
+RBC,4.95,M/mcL,-123
+-eos,0.1,% ,858
+Sodium,142.0,mmol/L,947
+Calcium,9.0,mg/dL,2273
+Bicarbonate,27.0,mmol/L,2273
+WBC x 1000,13.2,K/mcL,858
+Creatinine,0.87,mg/dL,-97
+-monos,10.0,% ,2273
+-eos,0.1,%,-123
+BUN,28.0,mg/dL,-97
+-lymphs,8.5,%,-123
+-basos,0.2,% ,858
+Hgb,14.3,g/dL,858
+Glucose,109.0,mg/dL,947
+Bicarbonate,26.0,mmol/L,947
+Bedside glucose,122.0,mg/dL,510
+Bedside glucose,145.0,mg/dL,1285

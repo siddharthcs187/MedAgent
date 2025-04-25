@@ -1,0 +1,5 @@
+Time_Since_Admission(minutes),Acetaminophen(mcg/mL),ALT(SGPT)(Units/L),AST(SGOT)(Units/L),BUN(mg/dL),Creatinine(mg/dL),Potassium(mmol/L),Sodium(mmol/L),Chloride(mmol/L),Total_Bilirubin(mg/dL),Total_Protein(g/dL),Calcium(mg/dL),Hgb(g/dL),Hct(%),RBC(M/mcL),WBC(K/mcL),Platelets(K/mcL),MCV(fL),MCH(pg),MCHC(g/dL),-Lymphs(%),-Monos(%),-Gran(%),-Basos(%),RDW(%),Salicylate(mg/dL),Anion_Gap(mmol/L),Urinary_Specific_Gravity
+-197,114.0,28.0,17.0,11.0,0.9,3.4,138.0,102.0,0.3,7.7,9.0,13.3,38.9,4.52,5.3,225.0,86.1,29.4,34.2,41.0,13.0,61.0,1.0,12.7,<1.7,13.0,
+-17,81.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+221,27.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+627,,29.0,19.0,10.0,0.9,4.0,140.0,107.0,0.3,6.4,8.8,12.3,36.4,4.16,7.1,222.0,87.5,29.6,33.8,39.0,11.0,46.0,1.0,12.9,,10.0,1.01

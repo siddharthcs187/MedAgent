@@ -1,0 +1,39 @@
+labname,labresult,labmeasurenamesystem,labresultoffset(minutes)
+BUN,10.0,mg/dL,-198
+chloride,106.0,mmol/L,-198
+albumin,3.8,g/dL,-198
+sodium,139.0,mmol/L,-198
+AST (SGOT),27.0,Units/L,-198
+creatinine,0.71,mg/dL,-198
+potassium,3.7,mmol/L,-198
+total bilirubin,0.7,mg/dL,-198
+glucose,100.0,mg/dL,-198
+bicarbonate,30.0,mmol/L,-198
+total protein,7.2,g/dL,-198
+anion gap,3.0,,-198
+calcium,9.0,mg/dL,-198
+alkaline phos.,65.0,Units/L,-198
+-eos,2.0,%,-198
+PTT,32.0,sec,-198
+-monos,8.0,%,-198
+bedside glucose,105.0,mg/dL,-206
+-lymphs,39.0,%,-198
+Hgb,14.0,g/dL,-198
+ALT (SGPT),53.0,Units/L,-198
+-polys,51.0,%,-198
+WBC x 1000,7.3,K/mcL,-198
+creatinine,0.9,mg/dL,-196
+-basos,0.0,%,-198
+RDW,13.0,%,-198
+PT,12.6,sec,-198
+HDL,43.0,mg/dL,737
+MPV,10.2,fL,-198
+PT - INR,0.9,ratio,-198
+Hct,40.9,%,-198
+total cholesterol,159.0,mg/dL,737
+MCH,29.2,pg,-198
+triglycerides,129.0,mg/dL,737
+platelets x 1000,279.0,K/mcL,-198
+troponin - I,,ng/mL,-198
+MCHC,34.2,g/dL,-198
+FiO2,34.0,%,28

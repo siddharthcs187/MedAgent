@@ -1,0 +1,31 @@
+LabName,LabResult,Units,LabResultOffset(minutes)
+Acetaminophen,91,mcg/mL,-309
+Acetaminophen,17,mcg/mL,-15
+Acetaminophen,5,mcg/mL,229
+Acetaminophen,<3,mcg/mL,488
+ALT (SGPT),19,IU/L,-309
+AST (SGOT),14,IU/L,-309
+total bilirubin,0.2,mg/dL,-309
+total protein,6.7,g/dL,-309
+ethanol,0,mg/dL,-309
+calcium,8.8,mg/dL,-309
+albumin,3.8,g/dL,-309
+creatinine,0.68,mg/dL,-309
+potassium,4.2,mmol/L,-309
+Hgb,11.4,g/dL,-309
+Hct,34.9,%,-309
+chloride,102,mmol/L,-309
+MCV,79,fL,-309
+bicarbonate,19,mmol/L,-309
+platelets x 1000,307,K/mcL,-309
+bedside glucose,186,mg/dL,549
+MCHC,33,g/dL,-309
+WBC x 1000,11.7,K/mcL,-309
+RDW,15.4,%,-309
+BUN,12,mg/dL,-309
+RBC,4.4,M/mcL,-309
+alkaline phos.,95,Units/L,-309
+ direct bilirubin,0.1,mg/dL,-309
+MCH,26,pg,-309
+ glucose,279,mg/dL,-309
+urinary specific gravity,1.01,,-175

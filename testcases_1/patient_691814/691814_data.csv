@@ -1,0 +1,31 @@
+labname,Initial Value,Final Value,Unit
+glucose,88.0,165.0,mg/dL
+albumin,2.9,2.9,g/dL
+anion gap,4.0,0.0,
+AST (SGOT),46.0,29.0,IU/L
+creatinine,0.7,0.7,mg/dL
+sodium,137.0,138.0,mmol/L
+bicarbonate,36.0,26.0,mmol/L
+alkaline phos.,88.0,59.0,IU/L
+troponin - I,0.15,0.08,ng/mL
+total protein,6.0,5.0,g/dL
+total bilirubin,0.8,0.4,mg/dL
+potassium,3.7,4.6,mmol/L
+chloride,97.0,112.0,mmol/L
+calcium,9.0,7.9,mg/dL
+magnesium,1.8,2.1,mg/dL
+BUN,15.0,11.0,mg/dL
+lactate,1.3,,mmol/L
+PT,10.9,,sec
+PT - INR,1.0,,ratio
+PTT,28.0,,sec
+Hgb,11.2,8.6,g/dL
+Hct,34.3,26.7,%
+MCV,88.0,90.0,fL
+MCH,28.8,29.1,pg
+MCHC,32.7,32.2,g/dL
+RBC,3.89,2.96,M/mcL
+WBC,13.7,8.4,K/mcL
+platelets,417.0,348.0,K/mcL
+RDW,14.2,14.8,%
+MPV,10.5,11.7,fL

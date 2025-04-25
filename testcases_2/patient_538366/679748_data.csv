@@ -1,0 +1,47 @@
+Lab_Name,Time_Offset_Minutes,Lab_Value,Units
+Potassium,293,4.2,mmol/L
+Potassium,-307,4.1,mmol/L
+Calcium,-307,9.4,mg/dL
+Calcium,293,8.7,mg/dL
+Sodium,-307,141.0,mmol/L
+Sodium,293,140.0,mmol/L
+Anion Gap,293,9.0,
+Anion Gap,-307,13.0,
+BUN,-307,14.0,mg/dL
+BUN,293,10.0,mg/dL
+RBC,-307,4.62,M/mcL
+RBC,293,4.29,M/mcL
+Chloride,-307,105.0,mmol/L
+Chloride,293,109.0,mmol/L
+Platelets x 1000,-307,260.0,K/mcL
+Platelets x 1000,293,218.0,K/mcL
+ALT (SGPT),-307,49.0,Units/L
+Hct,-307,42.8,%
+Hct,293,40.7,%
+Glucose,-307,80.0,mg/dL
+Glucose,293,79.0,mg/dL
+WBC x 1000,-307,5.6,K/mcL
+WBC x 1000,293,4.4,K/mcL
+Total Protein,-307,8.0,g/dL
+MCH,-307,32.3,pg
+MCH,293,32.4,pg
+Creatinine,-307,1.2,mg/dL
+Creatinine,293,1.0,mg/dL
+RDW,-307,12.3,%
+RDW,293,12.3,%
+Albumin,-307,4.4,g/dL
+Bicarbonate,-307,23.0,mmol/L
+Bicarbonate,293,22.0,mmol/L
+PT,-82,13.3,sec
+PT - INR,-82,1.0,ratio
+Total Bilirubin,-307,0.9,mg/dL
+HDL,293,45.0,mg/dL
+Triglycerides,293,70.0,mg/dL
+Total Cholesterol,293,147.0,mg/dL
+PTT,-82,30.3,sec
+PTT,293,47.2,sec
+TSH,-307,2.85,mcU/ml
+Respiratory Rate,11,16.0,/min
+FiO2,11,21.0,%
+Troponin-I,-250,0.0,ng/mL
+Alkaline Phos.,-307,81.0,Units/L

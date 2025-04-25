@@ -1,0 +1,115 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+Hgb,12.3,g/dL,-1654
+Hgb,10.7,g/dL,-52
+Hct,37,%,-1654
+Hct,32.5,%,-52
+Troponin - I,0.39,ng/mL,-1654
+Troponin - I,0.05,ng/mL,-52
+Troponin - I,0.06,ng/mL,-298
+Troponin - I,0.08,ng/mL,-738
+Troponin - I,0.22,ng/mL,-1648
+Troponin - I,0.38,ng/mL,-1192
+Platelets x 1000,274,K/mcL,-1654
+Platelets x 1000,265,K/mcL,-1192
+WBC x 1000,7.3,K/mcL,-1654
+WBC x 1000,8.74,K/mcL,-1192
+RBC,3.9,M/mcL,-1654
+RBC,3.73,M/mcL,-1192
+MCV,94.9,fL,-1654
+MCV,95.4,fL,-1192
+MCHC,33.2,g/dL,-1654
+MCHC,32.6,g/dL,-1192
+MPV,10.9,fL,-1654
+MPV,11.2,fL,-1192
+Sodium,139,mmol/L,-1654
+Sodium,139,mmol/L,-1192
+Potassium,3.8,mmol/L,-1654
+Potassium,3.8,mmol/L,-1192
+Chloride,103,mmol/L,-1654
+Chloride,108,mmol/L,-1192
+Bicarbonate,30,mmol/L,-1654
+Bicarbonate,22,mmol/L,-1192
+Anion gap,6,,-1654
+Anion gap,9,,-1192
+BUN,9,mg/dL,-1654
+BUN,11,mg/dL,-1192
+Creatinine,0.82,mg/dL,-1654
+Creatinine,0.7,mg/dL,-1192
+Glucose,95,mg/dL,-1654
+Glucose,96,mg/dL,-1192
+Total protein,7.7,g/dL,-1654
+Total protein,6.9,g/dL,-1192
+Albumin,3.6,g/dL,-1654
+Albumin,3.1,g/dL,-1192
+Total bilirubin,0.5,mg/dL,-1654
+Total bilirubin,0.8,mg/dL,-1192
+Direct bilirubin,<0.1,mg/dL,-1654
+Direct bilirubin,0.1,mg/dL,-1192
+Alkaline phos.,151,Units/L,-1654
+Alkaline phos.,132,Units/L,-1192
+AST (SGOT),45,Units/L,-1654
+AST (SGOT),41,Units/L,-1192
+ALT (SGPT),31,Units/L,-1654
+ALT (SGPT),28,Units/L,-1192
+Amylase,46,Units/L,-1654
+Calcium,7.9,mg/dL,-1192
+CPK,184,Units/L,-52
+CPK-MB,1.5,ng/mL,-52
+TSH,2.52,mcU/ml,-1192
+PT,14.2,sec,-1654
+PT - INR,1.1,ratio,-1654
+PTT,47.1,sec,-1654
+Magnesium,2,mg/dL,-1192
+Urinary specific gravity,1.009,,765
+WBC's in urine,<1,/HPF,765
+O2 Sat (%),96.2,%,-1589
+HCO3,25.3,mmol/L,-1589
+Methemoglobin,0.4,%,-1589
+pH,7.35,,-1589
+paCO2,46.8,mm Hg,-1589
+paO2,81.1,mm Hg,-1589
+Base Excess,-0.7,mEq/L,-1589
+Carboxyhemoglobin,1.1,%,-1589
+HR Current,71,,24
+HR Lowest,71,,24
+HR Highest,71,,24
+BP (systolic) Current,115,,24
+BP (systolic) Lowest,99,,24
+BP (systolic) Highest,115,,24
+BP (diastolic) Current,48,,24
+BP (diastolic) Lowest,47,,24
+BP (diastolic) Highest,48,,24
+Resp Current,14,,24
+Resp Lowest,14,,24
+Resp Highest,14,,24
+Admission,48,,24
+Current,48.5,,24
+Delta,+0.5,,24
+HR Lowest,71,,30
+HR Highest,71,,30
+BP (systolic) Lowest,99,,30
+BP (systolic) Highest,115,,30
+BP (diastolic) Lowest,47,,30
+BP (diastolic) Highest,48,,30
+Resp Lowest,14,,30
+Resp Highest,14,,30
+Resp Mode,spontaneous,,216
+Health Status,ill-appearing,,216
+Acuity,not in acute distress,,216
+Nutritional Status,well developed,,216
+HR Rhythm,sinus,,216
+HR Lowest,63,,216
+HR Highest,71,,216
+HR Current,65,,216
+BP (systolic) Current,72,,216
+BP (systolic) Lowest,60,,216
+BP (systolic) Highest,115,,216
+BP (diastolic) Current,45,,216
+BP (diastolic) Lowest,30,,216
+BP (diastolic) Highest,48,,216
+Resp Current,21,,216
+Resp Lowest,12,,216
+Resp Highest,21,,216
+O2 Sat% Current,95,,216
+O2 Sat% Lowest,95,,216
+O2 Sat% Highest,100,,216

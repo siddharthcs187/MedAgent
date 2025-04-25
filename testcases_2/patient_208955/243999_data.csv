@@ -1,0 +1,5 @@
+Time_Since_Admission_Minutes,Chloride_mmol/L,Potassium_mmol/L,Creatinine_mg/dL,Anion_Gap_mmol/L,BUN_mg/dL,Glucose_mg/dL,Hemoglobin_g/dL,Hematocrit_%,Magnesium_mg/dL,Calcium_mg/dL,Phosphate_mg/dL,RDW_%,MCH_pg,MCHC_g/dL,MCV_fL,Platelets_K/mcL,Troponin_I_ng/mL,PT_seconds,PT_INR_ratio,FiO2_%,LPM_O2_L/min,GFR_mL/min/1.73m2
+45,107.0,3.9,1.06,13.4,10.0,95.0,8.1,24.5,1.6,7.1,3.1,,,,,238.0,0.054,34.9,3.6,28.0,2.0,
+450,110.0,3.7,0.87,13.5,7.0,93.0,9.3,28.9,,7.4,3.1,15.8,29.6,32.1,92.0,,,,21.0,,,
+2109,,,,,,,,,,,,,,,,,,21.0,,,,
+1495,,,,,,,,,,,,,,,,,,21.0,,,,

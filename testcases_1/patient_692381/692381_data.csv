@@ -1,0 +1,32 @@
+Lab Test,Time (minutes since unit admit),Value,Units
+Glucose,266,140,mg/dL
+Glucose,3722,78,mg/dL
+Glucose,5121,84,mg/dL
+Glucose,6471,79,mg/dL
+Sodium,266,124,mmol/L
+Sodium,3722,129,mmol/L
+Sodium,5121,125,mmol/L
+Sodium,6471,126,mmol/L
+Potassium,266,4.4,mmol/L
+Potassium,3722,4.3,mmol/L
+Potassium,5121,3.6,mmol/L
+Potassium,6471,3.3,mmol/L
+Creatinine,266,0.7,mg/dL
+Creatinine,3722,0.62,mg/dL
+Creatinine,5121,0.61,mg/dL
+Creatinine,6471,0.63,mg/dL
+Bicarbonate,266,38,mmol/L
+Bicarbonate,3722,>45,mmol/L
+Bicarbonate,5121,45,mmol/L
+Bicarbonate,6471,42,mmol/L
+BUN,266,28,mg/dL
+BUN,3722,23,mg/dL
+BUN,5121,21,mg/dL
+BUN,6471,19,mg/dL
+Calcium,266,8.4,mg/dL
+Calcium,3722,8.4,mg/dL
+Calcium,5121,8.9,mg/dL
+Calcium,6471,8.9,mg/dL
+Anion Gap,266,2,mEq/L
+Anion Gap,6471,4,mEq/L
+Bedside glucose,269,150,mg/dL

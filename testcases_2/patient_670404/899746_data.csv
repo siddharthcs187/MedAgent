@@ -1,0 +1,6 @@
+TimeOffset,Hemoglobin (g/dL),Hematocrit (%),Platelets (K/mcL),PT (sec),PT-INR,PTT (sec),BUN (mg/dL),Creatinine (mg/dL),Glucose (mg/dL),Sodium (mmol/L),Potassium (mmol/L),Chloride (mmol/L),Bicarbonate (mmol/L),Calcium (mg/dL),Magnesium (mg/dL),Phosphate (mg/dL),ALT (U/L),AST (U/L),Alkaline Phos. (U/L),Total Protein (g/dL),Anion Gap,Albumin (g/dL),WBC (K/mcL),MCV (fL),MCH (pg),MCHC (g/dL),-Lymphs (%),-Polys (%),-Monos (%),-Eos (%),-Basos (%),Lactate (mmol/L),pH,paO2 (mmHg),paCO2 (mmHg),O2 Sat (%),Base Excess (mEq/L),Bedside Glucose (mg/dL),FiO2 (%),Vancomycin (mcg/mL)
+-380,12.6,37.4,106,30.8,3.0,,13,0.9,134,138,3.9,110,21,8.2,1.7,2.9,25,31,90.0,6.5,7.0,3.3,9.4,99.0,33.3,34,16,70,8,1.0,,,,,,,,,,
+520,8.6,26.0,82,22.9,2.1,57.6,13,0.9,138,138,4.2,110,24,7.9,2.1,2.9,30,59,83.0,6.0,4.0,5.2,97.0,32.8,33.0,10,73,10,0,0.0,,7.37,50.0,39.0,84.0,-3.0,128.0,38.0,,
+1975,7.4,22.0,75,,2.2,,10,0.8,131,137,4.1,109,24,7.9,,29.0,64,76,5.9,4.0,2.8,3.6,100.0,33.6,34.0,14,72,14,0,0.6,,,,,,,,,,
+3405,7.9,23.7,71,21.0,1.9,67.2,12,0.8,107,138,3.6,106,26,8.0,1.7,2.8,26,46,66.0,5.6,6.0,2.4,2.1,96.0,32.1,33,13,72,11,3.0,,,,,,,,,,
+4835,8.4,25.2,90,17.6,1.5,,9,0.9,119,139,4.1,110,25,7.9,1.9,2.8,25,34,81.0,5.9,4.0,2.4,2.2,98.0,32.6,33,18,68,10,2.0,,,,,,,,,,

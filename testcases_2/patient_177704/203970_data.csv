@@ -1,0 +1,71 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+-lymphs,26.0,%,-2543
+MCHC,34.1,g/dL,-2543
+RDW,13.2,%,-2543
+platelets x 1000,219.0,K/mcL,-2543
+-polys,63.0,%,-1798
+-polys,64.0,%,-2543
+-monos,7.0,%,-1798
+-monos,8.0,%,-2543
+-lymphs,27.0,%,-1798
+MCV,90.9,fL,-2543
+platelets x 1000,203.0,K/mcL,-1798
+-eos,2.0,%,-2543
+RDW,13.3,%,-1798
+MCH,31.0,pg,-2543
+MCHC,35.0,g/dL,-1798
+PTT,23.0,sec,-2543
+-basos,0.0,%,-1798
+WBC x 1000,9.9,K/mcL,-2543
+MCH,31.2,pg,2508
+Hgb,15.7,g/dL,2508
+Hct,45.4,%,2508
+MCHC,34.6,g/dL,2508
+RDW,12.9,%,2508
+platelets x 1000,214.0,K/mcL,2508
+RBC,5.03,M/mcL,2508
+WBC x 1000,8.2,K/mcL,-1798
+MCV,90.3,fL,2508
+bedside glucose,97.0,mg/dL,-1734
+total cholesterol,209.0,mg/dL,-1798
+bedside glucose,137.0,mg/dL,-1180
+LDL,128.0,mg/dL,-1798
+TSH,1.7,mcU/ml,-1798
+Hgb,15.3,g/dL,-1798
+Hct,43.7,%,-1798
+MCV,90.9,fL,-1798
+WBC x 1000,7.5,K/mcL,2508
+RBC,4.81,M/mcL,-1798
+LDL,144.0,mg/dL,-2543
+triglycerides,214.0,mg/dL,-1798
+HDL,46.0,mg/dL,-2543
+BUN,10.0,mg/dL,-1798
+total cholesterol,220.0,mg/dL,-2543
+-basos,0.0,%,-2543
+triglycerides,150.0,mg/dL,-2543
+potassium,3.7,mmol/L,-1798
+total bilirubin,0.6,mg/dL,-2543
+ALT (SGPT),27.0,Units/L,-2543
+chloride,107.0,mmol/L,-1798
+total protein,6.7,g/dL,-2543
+BUN,11.0,mg/dL,-2543
+creatinine,0.91,mg/dL,-1798
+calcium,8.2,mg/dL,-1798
+sodium,141.0,mmol/L,-1798
+calcium,8.7,mg/dL,-2543
+chloride,110.0,mmol/L,-2543
+magnesium,1.7,mg/dL,-1798
+potassium,4.0,mmol/L,-2543
+Total CO2,25.0, ,-2524
+creatinine,0.98,mg/dL,2508
+bedside glucose,141.0,mg/dL,359
+bedside glucose,96.0,mg/dL,-2319
+PT,10.9,sec,-2543
+PT - INR,1.0,ratio,-2543
+albumin,3.6,g/dL,-2543
+anion gap,11.0,mmol/L,-1798
+anion gap,10.0,mmol/L,-2543
+sodium,141.0,mmol/L,-2543
+-eos,3.0,%,-1798
+bedside glucose,100.0,mg/dL,-348
+bedside glucose,107.0,mg/dL,-868

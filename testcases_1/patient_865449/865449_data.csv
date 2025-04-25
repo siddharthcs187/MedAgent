@@ -1,0 +1,12 @@
+Lab Name,Lab Result,Units,Time Offset (minutes)
+Potassium,4.8,mmol/L,-8070
+Potassium,4.4,mmol/L,-912
+Sodium,136.0,mmol/L,-8070
+Sodium,140.0,mmol/L,-912
+Glucose,95.0,mg/dL,-8070
+Glucose,111.0,mg/dL,-912
+Hemoglobin (Hgb),11.5,g/dL,-3788
+Hematocrit (Hct),35.9,%,-3788
+Platelets,262.0,K/mcL,-3788
+PT,13.7,sec,67
+PT-INR,1.1,ratio,67

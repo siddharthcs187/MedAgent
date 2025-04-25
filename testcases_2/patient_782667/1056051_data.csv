@@ -1,0 +1,59 @@
+labname,labresult,labmeasurenamesystem,labresultoffset,labtypeid
+PT,11.7,sec,124,3
+-eos,0.1,%,124,3
+MPV,10.3,fL,1130,3
+PT - INR,1.05,ratio,124,3
+RBC,3.55,M/mcL,1130,3
+MCV,94.9,fL,124,3
+-lymphs,23.3,%,1130,3
+Hgb,12.2,g/dL,124,3
+MCH,31.5,pg,1130,3
+Hct,37.4,%,124,3
+-basos,0.7,%,1130,3
+WBC x 1000,7.6,K/mcL,124,3
+-polys,65.5,%,1130,3
+platelets x 1000,157.0,K/mcL,1130,3
+potassium,4.1,mmol/L,1130,1
+RDW,13.9,%,124,3
+-monos,9.6,%,1130,3
+creatinine,0.8,mg/dL,1130,1
+-polys,83.2,%,124,3
+ALT (SGPT),32.0,Units/L,124,1
+chloride,110.0,mmol/L,1130,1
+creatinine,0.9,mg/dL,124,1
+RBC,3.94,M/mcL,124,3
+potassium,4.2,mmol/L,124,1
+MCV,94.6,fL,1130,3
+alkaline phos.,51.0,Units/L,124,1
+sodium,137.0,mmol/L,1130,1
+glucose,64.0,mg/dL,124,1
+MCH,31.1,pg,124,3
+BUN,25.0,mg/dL,124,1
+platelets x 1000,159.0,K/mcL,124,3
+Hct,33.6,%,1130,3
+-eos,0.9,%,1130,3
+AST (SGOT),47.0,Units/L,124,1
+BUN,19.0,mg/dL,1130,1
+sodium,138.0,mmol/L,124,1
+-basos,0.6,%,124,3
+magnesium,2.0,mg/dL,124,1
+calcium,7.8,mg/dL,1130,1
+-lymphs,13.4,%,124,3
+MCHC,33.3,g/dL,1130,3
+glucose,62.0,mg/dL,1130,1
+-monos,2.7,%,124,3
+Total protein,6.4,g/dL,124,1
+WBC x 1000,8.3,K/mcL,1130,3
+Total bilirubin,1.4,mg/dL,124,1
+anion gap,3.0, ,1130,1
+calcium,7.9,mg/dL,124,1
+RDW,14.0,%,1130,3
+bicarbonate,22.0,mmol/L,124,1
+MPV,9.8,fL,124,3
+anion gap,10.0, ,124,1
+-lymphs,23.3,%,124,3
+-polys,65.5,%,124,3
+bicarbonate,24.0,mmol/L,1130,1
+albumin,3.5,g/dL,124,1
+MCHC,32.8,g/dL,124,3
+urinary specific gravity,1.014,,403,4

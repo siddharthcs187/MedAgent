@@ -1,0 +1,48 @@
+LabName,Result,Units,TimeOffsetFromAdmission(minutes)
+Alkaline Phosphatase,71.0,IU/L,-292
+Anion Gap,23.0,,-292
+BUN,20.0,mg/dL,-292
+Glucose,90.0,mg/dL,-292
+Total Bilirubin,0.3,mg/dL,-292
+Chloride,103.0,mmol/L,-292
+Potassium,3.0,mmol/L,-292
+Calcium,9.8,mg/dL,-292
+Platelets,367.0,K/mcL,-292
+-eos,0.0,%,-292
+MCH,33.8,pg,-292
+ALT (SGPT),136.0,IU/L,-292
+MPV,10.3,fL,-292
+-polys,84.0,%,-292
+Hgb,17.8,g/dL,-292
+Albumin,5.4,g/dL,-292
+WBC,36.8,K/mcL,-292
+-monos,7.0,%,-292
+Hct,50.5,%,-292
+AST (SGOT),86.0,IU/L,-292
+RBC,5.26,M/mcL,-292
+-lymphs,8.0,%,-292
+PT,13.6,sec,-292
+Sodium,141.0,mmol/L,-292
+Creatinine,0.91,mg/dL,-292
+Lipase,82.0,IU/L,-292
+Lactate,14.1,mmol/L,-285
+Lactate,13.5,mmol/L,-276
+MCV,96.0,fL,-292
+PPT,26.0,sec,-292
+PT-INR,1.1,ratio,-292
+-basos,0.0,%,-292
+Bedside Glucose,100.0,mg/dL,-291
+Bedside Glucose,120.0,mg/dL,-77
+FiO2,29.0,%,-292
+FiO2,21.0,%,470
+Serum Osmolality,287.0,mOsm/kg H2O,427
+Lactate,2.8,mmol/L,78
+Bicarbonate,15.0,mmol/L,-292
+Ethanol,39.0,mg/dL,-292
+Total Protein,9.5,g/dL,-292
+Sodium,144.0,mmol/L,-291
+Hgb,18.7,g/dL,-291
+Chloride,109.0,mmol/L,-291
+BUN,21.0,mg/dL,-291
+Creatinine,1.0,mg/dL,-291
+Hct,55.0,%,-291

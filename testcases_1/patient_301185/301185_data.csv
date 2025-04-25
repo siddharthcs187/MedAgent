@@ -1,0 +1,62 @@
+LabName,LabResult,Units,LabResultOffset (minutes)
+potassium,4.2,mmol/L,428
+creatinine,1.09,mg/dL,428
+anion gap,9.9,mmol/L,428
+sodium,137,mmol/L,428
+ALT (SGPT),23,Units/L,428
+bicarbonate,24,mmol/L,428
+albumin,2.6,g/dL,428
+total protein,5.3,g/dL,428
+total bilirubin,0.2,mg/dL,428
+BUN,31,mg/dL,1123
+chloride,105,mmol/L,1123
+glucose,145,mg/dL,1123
+potassium,3,mmol/L,1123
+creatinine,1.14,mg/dL,1123
+bicarbonate,23,mmol/L,1123
+sodium,138,mmol/L,1123
+calcium,7.8,mg/dL,1123
+paCO2,43,mm Hg,652
+paO2,67,mm Hg,652
+platelets x 1000,147,K/mcL,428
+MCHC,30.8,g/dL,428
+Hct,31.8,%,428
+Hgb,9.8,g/dL,428
+MCH,30.9,pg,428
+RDW,15.8,%,428
+WBC x 1000,13.1,K/mcL,428
+Base Excess,-0.8,mEq/L,732
+BUN,33,mg/dL,67
+lactate,0.5,mmol/L,67
+calcium,7.4,mg/dL,67
+chloride,106,mmol/L,67
+glucose,92,mg/dL,67
+troponin - I,0.201,ng/mL,67
+sodium,137,mmol/L,67
+bicarbonate,26,mmol/L,67
+CPK,65,Units/L,1143
+troponin - I,0.091,ng/mL,1143
+CPK-MB,1.72,ng/mL,1143
+HCO3,24.3,mmol/L,652
+FiO2,28,%,-15
+paCO2,41,mm Hg,-15
+paO2,88,mm Hg,-15
+O2 Sat (%),98,%,-15
+Base Excess,-1.1,mEq/L,731
+FiO2,25,%,652
+O2 Sat (%),97,%,652
+Base Deficit,,mEq/L,732
+troponin - I,0.139,ng/mL,428
+glucose,146,mg/dL,428
+lactate,0.7,mmol/L,428
+calcium,7.5,mg/dL,428
+chloride,107,mmol/L,428
+BUN,34,mg/dL,428
+troponin - I,0.104,ng/mL,783
+transferrin,274,mg/dL,783
+Fe,<10.0,mcg/dL,783
+BNP,226,pg/mL,428
+Vitamin B 12,>1000,,463
+Globulin,2.7, ,428
+Influenza A, ,Negative,628
+Influenza B, ,Negative,628

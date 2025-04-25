@@ -1,0 +1,78 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+725,total protein,6.1,g/dL
+725,albumin,2.8,g/dL
+725,bicarbonate,24.0,mmol/L
+725,anion gap,6.0,
+725,total bilirubin,1.7,mg/dL
+725,BUN,36.0,mg/dL
+725,chloride,107.0,mmol/L
+725,glucose,96.0,mg/dL
+725,creatinine,1.4,mg/dL
+725,potassium,3.9,mmol/L
+725,calcium,7.8,mg/dL
+725,ALT (SGPT),237.0,Units/L
+725,AST (SGOT),122.0,Units/L
+725,alkaline phos.,79.0,Units/L
+2090,alkaline phos.,73.0,Units/L
+2090,glucose,82.0,mg/dL
+2090,anion gap,8.0,
+2090,ALT (SGPT),274.0,Units/L
+2090,AST (SGOT),132.0,Units/L
+2090,BUN,32.0,mg/dL
+2090,chloride,104.0,mmol/L
+2090,calcium,8.2,mg/dL
+2090,albumin,2.8,g/dL
+2090,potassium,4.2,mmol/L
+2090,sodium,137.0,mmol/L
+2090,creatinine,1.4,mg/dL
+2090,total protein,6.4,g/dL
+2090,total bilirubin,1.8,mg/dL
+3605,sodium,138.0,mmol/L
+3605,creatinine,1.2,mg/dL
+3605,alkaline phos.,71.0,Units/L
+3605,anion gap,5.0,
+3605,total bilirubin,1.3,mg/dL
+3605,BUN,25.0,mg/dL
+3605,chloride,106.0,mmol/L
+3605,ALT (SGPT),177.0,Units/L
+3605,AST (SGOT),64.0,Units/L
+3605,calcium,7.5,mg/dL
+3605,total protein,5.6,g/dL
+3605,potassium,3.3,mmol/L
+3605,magnesium,1.6,mg/dL
+3605,BNP,6139.0,pg/mL
+3605,PT,26.9,sec
+3605,PT - INR,2.5,ratio
+4264,potassium,4.3,mmol/L
+4264,magnesium,2.6,mg/dL
+4960,total protein,6.1,g/dL
+4960,albumin,2.8,g/dL
+4960,bicarbonate,30.0,mmol/L
+4960,anion gap,4.0,
+4960,total bilirubin,1.3,mg/dL
+4960,BUN,28.0,mg/dL
+4960,chloride,104.0,mmol/L
+4960,glucose,100.0,mg/dL
+4960,creatinine,1.3,mg/dL
+4960,potassium,4.2,mmol/L
+4960,sodium,138.0,mmol/L
+4960,calcium,8.2,mg/dL
+4960,alkaline phos.,72.0,Units/L
+4960,ALT (SGPT),165.0,Units/L
+4960,AST (SGOT),48.0,Units/L
+4960,magnesium,1.9,mg/dL
+4960,-basos,0.0,% 
+4960,-eos,1.0,% 
+4960,-lymphs,16.0,% 
+4960,-monos,8.0,% 
+4960,-polys,73.0,% 
+4960,Hgb,13.5,g/dL
+4960,Hct,41.2,% 
+4960,MCV,106.0,fL
+4960,MCH,34.9,pg
+4960,MCHC,33.0,g/dL
+4960,RDW,15.9,% 
+4960,platelets x 1000,134.0,K/mcL
+4960,WBC x 1000,7.6,K/mcL
+4960,PT,23.2,sec
+4960,PT - INR,2.1,ratio

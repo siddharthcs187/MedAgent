@@ -1,0 +1,329 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+chloride,101.0,mmol/L,-619.0
+albumin,2.7,g/dL,-6459.0
+chloride,115.0,mmol/L,-7874.0
+calcium,8.5,mg/dL,-619.0
+anion gap,6.0,,-619.0
+creatinine,0.56,mg/dL,-619.0
+potassium,3.1,mmol/L,-619.0
+total protein,6.1,g/dL,-6459.0
+bicarbonate,23.0,mmol/L,-6459.0
+glucose,123.0,mg/dL,-619.0
+phosphate,2.1,mg/dL,-7874.0
+sodium,139.0,mmol/L,7976.0
+magnesium,2.1,mg/dL,-6459.0
+alkaline phos.,108.0,Units/L,7976.0
+ALT (SGPT),17.0,Units/L,-7874.0
+ALT (SGPT),77.0,Units/L,7976.0
+AST (SGOT),36.0,Units/L,-6459.0
+potassium,4.4,mmol/L,7976.0
+Pressure Support,10.0,cm H2O,-7292.0
+Temperature,37.0,°C,-7292.0
+TV,450.0,mls,-7292.0
+FiO2,30.0,%,-7292.0
+paCO2,31.0,mm Hg,-7292.0
+paO2,127.0,mm Hg,-7292.0
+O2 Sat (%),99.7,%,-7292.0
+Base Excess,-1.0,mEq/L,-7292.0
+chloride,101.0,mmol/L,7976.0
+creatinine,0.57,mg/dL,7976.0
+glucose,152.0,mg/dL,7976.0
+BUN,30.0,mg/dL,7976.0
+AST (SGOT),21.0,Units/L,6526.0
+ALT (SGPT),96.0,Units/L,6526.0
+calcium,9.0,mg/dL,6526.0
+albumin,3.4,g/dL,6526.0
+bicarbonate,34.0,mmol/L,6526.0
+chloride,101.0,mmol/L,6526.0
+phosphate,2.9,mg/dL,6526.0
+total protein,6.3,g/dL,6526.0
+magnesium,2.2,mg/dL,6526.0
+alkaline phos.,116.0,Units/L,6526.0
+BUN,32.0,mg/dL,6526.0
+potassium,4.1,mmol/L,6526.0
+anion gap,7.0,,6526.0
+Hgb,8.1,g/dL,2181.0
+RBC,2.89,M/mcL,2181.0
+Hct,24.8,% ,2181.0
+WBC x 1000,20.9,K/mcL,2181.0
+MCV,85.6,fL,741.0
+MCH,27.2,pg,741.0
+MCHC,31.7,g/dL,741.0
+RDW,13.4,% ,741.0
+platelets x 1000,211.0,K/mcL,741.0
+-lymphs,6.1,% ,741.0
+-monos,2.7,% ,741.0
+-polys,91.0,% ,741.0
+-basos,0.2,% ,741.0
+-eos,0.1,% ,741.0
+lactate,2.0,mmol/L,-11358.0
+bedside glucose,150.0,mg/dL,5871.0
+bedside glucose,174.0,mg/dL,4386.0
+bedside glucose,170.0,mg/dL,4634.0
+bedside glucose,105.0,mg/dL,10184.0
+bedside glucose,152.0,mg/dL,8733.0
+bedside glucose,143.0,mg/dL,8409.0
+bedside glucose,176.0,mg/dL,4920.0
+bedside glucose,174.0,mg/dL,11651.0
+bedside glucose,138.0,mg/dL,13121.0
+bedside glucose,163.0,mg/dL,7320.0
+bedside glucose,163.0,mg/dL,6611.0
+bedside glucose,178.0,mg/dL,5159.0
+bedside glucose,178.0,mg/dL,10897.0
+bedside glucose,169.0,mg/dL,12062.0
+bedside glucose,121.0,mg/dL,10569.0
+bedside glucose,129.0,mg/dL,12723.0
+bedside glucose,190.0,mg/dL,12363.0
+bedside glucose,191.0,mg/dL,7687.0
+bedside glucose,189.0,mg/dL,6238.0
+bedside glucose,139.0,mg/dL,5444.0
+bedside glucose,177.0,mg/dL,8047.0
+bedside glucose,171.0,mg/dL,6913.0
+bedside glucose,144.0,mg/dL,9477.0
+serum osmolality,309.0,mOsm/kg H2O,-5809.0
+serum osmolality,300.0,mOsm/kg H2O,-10094.0
+serum osmolality,312.0,mOsm/kg H2O,-7259.0
+serum osmolality,306.0,mOsm/kg H2O,-8663.0
+serum osmolality,317.0,mOsm/kg H2O,-4729.0
+serum osmolality,302.0,mOsm/kg H2O,-10719.0
+serum osmolality,311.0,mOsm/kg H2O,-7874.0
+serum osmolality,312.0,mOsm/kg H2O,-6154.0
+serum osmolality,302.0,mOsm/kg H2O,-9389.0
+serum osmolality,302.0,mOsm/kg H2O,-11038.0
+serum osmolality,300.0,mOsm/kg H2O,-444.0
+serum osmolality,321.0,mOsm/kg H2O,-5464.0
+serum osmolality,315.0,mOsm/kg H2O,-3929.0
+serum osmolality,314.0,mOsm/kg H2O,-3336.0
+serum osmolality,315.0,mOsm/kg H2O,-6317.0
+serum osmolality,297.0,mOsm/kg H2O,-10656.0
+serum osmolality,318.0,mOsm/kg H2O,-6879.0
+serum osmolality,302.0,mOsm/kg H2O,-9052.0
+serum osmolality,305.0,mOsm/kg H2O,-8229.0
+serum osmolality,311.0,mOsm/kg H2O,-7523.0
+serum osmolality,301.0,mOsm/kg H2O,-9679.0
+MPV,10.0,fL,-3614.0
+MPV,9.5,fL,3541.0
+MPV,9.3,fL,-5114.0
+MPV,9.4,fL,-2129.0
+MPV,8.7,fL,10816.0
+MPV,10.1,fL,2181.0
+MPV,9.5,fL,-599.0
+MPV,9.1,fL,-10719.0
+MPV,9.7,fL,-11418.0
+MPV,8.8,fL,7976.0
+MPV,9.2,fL,-619.0
+MPV,8.7,fL,9376.0
+MPV,9.5,fL,3583.0
+MPV,9.8,fL,-2098.0
+MPV,9.4,fL,-2098.0
+MPV,8.7,fL,-3550.0
+MPV,10.1,fL,2246.0
+MPV,8.7,fL,-5093.0
+MPV,9.5,fL,-6403.0
+MPV,9.1,fL,-10672.0
+MPV,8.7,fL,10911.0
+-polys,77.8,% ,-3614.0
+-polys,81.6,% ,-5114.0
+-polys,89.2,% ,2181.0
+-polys,94.8,% ,10816.0
+-polys,84.0,% ,7976.0
+-polys,92.0,% ,9376.0
+-polys,78.9,% ,-2129.0
+-polys,76.7,% ,-7874.0
+-polys,81.1,% ,-6403.0
+-polys,90.9,% ,3583.0
+-polys,82.3,% ,-11418.0
+-polys,81.0,% ,-10719.0
+-polys,82.3,% ,-11374.0
+-polys,77.1,% ,-10672.0
+-polys,84.0,% ,8183.0
+-polys,84.0,% ,8140.0
+-polys,90.9,% ,3541.0
+-polys,77.8,% ,-3550.0
+-polys,76.7,% ,-7838.0
+-polys,94.8,% ,10911.0
+-polys,81.0,% ,6603.0
+-polys,90.9,% ,3541.0
+-polys,77.1,% ,-10672.0
+-polys,81.0,% ,6603.0
+-polys,82.3,% ,-11374.0
+-polys,78.9,% ,-2098.0
+-polys,81.1,% ,-6403.0
+-polys,84.0,% ,8183.0
+-polys,84.0,% ,8140.0
+-polys,77.8,% ,-3550.0
+-polys,76.7,% ,-7838.0
+-polys,94.8,% ,10911.0
+-polys,77.8,% ,-3550.0
+-polys,81.0,% ,6603.0
+-polys,81.0,% ,6603.0
+-polys,82.3,% ,-11374.0
+-polys,78.9,% ,-2098.0
+-polys,81.1,% ,-6403.0
+-polys,84.0,% ,8183.0
+-polys,84.0,% ,8140.0
+-bands,4.0,% ,8183.0
+-bands,1.0,% ,6603.0
+-bands,4.0,% ,8140.0
+-bands,4.0,% ,8140.0
+-eos,0.3,% ,-2098.0
+-eos,0.2,% ,789.0
+-eos,0.2,% ,-3550.0
+-eos,0.4,% ,-2098.0
+-eos,0.2,% ,-5093.0
+-eos,0.3,% ,-6403.0
+-eos,0.2,% ,-10672.0
+-eos,0.2,% ,3583.0
+-eos,0.3,% ,-11374.0
+-eos,0.2,% ,-10672.0
+-eos,0.2,% ,3583.0
+-eos,0.3,% ,-11374.0
+-eos,0.2,% ,-10672.0
+-lymphs,14.3,% ,-7874.0
+-lymphs,5.0,% ,7976.0
+-lymphs,3.0,% ,9376.0
+-lymphs,11.5,% ,-6459.0
+-lymphs,10.6,% ,-2129.0
+-lymphs,8.0,% ,6526.0
+-lymphs,10.1,% ,-599.0
+-lymphs,4.1,% ,3583.0
+-lymphs,11.7,% ,-10672.0
+-lymphs,12.4,% ,-11418.0
+-lymphs,5.7,% ,2246.0
+-lymphs,8.6,% ,-7838.0
+-lymphs,7.0,% ,-10719.0
+-lymphs,7.0,% ,8183.0
+-lymphs,4.1,% ,3583.0
+-lymphs,11.5,% ,-6403.0
+-lymphs,11.7,% ,-10672.0
+-lymphs,12.4,% ,-11374.0
+-lymphs,10.1,% ,-599.0
+-lymphs,4.1,% ,3583.0
+-lymphs,8.0,% ,6603.0
+-lymphs,10.1,% ,-599.0
+-monos,8.9,% ,-5114.0
+-monos,4.9,% ,2246.0
+-monos,2.3,% ,10911.0
+-monos,11.1,% ,-599.0
+-monos,8.7,% ,-3550.0
+-monos,7.1,% ,-6403.0
+-monos,11.1,% ,-599.0
+-monos,8.7,% ,-3550.0
+-monos,7.1,% ,-6403.0
+-monos,8.7,% ,-3550.0
+-monos,2.3,% ,10911.0
+-monos,11.1,% ,-599.0
+-monos,4.8,% ,3583.0
+-monos,8.9,% ,-5093.0
+-monos,4.9,% ,2246.0
+-monos,2.3,% ,10911.0
+-monos,4.8,% ,3583.0
+-monos,8.9,% ,-5093.0
+-monos,8.7,% ,-3550.0
+-monos,4.9,% ,2181.0
+-monos,2.3,% ,10816.0
+-monos,7.0,% ,-6403.0
+-monos,11.1,% ,-599.0
+-monos,4.8,% ,3583.0
+-monos,5.0,% ,-11374.0
+-monos,8.7,% ,-3550.0
+-monos,8.7,% ,-3550.0
+-monos,5.0,% ,-11374.0
+-monos,8.6,% ,-7838.0
+-monos,4.9,% ,2181.0
+-monos,8.7,% ,-3550.0
+-polys,81.6,% ,-5093.0
+-polys,77.8,% ,-3614.0
+-polys,89.2,% ,2181.0
+-polys,94.8,% ,10816.0
+-polys,84.0,% ,7976.0
+-polys,92.0,% ,9376.0
+-polys,78.9,% ,-2129.0
+-polys,76.7,% ,-7874.0
+-polys,81.1,% ,-6403.0
+-polys,90.9,% ,3583.0
+-polys,82.3,% ,-11418.0
+-polys,81.0,% ,-10719.0
+-polys,82.3,% ,-11374.0
+-polys,77.1,% ,-10672.0
+-polys,84.0,% ,8183.0
+-polys,84.0,% ,8140.0
+-polys,90.9,% ,3541.0
+-polys,77.8,% ,-3550.0
+-polys,76.7,% ,-7838.0
+-polys,94.8,% ,10911.0
+-polys,81.0,% ,6603.0
+-polys,90.9,% ,3541.0
+-polys,77.1,% ,-10672.0
+-polys,81.0,% ,6603.0
+-polys,82.3,% ,-11374.0
+-polys,78.9,% ,-2098.0
+-polys,81.1,% ,-6403.0
+-polys,84.0,% ,8183.0
+-polys,84.0,% ,8140.0
+-polys,77.8,% ,-3550.0
+-polys,76.7,% ,-7838.0
+-polys,94.8,% ,10911.0
+-polys,77.8,% ,-3550.0
+-polys,81.0,% ,6603.0
+-polys,81.0,% ,6603.0
+-polys,82.3,% ,-11374.0
+-polys,78.9,% ,-2098.0
+-polys,81.1,% ,-6403.0
+-polys,84.0,% ,8183.0
+-polys,84.0,% ,8140.0
+-basos,0.2,% ,741.0
+-basos,0.5,% ,-5114.0
+-basos,0.2,% ,-3614.0
+-basos,0.4,% ,-2129.0
+-basos,0.0,% ,10911.0
+-basos,0.2,% ,-5093.0
+-basos,0.3,% ,-6403.0
+-basos,0.2,% ,-10672.0
+-basos,0.2,% ,-3550.0
+-basos,0.8,% ,-599.0
+-basos,0.2,% ,-2098.0
+-basos,0.4,% ,-2098.0
+-basos,0.3,% ,-11374.0
+-basos,0.2,% ,-10672.0
+-basos,0.2,% ,3583.0
+-basos,0.3,% ,-11374.0
+-basos,0.2,% ,-10672.0
+-basos,0.2,% ,3583.0
+-basos,0.2,% ,-10672.0
+-basos,0.3,% ,-11374.0
+-basos,0.2,% ,-2098.0
+-basos,0.3,% ,-6403.0
+-basos,0.2,% ,-10672.0
+-basos,0.2,% ,3583.0
+-basos,0.3,% ,-11374.0
+-basos,0.2,% ,-10672.0
+-basos,0.2,% ,-599.0
+-basos,0.2,% ,-3550.0
+-basos,0.5,% ,-5093.0
+-basos,0.2,% ,-3550.0
+-basos,0.3,% ,-6403.0
+-basos,0.2,% ,-10672.0
+-basos,0.2,% ,3583.0
+-basos,0.3,% ,-11374.0
+-basos,0.2,% ,-10672.0
+-basos,0.2,% ,-599.0
+-basos,0.2,% ,-3550.0
+-basos,0.5,% ,-5093.0
+-basos,0.2,% ,-3550.0
+-basos,0.3,% ,-6403.0
+-basos,0.2,% ,-10672.0
+-basos,0.2,% ,3583.0
+-basos,0.3,% ,-11374.0
+-basos,0.2,% ,-10672.0
+-basos,0.2,% ,-599.0
+-basos,0.2,% ,-3550.0
+-basos,0.5,% ,-5093.0
+-basos,0.2,% ,-3550.0
+-basos,0.3,% ,-6403.0
+-basos,0.2,% ,-10672.0
+-basos,0.2,% ,3583.0
+-basos,0.3,% ,-11374.0
+-basos,0.2,% ,-10672.0
+-basos,0.2,% ,-599.0
+-basos,0.2,% ,

@@ -1,0 +1,3 @@
+Time_Minutes_Post_Admission,Hemoglobin_g/dL,Hematocrit_percent,Platelets_K/mcL,WBC_K/mcL,BUN_mg/dL,Creatinine_mg/dL,Glucose_mg/dL,Sodium_mmol/L,Potassium_mmol/L,Chloride_mmol/L,Bicarbonate_mmol/L,Anion_gap_mmol/L,Magnesium_mg/dL,Lymphocytes_percent,Monocytes_percent,Eosinophils_percent,Basophils_percent,Polymorphonuclear_leukocytes_percent,RDW_percent,MCH_pg,MCHC_g/dL,RBC_M/mcL,PaO2_mmHg,PaCO2_mmHg,pH,HCO3_mmol/L,BaseExcess_mEq/L,O2_saturation_percent,FiO2_percent
+1063,12.0,35.2,160,16.3,11.0,0.7,144.0,138.0,4.0,104.0,26.0,12.0,1.9,4,8,0,0,88,14.2,31.0,34.1,3.87,,,,,,,
+2535,10.9,32.9,128,7.7,,,,,,,,,,9,16,1,0,74,14.3,30.5,33.1,3.57,,39.0,7.44,27.0,2.0,100.0,100.0

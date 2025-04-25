@@ -1,0 +1,81 @@
+Lab Test Name,Unit,Time Point,Lab Result Value
+WBC x 1000,K/mcL,Early,8.1
+WBC x 1000,K/mcL,Late,6.3
+RBC,M/mcL,Early,4.38
+RBC,M/mcL,Late,3.94
+Hgb,g/dL,Early,12.6
+Hgb,g/dL,Late,11.0
+Hct,%,Early,37.1
+Hct,%,Late,33.6
+Platelets x 1000,K/mcL,Early,276.0
+Platelets x 1000,K/mcL,Late,217.0
+MCV,fL,Early,85.0
+MCV,fL,Late,85.0
+MCH,pg,Early,29.0
+MCH,pg,Late,28.0
+MCHC,g/dL,Early,34.0
+MCHC,g/dL,Late,33.0
+-polys,%,Early,57.0
+-polys,%,Late,66.0
+-eos,%,Early,4.0
+-eos,%,Late,4.0
+-lymphs,%,Early,28.0
+-lymphs,%,Late,22.0
+-monos,%,Early,10.0
+-monos,%,Late,8.0
+-basos,%,Early,1.0
+-basos,%,Late,1.0
+PT,sec,Early,27.9
+PTT,sec,Early,61.9
+PT-INR,ratio,Early,2.6
+RDW,%,Early,14.7
+RDW,%,Late,14.5
+MPV,fL,Early,10.4
+MPV,fL,Late,10.4
+Chloride,mmol/L,Early,101.0
+Chloride,mmol/L,Late,107.0
+Calcium,mg/dL,Early,8.5
+Calcium,mg/dL,Late,8.6
+BUN,mg/dL,Early,29.0
+BUN,mg/dL,Late,27.0
+Glucose,mg/dL,Early,125.0
+Glucose,mg/dL,Late,84.0
+Anion gap,,Early,13.0
+Anion gap,,Late,9.0
+Creatinine,mg/dL,Early,1.6
+Creatinine,mg/dL,Late,1.3
+Total Bilirubin,mg/dL,Late,0.5
+Direct Bilirubin,mg/dL,Late,0.0
+Albumin,g/dL,Late,3.3
+Total Protein,g/dL,Late,6.4
+ALT (SGPT),Units/L,Late,22.0
+AST (SGOT),Units/L,Late,16.0
+Alkaline phos.,Units/L,Late,63.0
+TSH,mcU/ml,Early,6.98
+TSH,mcU/ml,Late,2.97
+Bedside Glucose,mg/dL,Early,107.0
+Bedside Glucose,mg/dL,Late,106.0
+Troponin - I,ng/mL,Early,0.03
+Troponin - I,ng/mL,Late,0.03
+CPK,Units/L,Early,42.0
+CPK-MB,ng/mL,Early,1.2
+Magnesium,mg/dL,Early,2.1
+Magnesium,mg/dL,Late,2.1
+Potassium,mmol/L,Early,4.6
+Potassium,mmol/L,Late,5.3
+Heart Rate,bpm,Early,84.0
+Heart Rate,bpm,Late,80.0
+Systolic Blood Pressure,mmHg,Early,125.0
+Systolic Blood Pressure,mmHg,Late,112.0
+Diastolic Blood Pressure,mmHg,Early,67.0
+Diastolic Blood Pressure,mmHg,Late,81.0
+Respiratory Rate,breaths/min,Early,21.0
+Respiratory Rate,breaths/min,Late,15.0
+Oxygen Saturation,%,Early,98.0
+Oxygen Saturation,%,Late,100.0
+Weight,kg,Admission,76.5
+Urine Output,mL,Admission,200.0
+Intake Total,mL,Admission,789.0
+Output Total,mL,Admission,200.0
+Dialysis Net,mL,Admission,0.0
+Total Net,mL,Admission,589.0

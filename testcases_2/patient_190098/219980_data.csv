@@ -1,0 +1,31 @@
+labid,patientunitstayid,labresultoffset,labtypeid,labname,labresult,labresulttext,labmeasurenamesystem,labmeasurenameinterface,labresultrevisedoffset
+44442427,219980,471,1,albumin,2.0,2.0,g/dL,g/dL,541
+49788094,219980,471,3,MCV,82.5,82.5,fL,fl,529
+44442428,219980,471,1,bicarbonate,32.0,32.0,mmol/L,mmol/L,541
+49788091,219980,471,3,-polys,41.0,41.0,%,%,568
+44442429,219980,471,1,total protein,5.1,5.1,g/dL,g/dL,541
+49788089,219980,471,3,-lymphs,35.0,35.0,%,%,568
+44442425,219980,471,1,AST (SGOT),10.0,10.0,Units/L,Units/L,541
+49788097,219980,471,3,RDW,15.5,15.5,%,%,529
+44442431,219980,471,1,ALT (SGPT),15.0,15.0,Units/L,Units/L,541
+49788100,219980,471,3,MCHC,33.1,33.1,g/dL,g/dL,529
+44442434,219980,471,1,BUN,24.0,24.0,mg/dL,mg/dL,541
+49788098,219980,471,3,MCH,27.3,27.3,pg,pg,529
+44442426,219980,471,1,sodium,124.0,124.0,mmol/L,mmol/L,541
+49788099,219980,471,3,-monos,6.0,6.0,%,%,568
+44442422,219980,471,1,creatinine,1.04,1.04,mg/dL,mg/dL,541
+49788101,219980,471,3,platelets x 1000,209.0,209.0,K/mcL,K/mcL,529
+44442421,219980,471,1,potassium,4.9,4.9,mmol/L,mmol/L,541
+49788092,219980,471,3,Hct,29.6,29.6,%,%,529
+44442420,219980,471,1,total bilirubin,0.3,0.3,mg/dL,mg/dL,541
+49788095,219980,471,3,Hgb,9.8,9.8,g/dL,g/dL,529
+44442433,219980,471,1,chloride,88.0,88.0,mmol/L,mmol/L,541
+49788096,219980,471,3,WBC x 1000,14.0,14.0,K/mcL,K/mcL,529
+44442423,219980,471,1,alkaline phos.,84.0,84.0,Units/L,Units/L,541
+49788090,219980,471,3,RBC,3.59,3.59,M/mcL,mil/mcL,529
+44442430,219980,471,1,calcium,8.1,8.1,mg/dL,mg/dL,541
+57987190,219980,518,4,bedside glucose,77.0,77.0,mg/dL,mg/dL,528
+44442424,219980,471,1,anion gap,9.0,9.0,,mmol/L,541
+49788093,219980,471,3,-eos,3.0,3.0,%,%,568
+44442432,219980,471,1,glucose,78.0,78.0,mg/dL,mg/dL,541
+45127579,219980,471,1,magnesium,1.9,1.9,mg/dL,mg/dL,541

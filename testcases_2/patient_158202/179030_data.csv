@@ -1,0 +1,52 @@
+Lab Name,Result,Unit,Time Offset (minutes)
+Chloride,100.0,mmol/L,-159
+Chloride,103.0,mmol/L,1699
+Calcium,8.9,mg/dL,-159
+Calcium,8.7,mg/dL,1699
+BUN,15.0,mg/dL,-159
+BUN,31.0,mg/dL,1699
+Anion Gap,17.0,mmol/L,-159
+Anion Gap,7.0,mmol/L,1699
+ALT (SGPT),13.0,Units/L,-159
+AST (SGOT),23.0,Units/L,-159
+Glucose,127.0,mg/dL,-159
+Glucose,135.0,mg/dL,1699
+Total bilirubin,1.2,mg/dL,-159
+Potassium,4.6,mmol/L,-159
+Potassium,4.3,mmol/L,1699
+Bicarbonate,24.0,mmol/L,-159
+Bicarbonate,32.0,mmol/L,1699
+Creatinine,0.94,mg/dL,-159
+Creatinine,0.98,mg/dL,1699
+Albumin,3.5,g/dL,-159
+Alkaline Phos.,116.0,Units/L,-159
+Sodium,136.0,mmol/L,-159
+Sodium,138.0,mmol/L,1699
+RBC,5.27,M/mcL,239
+-monos,1.0,%,239
+Hgb,11.3,g/dL,239
+-basos,0.0,%,239
+Total CO2,21.0,mmol/L,-149
+Troponin - I,0.1,ng/mL,239
+Troponin - I,0.06,ng/mL,949
+Troponin - I,0.07,ng/mL,581
+Platelets x 1000,158.0,K/mcL,239
+TSH,0.902,mcU/ml,239
+MCHC,31.6,g/dL,239
+MCV,67.9,fL,239
+RDW,21.2,%,239
+-polys,91.0,%,239
+Potassium,4.1,mmol/L,239
+BUN,18.0,mg/dL,239
+Chloride,102.0,mmol/L,239
+Calcium,8.9,mg/dL,239
+Glucose,144.0,mg/dL,239
+Bicarbonate,27.0,mmol/L,239
+Creatinine,1.0,mg/dL,239
+Sodium,140.0,mmol/L,239
+-eos,0.0,%,239
+Magnesium,1.6,mg/dL,239
+Magnesium,2.1,mg/dL,1667
+-lymphs,8.0,%,239
+Anion Gap,15.0,mmol/L,239
+WBC x 1000,6.1,K/mcL,239

@@ -1,0 +1,64 @@
+LabName,TimeOffset,LabResult,Unit
+platelets x 1000,-92,197.0,K/mcL
+platelets x 1000,1627,165.0,K/mcL
+WBC x 1000,-92,14.2,K/mcL
+WBC x 1000,1627,10.3,K/mcL
+MCHC,-92,32.4,g/dL
+MCHC,1627,33.6,g/dL
+Hgb,-92,13.3,g/dL
+Hgb,1627,12.5,g/dL
+RBC,-92,4.28,M/mcL
+RBC,1627,3.93,M/mcL
+MCV,-92,96.0,fL
+MCV,1627,94.6,fL
+RDW,-92,12.3,%
+RDW,1627,12.4,%
+-monos,-92,6.1,%
+-monos,1627,9.5,%
+-eos,-92,1.4,%
+-eos,1627,0.8,%
+-basos,-92,0.3,%
+-basos,1627,0.7,%
+-polys,-92,78.5,%
+-polys,1627,71.4,%
+-lymphs,-92,13.7,%
+-lymphs,1627,17.6,%
+MPV,-92,9.0,fL
+MPV,1627,9.1,fL
+BUN,-92,49.0,mg/dL
+BUN,1627,51.0,mg/dL
+Creatinine,-92,2.0,mg/dL
+Creatinine,1627,1.8,mg/dL
+Ionized calcium,-92,5.3,mg/dL
+Calcium,1627,9.9,mg/dL
+Bicarbonate,-92,17.0,mmol/L
+Bicarbonate,1627,25.0,mmol/L
+Chloride,-92,107.0,mmol/L
+Chloride,1627,105.0,mmol/L
+Glucose,-92,186.0,mg/dL
+Glucose,1627,159.0,mg/dL
+Potassium,-92,5.1,mmol/L
+Potassium,1627,3.3,mmol/L
+Sodium,-92,137.0,mmol/L
+Sodium,1627,142.0,mmol/L
+Anion gap,1627,12.0,
+Total bilirubin,264,0.6,mg/dL
+Direct bilirubin,264,0.2,mg/dL
+Albumin,264,3.6,g/dL
+Total protein,264,6.4,g/dL
+ALT (SGPT),264,21.0,IU/L
+AST (SGOT),264,15.0,IU/L
+Alkaline phos.,264,75.0,IU/L
+Troponin - I,264,0.03,ng/mL
+Troponin - I,-92,0.03,ng/mL
+Troponin - I,664,0.02,ng/mL
+PT,-92,10.6,sec
+PT - INR,-92,0.9,ratio
+BNP,-92,2860.0,pg/mL
+BNP,1627,2190.0,pg/mL
+Glucose,1073,167.0,mg/dL
+Glucose,1799,181.0,mg/dL
+Glucose,563,201.0,mg/dL
+Glucose,904,200.0,mg/dL
+Glucose,335,171.0,mg/dL
+Free T4,264,1.15,ng/dL

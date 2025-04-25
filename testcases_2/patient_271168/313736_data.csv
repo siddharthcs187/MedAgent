@@ -1,0 +1,16 @@
+patientunitstayid,diagnosisstring,icd9code,diagnosispriority,activeupondischarge,treatmentoffset,treatmentstring,activeupondischarge_treatment
+cardiovascular|vascular disorders|hypertension,401.9, I10,Major,True,87,cardiovascular|intravenous fluid|normal saline administration|fluid bolus (250-1000mls),False
+cardiovascular|vascular disorders|hypertension,401.9, I10,Major,False,87,cardiovascular|intravenous fluid|normal saline administration|fluid bolus (250-1000mls),False
+cardiovascular|shock / hypotension|dehydration,276.51, E86.0,Major,True,87,cardiovascular|intravenous fluid|normal saline administration|fluid bolus (250-1000mls),False
+endocrine|glucose metabolism|DKA,250.13, E10.1,Primary,False,87,cardiovascular|intravenous fluid|normal saline administration|fluid bolus (250-1000mls),False
+gastrointestinal|esophageal disease|esophagitis|regurgitant,530.11, K21.0,Major,True,87,cardiovascular|intravenous fluid|normal saline administration|fluid bolus (250-1000mls),False
+endocrine|glucose metabolism|diabetes mellitus|Type I|uncontrolled,250.03, E10.65,Major,True,87,endocrine|glucose metabolism|insulin|continuous infusion,False
+gastrointestinal|esophageal disease|esophagitis|regurgitant,530.11, K21.0,Other,False,87,endocrine|glucose metabolism|insulin|continuous infusion,False
+endocrine|glucose metabolism|diabetes mellitus|Type I|uncontrolled,250.03, E10.65,Major,False,87,endocrine|glucose metabolism|insulin|continuous infusion,False
+cardiovascular|vascular disorders|hypertension,401.9, I10,Major,False,87,gastrointestinal|medications|stress ulcer prophylaxis|pantoprazole,False
+cardiovascular|shock / hypotension|dehydration,276.51, E86.0,Other,False,87,gastrointestinal|medications|stress ulcer prophylaxis|pantoprazole,False
+endocrine|glucose metabolism|DKA,250.13, E10.1,Primary,False,87,gastrointestinal|medications|stress ulcer prophylaxis|pantoprazole,False
+endocrine|glucose metabolism|diabetes mellitus, ,Major,False,87,gastrointestinal|medications|stress ulcer prophylaxis|pantoprazole,False,
+gastrointestinal|abdominal/ general|nausea|with vomiting,787.01, R11.2,Major,True,1991,cardiovascular|arrhythmias|electrolyte administration|potassium,False
+endocrine|glucose metabolism|DKA,250.13, E10.1,Primary,True,1991,cardiovascular|arrhythmias|electrolyte administration|potassium,False
+gastrointestinal|abdominal/ general|nausea|with vomiting,787.01, R11.2,Other,False,1991,cardiovascular|arrhythmias|electrolyte administration|potassium,False

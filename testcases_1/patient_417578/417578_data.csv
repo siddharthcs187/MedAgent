@@ -1,0 +1,44 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+WBC x 1000,6.7,K/mcL,207
+chloride,105.0,mmol/L,207
+RBC,4.89,M/mcL,207
+calcium,9.5,mg/dL,207
+MCH,30.0,pg,207
+bicarbonate,22.0,mmol/L,1667
+creatinine,1.03,mg/dL,1667
+glucose,102.0,mg/dL,1667
+potassium,3.4,mmol/L,1667
+BUN,18.0,mg/dL,1667
+chloride,106.0,mmol/L,1667
+-basos,1.0,%,1667
+potassium,3.8,mmol/L,207
+MCH,31.0,pg,1667
+MCV,92.0,fL,207
+-monos,7.0,%,1667
+PT,54.8,sec,3077
+-lymphs,37.0,%,1667
+PT - INR,2.0,ratio,5919
+platelets x 1000,195.0,K/mcL,1667
+sodium,137.0,mmol/L,207
+RDW,14.6,%,1667
+Hgb,14.2,g/dL,1667
+Hct,42.7,%,1667
+-polys,53.0,%,1667
+PT,22.0,sec,5919
+PT - INR,2.4,ratio,4560
+PT,26.8,sec,4560
+PT - INR,4.7,ratio,3077
+WBC x 1000,6.9,K/mcL,1667
+magnesium,1.42,mg/dL,207
+MCV,92.0,fL,1667
+-eos,2.0,%,1667
+Hgb,14.9,g/dL,207
+Hct,44.9,%,207
+RDW,14.5,%,207
+platelets x 1000,166.0,K/mcL,207
+BUN,11.0,mg/dL,207
+glucose,135.0,mg/dL,207
+sodium,137.0,mmol/L,207
+bicarbonate,21.0,mmol/L,207
+calcium,9.3,mg/dL,1667
+creatinine,0.77,mg/dL,207

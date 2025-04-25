@@ -1,0 +1,52 @@
+LabName,LabResultOffset,LabResult,LabMeasureNameInterface
+BUN,-84,18.0,mg/dL
+BUN,439,17.0,mg/dL
+BUN,1891,18.0,mg/dL
+BUN,4757,17.0,mg/dL
+glucose,-84,115.0,mg/dL
+glucose,439,91.0,mg/dL
+glucose,3319,109.0,mg/dL
+glucose,776,110.0,mg/dL
+glucose,3657,121.0,mg/dL
+glucose,2760,129.0,mg/dL
+glucose,3971,189.0,mg/dL
+glucose,4414,121.0,mg/dL
+glucose,4757,125.0,mg/dL
+creatinine,-84,1.07,mg/dL
+creatinine,439,1.09,mg/dL
+creatinine,1891,1.21,mg/dL
+creatinine,3319,1.28,mg/dL
+creatinine,4757,1.29,mg/dL
+potassium,-84,4.0,mmol/L
+potassium,439,3.6,mmol/L
+potassium,1891,3.4,mmol/L
+potassium,3319,3.2,mmol/L
+potassium,4757,3.6,mmol/L
+sodium,-84,143.0,mmol/L
+sodium,439,142.0,mmol/L
+sodium,1891,141.0,mmol/L
+sodium,4757,140.0,mmol/L
+chloride,-84,105.0,mmol/L
+chloride,439,105.0,mmol/L
+chloride,1891,101.0,mmol/L
+chloride,3319,98.0,mmol/L
+chloride,4757,97.0,mmol/L
+calcium,-84,8.2,mg/dL
+calcium,439,8.0,mg/dL
+calcium,1891,8.4,mg/dL
+calcium,4757,8.4,mg/dL
+Hgb,-84,11.6,g/dL
+Hgb,439,10.8,g/dL
+Hgb,4757,10.8,g/dL
+Hct,-84,38.3,%
+Hct,439,35.1,%
+Hct,4757,35.4,%
+platelets,-84,398.0,K/MM3
+platelets,439,382.0,K/MM3
+platelets,4757,313.0,K/MM3
+AST (SGOT),-84,25.0,U/L
+ALT (SGPT),-84,25.0,U/L
+anion gap,-84,9.0, 
+anion gap,439,7.0,
+anion gap,1891,6.0,
+anion gap,4757,6.0,

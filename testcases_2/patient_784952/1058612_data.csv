@@ -1,0 +1,7 @@
+Vital Sign,Current Value,Lowest Value,Highest Value,Units
+Heart Rate,56.0,51.0,74.0,bpm
+Systolic Blood Pressure,102.0,94.0,102.0,mmHg
+Diastolic Blood Pressure,59.0,54.0,65.0,mmHg
+Respiratory Rate,19.0,15.0,22.0,breaths/min
+Oxygen Saturation,95.0,94.0,100.0,%
+Weight,71.3,,,kg

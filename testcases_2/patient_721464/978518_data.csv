@@ -1,0 +1,8 @@
+TimeOffset,Sodium,Potassium,Chloride,Bicarbonate,BUN,Creatinine,Calcium,Magnesium,Glucose,AnionGap,Hemoglobin,Hematocrit,Platelets,WBC
+45,137,4.1,102,30,29,2.26,13.5,1.3,97,5.0,11.1,33.7,133,3.5
+1456,142,4.1,108,28,26,2.17,11,1.4,86,6.0,10.4,31.7,128,4.2
+3529,140,3.6,108,24,25,1.83,10.6,1.2,99,8.0,10.4,31.3,114,3.4
+4511,140,3.5,109,23,22,1.69,10.1,1.7,91,8.0,10.4,31.3,114,3.4
+5796,141,3.4,108,21,19,1.64,9.9,1.2,96,12.0,,,,
+7238,139,3.6,106,25,22,1.64,9.7,1.7,101,8.0,,,,
+Units,mmol/L,mmol/L,mmol/L,mmol/L,mg/dL,mg/dL,mg/dL,mg/dL,mg/dL,,g/dL,%,K/mcL,K/mcL

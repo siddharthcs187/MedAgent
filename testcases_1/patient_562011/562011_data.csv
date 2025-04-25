@@ -1,0 +1,75 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+sodium,145,mmol/L,1652
+albumin,2.9,g/dL,1652
+glucose,138,mg/dL,1652
+bicarbonate,23,mmol/L,1652
+calcium,7.9,mg/dL,1652
+AST (SGOT),19,Units/L,1652
+platelets x 1000,167,K/mcL,1652
+chloride,114,mmol/L,1652
+MPV,10,fL,1652
+ALT (SGPT),34,Units/L,1652
+RBC,5.27,M/mcL,1652
+creatinine,1.01,mg/dL,1652
+ALT (SGPT),38,Units/L,897
+calcium,7.9,mg/dL,897
+glucose,125,mg/dL,897
+chloride,113,mmol/L,897
+BUN,8,mg/dL,897
+MCH,29.4,pg,1652
+Hct,44.1,%,1652
+BUN,8,mg/dL,1652
+potassium,3.6,mmol/L,1652
+platelets x 1000,169,K/mcL,897
+MCH,29.3,pg,897
+MPV,10,fL,897
+Hgb,16.2,g/dL,897
+MCV,82,fL,897
+RDW,13.7,%,897
+WBC x 1000,8.9,K/mcL,897
+AST (SGOT),27,Units/L,897
+alkaline phos.,61,Units/L,897
+Hgb,15.5,g/dL,1652
+MCHC,35.5,g/dL,897
+RDW,13.9,%,1652
+WBC x 1000,8.7,K/mcL,1652
+MCV,84,fL,1652
+PT,13.6,sec,897
+PT - INR,1,ratio,897
+albumin,3.2,g/dL,897
+total protein,6.5,g/dL,897
+total bilirubin,0.7,mg/dL,897
+potassium,4,mmol/L,897
+anion gap,6, ,897
+creatinine,0.93,mg/dL,897
+platelets x 1000,192,K/mcL,-515
+MCH,29.8,pg,-515
+RBC,5.63,M/mcL,-515
+MCHC,36.6,g/dL,-515
+Hct,45.9,%,-515
+Hgb,16.8,g/dL,-515
+MCV,82,fL,-515
+RDW,13,%,-515
+WBC x 1000,5,K/mcL,-515
+AST (SGOT),18,Units/L,-515
+chloride,113,mmol/L,-515
+BUN,7,mg/dL,-515
+glucose,107,mg/dL,-515
+albumin,3.4,g/dL,-515
+calcium,8.6,mg/dL,-515
+bicarbonate,24,mmol/L,-515
+total protein,6.4,g/dL,-515
+anion gap,6, ,-515
+total bilirubin,0.5,mg/dL,-515
+potassium,3.9,mmol/L,-515
+MPV,10.2,fL,-515
+Acetaminophen, ,mcg/mL,-515
+ethanol, ,mg/dL,-515
+phosphate,2.3,mg/dL,1652
+lactate,1.7,mmol/L,1652
+magnesium,1.6,mg/dL,1652
+ammonia,18,mcg/dL,137
+alkaline phos.,57,Units/L,1652
+bedside glucose,123,mg/dL,3
+anion gap,8, ,1652
+ALT (SGPT),34,Units/L,-163

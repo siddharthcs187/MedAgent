@@ -1,0 +1,29 @@
+Diagnosis,ICD9 Code,Diagnosis Priority,Active Upon Discharge
+401.9, I10,Other,False
+272.4, E78.5,Other,True
+786.50, R07.9,Major,False
+410.71, I21.4,Primary,True
+401.9, I10,Other,True
+786.50, R07.9,Major,False
+786.50, R07.9,Major,False
+786.50, R07.9,Major,True
+599.0, N39.0,Major,False
+410.71, I21.4,Primary,False
+410.71, I21.4,Primary,False
+599.0, N39.0,Major,True
+410.71, I21.4,Primary,False
+Lab Result,Units,,
+142,mg/dL,,
+130,mmol/L,,
+15,mg/dL,,
+3.7,g/dL,,
+0.8,mg/dL,,
+36.6,% ,,
+7.7,K/mcL,,
+21,% ,,
+Minimum,Maximum,Current,
+75,83,75,
+96,110,96,
+46,55,46,
+14,25,15,
+95,96,96,

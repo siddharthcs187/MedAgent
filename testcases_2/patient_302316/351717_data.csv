@@ -1,0 +1,11 @@
+LabValue,TimeOffset(minutes),Result,Unit
+Sodium,-209,140.0,mEq/L
+Albumin,-209,2.5,g/dL
+Glucose,-209,107.0,mg/dL
+BUN,-209,11.0,mg/dL
+total bilirubin,-209,4.4,mg/dL
+Creatinine,-209,1.8,mg/dL
+FiO2,66,28.0,%
+Hct,-209,24.5,%
+ammonia,-209,121.0,mcg/dL
+WBC x 1000,-209,10.8,K/mcL

@@ -1,0 +1,66 @@
+LabName,LabResult,LabMeasureNameInterface,LabResultOffset(minutes)
+chloride,109.0,mmol/L,-52
+bicarbonate,23.0,mmol/L,333
+total protein,4.2,g/dL,-52
+AST (SGOT),14.0,Units/L,-52
+ALT (SGPT),11.0,Units/L,-52
+total protein,4.5,g/dL,333
+anion gap,8.0,mmol/L,-52
+alkaline phos.,57.0,Units/L,333
+sodium,139.0,mmol/L,-52
+anion gap,9.0,mmol/L,333
+alkaline phos.,54.0,Units/L,-52
+sodium,137.0,mmol/L,333
+potassium,4.3,mmol/L,-52
+calcium,7.5,mg/dL,333
+creatinine,1.1,mg/dL,-52
+total bilirubin,0.4,mg/dL,333
+albumin,2.0,g/dL,-52
+potassium,4.5,mmol/L,333
+calcium,6.7,mg/dL,-52
+chloride,110.0,mmol/L,333
+bicarbonate,26.0,mmol/L,-52
+albumin,2.2,g/dL,333
+platelets x 1000,119.0,K/mcL,-52
+glucose,108.0,mg/dL,-52
+Hgb,7.6,g/dL,333
+MCHC,30.4,g/dL,-52
+WBC x 1000,12.8,K/mcL,333
+RDW,17.2,%,333
+-polys,88.0,%,-52
+MCV,91.0,fl,333
+total bilirubin,0.1,mg/dL,-52
+MCH,29.7,pg,333
+-lymphs,7.0,%,-52
+-monos,3.0,%,333
+BUN,21.0,mg/dL,333
+MCHC,32.6,g/dL,333
+Hct,12.5,%,-52
+-polys,85.0,%,333
+BUN,24.0,mg/dL,-52
+-basos,0.0,%,333
+Hgb,10.1,g/dL,3303
+RBC,2.56,mil/mcL,333
+-lymphs,12.0,%,333
+Hct,31.2,%,2311
+Hgb,10.6,g/dL,1353
+PT - INR,1.1,ratio,-52
+-basos,0.0,%,-52
+-eos,0.0,%,333
+PT,11.1,sec,-52
+Hgb,10.3,g/dL,2311
+potassium,4.3,mmol/L,1785
+bicarbonate,24.0,mmol/L,1785
+creatinine,1.1,mg/dL,1785
+calcium,8.1,mg/dL,1785
+glucose,91.0,mg/dL,1785
+Hgb,9.7,g/dL,2787
+Hct,29.4,%,2787
+Hgb,9.1,g/dL,588
+sodium,142.0,mmol/L,1785
+anion gap,11.0,mmol/L,1785
+chloride,111.0,mmol/L,1785
+Hgb,9.7,g/dL,1785
+Hct,29.0,%,1785
+Hct,28.3,%,874
+Hgb,9.6,g/dL,874

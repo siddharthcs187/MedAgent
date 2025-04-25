@@ -1,0 +1,82 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+Hct,34.4,%,216
+MCV,86.9,fL,216
+RBC,3.96,M/mcL,216
+-polys,80,%,216
+Hgb,11.2,g/dL,216
+-lymphs,14,%,216
+-monos,5,%,216
+WBC x 1000,12.7,K/mcL,216
+RDW,14.7,%,216
+MCHC,32.6,g/dL,216
+MCH,28.3,pg,216
+platelets x 1000,197,K/mcL,216
+troponin - I,0.09,ng/mL,-547
+chloride,100,mmol/L,-547
+BUN,86,mg/dL,-547
+HCO3,22,mmol/L,-219
+paCO2,32,mm Hg,-219
+paO2,88,mm Hg,-219
+pH,7.44,,-219
+Base Deficit,1,mEq/L,-219
+TSH,1.93,mcU/ml,-547
+albumin,3.4,g/dL,-547
+Acetaminophen,<2,mcg/mL,-547
+PT - INR,2.3,ratio,-547
+PTT,28,sec,-547
+lactate,0.4,mmol/L,-547
+ALT (SGPT),1964,Units/L,-547
+AST (SGOT),1859,Units/L,-547
+alkaline phos.,145,Units/L,-547
+sodium,140,mmol/L,-547
+magnesium,1.7,mg/dL,-547
+PT,24.6,sec,-547
+urinary specific gravity,>1.030,,-574
+urinary creatinine,96.33,mg/dL,2756
+urinary sodium,7,mmol/L,2756
+ammonia,7.8,mcg/dL,2691
+CPK,81,Units/L,2691
+WBC x 1000,17.5,K/mcL,1786
+RDW,15.3,%,1786
+Hgb,12,g/dL,1786
+Hct,37.5,%,1786
+MCV,88.4,fL,1786
+MCHC,32,g/dL,1786
+platelets x 1000,175,K/mcL,1786
+MCH,28.3,pg,1786
+RBC,4.24,M/mcL,1786
+potassium,5.1,mmol/L,1786
+total bilirubin,1,mg/dL,1786
+calcium,7,mg/dL,1786
+BUN,69,mg/dL,1786
+ALT (SGPT),979,Units/L,1786
+creatinine,2.19,mg/dL,1786
+chloride,104,mmol/L,1786
+sodium,134,mmol/L,1786
+alkaline phos.,159,Units/L,1786
+AST (SGOT),352,Units/L,1786
+total protein,5.5,g/dL,1786
+anion gap,16,,1786
+glucose,123,mg/dL,1786
+lactate,5.2,mmol/L,2881
+PT,25.2,sec,3216
+PT - INR,2.4,ratio,3216
+RBC,4.05,M/mcL,3216
+WBC x 1000,24.1,K/mcL,3216
+RDW,15.3,%,3216
+Hgb,11.4,g/dL,3216
+MCV,88.6,fL,3216
+MCHC,31.8,g/dL,3216
+platelets x 1000,143,K/mcL,3216
+MCH,28.1,pg,3216
+alkaline phos.,151,Units/L,3216
+AST (SGOT),1370,Units/L,3216
+creatinine,2.86,mg/dL,3216
+chloride,106,mmol/L,3216
+glucose,130,mg/dL,3216
+albumin,2.6,g/dL,3216
+total bilirubin,1.4,mg/dL,3216
+sodium,137,mmol/L,3216
+anion gap,23,,3216
+calcium,6.9,mg/dL,3216
+total protein,5.5,g/dL,3216

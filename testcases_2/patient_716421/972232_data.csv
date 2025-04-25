@@ -1,0 +1,184 @@
+LabName,LabResult,Units,TimeOffsetMinutes
+Anion gap,9.0,mmol/L,1724
+Anion gap,8.0,mmol/L,7305
+WBC x 1000,9.7,K/mcL,-1741
+WBC x 1000,8.9,K/mcL,5983
+AST (SGOT),62.0,Units/L,7305
+AST (SGOT),76.0,Units/L,1724
+ALT (SGPT),33.0,Units/L,1724
+ALT (SGPT),52.0,Units/L,7305
+RBC,4.14,M/mcL,-1741
+RBC,3.2,M/mcL,5983
+BUN,22.0,mg/dL,7305
+BUN,15.0,mg/dL,1724
+total bilirubin,0.9,mg/dL,1724
+total bilirubin,0.5,mg/dL,7305
+Creatinine,1.19,mg/dL,7305
+Creatinine,1.16,mg/dL,1724
+-basos,1.1,%,-1741
+-basos,0.2,%,4468
+-basos,0.7,%,1724
+-basos,0.8, %,8747
+-basos,0.7, %,3093
+-basos,0.6, %,7305
+platelets x 1000,250.0,K/mcL,4468
+platelets x 1000,244.0,K/mcL,5983
+platelets x 1000,292.0,K/mcL,1724
+platelets x 1000,224.0,K/mcL,8747
+platelets x 1000,258.0,K/mcL,3093
+platelets x 1000,234.0,K/mcL,7305
+platelets x 1000,299.0,K/mcL,144
+Hgb,13.3,g/dL,-1741
+Hgb,10.6,g/dL,5983
+Hgb,11.9,g/dL,1724
+Hgb,9.1,g/dL,8747
+Hgb,10.8,g/dL,3093
+Hgb,9.7,g/dL,7305
+Hgb,12.2,g/dL,144
+Hgb,11.0,g/dL,4468
+Hct,41.5,%,-1741
+Hct,32.3,%,5983
+Hct,36.6,%,1724
+Hct,29.0,%,8747
+Hct,33.3,%,3093
+Hct,29.5,%,7305
+Hct,36.7,%,144
+Hct,33.2,%,4468
+potassium,3.6,mmol/L,7305
+potassium,3.7,mmol/L,1724
+potassium,3.7,mmol/L,-1741
+potassium,3.7,mmol/L,8747
+potassium,3.4,mmol/L,3093
+potassium,4.2,mmol/L,5983
+chloride,106.0,mmol/L,1724
+chloride,107.0,mmol/L,7305
+chloride,106.0,mmol/L,8747
+chloride,109.0,mmol/L,3093
+chloride,107.0,mmol/L,4468
+chloride,99.0,mmol/L,-1741
+sodium,140.0,mmol/L,7305
+sodium,139.0,mmol/L,1724
+sodium,139.0,mmol/L,8747
+sodium,141.0,mmol/L,3093
+sodium,140.0,mmol/L,4468
+sodium,136.0,mmol/L,-1741
+calcium,7.5,mg/dL,7305
+calcium,7.4,mg/dL,1724
+calcium,7.5,mg/dL,8747
+calcium,7.5,mg/dL,3093
+calcium,7.6,mg/dL,5983
+calcium,7.6,mg/dL,4468
+magnesium,1.9,mg/dL,7305
+RDW,12.4,%,4468
+RDW,12.7,%,5983
+RDW,12.7,%,1724
+RDW,12.9,%,8747
+RDW,12.5,%,3093
+RDW,12.8,%,7305
+RDW,12.2,%,144
+RDW,12.6,%,-1741
+MCV,100.8,fL,5983
+MCV,101.5,fL,1724
+MCV,101.1,fL,8747
+MCV,101.3,fL,3093
+MCV,101.5,fL,7305
+MCV,99.7,fL,144
+MCV,99.8,fL,4468
+MCV,100.2,fL,-1741
+MCH,33.2,pg,5983
+MCH,32.9,pg,1724
+MCH,31.8,pg,8747
+MCH,32.7,pg,3093
+MCH,33.4,pg,7305
+MCH,33.2,pg,144
+MCH,33.0,pg,4468
+MCH,32.9,pg,1724
+MCH,32.0,pg,-1741
+-monos,12.8,%,4468
+-monos,14.2,%,5983
+-monos,13.6,%,1724
+-monos,16.1,%,8747
+-monos,12.2,%,3093
+-monos,15.6,%,7305
+-monos,10.5,%,-1741
+-monos,13.3,%,1724
+-monos,10.5,%,-1741
+-polys,63.6,%,4468
+-polys,65.2,%,5983
+-polys,66.9,%,1724
+-polys,59.1,%,8747
+-polys,63.2,%,3093
+-polys,67.3,%,7305
+-polys,70.5,%,-1741
+-lymphs,16.4,%,-1741
+-lymphs,22.0,%,4468
+-lymphs,17.1,%,1724
+-lymphs,21.0,%,8747
+-lymphs,22.2,%,3093
+-lymphs,14.6,%,7305
+-lymphs,17.2,%,5983
+-lymphs,22.0,%,4468
+-eos,1.4,%,4468
+-eos,2.7,%,5983
+-eos,1.7,%,1724
+-eos,3.0,%,8747
+-eos,1.7,%,3093
+-eos,1.9,%,7305
+-eos,1.5,%,-1741
+PT,22.6,sec,144
+PT,18.1,sec,1724
+PT,33.8,sec,10380
+PT,45.5,sec,8747
+PT,16.4,sec,6316
+PT,26.4,sec,-1264
+PT,24.5,sec,-1741
+PT,35.2,sec,7305
+PT,14.8,sec,5659
+PT,59.2,sec,538
+PT,40.7,sec,1724
+PT,100.7,sec,-342
+PT,164.3,sec,-1264
+PT - INR,2.0,ratio,144
+PT - INR,1.6,ratio,1724
+PT - INR,3.0,ratio,10380
+PT - INR,4.0,ratio,8747
+PT - INR,1.4,ratio,6316
+PT - INR,2.3,ratio,-1264
+PT - INR,2.1,ratio,-1741
+PT - INR,3.1,ratio,7305
+PT - INR,1.3,ratio,5659
+PTT,53.0,sec,144
+PTT,40.7,sec,1724
+PTT,34.8,sec,-1741
+PTT,100.7,sec,-342
+PTT,55.8,sec,873
+PTT,138.0,sec,-797
+PTT,164.3,sec,-1264
+MPV,8.0,fL,4468
+MPV,7.9,fL,5983
+MPV,7.4,fL,1724
+MPV,7.9,fL,8747
+MPV,7.8,fL,3093
+MPV,8.2,fL,7305
+MPV,7.4,fL,144
+MPV,7.5,fL,-1741
+Albumin,2.7,g/dL,1724
+Albumin,2.5,g/dL,7305
+Albumin,2.4,g/dL,8747
+Albumin,2.5,g/dL,3093
+Albumin,2.3,g/dL,5983
+Albumin,2.6,g/dL,4468
+Total protein,5.3,g/dL,7305
+Total protein,5.9,g/dL,1724
+Total protein,5.4,g/dL,8747
+Total protein,5.5,g/dL,3093
+Total protein,5.3,g/dL,5983
+Total protein,5.6,g/dL,4468
+Glucose,108.0,mg/dL,7305
+Glucose,82.0,mg/dL,1724
+Glucose,88.0,mg/dL,8747
+Glucose,82.0,mg/dL,3093
+Glucose,86.0,mg/dL,5983
+Glucose,81.0,mg/dL,4468
+Glucose,132.0,mg/dL,-1572
+Ionized calcium,4.4,mg/dL,-1741

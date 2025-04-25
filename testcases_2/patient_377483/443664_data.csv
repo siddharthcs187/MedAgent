@@ -1,0 +1,428 @@
+Lab_Test,Time_Offset_Minutes,Result,Unit
+Hgb,-261,11.4,g/dL
+-lymphs,-261,11,%
+RBC,-261,3.78,M/mcL
+MCH,2525,31,pg
+-monos,-261,9,%
+-eos,4024,0,%
+RDW,-261,15.4,%
+RBC,6958,3.46,M/mcL
+-monos,2525,6,%
+-eos,4024,0,%
+-polys,-261,80,%
+-lymphs,4024,10,%
+MCH,2525,31,pg
+Hgb,6958,10.4,g/dL
+MCHC,-261,34,g/dL
+RBC,3197,3.65,M/mcL
+-monos,4024,8,%
+-basos,4024,0,%
+RDW,6958,14.5,%
+RBC,6958,3.46,M/mcL
+Hct,-261,33.9,%
+-basos,-261,0,%
+WBC x 1000,6958,14,K/mcL
+MCV,-261,90,fL
+-eos,2525,0,%
+Hct,3197,32.7,%
+MCV,2525,91,fL
+platelets x 1000,-261,253,K/mcL
+total protein,-261,5.7,g/dL
+RBC,2525,3.53,M/mcL
+Base Excess,-193,-0.4,mEq/L
+creatinine,4024,0.46,mg/dL
+Hgb,2525,10.9,g/dL
+MCH,3197,30,pg
+albumin,-261,2.5,g/dL
+Hct,2525,32,%
+BUN,4024,18,mg/dL
+calcium,4024,8.4,mg/dL
+-polys,2525,87,%
+MPV,-261,8.9,fL
+total protein,4024,5.8,g/dL
+O2 Sat (%),-193,97.9,%
+AST (SGOT),-261,14,Units/L
+-basos,2525,0,%
+paCO2,-193,28.3,mm Hg
+potassium,4024,3.9,mmol/L
+chloride,4024,109,mmol/L
+WBC x 1000,3197,15.9,K/mcL
+MCV,6958,89,fL
+FiO2,-193,100,%
+BUN,2525,15,mg/dL
+RDW,2525,15.2,%
+PTT,-261,24.2,sec
+ALT (SGPT),-261,17,Units/L
+MCH,6958,30,pg
+platelets x 1000,4024,236,K/mcL
+MCHC,2525,34,g/dL
+-lymphs,2525,7,%
+PT,-261,13.1,sec
+MCV,3197,90,fL
+Hgb,3197,11.1,g/dL
+direct bilirubin,-261,<0.1,mg/dL
+lactate,-2692,1.2,mmol/L
+alkaline phos.,-261,93,Units/L
+-basos,2525,0,%
+PT - INR,-261,1,ratio
+WBC x 1000,2525,16.5,K/mcL
+Methemoglobin,-193,0.5,%
+sodium,4024,142,mmol/L
+MPV,3197,9.1,fL
+alkaline phos.,4024,73,Units/L
+-polys,4024,82,%
+total bilirubin,4024,0.4,mg/dL
+RDW,3197,14.9,%
+Hct,6958,30.8,%
+albumin,4024,2.5,g/dL
+glucose,2525,184,mg/dL
+anion gap,2525,10,
+-eos,-261,0,%
+-polys,2525,87,%
+Hgb,-3941,12.7,g/dL
+Hct,-3941,37,%
+MCH,-3941,30,pg
+MCV,-3941,88,fL
+RDW,-3941,14.8,%
+WBC x 1000,-3941,13.9,K/mcL
+MCHC,-3941,34,g/dL
+MPV,-3941,8.7,fL
+RBC,-3941,4.19,M/mcL
+Vancomycin - trough,5669,5.5,mcg/mL
+-basos,-3941,0,%
+-monos,-3941,11,%
+-lymphs,-3941,12,%
+-polys,-3941,73,%
+-eos,-3941,1,%
+-lymphs,-3941,12,%
+RBC,2525,3.53,M/mcL
+chloride,2525,108,mmol/L
+BUN,2525,15,mg/dL
+calcium,2525,8.5,mg/dL
+glucose,2525,184,mg/dL
+potassium,2525,3.7,mmol/L
+anion gap,2525,10,
+ALT (SGPT),4024,45,Units/L
+WBC x 1000,4024,17.4,K/mcL
+RBC,4024,3.65,M/mcL
+Hct,4024,33.3,%
+MCV,4024,91,fL
+MCH,4024,30,pg
+MCHC,4024,33,g/dL
+RDW,4024,15,%
+MPV,4024,9.1,fL
+platelets x 1000,2525,242,K/mcL
+-polys,2525,87,%
+-monos,2525,6,%
+-eos,2525,0,%
+-basos,2525,0,%
+-lymphs,2525,7,%
+-polys,4024,82,%
+-monos,4024,8,%
+-eos,4024,0,%
+-basos,4024,0,%
+-lymphs,4024,10,%
+-polys,-261,80,%
+-eos,4024,0,%
+-basos,4024,0,%
+-lymphs,4024,10,%
+-monos,2525,6,%
+-eos,2525,0,%
+-basos,2525,0,%
+-lymphs,2525,7,%
+-polys,4024,82,%
+-monos,4024,8,%
+-eos,4024,0,%
+-basos,4024,0,%
+-lymphs,4024,10,%
+-polys,-261,80,%
+-eos,-261,0,%
+-basos,-261,0,%
+-lymphs,-261,11,%
+-monos,-261,9,%
+-polys,2525,87,%
+-eos,2525,0,%
+-basos,2525,0,%
+-lymphs,2525,7,%
+-polys,4024,82,%
+-monos,4024,8,%
+-eos,4024,0,%
+-basos,4024,0,%
+-lymphs,4024,10,%
+-polys,-261,80,%
+-eos,-261,0,%
+-basos,-261,0,%
+-lymphs,-261,11,%
+-monos,-261,9,%
+-polys,2525,87,%
+-eos,2525,0,%
+-basos,2525,0,%
+-lymphs,2525,7,%
+-polys,4024,82,%
+-monos,4024,8,%
+-eos,4024,0,%
+-basos,4024,0,%
+-lymphs,4024,10,%
+-polys,-261,80,%
+-eos,-261,0,%
+-basos,-261,0,%
+-lymphs,-261,11,%
+-monos,-261,9,%
+-polys,2525,87,%
+-eos,2525,0,%
+-basos,2525,0,%
+-lymphs,2525,7,%
+-polys,4024,82,%
+-monos,4024,8,%
+-eos,4024,0,%
+-basos,4024,0,%
+-lymphs,4024,10,%
+-polys,-261,80,%
+-eos,-261,0,%
+-basos,-261,0,%
+-lymphs,-261,11,%
+-monos,-261,9,%
+-polys,2525,87,%
+-eos,2525,0,%
+-basos,2525,0,%
+-lymphs,2525,7,%
+-polys,4024,82,%
+-monos,4024,8,%
+-eos,4024,0,%
+-basos,4024,0,%
+-lymphs,4024,10,%
+-polys,-261,80,%
+-eos,-261,0,%
+-basos,-261,0,%
+-lymphs,-261,11,%
+-monos,-261,9,%
+-polys,2525,87,%
+-eos,2525,0,%
+-basos,2525,0,%
+-lymphs,2525,7,%
+-polys,4024,82,%
+-monos,4024,8,%
+-eos,4024,0,%
+-basos,4024,0,%
+-lymphs,4024,10,%
+-polys,-261,80,%
+-eos,-261,0,%
+-basos,-261,0,%
+-lymphs,-261,11,%
+-monos,-261,9,%
+-polys,2525,87,%
+-eos,2525,0,%
+-basos,2525,0,%
+-lymphs,2525,7,%
+-polys,4024,82,%
+-monos,4024,8,%
+-eos,4024,0,%
+-basos,4024,0,%
+-lymphs,4024,10,%
+-polys,-261,80,%
+-eos,-261,0,%
+-basos,-261,0,%
+-lymphs,-261,11,%
+-monos,-261,9,%
+-polys,2525,87,%
+-eos,2525,0,%
+-basos,2525,0,%
+-lymphs,2525,7,%
+-polys,4024,82,%
+-monos,4024,8,%
+-eos,4024,0,%
+-basos,4024,0,%
+-lymphs,4024,10,%
+-polys,-261,80,%
+-eos,-261,0,%
+-basos,-261,0,%
+-lymphs,-261,11,%
+-monos,-261,9,%
+-polys,2525,87,%
+-eos,2525,0,%
+-basos,2525,0,%
+-lymphs,2525,7,%
+-polys,4024,82,%
+-monos,4024,8,%
+-eos,4024,0,%
+-basos,4024,0,%
+-lymphs,4024,10,%
+-polys,-261,80,%
+-eos,-261,0,%
+-basos,-261,0,%
+-lymphs,-261,11,%
+-monos,-261,9,%
+-polys,2525,87,%
+-eos,2525,0,%
+-basos,2525,0,%
+-lymphs,2525,7,%
+-polys,4024,82,%
+-monos,4024,8,%
+-eos,4024,0,%
+-basos,4024,0,%
+-lymphs,4024,10,%
+Total_Protein, -261, 5.7, g/dL
+Total_Protein, 4024, 5.8, g/dL
+Albumin, -261, 2.5, g/dL
+Albumin, 4024, 2.5, g/dL
+AST (SGOT), -261, 14, U/L
+AST (SGOT), 4024, 18, U/L
+ALT (SGPT), -261, 17, U/L
+ALT (SGPT), 4024, 45, U/L
+Alkaline_phos, -261, 93, U/L
+Alkaline_phos, 4024, 73, U/L
+Total_Bilirubin, -261, 0.6, mg/dL
+Total_Bilirubin, 4024, 0.4, mg/dL
+Direct_Bilirubin, -261, <0.1, mg/dL
+Direct_Bilirubin, 4024, <0.1, mg/dL
+BUN, -261, 12, mg/dL
+BUN, 2525, 15, mg/dL
+BUN, 4024, 18, mg/dL
+Creatinine, -261, 0.6, mg/dL
+Creatinine, 2525, 0.42, mg/dL
+Creatinine, 4024, 0.46, mg/dL
+Glucose, -261, 121, mg/dL
+Glucose, 2525, 184, mg/dL
+Glucose, 4024, 124, mg/dL
+Calcium, -261, 8.4, mg/dL
+Calcium, 2525, 8.5, mg/dL
+Calcium, 4024, 8.4, mg/dL
+Chloride, -261, 106, mmol/L
+Chloride, 2525, 108, mmol/L
+Chloride, 4024, 109, mmol/L
+Potassium, -261, 3.9, mmol/L
+Potassium, 2525, 3.7, mmol/L
+Potassium, 4024, 3.9, mmol/L
+Phosphate, 2525, 3.6, mg/dL
+Uric_Acid, -261, 3.5, mg/dL
+Lactate, -2692, 1.2, mmol/L
+Anion_Gap, -261, 7, NULL
+Anion_Gap, 2525, 10, NULL
+Anion_Gap, 4024, 10, NULL
+PT, -261, 13.1, sec
+PT_INR, -261, 1, ratio
+PPTT, -261, 24.2, sec
+Fibrinogen, -261, 401, mg/dL
+CPK-MB, -61, <0.5, ng/mL
+Troponin_I, 73, <0.04, ng/mL
+Troponin_I, 777, <0.04, ng/mL
+Physical_Exam_Parameter,Time_Offset_Minutes,Value,Unit
+GCS_Score,40,15,
+GCS_Score,1521,15,
+GCS_Score,2809,15,
+HR_Current,40,103,bpm
+HR_Current,1521,108,bpm
+HR_Current,2809,113,bpm
+HR_Lowest,40,101,bpm
+HR_Lowest,1521,98,bpm
+HR_Lowest,2809,98,bpm
+HR_Highest,40,103,bpm
+HR_Highest,1521,129,bpm
+HR_Highest,2809,129,bpm
+BP_(systolic)_Current,40,112,mmHg
+BP_(systolic)_Current,1521,99,mmHg
+BP_(systolic)_Current,2809,122,mmHg
+BP_(systolic)_Lowest,40,112,mmHg
+BP_(systolic)_Lowest,1521,117,mmHg
+BP_(systolic)_Lowest,2809,138,mmHg
+BP_(systolic)_Highest,40,112,mmHg
+BP_(systolic)_Highest,1521,133,mmHg
+BP_(systolic)_Highest,2809,99,mmHg
+BP_(diastolic)_Current,40,59,mmHg
+BP_(diastolic)_Current,1521,74,mmHg
+BP_(diastolic)_Current,2809,62,mmHg
+BP_(diastolic)_Lowest,40,59,mmHg
+BP_(diastolic)_Lowest,1521,51,mmHg
+BP_(diastolic)_Lowest,2809,38,mmHg
+BP_(diastolic)_Highest,40,59,mmHg
+BP_(diastolic)_Highest,1521,78,mmHg
+BP_(diastolic)_Highest,2809,74,mmHg
+Resp_Current,40,27,breaths/min
+Resp_Current,1521,22,breaths/min
+Resp_Current,2809,28,breaths/min
+Resp_Lowest,40,24,breaths/min
+Resp_Lowest,1521,22,breaths/min
+Resp_Lowest,2809,19,breaths/min
+Resp_Highest,40,27,breaths/min
+Resp_Highest,1521,29,breaths/min
+Resp_Highest,2809,34,breaths/min
+O2_Sat%_Current,40,100,%
+O2_Sat%_Current,1521,96,%
+O2_Sat%_Current,2809,94,%
+O2_Sat%_Lowest,40,100,%
+O2_Sat%_Lowest,1521,92,%
+O2_Sat%_Lowest,2809,92,%
+O2_Sat%_Highest,40,100,%
+O2_Sat%_Highest,1521,100,%
+O2_Sat%_Highest,2809,99,%
+Weight_(kg)_Admission,40,95.7,kg
+Weight_(kg)_Admission,1521,95.7,kg
+Weight_(kg)_Admission,2809,95.7,kg
+Health_Status,40,healthy appearing,
+Health_Status,1521,healthy appearing,
+Health_Status,2809,healthy appearing,
+Nutritional_Status,40,well developed,
+Nutritional_Status,1521,well developed,
+Nutritional_Status,2809,well developed,
+Acuity,40,not in acute distress,
+Acuity,1521,not in acute distress,
+Acuity,2809,not in acute distress,
+HR_Rhythm,40,sinus,
+HR_Rhythm,1521,sinus,
+HR_Rhythm,2809,sinus,
+Motor_Score,40,6,
+Motor_Score,1521,6,
+Motor_Score,2809,6,
+Verbal_Score,40,5,
+Verbal_Score,1521,5,
+Verbal_Score,2809,5,
+Eyes_Score,40,4,
+Eyes_Score,1521,4,
+Eyes_Score,2809,4,
+Level_of_Consciousness,40,normal LOC,
+Level_of_Consciousness,1521,normal LOC,
+Level_of_Consciousness,2809,normal LOC,
+Affect,40,calm/appropriate,
+Affect,1521,calm/appropriate,
+Affect,2809,calm/appropriate,
+Orientation,40,oriented x3,
+Orientation,1521,oriented x3,
+Orientation,2809,oriented x3,
+Sensation,40,normal,
+Sensation,1521,normal,
+Sensation,2809,normal,
+Motor,40,normal,
+Motor,1521,normal,
+Motor,2809,normal,
+Pupils_(symmetry),40,equal,
+Pupils_(symmetry),1521,equal,
+Pupils_(symmetry),2809,equal,
+Conjunctivae,40,non-icteric,
+Conjunctivae,1521,non-icteric,
+Conjunctivae,2809,non-icteric,
+Mouth,40,normal,
+Mouth,1521,normal,
+Mouth,2809,normal,
+JVD,40,JVD absent,
+JVD,1521,JVD absent,
+JVD,2809,JVD absent,
+Decreased_Breath_Sounds,40,focally decreased breath sounds,
+Decreased_Breath_Sounds,1521,focally decreased breath sounds,
+Decreased_Breath_Sounds,2809,focally decreased breath sounds,
+Location_Posterior_Lung_Field(s)_Right,40,lower,
+Location_Posterior_Lung_Field(s)_Right,1521,lower,
+Location_Posterior_Lung_Field(s)_Right,2809,lower,
+Location_Posterior_Lung_Field(s)_Left,40,lower,
+Location_Posterior_Lung_Field(s)_Left,1521,lower,
+Location_Posterior_Lung_Field(s)_Left,2809,lower,
+Wheezes,40,no wheezing,
+Wheezes,1521,no wheezing,
+Wheezes,2809,no wheezing,
+S1,40,S1 normal,
+S1,1521,S1 normal,
+S1,2809,S1 normal,
+S2,40,S2 normal,
+S2,1521,S2 normal,
+S2,2809,S2 normal,
+S3,40,S3 present,
+S3,1521,S,

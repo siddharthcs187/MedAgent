@@ -1,0 +1,30 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+BUN,27.0,mg/dL,-167
+calcium,8.5,mg/dL,-167
+bicarbonate,24.0,mmol/L,-167
+sodium,139.0,mmol/L,-167
+total protein,7.6,g/dL,-167
+AST (SGOT),20.0,IU/L,-167
+anion gap,10.0,,-167
+albumin,3.5,g/dL,-167
+MPV,9.7,fL,-167
+potassium,4.2,mmol/L,-167
+platelets x 1000,315.0,K/mcL,-167
+chloride,105.0,mmol/L,-167
+WBC x 1000,11.7,K/mcL,-167
+total bilirubin,0.5,mg/dL,-167
+Hgb,14.4,g/dL,-167
+glucose,106.0,mg/dL,-167
+RDW,14.6,%,-167
+ALT (SGPT),21.0,IU/L,-167
+MCH,31.7,pg,-167
+creatinine,1.0,mg/dL,-167
+Hct,42.5,%,-167
+FiO2,29.0,%,48
+Respiratory Rate,23.0,/min,48
+lactate,1.5,mmol/L,208
+PT,26.9,sec,208
+PT - INR,2.5,ratio,208
+MCV,94.0,fL,-167
+Alkaline Phos.,109.0,IU/L,-167
+RBC,4.54,M/mcL,-167

@@ -1,0 +1,30 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+platelets x 1000,263.0,K/mcL,-100
+-basos,,%,-100
+MCHC,31.0,g/dL,-100
+-polys,48.0,%,-100
+total bilirubin,0.3,mg/dL,-100
+Hct,39.2,%,-100
+chloride,106.0,mmol/L,-100
+-monos,5.0,%,-100
+potassium,5.1,mmol/L,-100
+-eos,1.0,%,-100
+WBC x 1000,6.3,K/mcL,-100
+RDW,15.5,%,-100
+total protein,8.4,g/dL,-100
+MCH,25.0,pg,-100
+albumin,4.1,g/dL,-100
+glucose,110.0,mg/dL,-100
+BUN,7.0,mg/dL,-100
+creatinine,0.55,mg/dL,-100
+calcium,8.5,mg/dL,-100
+AST (SGOT),40.0,Units/L,-100
+ALT (SGPT),26.0,Units/L,-100
+RBC,4.82,M/mcL,-100
+alkaline phos.,98.0,Units/L,-100
+FiO2,21.0,%,98
+ethanol,0.0,mg/dL,1300
+ethanol,184.0,mg/dL,175
+ethanol,98.0,mg/dL,425
+ethanol,271.0,mg/dL,-100
+urinary specific gravity,1.01,,-95

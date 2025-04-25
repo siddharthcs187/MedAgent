@@ -1,0 +1,37 @@
+labname,labresult,labmeasurenameinterface,labresultoffset
+amylase,739.0,IU/L,509
+ALT (SGPT),14.0,IU/L,509
+potassium,3.8,mEq/L,509
+creatinine,1.0,mg/dL,509
+lipase,3584.0,IU/L,509
+AST (SGOT),10.0,IU/L,509
+-lymphs,5.1,%,509
+chloride,103.0,mEq/L,509
+platelets x 1000,276.0,K/CMM,509
+glucose,109.0,mg/dL,509
+BUN,10.0,mg/dL,65
+Hgb,16.0,g/dL,509
+albumin,3.3,g/dL,509
+BUN,12.0,mg/dL,509
+total bilirubin,1.17,mg/dL,65
+WBC x 1000,19.2,K/CMM,509
+calcium,8.2,mg/dL,509
+potassium,3.9,mEq/L,65
+RDW,12.9,%,66
+Hct,47.1,%,509
+sodium,141.0,mEq/L,509
+-monos,4.8,%,509
+ALT (SGPT),17.0,IU/L,65
+troponin - I,0.017,ng/mL,65
+lipase,7893.0,IU/L,65
+AST (SGOT),19.0,IU/L,65
+MCH,28.5,pg,66
+platelets x 1000,324.0,K/CMM,66
+albumin,4.0,g/dL,65
+Hgb,16.6,g/dL,66
+MCV,86.1,fL,66
+chloride,99.0,mEq/L,65
+Hct,50.0,%,66
+glucose,140.0,mg/dL,65
+WBC x 1000,20.3,K/CMM,66
+RBC,5.8,M/CMM,66

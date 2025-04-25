@@ -1,0 +1,59 @@
+Lab Parameter,Time Offset (minutes),Value,Unit
+RBC,-173,4.83,M/mcL
+RBC,55,4.65,M/mcL
+Hgb,-173,15.4,g/dL
+Hgb,55,14.8,g/dL
+Hct,-173,46.3,%
+Hct,55,43.6,%
+MCV,-173,96.0,fL
+MCV,55,94.0,fL
+MCH,-173,31.9,pg
+MCH,55,31.8,pg
+MCHC,-173,33.0,g/dL
+MCHC,55,34.0,g/dL
+Platelets x 1000,-173,271.0,K/mcL
+Platelets x 1000,55,241.0,K/mcL
+RDW,-173,13.2,%
+RDW,55,13.3,%
+WBC x 1000,-173,6.5,K/mcL
+WBC x 1000,55,11.3,K/mcL
+Potassium,-173,4.5,mmol/L
+Potassium,55,4.3,mmol/L
+Sodium,-173,142.0,mmol/L
+Sodium,55,142.0,mmol/L
+Chloride,-173,107.0,mmol/L
+Chloride,55,110.0,mmol/L
+Bicarbonate,-173,20.0,mmol/L
+Bicarbonate,55,25.0,mmol/L
+BUN,-173,13.0,mg/dL
+BUN,55,15.0,mg/dL
+Creatinine,-173,1.2,mg/dL
+Creatinine,55,1.2,mg/dL
+Glucose,-173,81.0,mg/dL
+Glucose,55,105.0,mg/dL
+Direct bilirubin,-127,0.0,mg/dL
+Total bilirubin,-127,0.6,mg/dL
+Total bilirubin,55,0.4,mg/dL
+ALT (SGPT),-127,32.0,Units/L
+ALT (SGPT),55,30.0,Units/L
+AST (SGOT),-127,35.0,Units/L
+AST (SGOT),55,27.0,Units/L
+Alkaline phos.,-127,52.0,Units/L
+Alkaline phos.,55,46.0,Units/L
+Albumin,-127,4.4,g/dL
+Albumin,55,3.5,g/dL
+Total protein,-127,6.6,g/dL
+Total protein,55,5.7,g/dL
+Anion gap,-173,15.0,
+Anion gap,55,7.0,
+PT,-173,12.9,sec
+PT,55,13.7,sec
+PT,812,13.5,sec
+PT - INR,-173,0.9,ratio
+PT - INR,55,1.0,ratio
+PT - INR,812,1.0,ratio
+PTT,-173,25.7,sec
+PTT,55,26.5,sec
+PTT,812,27.3,sec
+CPK,812,118.0,Units/L
+CPK,55,223.0,Units/L

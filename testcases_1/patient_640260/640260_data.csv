@@ -1,0 +1,43 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-307,PT - INR,1.1,ratio
+-307,PT,14.6,sec
+-307,RBC,5.21,M/mcL
+-307,Hct,45.0,%
+-307,Hgb,14.6,g/dL
+-307,WBC x 1000,20.5,K/mcL
+-307,MCV,86.0,fL
+-307,MCH,28.0,pg
+-307,MCHC,32.0,g/dL
+-307,RDW,14.0,%
+-307,MPV,11.3,fL
+-307,BUN,33.0,mg/dL
+-307,chloride,108.0,mmol/L
+-307,creatinine,1.0,mg/dL
+-307,bicarbonate,25.0,mmol/L
+-307,albumin,3.8,g/dL
+-307,total bilirubin,0.8,mg/dL
+-307,total protein,6.7,g/dL
+-307,alkaline phos.,77.0,Units/L
+-307,calcium,9.6,mg/dL
+-307,potassium,3.5,mmol/L
+-307,sodium,144.0,mmol/L
+-307,AST (SGOT),17.0,Units/L
+-307,ALT (SGPT),17.0,Units/L
+-308,ammonia,24.0,mcg/dL
+-265,troponin - I,,ng/mL
+3,Hct,38.8,%
+302,platelets x 1000,283.0,K/mcL
+302,MPV,11.2,fL
+302,RDW,14.2,%
+302,MCH,27.9,pg
+302,MCHC,32.0,g/dL
+302,RBC,4.2,M/mcL
+302,Hgb,11.7,g/dL
+302,WBC x 1000,18.4,K/mcL
+302,Hct,36.8,%
+302,MCV,88.0,fL
+562,Hct,37.0,%
+777,Hct,34.1,%
+1002,Hct,33.5,%
+1247,Hct,36.1,%
+1917,Hgb,10.4,g/dL

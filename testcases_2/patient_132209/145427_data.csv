@@ -1,0 +1,84 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+Total Bilirubin,0.8,mg/dL,-373
+Potassium,4.2,mmol/L,-373
+Chloride,103.0,mmol/L,-373
+Glucose,118.0,mg/dL,-373
+BUN,19.0,mg/dL,-373
+ALT (SGPT),29.0,Units/L,-373
+Platelets x 1000,217.0,K/mcL,4902
+Creatinine,1.12,mg/dL,-373
+RDW,14.1,%,4902
+Albumin,3.7,g/dL,-373
+Hgb,12.9,g/dL,4902
+Alkaline phos.,97.0,Units/L,-373
+RDW,13.6,%,-373
+MCV,92.5,fL,4902
+Bicarbonate,29.0,mmol/L,-373
+Hgb,15.0,g/dL,-373
+Hct,39.7,%,4902
+Anion gap,10.0,,-373
+-monos,7.0,%,-373
+MCHC,32.5,g/dL,4902
+Total protein,6.8,g/dL,-373
+WBC x 1000,19.0,K/mcL,-373
+MCH,30.1,pg,4902
+Sodium,138.0,mmol/L,-373
+MCH,31.0,pg,-373
+WBC x 1000,9.3,K/mcL,4902
+Calcium,10.4,mg/dL,-373
+Sodium,141.0,mmol/L,571
+WBC x 1000,21.1,K/mcL,571
+Creatinine,1.05,mg/dL,571
+Hgb,13.3,g/dL,571
+Lipase,194.0,Units/L,-373
+RDW,14.2,%,571
+Total CO2,23.0,,-359
+-eos,0.0,%,571
+-bands,1.0,%,-373
+Platelets x 1000,196.0,K/mcL,571
+WBC x 1000,14.2,K/mcL,2048
+RBC,4.34,M/mcL,571
+-lymphs,8.0,%,571
+-basos,0.0,%,571
+MCV,93.1,fL,571
+-monos,8.0,%,571
+RBC,4.01,M/mcL,2048
+-polys,84.0,%,571
+Hct,40.4,%,571
+-lymphs,5.0,%,-373
+MCHC,32.9,g/dL,571
+-polys,83.0,%,-373
+BUN,14.0,mg/dL,571
+MCV,91.3,fL,-373
+-polys,53.0,%,2048
+MCHC,33.9,g/dL,-373
+MCH,30.6,pg,571
+Calcium,9.5,mg/dL,571
+Magnesium,1.8,mg/dL,571
+Glucose,139.0,mg/dL,571
+Chloride,109.0,mmol/L,571
+RBC,4.84,M/mcL,-373
+Platelets x 1000,175.0,K/mcL,2048
+RDW,14.6,%,2048
+MCH,30.7,pg,2048
+Hct,37.7,%,2048
+-lymphs,35.0,%,2048
+MCHC,32.6,g/dL,2048
+-eos,1.0,%,2048
+-basos,0.0,%,2048
+MCV,94.0,fL,2048
+-monos,11.0,%,2048
+Anion gap,10.0,,571
+WBC x 1000,8.6,K/mcL,3687
+Hgb,13.5,g/dL,3687
+Hct,40.7,%,3687
+MCV,93.1,fL,3687
+MCH,30.9,pg,3687
+MCHC,33.2,g/dL,3687
+Platelets x 1000,205.0,K/mcL,3687
+-basos,0.0,%,3730
+-monos,13.0,%,3730
+-lymphs,37.0,%,3730
+-polys,48.0,%,3730
+Bedside glucose,118.0,mg/dL,248
+Urinary specific gravity,1.015,,-278

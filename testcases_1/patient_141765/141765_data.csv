@@ -1,0 +1,4 @@
+labresultoffset,creatinine (mg/dL),BUN (mg/dL),sodium (mmol/L),potassium (mmol/L),chloride (mmol/L),bicarbonate (mmol/L),platelets x 1000 (K/mcL),Hgb (g/dL),Hct (%),MCV (fL),MCHC (g/dL),anion gap (mmol/L),total bilirubin (mg/dL),albumin (g/dL),BNP (pg/mL),TSH (mcU/ml),PT (sec),PT-INR (ratio),bedside glucose (mg/dL),troponin-I (ng/mL),-monos (%),-polys (%),-lymphs (%),-eos (%),-basos (%),calcium (mg/dL),RDW (%),urinary specific gravity 
+-169,1.32,35,138,4.4,101,23,239.0,12.3,37.5,91.2,32.8,18,0.8,3.7,478.0,3.194,19.4,1.8,,0.02,4.0,86.0,10.0,0.0,0.0,9.3,13.5,
+646,1.04,28,139,4.1,105,21,191.0,12.3,37.8,91.5,32.5,17,,,,,47.5,4.2,,,10.0,70.0,19.0,1.0,0.0,8.3,13.5,
+2086,0.85,16,142,3.7,108,26,,,,,,12,,,,,,,79.0,,,,,,8.4,,1.01,

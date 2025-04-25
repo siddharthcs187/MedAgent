@@ -1,0 +1,3 @@
+Time_since_admission_minutes,Hemoglobin_g/dL,Hematocrit_percent,RBC_M/mcL,Platelets_K/mcL,MCV_fL,RDW_percent,WBC_K/mcL,Glucose_mg/dL,BUN_mg/dL,Creatinine_mg/dL,Calcium_mg/dL,Chloride_mmol/L,Potassium_mmol/L,Sodium_mmol/L,Anion_gap_mmol/L,Total_protein_g/dL,Albumin_g/dL,ALT_Units/L,AST_Units/L,Alkaline_phos_Units/L,Total_bilirubin_mg/dL
+1281,9.0,26.6,2.82,508,94.3,14.9,11.6,97.0,22.0,0.84,8.1,107.0,3.7,141.0,15.0,5.7,1.7,122.0,80.0,155.0,0.2
+2691,9.3,28.4,2.95,551,96.3,15.5,11.1,,,0.8,,,,,,,,,,,

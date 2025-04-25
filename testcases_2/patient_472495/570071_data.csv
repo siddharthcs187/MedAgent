@@ -1,0 +1,28 @@
+labname,labresult,labmeasurenamesystem,labresultoffset(minutes)
+BUN,13.0,mg/dL,900
+ALT (SGPT),44.0,Units/L,900
+glucose,176.0,mg/dL,900
+chloride,98.0,mmol/L,900
+total protein,6.0,g/dL,900
+Hgb,11.1,g/dL,900
+calcium,8.8,mg/dL,900
+MCH,33.3,pg,900
+creatinine,0.54,mg/dL,900
+RBC,3.33,M/mcL,900
+potassium,3.7,mmol/L,900
+Hct,30.9,%,900
+alkaline phos.,126.0,Units/L,900
+anion gap,8.0,,900
+WBC x 1000,2.8,K/mcL,900
+AST (SGOT),18.0,Units/L,900
+MCHC,35.9,g/dL,900
+bicarbonate,27.0,mmol/L,900
+MPV,9.0,fL,900
+total bilirubin,0.5,mg/dL,900
+sodium,133.0,mmol/L,900
+platelets x 1000,81.0,K/mcL,900
+albumin,2.7,g/dL,900
+bedside glucose,185.0,mg/dL,462
+bedside glucose,147.0,mg/dL,1147
+FiO2,32.0,%,231
+potassium,3.8,mmol/L,495

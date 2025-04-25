@@ -1,0 +1,22 @@
+LabName,TimeOffset,LabResult,LabUnits
+Glucose,-313,1262,mg/dL
+Glucose,2,303,mg/dL
+Glucose,1550,210,mg/dL
+BUN,-313,25,mg/dL
+BUN,2,15,mg/dL
+BUN,1550,20,mg/dL
+Potassium,-313,5.3,mmol/L
+Potassium,-158,3.9,mmol/L
+Potassium,757,4,mmol/L
+Potassium,1550,3.9,mmol/L
+Sodium,-313,110,mmol/L
+Sodium,2,135,mmol/L
+Sodium,1550,138,mmol/L
+Bedside Glucose,-116,466,mg/dL
+Bedside Glucose,-294,,
+Bedside Glucose,-204,>600,mg/dL
+Bedside Glucose,21,325,mg/dL
+Bedside Glucose,303,329,mg/dL
+Bedside Glucose,515,120,mg/dL
+Bedside Glucose,848,180,mg/dL
+Bedside Glucose,1475,279,mg/dL

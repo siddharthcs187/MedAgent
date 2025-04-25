@@ -1,0 +1,2 @@
+patientunitstayid,patienthealthsystemstayid,gender,age,ethnicity,hospitalid,wardid,admissionheight,admissionweight,hospitaladmittime24,hospitaldischargeyear,hospitaldischargetime24,unittype,unitadmittime24,unitvisitnumber,unitdischargetime24,admissionweight.1,dischargeweight
+401176,342930,Male,40,Caucasian,123,175,198.1,104.3,15:17:00,2015,15:45:00,Med-Surg ICU,20:36:00,2,12:30:00,104.3,

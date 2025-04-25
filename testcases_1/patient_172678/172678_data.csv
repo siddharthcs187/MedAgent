@@ -1,0 +1,66 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-62,Hgb,11.4,g/dL
+-62,Hct,35.0,%
+-62,MCV,89.7,fL
+-62,MCH,29.2,pg
+-62,MCHC,32.6,g/dL
+-62,RDW,15.1,%
+-62,platelets x 1000,238.0,K/mcL
+-62,RBC,3.9,M/mcL
+-62,-basos,0.0,%
+-62,-lymphs,12.0,%
+-62,-monos,7.0,%
+-62,-polys,80.0,%
+-62,WBC x 1000,11.2,K/mcL
+-62,anion gap,8.0,mmol/L
+-62,BUN,16.0,mg/dL
+-62,creatinine,0.89,mg/dL
+-62,glucose,143.0,mg/dL
+-62,potassium,3.7,mmol/L
+-62,sodium,134.0,mmol/L
+-62,chloride,101.0,mmol/L
+-62,bicarbonate,29.0,mmol/L
+903,-basos,1.0,%
+903,-polys,78.0,%
+903,Hct,34.5,%
+903,platelets x 1000,255.0,K/mcL
+903,MCH,28.1,pg
+903,-lymphs,11.0,%
+903,anion gap,13.0,mmol/L
+903,sodium,134.0,mmol/L
+903,RDW,15.6,%
+903,MCHC,30.4,g/dL
+903,creatinine,0.9,mg/dL
+903,BUN,17.0,mg/dL
+903,glucose,137.0,mg/dL
+903,potassium,4.5,mmol/L
+903,chloride,100.0,mmol/L
+903,bicarbonate,26.0,mmol/L
+903,calcium,8.2,mg/dL
+903,Hgb,10.5,g/dL
+903,RBC,3.74,M/mcL
+903,-eos,0.0,%
+903,-monos,10.0,%
+903,WBC x 1000,8.1,K/mcL
+903,MCV,92.2,fL
+2337,anion gap,11.0,mmol/L
+2337,sodium,135.0,mmol/L
+2337,MCH,28.8,pg
+2337,platelets x 1000,205.0,K/mcL
+2337,Hct,31.9,%
+2337,MCHC,31.0,g/dL
+2337,creatinine,0.87,mg/dL
+2337,BUN,15.0,mg/dL
+2337,glucose,124.0,mg/dL
+2337,potassium,4.0,mmol/L
+2337,chloride,101.0,mmol/L
+2337,bicarbonate,27.0,mmol/L
+2337,calcium,8.1,mg/dL
+2337,RBC,3.44,M/mcL
+2337,-basos,2.0,%
+2337,-lymphs,18.0,%
+2337,-monos,15.0,%
+2337,-polys,63.0,%
+2337,WBC x 1000,5.5,K/mcL
+2337,RDW,15.2,%
+2337,MCV,92.7,fL

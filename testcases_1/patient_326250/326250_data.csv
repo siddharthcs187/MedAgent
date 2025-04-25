@@ -1,0 +1,5 @@
+patientunitstayid,diagnosisstring,icd9code,diagnosispriority,treatmentstring,activeupondischarge,labname,labresult,labmeasurenamesystem
+cardiovascular|vascular disorders|hypertension,401.9, I10,Other,gastrointestinal|medications|antiemetic|promethazine,True,FiO2,21.0,%
+endocrine|glucose metabolism|diabetes mellitus,,Other,renal|electrolyte correction|electrolyte administration|potassium,True,,,,
+endocrine|glucose metabolism|DKA,250.13, E10.1,Primary,renal|electrolyte correction|electrolyte administration|magnesium,True,,,
+endocrine|glucose metabolism|DKA,250.13, E10.1,Primary,endocrine|glucose metabolism|insulin|continuous infusion,True,,,

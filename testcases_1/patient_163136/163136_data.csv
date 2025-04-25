@@ -1,0 +1,61 @@
+Lab_Test,Time_Since_Admission_Minutes,Lab_Result_Value,Units
+Hgb,530,10.5,g/dL
+Hgb,2028,10.2,g/dL
+Hct,530,29.8,%
+Hct,2028,29.4,%
+MCV,530,104.6,fL
+MCV,2028,104.6,fL
+-monos,530,18.0,%
+-monos,2028,23.0,%
+-polys,530,61.0,%
+-polys,2028,57.0,%
+-eos,530,1.0,%
+-eos,2028,1.0,%
+-basos,530,0.0,%
+-basos,2028,0.0,%
+RDW,530,18.1,%
+RDW,2028,18.2,%
+WBC x 1000,530,7.6,K/mcL
+WBC x 1000,2028,6.8,K/mcL
+platelets x 1000,530,149.0,K/mcL
+platelets x 1000,2028,163.0,K/mcL
+RBC,530,2.85,M/mcL
+RBC,2028,2.81,M/mcL
+alkaline phos.,530,153.0,Units/L
+alkaline phos.,2028,160.0,Units/L
+sodium,530,137.0,mmol/L
+sodium,2028,137.0,mmol/L
+potassium,530,4.1,mmol/L
+potassium,2028,3.8,mmol/L
+bicarbonate,530,25.0,mmol/L
+bicarbonate,2028,24.0,mmol/L
+AST (SGOT),530,107.0,Units/L
+AST (SGOT),2028,106.0,Units/L
+ALT (SGPT),530,30.0,Units/L
+ALT (SGPT),2028,27.0,Units/L
+total bilirubin,530,4.9,mg/dL
+total bilirubin,2028,5.0,mg/dL
+chloride,530,105.0,mmol/L
+chloride,2028,105.0,mmol/L
+calcium,530,8.3,mg/dL
+calcium,2028,8.4,mg/dL
+glucose,530,99.0,mg/dL
+glucose,2028,82.0,mg/dL
+BUN,530,4.0,mg/dL
+BUN,2028,4.0,mg/dL
+creatinine,530,0.92,mg/dL
+creatinine,2028,0.92,mg/dL
+albumin,530,1.6,g/dL
+albumin,2028,1.6,g/dL
+total protein,530,7.1,g/dL
+total protein,2028,6.9,g/dL
+-lymphs,530,20.0,%
+-lymphs,2028,19.0,%
+MCH,530,36.8,pg
+MCH,2028,36.3,pg
+MCHC,530,35.2,g/dL
+MCHC,2028,34.7,g/dL
+PT,530,22.2,sec
+PT - INR,530,2.2,ratio
+ammonia,530,30.0,mcg/dL
+urinary specific gravity,4294,1.025,

@@ -1,0 +1,41 @@
+labname,labresultoffset,labresult,labmeasurenamesystem
+BUN,-2217,6.0,mg/dL
+BUN,-2356,6.0,mg/dL
+BUN,-750,11.0,mg/dL
+BUN,729,7.0,mg/dL
+BUN,2104,9.0,mg/dL
+anion gap,-2217,13.0,mmol/L
+anion gap,-2356,16.0,mmol/L
+anion gap,-750,11.0,mmol/L
+anion gap,729,14.0,mmol/L
+anion gap,2104,10.0,mmol/L
+calcium,-2217,8.6,mg/dL
+calcium,-2356,8.3,mg/dL
+calcium,-750,8.6,mg/dL
+calcium,729,8.0,mg/dL
+calcium,2104,7.8,mg/dL
+potassium,-2217,4.8,mmol/L
+potassium,-2356,4.4,mmol/L
+potassium,-750,4.4,mmol/L
+potassium,729,4.7,mmol/L
+potassium,2104,4.4,mmol/L
+Hgb,-2217,11.0,g/dL
+Hgb,-2356,11.6,g/dL
+Hgb,-750,10.5,g/dL
+Hgb,729,10.2,g/dL
+Hgb,2104,9.8,g/dL
+Hct,-2217,31.7,%
+Hct,-2356,32.8,%
+Hct,-750,30.7,%
+Hct,729,29.9,%
+Hct,2104,29.2,%
+RBC,-2217,3.2,M/mcL
+RBC,-2356,3.31,M/mcL
+RBC,-750,2.95,M/mcL
+RBC,729,2.93,M/mcL
+RBC,2104,2.78,M/mcL
+glucose,-2217,88.0,mg/dL
+glucose,-2356,83.0,mg/dL
+glucose,-750,97.0,mg/dL
+glucose,729,149.0,mg/dL
+glucose,2104,105.0,mg/dL

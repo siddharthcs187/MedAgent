@@ -1,0 +1,40 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+BUN,30.0,mg/dL,-255
+total bilirubin,1.2,mg/dL,-255
+MCH,31.4,pg,-255
+potassium,4.6,mmol/L,-255
+RDW,13.6,%,-255
+chloride,109.0,mmol/L,-255
+MCHC,32.6,g/dL,-255
+calcium,9.1,mg/dL,-255
+Hct,42.0,%,-255
+total protein,6.7,g/dL,-255
+Base Excess,-6.0,mEq/L,95
+ALT (SGPT),95.0,Units/L,-255
+Hgb,13.7,g/dL,-255
+glucose,89.0,mg/dL,-255
+paO2,88.0,mm Hg,95
+anion gap,7.0,,-255
+MCV,96.0,fL,-255
+AST (SGOT),136.0,Units/L,-255
+sodium,142.0,mmol/L,-255
+RBC,4.37,M/mcL,-255
+albumin,3.4,g/dL,-255
+HCO3,19.0,mmol/L,95
+creatinine,1.46,mg/dL,-255
+MPV,9.1,fL,-255
+alkaline phos.,181.0,Units/L,-255
+pH,7.37,,95
+FiO2,100.0,%,-255
+platelets x 1000,125.0,K/mcL,-255
+bicarbonate,26.0,mmol/L,-255
+lactate,1.4,mmol/L,-255
+FiO2,60.0,% ,95
+troponin - I,0.04,ng/mL,195
+WBC x 1000,3.0,K/mcL,-255
+FiO2,60.0,% ,21
+Respiratory Rate,27.0,/min,21
+BNP,13334.0,pg/mL,-255
+troponin - I,0.04,ng/mL,-255
+paCO2,33.0,mm Hg,95
+O2 Sat (%),97.0,% ,95

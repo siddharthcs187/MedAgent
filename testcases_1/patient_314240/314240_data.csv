@@ -1,0 +1,2 @@
+patientunitstayid,patienthealthsystemstayid,gender,age,ethnicity,hospitalid,wardid,admissionheight,admissionweight,hospitaladmittime24,hospitaldischargeyear,hospitaldischargetime24,unittype,unitadmittime24,unitdischargetime24,unitdischargelocation,unitdischargestatus,uniquepid,icu_stay_minutes
+314240,271562,Female,21,,120,248,167.6,55,06:00:00,2014,20:00:00,Med-Surg ICU,08:12:00,08:52:00,Step-Down Unit (SDU),Alive,004-10220,40

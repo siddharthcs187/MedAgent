@@ -1,0 +1,5 @@
+event,time_offset_minutes,event_type
+Hospital Admission,-12171,Hospital Admission
+Unit Admission,0,ICU Admission
+Unit Discharge,167,ICU Discharge
+Hospital Discharge,3310,Hospital Discharge

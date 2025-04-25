@@ -1,0 +1,16 @@
+labid,patientunitstayid,labresultoffset,labtypeid,labname,labresult,labresulttext,labmeasurenamesystem,labmeasurenameinterface,labresultrevisedoffset
+148760257,634295,2149,1,chloride,101.0,101.0,mmol/L,mmol/L,2188.0
+148760246,634295,2149,1,creatinine,0.8,0.8,mg/dL,mg/dL,2188.0
+148760244,634295,2149,1,total bilirubin,1.0,1.0,mg/dL,mg/dL,2188.0
+148760247,634295,2149,1,alkaline phos.,103.0,103.0,Units/L,IU/L,2188.0
+148760245,634295,2149,1,potassium,3.5,3.5,mmol/L,mmol/L,2188.0
+148760256,634295,2149,1,glucose,92.0,92.0,mg/dL,mg/dL,2188.0
+148760248,634295,2149,1,anion gap,12.0,12.0,,,
+148760249,634295,2149,1,AST (SGOT),67.0,67.0,Units/L,IU/L,2188.0
+148760258,634295,2149,1,BUN,8.0,8.0,mg/dL,mg/dL,2188.0
+148760251,634295,2149,1,albumin,4.0,4.0,g/dL,g/dL,2188.0
+148760252,634295,2149,1,bicarbonate,27.0,27.0,mmol/L,mmol/L,2188.0
+148760253,634295,2149,1,total protein,7.0,7.0,g/dL,g/dL,2188.0
+148760250,634295,2149,1,sodium,140.0,140.0,mmol/L,mmol/L,2188.0
+148760254,634295,2149,1,calcium,9.7,9.7,mg/dL,mg/dL,2188.0
+148760255,634295,2149,1,ALT (SGPT),112.0,112.0,Units/L,IU/L,2188.0

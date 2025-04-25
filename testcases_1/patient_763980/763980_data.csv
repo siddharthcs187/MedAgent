@@ -1,0 +1,38 @@
+LabName,TimeOffset(min),LabResult,LabUnits
+Glucose,215,230.0,mg/dL
+Glucose,490,300.0,mg/dL
+Glucose,781,235.0,mg/dL
+Glucose,921,206.0,mg/dL
+Glucose,1161,169.0,mg/dL
+Glucose,1238,174.0,mg/dL
+Glucose,1318,224.0,mg/dL
+Glucose,1466,282.0,mg/dL
+Glucose,293,219.0,mg/dL
+Glucose,84,234.0,mg/dL
+Glucose,643,294.0,mg/dL
+Anion gap,215,9.0,
+Anion gap,490,12.0,
+Anion gap,1161,10.0,
+Creatinine,215,0.9,mg/dL
+Creatinine,490,1.1,mg/dL
+Creatinine,1161,0.5,mg/dL
+Potassium,215,3.8,mmol/L
+Potassium,490,3.9,mmol/L
+Potassium,1161,3.3,mmol/L
+Bicarbonate,215,18.0,mmol/L
+Bicarbonate,490,18.0,mmol/L
+Bicarbonate,1161,20.0,mmol/L
+Sodium,215,137.0,mmol/L
+Sodium,490,137.0,mmol/L
+Sodium,1161,140.0,mmol/L
+Chloride,215,110.0,mmol/L
+Chloride,490,107.0,mmol/L
+Chloride,1161,110.0,mmol/L
+Calcium,215,7.8,mg/dL
+Calcium,490,7.8,mg/dL
+Calcium,1161,7.9,mg/dL
+BUN,215,10.0,mg/dL
+BUN,490,12.0,mg/dL
+BUN,1161,12.0,mg/dL
+Magnesium,215,1.5,mg/dL
+Magnesium,1161,2.0,mg/dL

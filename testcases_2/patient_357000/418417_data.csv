@@ -1,0 +1,10 @@
+Lab Test Name,Result Value,Unit,Lab Test Type
+Creatinine,1.0,mg/dL,Chemistry
+Albumin,2.5,g/dL,Chemistry
+Sodium,139.0,mEq/L,Chemistry
+Glucose,113.0,mg/dL,Chemistry
+Total Bilirubin,0.6,mg/dL,Chemistry
+WBC x 1000,17.2,K/mcL,Hematology
+FiO2,28.0,%,Blood Gas
+Hct,35.1,%,Hematology
+BUN,35.0,mg/dL,Chemistry

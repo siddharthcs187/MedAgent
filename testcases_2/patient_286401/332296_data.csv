@@ -1,0 +1,2 @@
+patientunitstayid,gender,age,ethnicity,admissionweight_kg,admissionheight_cm,unitadmittime24,unitdischargetime24,hospitaladmittime24,hospitaldischargetime24,apacheadmissiondx
+332296,Male,40,Caucasian,93.6,198.1,22:26:00,16:30:00,16:45:00,16:30:00,Diabetic ketoacidosis

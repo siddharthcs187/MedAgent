@@ -1,0 +1,13 @@
+time_offset_minutes,sodium_mmol/L,potassium_mmol/L,chloride_mmol/L,glucose_mg/dL,creatinine_mg/dL,anion_gap_mmol/L,bicarbonate_mmol/L,calcium_mg/dL,BUN_mg/dL,PT_sec,PT_INR_ratio,magnesium_mg/dL,bedside_glucose_mg/dL,troponin_I_ng/mL,BNP_pg/mL,urinary_specific_gravity
+932,139.0,2.9,101.0,99.0,1.14,10.0,31.0,8.8,10.0,59.8,5.7,1.8,,<0.02,410.0,
+2382,138.0,3.7,102.0,104.0,1.14,11.0,29.0,9.2,11.0,28.0,2.6,1.9,,,,
+1081,,,,122.0,,,,,,,,,122.0,,,
+2570,,,,118.0,,,,,,,,,118.0,,,
+1612,,,,98.0,,,,,,,,,98.0,,,
+200,,,,139.0,,,,,,,,,139.0,,,
+1905,,,,110.0,,,,,,,,,110.0,,,
+437,,,,,,,,,,,,,122.0,,,
+1362,,,,109.0,,,,,,,,,109.0,,,
+632,,,,,,,,,,,,,,<0.02,,
+250,,,,,,,,,,,,,,<0.02,,
+447,,,,,,,,,,,,,,,,<1.005

@@ -1,0 +1,79 @@
+labname,labresult,labresultoffset,labmeasurenamesystem,unit
+glucose,326,31,mg/dL,mg/dL
+glucose,329,0,mg/dL,mg/dL
+glucose,187,276,mg/dL,mg/dL
+glucose,493,-61,mg/dL,mg/dL
+glucose,266,65,mg/dL,mg/dL
+glucose,250,383,mg/dL,mg/dL
+glucose,190,255,mg/dL,mg/dL
+glucose,216,202,mg/dL,mg/dL
+glucose,186,440,mg/dL,mg/dL
+glucose,148,508,mg/dL,mg/dL
+glucose,148,564,mg/dL,mg/dL
+glucose,119,634,mg/dL,mg/dL
+glucose,121,692,mg/dL,mg/dL
+glucose,105,754,mg/dL,mg/dL
+glucose,108,803,mg/dL,mg/dL
+glucose,122,933,mg/dL,mg/dL
+glucose,131,859,mg/dL,mg/dL
+glucose,117,748,mg/dL,mg/dL
+glucose,222,1066,mg/dL,mg/dL
+glucose,105,1393,mg/dL,mg/dL
+glucose,206,1156,mg/dL,mg/dL
+glucose,246,1728,mg/dL,mg/dL
+glucose,248,1762,mg/dL,mg/dL
+glucose,99,2152,mg/dL,mg/dL
+glucose,121,977,mg/dL,mg/dL
+potassium,3.5,31,mmol/L,mmol/L
+potassium,4.0,276,mmol/L,mmol/L
+potassium,4.0,276,mmol/L,mmol/L
+potassium,3.9,506,mmol/L,mmol/L
+potassium,4.1,754,mmol/L,mmol/L
+potassium,4.2,977,mmol/L,mmol/L
+potassium,4.3,1762,mmol/L,mmol/L
+potassium,3.7,2152,mmol/L,mmol/L
+chloride,108,31,mmol/L,mmol/L
+chloride,110,276,mmol/L,mmol/L
+chloride,110,754,mmol/L,mmol/L
+chloride,109,977,mmol/L,mmol/L
+chloride,104,2152,mmol/L,mmol/L
+chloride,97,-254,mmol/L,mmol/L
+chloride,102,1762,mmol/L,mmol/L
+bicarbonate,17,31,mmol/L,mmol/L
+bicarbonate,22,276,mmol/L,mmol/L
+bicarbonate,22,754,mmol/L,mmol/L
+bicarbonate,20,977,mmol/L,mmol/L
+bicarbonate,24,2152,mmol/L,mmol/L
+bicarbonate,25,1762,mmol/L,mmol/L
+bicarbonate,16,-254,mmol/L,mmol/L
+bicarbonate,22,506,mmol/L,mmol/L
+calcium,7.5,31,mg/dL,mg/dL
+calcium,7.3,754,mg/dL,mg/dL
+calcium,7.3,977,mg/dL,mg/dL
+calcium,7.2,506,mg/dL,mg/dL
+calcium,8.7,-254,mg/dL,mg/dL
+calcium,7.6,1762,mg/dL,mg/dL
+calcium,7.6,2152,mg/dL,mg/dL
+sodium,138,31,mmol/L,mmol/L
+sodium,136,276,mmol/L,mmol/L
+sodium,133,754,mmol/L,mmol/L
+sodium,131,977,mmol/L,mmol/L
+sodium,132,2152,mmol/L,mmol/L
+sodium,131,-254,mmol/L,mmol/L
+sodium,129,1762,mmol/L,mmol/L
+BUN,10,31,mg/dL,mg/dL
+BUN,8,276,mg/dL,mg/dL
+BUN,6,754,mg/dL,mg/dL
+BUN,5,977,mg/dL,mg/dL
+BUN,15,-254,mg/dL,mg/dL
+BUN,7,506,mg/dL,mg/dL
+BUN,<4,2152,mg/dL,mg/dL
+BUN,4,1762,mg/dL,mg/dL
+anion gap,13,31,, 
+anion gap,4,276,, 
+anion gap,1,754,, 
+anion gap,2,977,, 
+anion gap,4,2152,, 
+anion gap,18,-254,, 
+anion gap,3,506,, 
+anion gap,2,1762,, 

@@ -1,0 +1,63 @@
+LabName,LabResult,Units,TimeOffset
+MCH,30.0,pg,-154
+RDW,12.4,%,-154
+MCHC,33.8,g/dL,-154
+MCV,88.8,fL,1041
+-lymphs,25.9,%,-154
+-eos,3.5,%,1041
+Hgb,13.8,g/dL,-154
+Hgb,12.9,g/dL,1041
+MCV,88.7,fL,-154
+bicarbonate,24.0,mmol/L,-154
+-polys,58.9,%,1041
+calcium,9.8,mg/dL,-154
+-monos,6.7,%,-154
+albumin,3.7,g/dL,-154
+Hct,38.1,%,1041
+total protein,6.7,g/dL,-154
+RBC,4.6,M/mcL,-154
+creatinine,0.59,mg/dL,-154
+-lymphs,30.0,%,1041
+sodium,137.0,mmol/L,1041
+RBC,4.29,M/mcL,1041
+alkaline phos.,116.0,Units/L,-154
+WBC x 1000,7.21,K/mcL,-154
+magnesium,1.5,mg/dL,1041
+-basos,0.5,%,1041
+BUN,18.0,mg/dL,-154
+-basos,0.6,%,-154
+potassium,4.4,mmol/L,1041
+-polys,64.0,%,-154
+platelets x 1000,197.0,K/mcL,-154
+creatinine,0.68,mg/dL,1041
+MCHC,33.9,g/dL,1041
+anion gap,10.0, ,-154
+platelets x 1000,176.0,K/mcL,1041
+chloride,100.0,mmol/L,-154
+BNP,244.0,pg/mL,-154
+calcium,9.2,mg/dL,1041
+-monos,7.1,%,1041
+total bilirubin,0.3,mg/dL,-154
+-eos,2.8,%,-154
+bicarbonate,26.0,mmol/L,1041
+RDW,12.2,%,1041
+ALT (SGPT),23.0,Units/L,-154
+CRP,0.2,mg/dL,-154
+PT,14.3,sec,-154
+MCH,30.1,pg,1041
+BUN,14.0,mg/dL,1041
+glucose,176.0,mg/dL,1041
+PT - INR,1.1,ratio,-154
+Hct,40.8,%,-154
+chloride,100.0,mmol/L,1041
+glucose,327.0,mg/dL,-154
+LPM O2,2.0,L/min,1361
+FiO2,28.0,%,1361
+PTT,33.6,sec,-154
+MPV,10.5,fL,1041
+sodium,134.0,mmol/L,-154
+AST (SGOT),22.0,Units/L,-154
+MPV,10.3,fL,-154
+bedside glucose,258.0,mg/dL,336
+bedside glucose,293.0,mg/dL,514
+bedside glucose,226.0,mg/dL,1964

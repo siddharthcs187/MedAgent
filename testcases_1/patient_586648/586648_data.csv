@@ -1,0 +1,278 @@
+LabName,LabResult,Units,LabResultOffset (minutes)
+AST (SGOT),28,IU/L,-242
+total protein,6.6,g/dL,-242
+BUN,25,mg/dL,-242
+anion gap,2,,-242
+ALT (SGPT),61,IU/L,-242
+sodium,147,mmol/L,-242
+creatinine,0.92,mg/dL,2118
+bicarbonate,38,mmol/L,-242
+potassium,3.4,mmol/L,2118
+creatinine,0.83,mg/dL,-242
+calcium,8.6,mg/dL,2118
+glucose,210,mg/dL,-242
+sodium,146,mmol/L,2118
+total bilirubin,0.4,mg/dL,-242
+BUN,14,mg/dL,4987
+RDW,14.1,%,6443
+WBC x 1000,6.9,K/mcL,6443
+MCH,31.1,pg,6443
+MCHC,32.2,g/dL,6443
+platelets x 1000,80,K/mcL,6443
+calcium,7.6,mg/dL,4987
+RBC,4.02,M/mcL,3523
+PTT,35,sec,-242
+RBC,4.35,M/mcL,2118
+paO2,77.3,mm Hg,7874
+MCHC,32.1,g/dL,3523
+paCO2,47.1,mm Hg,1295
+Hct,40.9,%,2118
+glucose,97,mg/dL,2118
+chloride,108,mmol/L,2118
+Hct,39.2,%,3523
+Hgb,12.6,g/dL,3523
+PT,19.9,sec,-242
+MPV,11.8,fL,2118
+platelets x 1000,98,K/mcL,2118
+potassium,4.5,mmol/L,-242
+WBC x 1000,6.8,K/mcL,3523
+PEEP,5,cm H2O,1295
+Base Excess,11.5,mEq/L,1295
+O2 Sat (%),86.9,%,1295
+MCV,96,fL,6443
+bicarbonate,33,mmol/L,4987
+RDW,14.7,%,2118
+Hgb,13.5,g/dL,2118
+MCH,31,pg,2118
+MCHC,33,g/dL,2118
+platelets x 1000,68,K/mcL,3523
+paO2,53.3,mm Hg,1295
+MCV,94,fL,2118
+chloride,107,mmol/L,-242
+MPV,11.1,fL,3523
+HCO3,36.9,mmol/L,2214
+FiO2,50,%,305
+FiO2,65,%,2214
+BUN,32,mg/dL,2118
+calcium,8.4,mg/dL,464
+platelets x 1000,128,K/mcL,464
+RBC,4.63,M/mcL,464
+Hct,44.1,%,464
+MCV,95,fL,464
+MCHC,33.3,g/dL,464
+RDW,14.6,%,464
+WBC x 1000,8,K/mcL,464
+MCH,31.7,pg,464
+bedside glucose,141,mg/dL,5906
+bedside glucose,111,mg/dL,5233
+bedside glucose,97,mg/dL,3079
+bedside glucose,133,mg/dL,1655
+bedside glucose,115,mg/dL,5620
+bedside glucose,120,mg/dL,7204
+bedside glucose,126,mg/dL,853
+bedside glucose,109,mg/dL,399
+bedside glucose,105,mg/dL,2317
+bedside glucose,94,mg/dL,2582
+bedside glucose,117,mg/dL,4987
+bedside glucose,136,mg/dL,4947
+bedside glucose,125,mg/dL,8080
+bedside glucose,124,mg/dL,1870
+bedside glucose,88,mg/dL,4719
+bedside glucose,125,mg/dL,5723
+bedside glucose,116,mg/dL,4483
+bedside glucose,113,mg/dL,6163
+bedside glucose,117,mg/dL,7611
+bedside glucose,130,mg/dL,8309
+bedside glucose,106,mg/dL,2078
+bedside glucose,129,mg/dL,663
+bedside glucose,88,mg/dL,-240
+bedside glucose,107,mg/dL,4065
+bedside glucose,126,mg/dL,1103
+bedside glucose,106,mg/dL,7886
+bedside glucose,95,mg/dL,-26
+bedside glucose,115,mg/dL,6958
+bedside glucose,132,mg/dL,1404
+bedside glucose,98,mg/dL,3301
+bedside glucose,226,mg/dL,-240
+lactate,2,mmol/L,-242
+PT,16.8,sec,691
+PT - INR,1.7,ratio,-242
+BNP,990,pg/mL,81
+phosphate,1.6,mg/dL,81
+magnesium,2.3,mg/dL,-242
+PT - INR,1.4,ratio,691
+phosphate,2.7,mg/dL,4987
+magnesium,1.9,mg/dL,81
+potassium,3.8,mmol/L,6063
+albumin,3.7,g/dL,-242
+troponin - I,0.16,ng/mL,81
+troponin - I,0.11,ng/mL,464
+albumin,2.9,g/dL,464
+magnesium,2,mg/dL,4987
+anion gap,4, ,4987
+sodium,143,mmol/L,4987
+chloride,106,mmol/L,4987
+glucose,116,mg/dL,464
+potassium,3.2,mmol/L,4987
+bicarbonate,32,mmol/L,464
+creatinine,0.65,mg/dL,4987
+ALT (SGPT),41,IU/L,464
+total protein,5.1,g/dL,464
+TV,500,mls,2214
+paO2,82.3,mm Hg,2214
+paCO2,41.5,mm Hg,2214
+Base Excess,13.5,mEq/L,2214
+O2 Sat (%),95.1,%,2214
+TV,500,mls,2216
+HCO3,28.9,mmol/L,7874
+paCO2,36.5,mm Hg,7874
+Base Excess,5.5,mEq/L,7874
+O2 Sat (%),95,%,7874
+FiO2,60,%,5003
+TV,500,mls,5003
+pH,7.543,unit(s),5003
+paCO2,37.7,mm Hg,5003
+Base Excess,9.2,mEq/L,5003
+O2 Sat (%),92.8,%,5003
+FiO2,40,%,3537
+TV,500,mls,3537
+paO2,79.7,mm Hg,3537
+paCO2,40.3,mm Hg,3537
+Base Excess,9.5,mEq/L,3537
+O2 Sat (%),94.8,%,3537
+TV,500,mls,1295
+HCO3,36.1,mmol/L,1295
+FiO2,100,%,1295
+paO2,84.3,mm Hg,696
+paCO2,46.5,mm Hg,696
+Base Excess,10.5,mEq/L,696
+O2 Sat (%),94.9,%,696
+TV,500,mls,2103
+HCO3,35.7,mmol/L,2103
+FiO2,65,%,2103
+paO2,73.8,mm Hg,2103
+paCO2,38.2,mm Hg,2103
+Base Excess,12.8,mEq/L,2103
+O2 Sat (%),94.4,%,2103
+pH,7.579,unit(s),2103
+TV,500,mls,6485
+HCO3,30.2,mmol/L,6485
+FiO2,60,%,6485
+paO2,73.6,mm Hg,6485
+paCO2,40,mm Hg,6485
+Base Excess,6.2,mEq/L,6485
+O2 Sat (%),93.5,%,6485
+pH,7.486,unit(s),6485
+PEEP,7,cm H2O,6485
+TV,500,mls,7902
+HCO3,32.4,mmol/L,5003
+FiO2,50,%,2214
+PEEP,5,cm H2O,2214
+PEEP,5,cm H2O,5003
+PEEP,6,cm H2O,7902
+PEEP,5,cm H2O,705
+PEEP,5,cm H2O,2103
+PEEP,5,cm H2O,3538
+PEEP,5,cm H2O,-190
+PEEP,5,cm H2O,117
+alkaline phos.,37,IU/L,-242
+albumin,2.9,g/dL,506
+ALT (SGPT),61,IU/L,464
+total protein,5.1,g/dL,506
+bicarbonate,32,mmol/L,506
+calcium,8.4,mg/dL,506
+chloride,110,mmol/L,506
+creatinine,0.86,mg/dL,506
+potassium,3.9,mmol/L,506
+sodium,148,mmol/L,506
+AST (SGOT),22,IU/L,506
+albumin,3.7,g/dL,-198
+alkaline phos.,30,IU/L,506
+lactate,2,mmol/L,127
+alkaline phos.,30,IU/L,506
+CPK,99,IU/L,-242
+troponin - I,0.06,ng/mL,-197
+bedside glucose,126,mg/dL,1404
+bedside glucose,116,mg/dL,151
+bedside glucose,145,mg/dL,7337
+bedside glucose,117,mg/dL,113
+bedside glucose,107,mg/dL,7611
+bedside glucose,117,mg/dL,6715
+bedside glucose,106,mg/dL,6403
+bedside glucose,98,mg/dL,7337
+bedside glucose,125,mg/dL,7204
+bedside glucose,125,mg/dL,6958
+bedside glucose,141,mg/dL,5906
+bedside glucose,111,mg/dL,5233
+bedside glucose,97,mg/dL,3079
+bedside glucose,133,mg/dL,1655
+bedside glucose,115,mg/dL,5620
+bedside glucose,120,mg/dL,7204
+bedside glucose,126,mg/dL,853
+bedside glucose,109,mg/dL,399
+bedside glucose,105,mg/dL,2317
+bedside glucose,94,mg/dL,2582
+bedside glucose,117,mg/dL,4987
+bedside glucose,136,mg/dL,4947
+bedside glucose,125,mg/dL,8080
+bedside glucose,124,mg/dL,1870
+bedside glucose,88,mg/dL,4719
+bedside glucose,125,mg/dL,5723
+bedside glucose,116,mg/dL,4483
+bedside glucose,113,mg/dL,6163
+bedside glucose,117,mg/dL,7611
+bedside glucose,130,mg/dL,8309
+bedside glucose,106,mg/dL,2078
+bedside glucose,129,mg/dL,663
+bedside glucose,88,mg/dL,-240
+bedside glucose,107,mg/dL,4065
+bedside glucose,126,mg/dL,1103
+bedside glucose,106,mg/dL,7886
+bedside glucose,95,mg/dL,-26
+bedside glucose,115,mg/dL,6958
+bedside glucose,132,mg/dL,1404
+bedside glucose,98,mg/dL,3301
+bedside glucose,226,mg/dL,-240
+lactate,2,mmol/L,-242
+PT,16.8,sec,691
+PT - INR,1.7,ratio,-242
+BNP,990,pg/mL,81
+phosphate,1.6,mg/dL,81
+magnesium,2.3,mg/dL,-242
+PT - INR,1.4,ratio,691
+phosphate,2.7,mg/dL,4987
+magnesium,1.9,mg/dL,81
+potassium,3.8,mmol/L,6063
+albumin,3.7,g/dL,-242
+troponin - I,0.16,ng/mL,81
+troponin - I,0.11,ng/mL,464
+albumin,2.9,g/dL,506
+magnesium,2,mg/dL,4987
+anion gap,4, ,4987
+sodium,143,mmol/L,4987
+chloride,106,mmol/L,4987
+glucose,116,mg/dL,464
+potassium,3.2,mmol/L,4987
+bicarbonate,32,mmol/L,506
+creatinine,0.65,mg/dL,4987
+ALT (SGPT),41,IU/L,464
+total protein,5.1,g/dL,506
+TSH,1.2,mcU/ml,-191
+Ethanol,<10,mg/dL,-198
+Acetaminophen,<2,mcg/mL,-198
+FiO2,100,%,-190
+Base Excess,13.6,mEq/L,117
+paCO2,35.8,mm Hg,117
+TV,500,mls,117
+paO2,56.7,mm Hg,117
+Base Excess,9.9,mEq/L,-190
+FiO2,40,%,117
+paO2,277,mm Hg,-190
+Base Excess,13.6,mEq/L,117
+paCO2,35.8,mm Hg,117
+TV,500,mls,117
+paO2,56.7,mm Hg,117
+Base Excess,9.9,mEq/L,-190
+FiO2,100,%,-190
+pH,7.611,unit(s),117
+pH,7.485,unit(s),-190

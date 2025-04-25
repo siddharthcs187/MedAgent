@@ -1,0 +1,4 @@
+TimeOffset,Potassium (mmol/L),Sodium (mmol/L),Chloride (mmol/L),Bicarbonate (mmol/L),Creatinine (mg/dL),BUN (mg/dL),Glucose (mg/dL),Hemoglobin (g/dL),Hematocrit (%),WBC x 1000 (K/mcL),Platelets x 1000 (K/mcL),Total Bilirubin (mg/dL),Albumin (g/dL),AST (SGOT) (Units/L),ALT (SGPT) (Units/L)
+-403,3.3,142,107,19,3.3,37,81,11.5,35.1,7.5,79,1.9,2.5,93,68
+330,3.9,141,108,20,3.3,40,186,10.6,31.3,4.2,78,1.5,1.9,67,61
+1762,3.5,143,110,21,3.2,53,168,10.8,31.7,5.6,78,0.9,2.1,61,68

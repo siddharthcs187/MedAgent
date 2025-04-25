@@ -1,0 +1,94 @@
+LabName,LabResult,LabMeasureNameInterface,LabResultOffset,LabTypeId
+glucose,88.0,mg/dL,-206,1
+glucose,165.0,mg/dL,789,1
+glucose,146.0,mg/dL,1374,4
+glucose,207.0,mg/dL,541,4
+glucose,273.0,mg/dL,334,4
+glucose,160.0,mg/dL,967,4
+glucose,122.0,mg/dL,2418,4
+glucose,134.0,mg/dL,2169,1
+glucose,103.0,mg/dL,6,4
+albumin,2.9,g/dL,-206,1
+albumin,2.9,g/dL,789,1
+albumin,2.4,g/dL,2169,1
+albumin,5.8,g/dL,789,1
+anion gap,4.0,,-206,1
+anion gap,3.0,,789,1
+anion gap,0.0,,2169,1
+AST (SGOT),46.0,IU/L,-206,1
+AST (SGOT),30.0,IU/L,789,1
+AST (SGOT),29.0,IU/L,2169,1
+creatinine,0.7,mg/dL,-206,1
+creatinine,0.7,mg/dL,789,1
+creatinine,0.7,mg/dL,2169,1
+sodium,137.0,mmol/L,-206,1
+sodium,135.0,mmol/L,789,1
+sodium,138.0,mmol/L,2169,1
+bicarbonate,36.0,mmol/L,-206,1
+bicarbonate,29.0,mmol/L,789,1
+bicarbonate,26.0,mmol/L,2169,1
+alkaline phos.,88.0,IU/L,-206,1
+alkaline phos.,95.0,IU/L,789,1
+alkaline phos.,59.0,IU/L,2169,1
+troponin - I,0.15,ng/mL,-206,1
+troponin - I,0.23,ng/mL,172,1
+troponin - I,0.08,ng/mL,1059,1
+troponin - I,0.1,ng/mL,789,1
+BUN,15.0,mg/dL,-206,1
+BUN,18.0,mg/dL,789,1
+BUN,11.0,mg/dL,2169,1
+total protein,6.0,g/dL,-206,1
+total protein,5.8,g/dL,789,1
+total protein,5.0,g/dL,2169,1
+chloride,97.0,mmol/L,-206,1
+chloride,103.0,mmol/L,789,1
+chloride,112.0,mmol/L,2169,1
+calcium,9.0,mg/dL,-206,1
+calcium,8.3,mg/dL,789,1
+calcium,7.9,mg/dL,2169,1
+ALT (SGPT),55.0,IU/L,-206,1
+ALT (SGPT),44.0,IU/L,789,1
+ALT (SGPT),36.0,IU/L,2169,1
+total bilirubin,0.8,mg/dL,-206,1
+total bilirubin,0.5,mg/dL,789,1
+total bilirubin,0.4,mg/dL,2169,1
+MCV,88.0,fL,789,3
+MCV,90.0,fL,2169,3
+MCV,88.0,fL,-206,3
+Hgb,10.4,g/dL,789,3
+Hgb,8.6,g/dL,2169,3
+Hgb,11.2,g/dL,-206,3
+Hct,32.6,%,789,3
+Hct,26.7,%,2169,3
+Hct,34.3,%,-206,3
+RBC,3.71,M/MM3,789,3
+RBC,2.96,M/MM3,2169,3
+RBC,3.89,M/MM3,-206,3
+WBC x 1000,10.9,K/MM3,789,3
+WBC x 1000,8.4,K/MM3,2169,3
+WBC x 1000,13.7,K/MM3,-206,3
+platelets x 1000,359.0,K/MM3,789,3
+platelets x 1000,348.0,K/MM3,2169,3
+platelets x 1000,417.0,K/MM3,-206,3
+MPV,11.7,fL,789,3
+MPV,10.6,fL,2169,3
+MPV,10.5,fL,-206,3
+RDW,14.0,%,789,3
+RDW,14.8,%,2169,3
+RDW,14.2,%,-206,3
+magnesium,2.5,mg/dL,789,1
+magnesium,1.8,mg/dL,172,1
+magnesium,2.1,mg/dL,2169,1
+potassium,3.4,mmol/L,789,1
+potassium,4.6,mmol/L,2169,1
+potassium,3.7,mmol/L,-206,1
+potassium,4.1,mmol/L,1374,1
+FiO2,29.0,%,11,7
+bedside glucose,207.0,mg/dL,541,4
+bedside glucose,146.0,mg/dL,1374,4
+bedside glucose,89.0,mg/dL,1751,4
+bedside glucose,122.0,mg/dL,2418,4
+bedside glucose,103.0,mg/dL,6,4
+bedside glucose,160.0,mg/dL,967,4
+PT,10.9,second(s),-206,3
+PT - INR,1.0,ratio,-206,3

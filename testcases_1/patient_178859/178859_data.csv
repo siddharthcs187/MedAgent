@@ -1,0 +1,24 @@
+LabName,LabResult,LabMeasureNameSystem,LabType
+RBC,3.83,M/mcL,Hematology
+Hgb,10.7,g/dL,Hematology
+Hct,33.1,%,Hematology
+MCV,86.4,fL,Hematology
+MCH,27.9,pg,Hematology
+MCHC,32.3,g/dL,Hematology
+RDW,14.7,%,Hematology
+Platelets x 1000,265.0,K/mcL,Hematology
+WBC x 1000,10.3,K/mcL,Hematology
+-monos,7.0,%,Hematology
+-eos,0.0,%,Hematology
+-basos,0.0,%,Hematology
+-polys,79.0,%,Hematology
+-lymphs,14.0,%,Hematology
+calcium,8.1,mg/dL,Chemistry
+anion gap,10.0,mmol/L,Chemistry
+glucose,124.0,mg/dL,Chemistry
+BUN,15.0,mg/dL,Chemistry
+creatinine,1.03,mg/dL,Chemistry
+sodium,139.0,mmol/L,Chemistry
+potassium,4.3,mmol/L,Chemistry
+chloride,105.0,mmol/L,Chemistry
+bicarbonate,28.0,mmol/L,Chemistry

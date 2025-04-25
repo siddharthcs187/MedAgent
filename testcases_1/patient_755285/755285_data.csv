@@ -1,0 +1,226 @@
+labname,labresult,labmeasurenamesystem,labresultoffset,unit
+Hgb,9.3,g/dL,11022,CSICU
+RDW,18.9,%,2393,CSICU
+MPV,10.6,fL,11022,CSICU
+RBC,3.93,M/mcL,2393,CSICU
+RDW,18.4,%,3855,CSICU
+RDW,19.1,%,11022,CSICU
+platelets x 1000,206.0,K/mcL,5318,CSICU
+platelets x 1000,171.0,K/mcL,2393,CSICU
+MCHC,31.3,g/dL,3855,CSICU
+platelets x 1000,336.0,K/mcL,11022,CSICU
+MPV,11.3,fL,5318,CSICU
+Hgb,9.6,g/dL,2393,CSICU
+Hgb,9.4,g/dL,3855,CSICU
+MCV,76.0,fL,11022,CSICU
+MCH,23.9,pg,5318,CSICU
+Hct,29.9,%,2393,CSICU
+Hct,30.0,%,3855,CSICU
+MCHC,31.7,g/dL,11022,CSICU
+RBC,3.98,M/mcL,5318,CSICU
+MCHC,32.1,g/dL,2393,CSICU
+MCH,23.9,pg,3855,CSICU
+RBC,3.88,M/mcL,11022,CSICU
+MCHC,31.6,g/dL,5318,CSICU
+MPV,11.4,fL,2393,CSICU
+platelets x 1000,189.0,K/mcL,3855,CSICU
+MCH,24.0,pg,11022,CSICU
+Hgb,9.5,g/dL,5318,CSICU
+-eos,7.0,%,6702,CSICU
+MCV,76.0,fL,3855,CSICU
+Hct,30.1,%,5318,CSICU
+-monos,7.0,%,6702,CSICU
+WBC x 1000,10.9,K/mcL,2393,CSICU
+WBC x 1000,10.7,K/mcL,3855,CSICU
+-lymphs,16.0,%,6702,CSICU
+-lymphs,17.0,%,9638,CSICU
+WBC x 1000,10.3,K/mcL,11022,CSICU
+WBC x 1000,10.6,K/mcL,5318,CSICU
+-polys,69.0,%,6702,CSICU
+-basos,0.0,%,6702,CSICU
+-monos,10.0,%,9638,CSICU
+-basos,0.0,%,9776,CSICU
+bedside glucose,135.0,mg/dL,5141,CSICU
+-polys,66.0,%,9776,CSICU
+bedside glucose,121.0,mg/dL,8637,CSICU
+bedside glucose,194.0,mg/dL,7704,CSICU
+sodium,135.0,mmol/L,8141,CSICU
+bedside glucose,93.0,mg/dL,10907,CSICU
+bedside glucose,241.0,mg/dL,10578,CSICU
+bedside glucose,181.0,mg/dL,4856,CSICU
+bedside glucose,164.0,mg/dL,1998,CSICU
+bedside glucose,218.0,mg/dL,384,CSICU
+potassium,3.8,mmol/L,8141,CSICU
+anion gap,8.0,,5318,CSICU
+magnesium,3.4,mg/dL,6702,CSICU
+-basos,0.0,%,1012,CSICU
+-monos,10.0,%,1012,CSICU
+-eos,3.0,%,1012,CSICU
+-lymphs,10.0,%,1012,CSICU
+-polys,76.0,%,1012,CSICU
+magnesium,2.2,mg/dL,3855,CSICU
+bedside glucose,150.0,mg/dL,9129,CSICU
+BUN,50.0,mg/dL,6702,CSICU
+chloride,97.0,mmol/L,5318,CSICU
+anion gap,9.0,,11022,CSICU
+potassium,4.1,mmol/L,12593,CSICU
+chloride,99.0,mmol/L,12593,CSICU
+BUN,23.0,mg/dL,11022,CSICU
+glucose,94.0,mg/dL,6702,CSICU
+potassium,4.7,mmol/L,5318,CSICU
+glucose,86.0,mg/dL,11022,CSICU
+calcium,8.9,mg/dL,12593,CSICU
+potassium,3.9,mmol/L,6702,CSICU
+calcium,9.4,mg/dL,6702,CSICU
+bicarbonate,28.0,mmol/L,6702,CSICU
+sodium,134.0,mmol/L,5318,CSICU
+calcium,8.8,mg/dL,11022,CSICU
+-eos,6.0,%,2393,CSICU
+-basos,0.0,%,2393,CSICU
+-lymphs,12.0,%,2393,CSICU
+-polys,73.0,%,2393,CSICU
+platelets x 1000,302.0,K/mcL,8141,CSICU
+RDW,18.5,%,8141,CSICU
+bedside glucose,130.0,mg/dL,1120,CSICU
+Hgb,9.7,g/dL,6702,CSICU
+RBC,4.08,M/mcL,6702,CSICU
+Hct,30.7,%,6702,CSICU
+MCH,23.8,pg,6702,CSICU
+MCHC,31.6,g/dL,6702,CSICU
+MPV,11.3,fL,6702,CSICU
+bedside glucose,176.0,mg/dL,3207,CSICU
+Hgb,9.6,g/dL,8141,CSICU
+WBC x 1000,11.6,K/mcL,6702,CSICU
+-polys,63.0,%,11022,CSICU
+-lymphs,19.0,%,11022,CSICU
+-basos,0.0,%,11022,CSICU
+-monos,11.0,%,11022,CSICU
+-eos,7.0,%,3855,CSICU
+-lymphs,20.0,%,3855,CSICU
+-basos,0.0,%,3855,CSICU
+-monos,9.0,%,3855,CSICU
+-polys,63.0,%,3855,CSICU
+bedside glucose,101.0,mg/dL,6864,CSICU
+RBC,3.93,M/mcL,3855,CSICU
+MCV,75.0,fL,8141,CSICU
+MCH,23.5,pg,8141,CSICU
+MCHC,31.3,g/dL,8141,CSICU
+bedside glucose,122.0,mg/dL,7172,CSICU
+BUN,35.0,mg/dL,5318,CSICU
+chloride,96.0,mmol/L,2393,CSICU
+creatinine,5.69,mg/dL,5318,CSICU
+BUN,25.0,mg/dL,2393,CSICU
+calcium,8.9,mg/dL,2393,CSICU
+glucose,122.0,mg/dL,2393,CSICU
+anion gap,8.0,,2393,CSICU
+creatinine,4.59,mg/dL,2393,CSICU
+potassium,4.0,mmol/L,2393,CSICU
+bicarbonate,30.0,mmol/L,2393,CSICU
+sodium,134.0,mmol/L,2393,CSICU
+potassium,4.1,mmol/L,3855,CSICU
+bicarbonate,28.0,mmol/L,3855,CSICU
+creatinine,3.99,mg/dL,3855,CSICU
+sodium,136.0,mmol/L,3855,CSICU
+chloride,100.0,mmol/L,3855,CSICU
+glucose,132.0,mg/dL,3855,CSICU
+calcium,8.9,mg/dL,3855,CSICU
+BUN,21.0,mg/dL,3855,CSICU
+BUN,45.0,mg/dL,9638,CSICU
+glucose,104.0,mg/dL,5318,CSICU
+creatinine,7.24,mg/dL,6702,CSICU
+chloride,93.0,mmol/L,6702,CSICU
+calcium,9.4,mg/dL,6702,CSICU
+bicarbonate,29.0,mmol/L,5318,CSICU
+sodium,132.0,mmol/L,9638,CSICU
+glucose,101.0,mg/dL,9638,CSICU
+creatinine,6.43,mg/dL,9638,CSICU
+bicarbonate,29.0,mmol/L,9638,CSICU
+potassium,4.2,mmol/L,9638,CSICU
+bedside glucose,138.0,mg/dL,4022,CSICU
+bedside glucose,242.0,mg/dL,6057,CSICU
+bedside glucose,102.0,mg/dL,6574,CSICU
+bedside glucose,123.0,mg/dL,5430,CSICU
+bedside glucose,213.0,mg/dL,4567,CSICU
+bedside glucose,120.0,mg/dL,10429,CSICU
+bedside glucose,83.0,mg/dL,12646,CSICU
+bedside glucose,110.0,mg/dL,10039,CSICU
+creatinine,4.28,mg/dL,11022,CSICU
+bicarbonate,30.0,mmol/L,11022,CSICU
+sodium,138.0,mmol/L,11022,CSICU
+chloride,99.0,mmol/L,11022,CSICU
+potassium,3.9,mmol/L,11022,CSICU
+calcium,8.8,mg/dL,11022,CSICU
+bedside glucose,154.0,mg/dL,11537,CSICU
+bedside glucose,98.0,mg/dL,11177,CSICU
+bedside glucose,91.0,mg/dL,12037,CSICU
+bedside glucose,92.0,mg/dL,9755,CSICU
+sodium,136.0,mmol/L,1012,CSICU
+potassium,4.3,mmol/L,1012,CSICU
+bicarbonate,32.0,mmol/L,1012,CSICU
+glucose,125.0,mg/dL,1012,CSICU
+anion gap,6.0,,1012,CSICU
+creatinine,2.97,mg/dL,1012,CSICU
+calcium,9.0,mg/dL,1012,CSICU
+-polys,69.0,%,12593,CSICU
+-monos,8.0,%,12593,CSICU
+-eos,5.0,%,12593,CSICU
+-basos,1.0,%,12593,CSICU
+-lymphs,17.0,%,12593,CSICU
+RBC,3.98,M/mcL,12593,CSICU
+Hgb,9.3,g/dL,12593,CSICU
+Hct,29.8,%,12593,CSICU
+MCH,23.4,pg,12593,CSICU
+MCHC,31.2,g/dL,12593,CSICU
+MPV,10.5,fL,12593,CSICU
+RDW,18.3,%,12593,CSICU
+platelets x 1000,411.0,K/mcL,12593,CSICU
+magnesium,2.6,mg/dL,5318,CSICU
+bedside glucose,182.0,mg/dL,7538,CSICU
+bedside glucose,219.0,mg/dL,8978,CSICU
+bedside glucose,156.0,mg/dL,1440,CSICU
+bedside glucose,140.0,mg/dL,2580,CSICU
+bedside glucose,197.0,mg/dL,1768,CSICU
+bedside glucose,181.0,mg/dL,825,CSICU
+-polys,62.0,%,5318,CSICU
+-lymphs,19.0,%,5318,CSICU
+-monos,8.0,%,5318,CSICU
+-eos,9.0,%,5318,CSICU
+-basos,1.0,%,5318,CSICU
+MCV,78.0,fL,1012,CSICU
+MCH,24.5,pg,1012,CSICU
+MCHC,31.6,g/dL,1012,CSICU
+platelets x 1000,136.0,K/mcL,1012,CSICU
+WBC x 1000,11.2,K/mcL,1012,CSICU
+RBC,3.96,M/mcL,1012,CSICU
+BUN,12.0,mg/dL,1012,CSICU
+sodium,136.0,mmol/L,1012,CSICU
+potassium,4.3,mmol/L,1012,CSICU
+bicarbonate,32.0,mmol/L,1012,CSICU
+chloride,98.0,mmol/L,1012,CSICU
+anion gap,6.0,,1012,CSICU
+creatinine,2.97,mg/dL,1012,CSICU
+calcium,9.0,mg/dL,1012,CSICU
+bedside glucose,91.0,mg/dL,10039,CSICU
+bedside glucose,109.0,mg/dL,9491,CSICU
+bedside glucose,101.0,mg/dL,8018,CSICU
+BUN,29.0,mg/dL,8141,CSICU
+creatinine,4.76,mg/dL,8141,CSICU
+glucose,93.0,mg/dL,8141,CSICU
+bicarbonate,31.0,mmol/L,8141,CSICU
+calcium,8.7,mg/dL,8141,CSICU
+anion gap,7.0,,8141,CSICU
+RDW,18.9,%,9638,CSICU
+MPV,10.8,fL,9638,CSICU
+Hct,29.6,%,9638,CSICU
+Hgb,9.4,g/dL,9638,CSICU
+MCH,23.7,pg,9638,CSICU
+MCHC,31.8,g/dL,9638,CSICU
+platelets x 1000,330.0,K/mcL,9638,CSICU
+RBC,3.97,M/mcL,9638,CSICU
+WBC x 1000,11.9,K/mcL,9638,CSICU
+-eos,6.0,%,8141,CSICU
+-basos,0.0,%,8141,CSICU
+-lymphs,19.0,%,8141,CSICU
+-polys,65.0,%,8141,CSICU
+-monos,10.0,%,8141,CSICU
+magnesium,2.4,mg/dL,8141,CSICU

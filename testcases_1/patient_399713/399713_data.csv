@@ -1,0 +1,15 @@
+PatientUnitStayID,TimeFromAdmit(minutes),HeartRate(bpm),SystolicBP(mmHg),DiastolicBP(mmHg),RespiratoryRate(breaths/min),SpO2(%),FiO2(%),GCS
+399713.0,37,112,131,71.0,23.0,98.0,22.0,14.0
+399713.0,-185,,,,,,,
+399713.0,35,,,,,95.0,22.0,
+399713.0,-185,,,,,,,
+,LabName,LabResult,LabUnits,,,,,
+,Creatinine,1.0,mg/dL,,,,,
+,BUN,27,mg/dL,,,,,
+,Sodium,143,mEq/L,,,,,
+,Potassium,4.1,mEq/L,,,,,
+,Glucose,191,mg/dL,,,,,
+,TotalBilirubin,0.3,mg/dL,,,,,
+,Hgb,12.4,g/dL,,,,,
+,Hct,41.5,% ,,,,,
+,WBC,13.7,K/mcL,,,,,

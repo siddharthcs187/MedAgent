@@ -1,0 +1,46 @@
+Lab Name,Time Offset (minutes),Lab Result,Units
+Hct,-307,45,%
+Hct,3,-38.8,%
+Hct,302,36.8,%
+Hct,562,37,%
+Hct,777,34.1,%
+Hct,1002,33.5,%
+Hct,1247,36.1,%
+Hgb,-307,14.6,g/dL
+Hgb,302,11.7,g/dL
+Hgb,1247,10.4,g/dL
+WBC x 1000,-307,20.5,K/mcL
+WBC x 1000,302,18.4,K/mcL
+Platelets x 1000,-307,368,K/mcL
+Platelets x 1000,302,283,K/mcL
+MPV,-307,11.3,fL
+MPV,302,11.2,fL
+RBC,-307,5.21,M/mcL
+RBC,302,4.2,M/mcL
+MCV,-307,86,fL
+MCV,302,88,fL
+MCH,-307,28,pg
+MCH,302,27.9,pg
+MCHC,-307,32,g/dL
+MCHC,302,32,g/dL
+RDW,-307,14,%
+RDW,302,14.2,%
+BUN,-307,33,mg/dL
+Creatinine,-307,1,mg/dL
+Chloride,-307,108,mmol/L
+Bicarbonate,-307,25,mmol/L
+Albumin,-307,3.8,g/dL
+Total Protein,-307,6.7,g/dL
+Calcium,-307,9.6,mg/dL
+Glucose,-307,112,mg/dL
+ALT (SGPT),-307,17,Units/L
+AST (SGOT),-307,17,Units/L
+Sodium,-307,144,mmol/L
+Potassium,-307,3.5,mmol/L
+Total Bilirubin,-307,0.8,mg/dL
+Anion Gap,-307,11, 
+Alkaline Phos,-307,77,Units/L
+Ammonia,-308,24,mcg/dL
+PT,-307,14.6,sec
+PT-INR,-307,1.1,ratio
+Troponin-I,-265,<0.01,ng/mL

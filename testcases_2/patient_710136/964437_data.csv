@@ -1,0 +1,96 @@
+labname,labresultoffset,labresult,labmeasurenameinterface,TimeSinceAdmission (minutes)
+Total CO2,-60,25.0,mmol/L,-60
+Total CO2,-115,29.0,mmol/L,-115
+Total CO2,-76,26.0,mmol/L,-76
+Total CO2,128,21.5,mmol/L,128
+Total CO2,-177,30.0,mmol/L,-177
+Total CO2,-201,28.0,mmol/L,-201
+Total CO2,-86,27.0,mmol/L,-86
+FiO2,-32,50.0,%,-32
+FiO2,128,36.0,% ,128
+paO2,-32,101.0,mmHg,-32
+paO2,128,119.0,mmHg,128
+Vent Rate,-32,12.0,/min,-32
+TV,-32,500.0,mls,-32
+HCO3,-32,21.5,mmol/L,-32
+HCO3,128,21.5,mmol/L,128
+Methemoglobin,-32,0.5,%,-32
+Methemoglobin,128,0.6,% ,128
+Carboxyhemoglobin,-32,1.1,%,-32
+Carboxyhemoglobin,128,1.0,% ,128
+RBC,-26,3.58,mill/uL,-26
+RBC,909,3.18,mill/uL,909
+platelets x 1000,-26,144.0,th/uL,-26
+platelets x 1000,909,80.0,th/uL,909
+MPV,-26,7.5,fL,-26
+MPV,909,7.8,fL,909
+-lymphs,909,9.4,% ,909
+MCHC,-26,34.0,g/dL,-26
+MCHC,909,33.8,g/dL,909
+Hgb,909,10.5,g/dL,909
+Hgb,-26,11.9,g/dL,-26
+WBC x 1000,-26,10.6,th/uL,-26
+WBC x 1000,909,6.2,th/uL,909
+O2 Content,-32,15.7,mL/dL,-32
+O2 Content,128,16.1,mL/dL,128
+-basos,909,0.3,% ,909
+-basos,-26,0.2,%,-26
+MCH,-26,33.2,pg,-26
+MCH,909,32.9,pg,909
+MCV,-26,97.5,fL,-26
+MCV,909,97.4,fL,909
+RDW,909,12.3,% ,909
+RDW,-26,12.3,%,-26
+-polys,909,81.9,% ,909
+-polys,-26,78.0,%,-26
+Respiratory Rate,-32,12.0,/min,-32
+Base Excess,-32,-3.7,mmol/L,-32
+Base Excess,128,-4.1,mmol/L,128
+paCO2,-32,42.0,mmHg,-32
+paCO2,128,44.0,mmHg,128
+O2 Sat (%) ,-32,98.8,%,-32
+O2 Sat (%),128,99.1,% ,128
+sodium,-76,137.0,mmol/L,-76
+sodium,-115,137.0,mmol/L,-115
+sodium,-60,141.0,mmol/L,-60
+sodium,-201,139.0,mmol/L,-201
+sodium,-258,141.0,mmol/L,-258
+sodium,909,144.0,mmol/L,909
+ionized calcium,-76,5.6,mg/dL,-76
+ionized calcium,-115,4.5,mg/dL,-115
+ionized calcium,-60,5.2,mg/dL,-60
+ionized calcium,-201,5.0,mg/dL,-201
+ionized calcium,-258,4.9,mg/dL,-258
+ionized calcium,-86,5.7,mg/dL,-86
+ionized calcium,-141,4.6,mg/dL,-141
+potassium,-76,4.5,mmol/L,-76
+potassium,-115,5.4,mmol/L,-115
+potassium,-60,4.2,mmol/L,-60
+potassium,-201,3.9,mmol/L,-201
+potassium,-258,3.8,mmol/L,-258
+potassium,-86,4.6,mmol/L,-86
+potassium,-141,5.0,mmol/L,-141
+potassium,909,4.1,mmol/L,909
+bedside glucose,-115,172.0,mg/dL,-115
+bedside glucose,-76,163.0,mg/dL,-76
+bedside glucose,-177,114.0,mg/dL,-177
+bedside glucose,-258,118.0,mg/dL,-258
+bedside glucose,-60,137.0,mg/dL,-60
+bicarbonate,-26,25.0,mmol/L,-26
+bicarbonate,909,24.0,mmol/L,909
+CPK-MB,1454,4.7,ng/mL,1454
+CPK-MB,-26,14.3,ng/mL,-26
+chloride,909,112.0,mmol/L,909
+chloride,-26,114.0,mmol/L,-26
+BUN,909,10.0,mg/dL,909
+BUN,-26,12.0,mg/dL,-26
+glucose,-26,110.0,mg/dL,-26
+glucose,909,109.0,mg/dL,909
+anion gap,909,8.0,,909
+anion gap,-26,5.0,,-26
+-monos,909,8.4,% ,909
+-monos,-26,2.9,%,-26
+LPM O2,128,4.0,L/min,128
+-eos,-26,0.6,%,-26
+pH,-32,7.33,,-32
+pH,128,7.31,,128

@@ -1,0 +1,77 @@
+LabName,LabResult,LabMeasureNameSystem,LabResultOffset (minutes)
+Glucose,318.0,mg/dL,-201
+Glucose,213.0,mg/dL,435
+Glucose,317.0,mg/dL,1907
+Glucose,217.0,mg/dL,1026
+Glucose,256.0,mg/dL,213
+Glucose,293.0,mg/dL,-10
+Glucose,291.0,mg/dL,804
+Glucose,285.0,mg/dL,1631
+Glucose,232.0,mg/dL,1388
+Troponin - I,0.78,ng/mL,126
+Troponin - I,1.25,ng/mL,380
+Troponin - I,1.41,ng/mL,804
+Troponin - I,1.28,ng/mL,1073
+Sodium,138.0,mmol/L,-201
+Sodium,133.0,mmol/L,1388
+Sodium,100.0,mmol/L,-201
+Potassium,4.2,mmol/L,-201
+Potassium,4.0,mmol/L,1388
+Creatinine,0.96,mg/dL,-201
+Creatinine,1.06,mg/dL,1388
+WBC x 1000,10.4,K/mcL,-201
+WBC x 1000,9.1,K/mcL,1388
+Hemoglobin,12.8,g/dL,-201
+Hemoglobin,11.9,g/dL,1388
+Hematocrit,38.6,%,-201
+Hematocrit,35.7,%,1388
+Platelets x 1000,452.0,K/mcL,-201
+Platelets x 1000,362.0,K/mcL,1388
+Anion gap,14.0,,-201
+Anion gap,11.0, ,1388
+Calcium,9.3,mg/dL,-201
+Calcium,8.7,mg/dL,1388
+Chloride,100.0,mmol/L,-201
+Chloride,98.0,mmol/L,1388
+Total Bilirubin,0.2,mg/dL,-201
+Direct Bilirubin,0.1,mg/dL,-201
+ALT (SGPT),22.0,Units/L,-201
+Total Protein,8.0,g/dL,-201
+Albumin,3.5,g/dL,-201
+AST (SGOT),17.0,Units/L,-201
+Alkaline phos.,81.0,Units/L,-201
+LDL,140.0,mg/dL,126
+LDL,134.0,mg/dL,804
+Total Cholesterol,243.0,mg/dL,126
+Total Cholesterol,233.0,mg/dL,804
+HDL,48.0,mg/dL,126
+HDL,47.0,mg/dL,804
+Triglycerides,436.0,mg/dL,126
+Triglycerides,442.0,mg/dL,804
+MCV,84.8,fL,-201
+MCV,84.2,fL,1388
+MCH,28.1,pg,-201
+MCH,28.1,pg,1388
+MCHC,33.2,g/dL,-201
+MCHC,33.3,g/dL,1388
+RDW,12.9,%,-201
+RDW,12.9,%,1388
+-eos,4.0,%,-201
+-eos,2.0,%,1388
+-monos,5.0,%,-201
+-monos,6.0,%,1388
+-polys,40.0,%,-201
+-polys,55.0,%,1388
+-lymphs,50.0,%,-201
+-lymphs,37.0,%,1388
+-basos,1.0,%,-201
+-basos,0.0,%,1388
+RBC,4.55,M/mcL,-201
+RBC,4.24,M/mcL,1388
+BUN,14.0,mg/dL,-201
+BUN,13.0,mg/dL,1388
+Bicarbonate,28.0,mmol/L,-201
+Bicarbonate,28.0,mmol/L,1388
+PTT,22.0,sec,380
+PTT,33.0,sec,899
+BNP,46.0,pg/mL,-201

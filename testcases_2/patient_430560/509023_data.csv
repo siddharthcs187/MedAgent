@@ -1,0 +1,4 @@
+TimeOffsetMinutes,Hemoglobin(g/dL),Platelets(K/mcL),Glucose(mg/dL),Creatinine(mg/dL),Sodium(mmol/L),Potassium(mmol/L),BUN(mg/dL),AnionGap(mEq/L)
+-270,8.2,382,148,1.16,140,3.3,38,8
+1089,8.3,267,150,1.12,145,2.5,33,12
+2535,9.4,231,151,1.53,152,3.1,39,9

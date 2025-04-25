@@ -1,0 +1,84 @@
+labname,labresult,labresultoffset,labmeasurenamesystem
+chloride,94.0,146,mmol/L
+calcium,7.5,146,mg/dL
+potassium,3.7,-151,mmol/L
+creatinine,0.7,-151,mg/dL
+alkaline phos.,112.0,-151,Units/L
+creatinine,0.6,146,mg/dL
+BUN,18.0,146,mg/dL
+glucose,160.0,146,mg/dL
+anion gap,23.0,-151,mmol/L
+-lymphs,2.0,69,%
+RBC,5.15,69,M/mcL
+AST (SGOT),40.0,-151,Units/L
+-polys,26.0,69,%
+ALT (SGPT),27.0,-151,Units/L
+Hct,43.5,69,%
+MCH,30.1,69,pg
+potassium,3.2,146,mmol/L
+-monos,4.0,69,%
+Total CO2,19.0,146,
+anion gap,18.0,146,
+platelets x 1000,188.0,69,K/mcL
+paO2,69.0,146,mm Hg
+MCV,84.5,69,fL
+platelets x 1000,182.0,-151,K/mcL
+pH,7.28,69,units
+Base Excess,-9.0,146,mEq/L
+lactate,10.1,-151,mmol/L
+MCHC,35.6,69,g/dL
+total protein,6.1,-151,g/dL
+MCH,29.2,-151,pg
+Hct,48.5,-151,%
+chloride,86.0,-151,mmol/L
+BUN,17.0,-151,mg/dL
+glucose,122.0,-151,mg/dL
+calcium,8.7,-151,mg/dL
+MCV,85.8,-151,fL
+O2 Sat (%),95.0,146,%
+HCO3,18.5,69,mmol/L
+sodium,129.0,-151,mmol/L
+Hgb,16.5,-151,g/dL
+-bands,49.0,-151,%
+-polys,32.0,-151,%
+-lymphs,5.0,-151,%
+-monos,2.0,-151,%
+PT,21.3,-151,sec
+WBC x 1000,28.2,-151,K/mcL
+PT - INR,1.9,-151,ratio
+Total CO2,16.0,-85,
+paCO2,39.0,-85,mm Hg
+Base Excess,-12.0,-85,mEq/L
+Hgb,15.5,69,g/dL
+RDW,16.9,69,%
+WBC x 1000,16.1,69,K/mcL
+PT,22.2,92,sec
+fibrinogen,353.0,92,mg/dL
+PT - INR,2.0,92,ratio
+PTT,39.2,92,sec
+calcium,7.2,372,mg/dL
+sodium,126.0,372,mmol/L
+bicarbonate,16.0,372,mmol/L
+creatinine,0.5,372,mg/dL
+glucose,184.0,372,mg/dL
+BUN,17.0,372,mg/dL
+chloride,98.0,372,mmol/L
+Total CO2,19.0,372,
+paCO2,39.0,372,mm Hg
+Base Excess,-8.0,372,mEq/L
+O2 Sat (%),95.0,372,%
+Carboxyhemoglobin,2.5,372,%
+PEEP,10.0,96,cm H2O
+lactate,4.8,69,mmol/L
+PEEP,10.0,34,cm H2O
+FiO2,100.0,96,%
+amylase,85.0,69,Units/L
+FiO2,100.0,34,%
+Carboxyhemoglobin,2.3,-85,%
+Total CO2,20.0,69,
+paO2,70.0,372,mm Hg
+urinary specific gravity,1.015,130,
+CRP,1148.0,69,mg/dL
+O2 Sat (%),84.0,-85,%
+pH,7.2,-85,units
+Digoxin,0.8,69,ng/mL

@@ -1,0 +1,100 @@
+labname,TimeOffset (minutes),Result,Unit
+RBC,768,2.72,M/mcL
+RBC,2238,3.02,M/mcL
+RBC,6480,3.81,M/mcL
+RBC,7858,4.03,M/mcL
+RDW,768,20.3,%
+RDW,2238,19.7,%
+RDW,6480,19.7,%
+RDW,7858,19.3,%
+Hct,768,26.1,%
+Hct,2238,29.2,%
+Hct,3543,26.5,%
+Hct,6480,35.3,%
+Hct,7858,38.2,%
+Hgb,768,8.3,g/dL
+Hgb,2238,9.3,g/dL
+Hgb,3543,8.6,g/dL
+Hgb,6480,11.9,g/dL
+Hgb,7858,12.3,g/dL
+platelets x 1000,768,275.0,K/mcL
+platelets x 1000,2238,300.0,K/mcL
+platelets x 1000,6480,278.0,K/mcL
+platelets x 1000,7858,257.0,K/mcL
+WBC x 1000,768,5.4,K/mcL
+WBC x 1000,16,7.8,K/mcL
+WBC x 1000,2238,6.8,K/mcL
+WBC x 1000,6480,8.3,K/mcL
+WBC x 1000,7858,8.1,K/mcL
+MCV,768,96.0,fL
+MCV,2238,97.0,fL
+MCV,6480,93.0,fL
+MCV,7858,95.0,fL
+MCH,768,30.5,pg
+MCH,2238,30.8,pg
+MCH,6480,31.2,pg
+MCH,7858,30.5,pg
+MCHC,768,32.0,g/dL
+MCHC,2238,32.0,g/dL
+MCHC,6480,34.0,g/dL
+MCHC,7858,32.0,g/dL
+potassium,768,3.8,mmol/L
+potassium,2238,3.8,mmol/L
+potassium,3543,3.7,mmol/L
+potassium,6480,3.8,mmol/L
+potassium,16,3.3,mmol/L
+calcium,768,7.6,mg/dL
+calcium,2238,7.8,mg/dL
+calcium,3543,8.0,mg/dL
+calcium,6480,8.0,mg/dL
+calcium,16,7.8,mg/dL
+glucose,768,117.0,mg/dL
+glucose,2238,128.0,mg/dL
+glucose,3543,119.0,mg/dL
+glucose,6480,138.0,mg/dL
+glucose,7858,110.0,mg/dL
+glucose,777,113.0,mg/dL
+glucose,1689,141.0,mg/dL
+glucose,2176,94.0,mg/dL
+glucose,2768,99.0,mg/dL
+glucose,3667,117.0,mg/dL
+glucose,3916,165.0,mg/dL
+glucose,4231,144.0,mg/dL
+glucose,4498,232.0,mg/dL
+glucose,5095,118.0,mg/dL
+glucose,5338,224.0,mg/dL
+glucose,5657,136.0,mg/dL
+glucose,6833,198.0,mg/dL
+glucose,7066,102.0,mg/dL
+glucose,7974,102.0,mg/dL
+glucose,8225,216.0,mg/dL
+glucose,8582,164.0,mg/dL
+sodium,768,135.0,mmol/L
+sodium,2238,134.0,mmol/L
+sodium,3543,134.0,mmol/L
+sodium,6480,137.0,mmol/L
+sodium,7858,141.0,mmol/L
+sodium,16,131.0,mmol/L
+chloride,768,101.0,mmol/L
+chloride,2238,98.0,mmol/L
+chloride,3543,99.0,mmol/L
+chloride,6480,100.0,mmol/L
+chloride,7858,101.0,mmol/L
+chloride,16,98.0,mmol/L
+BUN,768,3.0,mg/dL
+BUN,2238,4.0,mg/dL
+BUN,3543,4.0,mg/dL
+BUN,6480,8.0,mg/dL
+BUN,7858,6.0,mg/dL
+creatinine,768,0.7,mg/dL
+creatinine,2238,0.7,mg/dL
+creatinine,3543,0.7,mg/dL
+creatinine,6480,0.8,mg/dL
+creatinine,7858,0.8,mg/dL
+creatinine,16,0.7,mg/dL
+anion gap,768,7.0,mmol/L
+anion gap,2238,8.0,mmol/L
+anion gap,3543,8.0,mmol/L
+anion gap,6480,5.0,mmol/L
+anion gap,7858,10.0,mmol/L
+anion gap,16,11.0,mmol/L

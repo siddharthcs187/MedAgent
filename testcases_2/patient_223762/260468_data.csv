@@ -1,0 +1,5 @@
+Time_Offset_Minutes,BUN_mg/dL,Creatinine_mg/dL,Potassium_mmol/L,Sodium_mmol/L,Bicarbonate_mmol/L,Troponin_I_ng/mL,Hemoglobin_g/dL,Platelets_K/uL,BNP_pg/mL,CRP_mg/dL
+-186,16,0.8,3.7,133,25,0.01,12.2,424.0,536,7.7
+429,21,0.9,4.2,131,25,0.03,10.7,397.0,406,
+2046,33,1.6,3.6,130,26,,,,417,
+3524,25,1.0,3.7,135,27,,,,530,

@@ -1,0 +1,5 @@
+event,time_from_hospital_admission_hours
+Hospital Admission,0.0
+ICU Admission,11.85
+ICU Discharge,14.12
+Hospital Discharge,41.02

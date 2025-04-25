@@ -1,0 +1,43 @@
+labname,TimeOffset (minutes),LabResult,Unit
+platelets x 1000,-106,278.0,K/mcL
+platelets x 1000,284,157.0,K/mcL
+platelets x 1000,798,132.0,K/mcL
+MCHC,-106,32.5,g/dL
+MCHC,284,33.2,g/dL
+MCHC,798,32.6,g/dL
+MCH,-106,29.2,pg
+MCH,284,29.9,pg
+MCH,798,29.8,pg
+RDW,-106,13.3,%
+RDW,284,13.4,%
+RDW,798,13.8,%
+-monos,-106,11.0,%
+-lymphs,-106,27.0,%
+-polys,-106,62.0,%
+-basos,-106,0.0,%
+RBC,-106,5.18,M/mcL
+RBC,284,4.61,M/mcL
+RBC,798,4.57,M/mcL
+Hct,-106,46.4,%
+Hct,284,41.6,%
+Hct,798,41.7,%
+MCV,-106,89.6,fL
+MCV,284,90.2,fL
+MCV,798,91.2,fL
+WBC x 1000,-106,12.3,K/mcL
+WBC x 1000,284,9.9,K/mcL
+WBC x 1000,798,12.9,K/mcL
+potassium,-106,3.3,mmol/L
+potassium,284,4.1,mmol/L
+chloride,-106,104.0,mmol/L
+glucose,-106,133.0,mg/dL
+calcium,-106,9.6,mg/dL
+bicarbonate,-106,14.0,mmol/L
+BUN,-106,15.0,mg/dL
+creatinine,-106,1.3,mg/dL
+triglycerides,798,64.0,mg/dL
+total cholesterol,798,181.0,mg/dL
+HDL,798,40.0,mg/dL
+LDL,798,128.0,mg/dL
+troponin - I,-106,0.02,ng/mL
+anion gap,-106,27.0,mmol/L

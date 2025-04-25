@@ -1,0 +1,64 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-166,total bilirubin,0.4,mg/dL
+-166,BUN,10.0,mg/dL
+-166,-polys,72.0,%
+-166,calcium,8.8,mg/dL
+-166,platelets x 1000,391.0,K/mcL
+-166,glucose,179.0,mg/dL
+-166,MCHC,34.0,g/dL
+-166,ALT (SGPT),27.0,Units/L
+-166,RBC,4.61,M/mcL
+-166,sodium,140.0,mmol/L
+-166,-lymphs,22.0,%
+-166,albumin,4.0,g/dL
+-166,bicarbonate,27.2,mmol/L
+3474,glucose,134.0,mg/dL
+-166,-monos,6.0,%
+-166,chloride,102.0,mmol/L
+3474,sodium,142.0,mmol/L
+-166,-basos,0.0,%
+-166,total protein,8.1,g/dL
+3474,potassium,4.3,mmol/L
+-166,potassium,2.9,mmol/L
+3474,chloride,108.0,mmol/L
+-166,creatinine,1.08,mg/dL
+3474,creatinine,0.73,mg/dL
+-166,Hgb,14.1,g/dL
+-166,WBC x 1000,11.1,K/mcL
+3474,MCH,31.0,pg
+-166,alkaline phos.,152.0,Units/L
+3474,-lymphs,30.0,%
+3474,bicarbonate,25.9,mmol/L
+3474,-monos,7.0,%
+-166,RDW,12.4,%
+3474,-eos,0.0,%
+-166,Phenytoin,58.5,mcg/mL
+3474,platelets x 1000,322.0,K/mcL
+3474,RBC,4.44,M/mcL
+3474,Hgb,13.6,g/dL
+3474,Hct,40.4,%
+3474,MCV,91.0,fL
+3474,MCHC,34.0,g/dL
+3474,WBC x 1000,9.6,K/mcL
+-166,-basos,1.0,%
+-166,AST (SGOT),18.0,Units/L
+-166,amylase,51.0,Units/L
+-166,lipase,142.0,Units/L
+-166,Phenytoin,38.8,mcg/mL
+-166,Phenytoin,34.1,mcg/mL
+-166,Phenytoin,54.1,mcg/mL
+4904,Phenytoin,25.7,mcg/mL
+-166,Phenytoin,45.2,mcg/mL
+3474,BUN,3.0,mg/dL
+-166,MCH,31.0,pg
+-166,-polys,63.0,%
+-166,-lymphs,22.0,%
+-166,-monos,6.0,%
+-166,-eos,0.0,%
+-166,RDW,12.7,%
+-166,-basos,0.0,%
+1569,Phenytoin,38.8,mcg/mL
+2014,Phenytoin,34.1,mcg/mL
+570,Phenytoin,54.1,mcg/mL
+3474,Phenytoin,34.1,mcg/mL
+-166,urinary specific gravity,1.01,

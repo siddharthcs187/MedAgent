@@ -1,0 +1,55 @@
+labname,labresult,labmeasurenamesystem,labresultoffset,patientunitstayid
+RBC,4.19,M/mcL,-226,558719
+Hct,43.3,%,-226,558719
+MCV,103.0,fL,-226,558719
+MCH,30.1,pg,-226,558719
+MCHC,29.1,g/dL,-226,558719
+RDW,15.2,%,-226,558719
+WBC x 1000,15.7,K/mcL,-226,558719
+platelets x 1000,204.0,K/mcL,-226,558719
+total bilirubin,0.6,mg/dL,-235,558719
+calcium,10.3,mg/dL,-235,558719
+chloride,92.0,mmol/L,-235,558719
+alkaline phos.,74.0,Units/L,-235,558719
+potassium,3.4,mmol/L,-235,558719
+BUN,42.0,mg/dL,-235,558719
+creatinine,1.39,mg/dL,-235,558719
+ALT (SGPT),38.0,Units/L,-235,558719
+AST (SGOT),24.0,Units/L,-235,558719
+albumin,4.0,g/dL,-235,558719
+total protein,7.8,g/dL,-235,558719
+sodium,143.0,mmol/L,-235,558719
+glucose,120.0,mg/dL,-235,558719
+PT,13.5,sec,-221,558719
+PTT,23.5,sec,-221,558719
+PT - INR,1.06,ratio,-221,558719
+-basos,0.0,%,-226,558719
+-lymphs,4.0,%,-226,558719
+-monos,9.0,%,-226,558719
+-polys,86.0,%,-226,558719
+-eos,1.0,%,-226,558719
+BNP,2050.0,pg/mL,-235,558719
+RBC,3.76,M/mcL,304,558719
+Hct,38.5,%,304,558719
+MCV,102.0,fL,304,558719
+MCH,30.3,pg,304,558719
+MCHC,29.6,g/dL,304,558719
+RDW,15.1,%,304,558719
+WBC x 1000,15.8,K/mcL,304,558719
+platelets x 1000,180.0,K/mcL,304,558719
+glucose,275.0,mg/dL,304,558719
+calcium,9.5,mg/dL,304,558719
+chloride,91.0,mmol/L,304,558719
+anion gap,9.0,,304,558719
+bicarbonate,39.0,mmol/L,304,558719
+creatinine,1.31,mg/dL,304,558719
+BUN,38.0,mg/dL,304,558719
+sodium,139.0,mmol/L,304,558719
+-lymphs,2.0,%,304,558719
+-monos,2.0,%,304,558719
+-polys,95.0,%,304,558719
+bedside glucose,180.0,mg/dL,84,558719
+bedside glucose,247.0,mg/dL,217,558719
+bedside glucose,288.0,mg/dL,429,558719
+bedside glucose,352.0,mg/dL,697,558719
+FiO2,35.0,%,9,558719

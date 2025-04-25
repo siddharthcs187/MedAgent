@@ -1,0 +1,24 @@
+PatientID,Variable,TimeOffset(minutes),Value,Units
+004-10577,Heart Rate (Current),83,92.0,bpm
+004-10577,Heart Rate (Lowest),83,92.0,bpm
+004-10577,Heart Rate (Highest),83,101.0,bpm
+004-10577,Systolic BP (Current),83,109.0,mmHg
+004-10577,Systolic BP (Lowest),83,106.0,mmHg
+004-10577,Systolic BP (Highest),83,147.0,mmHg
+004-10577,Diastolic BP (Current),83,72.0,mmHg
+004-10577,Diastolic BP (Lowest),83,71.0,mmHg
+004-10577,Diastolic BP (Highest),83,73.0,mmHg
+004-10577,Respiratory Rate (Current),83,19.0,breaths/min
+004-10577,Respiratory Rate (Lowest),83,19.0,breaths/min
+004-10577,Respiratory Rate (Highest),83,27.0,breaths/min
+004-10577,Oxygen Saturation (Current),83,97.0,%
+004-10577,Oxygen Saturation (Lowest),83,95.0,%
+004-10577,Oxygen Saturation (Highest),83,97.0,%
+004-10577,Creatinine,34,0.8,mg/dL
+004-10577,Albumin,34,3.5,g/dL
+004-10577,BUN,34,8.0,mg/dL
+004-10577,Sodium,34,141.0,mEq/L
+004-10577,Glucose,34,95.0,mg/dL
+004-10577,WBC,34,6.6,K/mcL
+004-10577,Hematocrit,34,44.7,%
+004-10577,Total Bilirubin,34,0.1,mg/dL

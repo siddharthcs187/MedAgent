@@ -1,0 +1,161 @@
+labname,labresult,labmeasurenamesystem
+Hgb,14.4,g/dL
+Hgb,13.5,g/dL
+Hgb,12.9,g/dL
+WBC x 1000,9.9,K/mcL
+WBC x 1000,10.1,K/mcL
+WBC x 1000,8.6,K/mcL
+platelets x 1000,255.0,K/mcL
+platelets x 1000,215.0,K/mcL
+platelets x 1000,202.0,K/mcL
+RBC,4.94,M/mcL
+RBC,4.62,M/mcL
+RBC,4.46,M/mcL
+Hct,45.6,%
+Hct,44.4,%
+Hct,42.4,%
+MCV,92.3,fL
+MCV,96.1,fL
+MCV,95.1,fL
+MCH,29.1,pg
+MCH,29.2,pg
+MCH,28.9,pg
+MCHC,31.6,g/dL
+MCHC,30.4,g/dL
+MCHC,30.4,g/dL
+-monos,10.5,%
+-monos,9.7,%
+-monos,16.0,%
+-lymphs,10.4,%
+-lymphs,10.0,%
+-lymphs,15.0,%
+-polys,78.3,%
+-polys,79.6,%
+-polys,56.0,%
+-eos,0.1,%
+-eos,0.0,%
+-bands,13.0,%
+-basos,0.3,%
+-basos,0.2,%
+RDW,15.0,%
+RDW,15.4,%
+RDW,15.2,%
+CRP,5.9,mg/dL
+BNP,74.0,pg/mL
+BNP,36.0,pg/mL
+bedside glucose,87.0,mg/dL
+bedside glucose,86.0,mg/dL
+bedside glucose,93.0,mg/dL
+bedside glucose,77.0,mg/dL
+bedside glucose,86.0,mg/dL
+bedside glucose,89.0,mg/dL
+bedside glucose,77.0,mg/dL
+FiO2,80.0,%
+FiO2,80.0,%
+FiO2,80.0,%
+FiO2,80.0,%
+FiO2,81.0,%
+FiO2,80.0,%
+FiO2,57.0,%
+FiO2,80.0,%
+paO2,117.0,mm Hg
+paO2,84.0,mm Hg
+paO2,95.0,mm Hg
+paO2,73.0,mm Hg
+paO2,72.0,mm Hg
+paO2,78.0,mm Hg
+paO2,75.0,mm Hg
+paO2,85.0,mm Hg
+paO2,67.0,mm Hg
+paCO2,82.0,mm Hg
+paCO2,78.0,mm Hg
+paCO2,73.0,mm Hg
+paCO2,83.0,mm Hg
+paCO2,85.0,mm Hg
+paCO2,76.0,mm Hg
+paCO2,72.0,mm Hg
+paCO2,80.0,mm Hg
+paCO2,51.0,mm Hg
+O2 Sat (%),98.0,%
+O2 Sat (%),95.0,%
+O2 Sat (%),92.0,%
+O2 Sat (%),96.0,%
+O2 Sat (%),91.0,%
+O2 Sat (%),94.0,%
+O2 Sat (%),92.0,%
+HCO3,25.0,mmol/L
+HCO3,24.0,mmol/L
+HCO3,24.0,mmol/L
+HCO3,25.0,mmol/L
+HCO3,24.0,mmol/L
+HCO3,25.0,mmol/L
+HCO3,27.0,mmol/L
+HCO3,24.0,mmol/L
+HCO3,23.0,mmol/L
+HCO3,26.0,mmol/L
+HCO3,24.0,mmol/L
+Total CO2,28.0,mmol/L
+Total CO2,28.0,mmol/L
+Total CO2,27.0,mmol/L
+Total CO2,29.0,mmol/L
+Total CO2,29.0,mmol/L
+Total CO2,28.0,mmol/L
+Total CO2,26.0,mmol/L
+Total CO2,28.0,mmol/L
+Base Excess,3.0,mEq/L
+Base Excess,2.0,mEq/L
+Base Excess,3.0,mEq/L
+Base Excess,2.0,mEq/L
+Base Excess,3.0,mEq/L
+Base Excess,0.0,mEq/L
+Base Excess,4.0,mEq/L
+Base Excess,3.0,mEq/L
+Base Excess,3.0,mEq/L
+Base Excess,2.0,mEq/L
+Base Excess,2.0,mEq/L
+Base Excess,0.0,mEq/L
+pH,7.22,
+pH,7.18,
+pH,7.23,
+pH,7.19,
+pH,7.21,
+pH,7.19,
+pH,7.38,
+7.2,,
+sodium,133.0,mmol/L
+sodium,136.0,mmol/L
+sodium,132.0,mmol/L
+sodium,131.0,mmol/L
+potassium,5.0,mmol/L
+potassium,4.5,mmol/L
+potassium,4.7,mmol/L
+potassium,5.1,mmol/L
+potassium,4.7,mmol/L
+chloride,97.0,mmol/L
+chloride,99.0,mmol/L
+chloride,95.0,mmol/L
+chloride,93.0,mmol/L
+bicarbonate,31.0,mmol/L
+bicarbonate,31.0,mmol/L
+bicarbonate,28.0,mmol/L
+bicarbonate,30.0,mmol/L
+BUN,14.0,mg/dL
+BUN,14.0,mg/dL
+BUN,14.0,mg/dL
+glucose,103.0,mg/dL
+glucose,89.0,mg/dL
+glucose,97.0,mg/dL
+glucose,89.0,mg/dL
+calcium,8.5,mg/dL
+calcium,8.2,mg/dL
+calcium,8.4,mg/dL
+total protein,7.8,g/dL
+albumin,3.4,g/dL
+ALT (SGPT),36.0,Units/L
+AST (SGOT),38.0,Units/L
+lactate,0.7,mmol/L
+lactate,1.1,mmol/L
+lactate,1.1,mmol/L
+Vancomycin - trough,25.4,mcg/mL
+LPM O2,15.0,L/min
+urinary specific gravity,1.01,

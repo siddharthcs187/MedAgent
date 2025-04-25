@@ -1,0 +1,15 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+glucose,112.0,mg/dL,-61
+glucose,124.0,mg/dL,294
+glucose,121.0,mg/dL,43
+phosphate,3.5,mg/dL,-61
+chloride,107.0,mmol/L,-61
+bicarbonate,18.0,mmol/L,-61
+potassium,3.5,mmol/L,-61
+sodium,138.0,mmol/L,-61
+creatinine,1.2,mg/dL,-61
+BUN,28.0,mg/dL,-61
+anion gap,13.0,,-61
+FiO2,28.0,%,3
+magnesium,1.9,mg/dL,-61
+calcium,9.1,mg/dL,-61

@@ -1,0 +1,47 @@
+LabName,LabResult,Unit,TimeOffset(minutes)
+Glucose,150,mg/dL,-205
+Glucose,99,mg/dL,1286
+Total Bilirubin,0.4,mg/dL,1286
+Total Bilirubin,0.5,mg/dL,-205
+Alkaline Phos.,105,Units/L,-205
+Alkaline Phos.,108,Units/L,1286
+Chloride,99,mmol/L,-205
+Chloride,101,mmol/L,1286
+Sodium,136,mmol/L,-205
+Sodium,137,mmol/L,1286
+Bicarbonate,28,mmol/L,-205
+Bicarbonate,30,mmol/L,1286
+AST (SGOT),17,Units/L,-205
+AST (SGOT),14,Units/L,1286
+Total Protein,8.2,g/dL,-205
+Total Protein,8.2,g/dL,1286
+Calcium,9.4,mg/dL,-205
+Calcium,9.2,mg/dL,1286
+Creatinine,0.9,mg/dL,-205
+Creatinine,1.0,mg/dL,1286
+BUN,16,mg/dL,-205
+BUN,11,mg/dL,1286
+CPK,191,Units/L,-205
+CPK,202,Units/L,1286
+-monos,8,%,-205
+-lymphs,21,%,-205
+-polys,70,%,-205
+-eos,1,%,-205
+WBC x 1000,5.9,K/mcL,-205
+MCH,30.8,pg,-205
+MCV,84.8,fL,-205
+MCHC,36.3,g/dL,-205
+platelets x 1000,237,K/mcL,-205
+Hgb,15.4,g/dL,-205
+Hct,42.4,%,-205
+RBC,5.00,M/mcL,-205
+ALT (SGPT),46,Units/L,-205
+ALT (SGPT),38,Units/L,1286
+Albumin,4.6,g/dL,-205
+Albumin,4.7,g/dL,1286
+Acetaminophen,<2,mcg/mL,-205
+salicylate,<1.7,mg/dL,-205
+Anion Gap,12,mmol/L,-205
+Anion Gap,10,mmol/L,1286
+-basos,0,%,-205
+Urinary Specific Gravity,1.01,,-138

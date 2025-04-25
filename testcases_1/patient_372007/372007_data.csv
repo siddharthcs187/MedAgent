@@ -1,0 +1,120 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+glucose,564,mg/dL,-131
+BUN,18,mg/dL,-131
+calcium,8.9,mg/dL,-131
+total protein,7.6,g/dL,-131
+bicarbonate,5.7,mmol/L,-131
+creatinine,1.62,mg/dL,-131
+alkaline phos.,150,Units/L,-131
+sodium,133,mmol/L,-131
+Carboxyhemoglobin,0.1,%,-89
+paCO2,11.9,mm Hg,-89
+Oxyhemoglobin,97.4,%,-89
+-monos,6,%,-131
+potassium,4.6,mmol/L,-131
+MCHC,33,g/dL,-131
+platelets x 1000,353,K/mcL,-131
+total bilirubin,0.4,mg/dL,-131
+WBC x 1000,8.9,K/mcL,-131
+paO2,131,mm Hg,-89
+Base Deficit,21.8,mEq/L,-89
+FiO2,21,% ,76
+Respiratory Rate,20,/min,76
+LPM O2,0,L/min,76
+chloride,108,mmol/L,646
+potassium,4.7,mmol/L,402
+sodium,137,mmol/L,1104
+urinary specific gravity,>1.030,,-48
+albumin,4.4,g/dL,-131
+bicarbonate,16.0,mmol/L,402
+-polys,58,%,-131
+bedside glucose,260,mg/dL,89
+chloride,109,mmol/L,402
+sodium,136,mmol/L,402
+bicarbonate,17.1,mmol/L,646
+bedside glucose,109,mg/dL,1149
+bedside glucose,124,mg/dL,691
+bedside glucose,162,mg/dL,305
+bicarbonate,17.2,mmol/L,949
+bedside glucose,162,mg/dL,458
+-lymphs,33,%,-131
+bedside glucose,428,mg/dL,-67
+bedside glucose,102,mg/dL,2443
+bedside glucose,119,mg/dL,2571
+bedside glucose,222,mg/dL,1330
+bedside glucose,111,mg/dL,859
+bedside glucose,119,mg/dL,977
+bedside glucose,124,mg/dL,782
+bedside glucose,110,mg/dL,1086
+bedside glucose,212,mg/dL,227
+bedside glucose,118,mg/dL,1264
+bedside glucose,355,mg/dL,24
+-basos,0,%,-131
+calcium,8.0,mg/dL,949
+sodium,137,mmol/L,949
+chloride,109,mmol/L,975
+bicarbonate,16.6,mmol/L,1104
+potassium,4.0,mmol/L,687
+chloride,111,mmol/L,1104
+potassium,4.0,mmol/L,1130
+BUN,10,mg/dL,949
+bedside glucose,206,mg/dL,2254
+glucose,122,mg/dL,949
+bedside glucose,206,mg/dL,2090
+chloride,110,mmol/L,2437
+potassium,3.0,mmol/L,2437
+BUN,6,mg/dL,2437
+calcium,7.8,mg/dL,2437
+sodium,140,mmol/L,2437
+bicarbonate,22.4,mmol/L,2437
+bedside glucose,257,mg/dL,2831
+bedside glucose,249,mg/dL,1683
+bedside glucose,132,mg/dL,539
+bedside glucose,142,mg/dL,597
+bedside glucose,282,mg/dL,1558
+bedside glucose,314,mg/dL,1601
+potassium,4.0,mmol/L,1550
+chloride,107,mmol/L,1550
+bicarbonate,17.4,mmol/L,1550
+creatinine,0.68,mg/dL,1550
+sodium,134,mmol/L,1550
+glucose,320,mg/dL,1495
+BUN,10,mg/dL,1550
+chloride,110,mmol/L,1104
+potassium,3.7,mmol/L,949
+RBC,5.26,M/mcL,-131
+Hct,50.9,%,-131
+RDW,14.3,%,-131
+-eos,3,%,-131
+MCV,97,fL,-131
+-polys,58,%,-131
+-lymphs,33,%,-131
+-basos,0,%,-131
+RBC,4.04,M/mcL,949
+Hct,37,% ,949
+RDW,13.8,% ,949
+MCV,92,fL,949
+MCH,31,pg,949
+MCHC,34,g/dL,949
+WBC x 1000,5.4,K/mcL,949
+chloride,107,mmol/L,1550
+sodium,134,mmol/L,1550
+calcium,7.8,mg/dL,1550
+bicarbonate,17.4,mmol/L,1550
+creatinine,0.68,mg/dL,1550
+BUN,10,mg/dL,1550
+glucose,111,mg/dL,2437
+Methemoglobin,0.5,%,-89
+bedside glucose,227,mg/dL,1389
+bedside glucose,116,mg/dL,1026
+Hgb,12.5,g/dL,949
+Hgb,16.7,g/dL,-131
+potassium,3.8,mmol/L,154
+sodium,134,mmol/L,154
+chloride,109,mmol/L,154
+bicarbonate,9.0,mmol/L,154
+pH,7.152,,-89
+chloride,98,mmol/L,-131
+AST (SGOT),17,Units/L,-131
+ALT (SGPT),23,Units/L,-131
+MCH,32,pg,-131

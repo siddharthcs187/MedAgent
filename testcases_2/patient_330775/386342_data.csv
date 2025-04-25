@@ -1,0 +1,20 @@
+Lab_Parameter,Result,Unit,Time_Offset_Minutes
+Sodium,144.0,mmol/L,44
+Glucose,197.0,mg/dL,44
+PaO2,78.0,mm Hg,44
+BUN,17.0,mg/dL,44
+PaCO2,46.0,mm Hg,44
+Total Bilirubin,0.8,mg/dL,44
+HCO3,27.2,mmol/L,44
+Hct,43.5,%,44
+FiO2,36.0,%,44
+Albumin,2.9,g/dL,44
+WBC x 1000,12.6,K/mcL,44
+O2 Sat (%),95.0,%,44
+Creatinine,0.6,mg/dL,44
+HR,108.0,bpm,46
+BP_Systolic,155.0,mmHg,46
+BP_Diastolic,92.0,mmHg,46
+Resp_Rate,22.0,breaths/min,46
+GCS_Total,15.0,,46
+Weight,83.9,kg,46

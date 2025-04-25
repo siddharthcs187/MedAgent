@@ -1,0 +1,2 @@
+patientunitstayid,time_since_admission_minutes,heart_rate_bpm,systolic_bp_mmHg,diastolic_bp_mmHg,resp_rate_breaths_per_minute,gcs_score
+346753,66,95,118,80,15,15

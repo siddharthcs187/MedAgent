@@ -1,0 +1,2 @@
+Patient Unit Stay ID,Heart Rate (Current),Heart Rate (Lowest),Heart Rate (Highest),Systolic BP (Current),Systolic BP (Lowest),Systolic BP (Highest),Diastolic BP (Current),Diastolic BP (Lowest),Diastolic BP (Highest),Respiratory Rate (Current),Respiratory Rate (Lowest),Respiratory Rate (Highest),Oxygen Saturation (Current),Oxygen Saturation (Lowest),Oxygen Saturation (Highest),BUN (mg/dL),Hct (%),Creatinine (mg/dL),WBC (K/mcL),Admission Weight (kg)
+393867,118,118,123,153,134,153,99,78,120,25,25,33,97,97,97,10,37,0.7,19.9,44.7

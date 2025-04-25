@@ -1,0 +1,46 @@
+LabName,TimeOffset,LabResult,LabMeasureNameSystem
+glucose,-227,97.0,mg/dL
+anion gap,-227,5.0,
+calcium,-227,9.0,mg/dL
+bicarbonate,-227,24.0,mmol/L
+total protein,-227,7.4,g/dL
+ALT (SGPT),-227,12.0,Units/L
+MCHC,1097,34.8,g/dL
+MCV,1097,86.0,fL
+MCH,1097,30.1,pg
+sodium,-227,135.0,mmol/L
+platelets x 1000,1097,133.0,K/mcL
+albumin,-227,3.4,g/dL
+sodium,1097,138.0,mmol/L
+albumin,1097,2.5,g/dL
+AST (SGOT),-227,14.0,Units/L
+BUN,1097,7.0,mg/dL
+Hgb,1097,10.4,g/dL
+bicarbonate,1097,22.0,mmol/L
+WBC x 1000,1097,13.0,K/mcL
+glucose,1097,174.0,mg/dL
+platelets x 1000,-227,143.0,K/mcL
+RBC,1097,3.46,M/mcL
+MPV,1097,12.1,fL
+chloride,-227,106.0,mmol/L
+chloride,1097,110.0,mmol/L
+RDW,1097,14.0,%
+Hct,1097,29.9,%
+RBC,-227,4.37,M/mcL
+MPV,-227,12.5,fL
+alkaline phos.,-227,42.0,Units/L
+calcium,1097,7.9,mg/dL
+Hct,-227,38.2,%
+RDW,-227,13.7,%
+potassium,-227,3.9,mmol/L
+WBC x 1000,-227,13.3,K/mcL
+potassium,1097,4.1,mmol/L
+total bilirubin,-227,0.3,mg/dL
+creatinine,-227,0.59,mg/dL
+AST (SGOT),1097,8.0,Units/L
+total bilirubin,1097,0.2,mg/dL
+creatinine,1097,0.4,mg/dL
+bedside glucose,747,177.0,mg/dL
+bedside glucose,1365,104.0,mg/dL
+bedside glucose,-10,112.0,mg/dL
+FiO2,33,21.0,%

@@ -1,0 +1,64 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+Hgb,12.0,g/dL,144
+Hct,43.3,%,144
+-bands,10.0,%,144
+-polys,88.0,%,144
+RDW,15.6,%,144
+RBC,4.74,M/mcL,144
+WBC x 1000,49.8,K/mcL,144
+-lymphs,2.0,%,144
+MCV,93.1,fL,144
+Hgb,12.1,g/dL,3914
+Hct,37.8,%,3914
+-bands,1.0,%,3914
+-polys,88.0,%,3914
+RDW,16.2,%,3914
+RBC,4.12,M/mcL,3914
+WBC x 1000,14.1,K/mcL,3914
+-lymphs,4.0,%,3914
+MCV,91.7,fL,3914
+sodium,146.0,mmol/L,3914
+bicarbonate,24.0,mmol/L,3914
+anion gap,13.0,mmol/L,3914
+calcium,6.2,mg/dL,3914
+-monos,2.0,%,3914
+MCH,29.4,pg,3914
+platelets x 1000,296.0,K/mcL,3914
+-eos,2.0,%,3914
+MCHC,32.0,g/dL,3914
+glucose,130.0,mg/dL,3914
+potassium,3.5,mmol/L,3914
+chloride,113.0,mmol/L,3914
+BUN,26.0,mg/dL,3914
+Hgb,12.8,g/dL,2440
+RBC,4.29,M/mcL,2440
+-polys,90.0,%,2440
+WBC x 1000,25.6,K/mcL,2440
+MCV,92.1,fL,2440
+-bands,2.0,%,2440
+MCH,29.8,pg,2440
+-monos,5.0,%,2440
+platelets x 1000,472.0,K/mcL,2440
+RDW,16.2,%,2440
+MCHC,32.4,g/dL,2440
+calcium,6.0,mg/dL,2440
+bicarbonate,20.0,mmol/L,2440
+chloride,119.0,mmol/L,2440
+glucose,115.0,mg/dL,2440
+BUN,37.0,mg/dL,2440
+anion gap,14.0,mmol/L,2440
+creatinine,0.91,mg/dL,2440
+Hgb,14.5,g/dL,-187
+Hct,37.7,%,-187
+-bands,2.0,%,-187
+-polys,80.0,%,-187
+RDW,15.6,%,-187
+RBC,4.31,M/mcL,-187
+WBC x 1000,45.5,K/mcL,-187
+-lymphs,4.0,%,-187
+MCV,91.4,fL,-187
+-monos,6.0,%,-187
+platelets x 1000,631.0,K/mcL,-187
+MCH,30.6,pg,-187
+MCHC,33.5,g/dL,-187
+PTT,38.0,sec,-187

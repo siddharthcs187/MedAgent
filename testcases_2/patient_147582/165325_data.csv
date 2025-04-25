@@ -1,0 +1,2 @@
+patientunitstayid,patienthealthsystemstayid,gender,age,ethnicity,hospitalid,wardid,hospitaladmittime24,hospitaldischargetime24,unitadmittime24,unitdischargetime24,admissionweight,dischargeweight,unitdischargeoffset
+165325,147582,Male,46,Caucasian,59,91,22:55:00,06:50:00,23:33:00,06:50:00,,59.8,437

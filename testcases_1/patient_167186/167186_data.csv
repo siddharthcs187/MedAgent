@@ -1,0 +1,2 @@
+TimeOffset,HR,SystolicBP,DiastolicBP,RR,O2Sat,Chloride(mmol/L),Calcium(mg/dL),Glucose(mg/dL),AnionGap(mmol/L),Creatinine(mg/dL),Sodium(mmol/L),BUN(mg/dL),Potassium(mmol/L),Bicarbonate(mmol/L),Weight(kg),Intake(ml),Output(ml),NetFluidBalance(ml)
+-236,90,156,72,28,100,105,9.2,99,12,1.29,141,25,4.3,28,56.6,0,2475,-2475

@@ -1,0 +1,63 @@
+labname,TimeOffset (minutes),labresult,Units
+chloride,-217,103.0,mmol/L
+glucose,-217,133.0,mg/dL
+ALT (SGPT),-217,10.0,Units/L
+alkaline phos.,-217,133.0,Units/L
+anion gap,-217,13.0,mmol/L
+potassium,-217,2.8,mmol/L
+total bilirubin,-217,0.4,mg/dL
+albumin,-217,2.7,g/dL
+BUN,-217,5.0,mg/dL
+AST (SGOT),-217,11.0,Units/L
+creatinine,-217,0.67,mg/dL
+chloride,793,106.0,mmol/L
+glucose,793,101.0,mg/dL
+ALT (SGPT),793,19.0,Units/L
+alkaline phos.,793,74.0,Units/L
+anion gap,793,12.0,mmol/L
+potassium,793,3.9,mmol/L
+total bilirubin,793,1.2,mg/dL
+albumin,793,3.3,g/dL
+BUN,793,18.0,mg/dL
+AST (SGOT),793,16.0,Units/L
+creatinine,793,0.8,mg/dL
+chloride,2278,111.0,mmol/L
+glucose,2278,102.0,mg/dL
+creatinine,2278,0.6,mg/dL
+calcium,2278,8.4,mg/dL
+BUN,2278,3.0,mg/dL
+anion gap,2278,12.0,mmol/L
+potassium,2278,3.6,mmol/L
+MCHC,-217,34.9,g/dL
+platelets x 1000,-217,291.0,K/mcL
+RDW,-217,12.9,%
+MCH,-217,34.1,pg
+-monos,-217,5.0,%
+-eos,-217,0.0,%
+-polys,-217,91.0,%
+MCV,-217,97.7,fL
+WBC x 1000,-217,7.1,K/mcL
+Hgb,-217,11.7,g/dL
+Hct,-217,33.5,%
+MCHC,793,33.5,g/dL
+platelets x 1000,793,167.0,K/mcL
+RDW,793,14.8,%
+MCH,793,30.6,pg
+-monos,793,10.0,%
+-eos,793,2.0,%
+-polys,793,53.0,%
+MCV,793,91.3,fL
+WBC x 1000,793,4.8,K/mcL
+Hgb,793,13.3,g/dL
+Hct,793,39.7,%
+MCHC,2278,33.7,g/dL
+platelets x 1000,2278,311.0,K/mcL
+RDW,2278,13.2,%
+MCH,2278,33.5,pg
+-monos,2278,5.0,%
+-eos,2278,4.0,%
+-polys,2278,70.0,%
+MCV,2278,99.7,fL
+WBC x 1000,2278,5.1,K/mcL
+Hgb,2278,10.4,g/dL
+Hct,2278,30.9,%

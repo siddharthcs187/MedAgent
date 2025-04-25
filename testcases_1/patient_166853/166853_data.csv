@@ -1,0 +1,201 @@
+LabName,LabResult,Units,TimeOffsetMinutes
+Glucose,235.0,mg/dL,648
+Glucose,267.0,mg/dL,7858
+glucose,303.0,mg/dL,5120
+glucose,310.0,mg/dL,3694
+glucose,319.0,mg/dL,5345
+glucose,294.0,mg/dL,8399
+glucose,204.0,mg/dL,6794
+glucose,304.0,mg/dL,5963
+glucose,313.0,mg/dL,4243
+glucose,193.0,mg/dL,7126
+glucose,343.0,mg/dL,6524
+glucose,215.0,mg/dL,8755
+glucose,300.0,mg/dL,5716
+glucose,211.0,mg/dL,9404
+glucose,211.0,mg/dL,8104
+glucose,321.0,mg/dL,3996
+glucose,148.0,mg/dL,1021
+glucose,203.0,mg/dL,747
+glucose,232.0,mg/dL,1420
+glucose,260.0,mg/dL,230
+glucose,273.0,mg/dL,3027
+glucose,248.0,mg/dL,2334
+glucose,251.0,mg/dL,2245
+glucose,319.0,mg/dL,8544
+Potassium,4.4,mmol/L,648
+Potassium,4.5,mmol/L,7858
+Potassium,4.1,mmol/L,4960
+Potassium,4.8,mmol/L,-284
+Potassium,3.8,mmol/L,6008
+Potassium,3.9,mmol/L,6298
+Potassium,4.3,mmol/L,2601
+Potassium,2.1,mmol/L,6008
+Potassium,2.1,mmol/L,7858
+Chloride,106.0,mmol/L,648
+Chloride,105.0,mmol/L,7858
+Chloride,109.0,mmol/L,4960
+Chloride,105.0,mmol/L,-284
+Chloride,103.0,mmol/L,6298
+Chloride,104.0,mmol/L,2601
+Bicarbonate,26.0,mmol/L,648
+Bicarbonate,26.0,mmol/L,7858
+Bicarbonate,26.0,mmol/L,4960
+Bicarbonate,27.0,mmol/L,-284
+Bicarbonate,25.0,mmol/L,6298
+Bicarbonate,26.0,mmol/L,2601
+BUN,20.0,mg/dL,648
+BUN,34.0,mg/dL,7858
+BUN,36.0,mg/dL,4960
+BUN,22.0,mg/dL,-284
+BUN,44.0,mg/dL,6298
+BUN,20.0,mg/dL,2601
+Creatinine,1.0,mg/dL,648
+Creatinine,0.9,mg/dL,7858
+Creatinine,1.1,mg/dL,4960
+Creatinine,0.9,mg/dL,-284
+Creatinine,1.1,mg/dL,6298
+Creatinine,1.1,mg/dL,2601
+Troponin-I,0.06,ng/mL,653
+Troponin-I,0.08,ng/mL,-284
+Troponin-I,0.05,ng/mL,897
+Albumin,3.5,g/dL,-284
+Albumin,2.8,g/dL,4960
+Albumin,2.9,g/dL,6298
+Albumin,2.6,g/dL,7858
+Total Protein,7.4,g/dL,-284
+Total Protein,6.5,g/dL,4960
+Total Protein,6.7,g/dL,6298
+Total Protein,6.1,g/dL,7858
+Total Bilirubin,0.6,mg/dL,-284
+Total Bilirubin,1.1,mg/dL,4960
+Total Bilirubin,1.0,mg/dL,6298
+Total Bilirubin,0.9,mg/dL,7858
+AST (SGOT),23.0,Units/L,-284
+AST (SGOT),22.0,Units/L,4960
+AST (SGOT),17.0,Units/L,6298
+AST (SGOT),19.0,Units/L,7858
+ALT (SGPT),22.0,Units/L,-284
+ALT (SGPT),19.0,Units/L,4960
+ALT (SGPT),19.0,Units/L,6298
+ALT (SGPT),17.0,Units/L,7858
+Alkaline Phos.,89.0,Units/L,-284
+Alkaline Phos.,71.0,Units/L,4960
+Alkaline Phos.,75.0,Units/L,6298
+Alkaline Phos.,71.0,Units/L,7858
+Hemoglobin,15.8,g/dL,-284
+Hemoglobin,15.1,g/dL,2601
+Hemoglobin,16.6,g/dL,6298
+Hemoglobin,15.6,g/dL,4960
+Hemoglobin,16.0,g/dL,7858
+Hematocrit,46.8,%,-284
+Hematocrit,45.1,%,2601
+Hematocrit,48.0,%,6298
+Hematocrit,45.9,%,4960
+Hematocrit,46.7,%,7858
+Platelets x 1000,203.0,K/mcL,-284
+Platelets x 1000,189.0,K/mcL,2601
+Platelets x 1000,204.0,K/mcL,6298
+Platelets x 1000,181.0,K/mcL,4960
+Platelets x 1000,165.0,K/mcL,7858
+WBC x 1000,10.7,K/mcL,-284
+WBC x 1000,13.7,K/mcL,2601
+WBC x 1000,14.5,K/mcL,6298
+WBC x 1000,12.2,K/mcL,4960
+WBC x 1000,10.1,K/mcL,7858
+RDW,15.5,%,-284
+RDW,15.5,%,2601
+RDW,15.1,%,4960
+RDW,14.3,%,7858
+RDW,14.7,%,6298
+MCV,92.5,fL,-284
+MCV,92.4,fL,2601
+MCV,89.9,fL,6298
+MCV,91.4,fL,4960
+MCV,89.8,fL,7858
+MCHC,33.8,g/dL,-284
+MCHC,33.5,g/dL,2601
+MCHC,34.6,g/dL,6298
+MCHC,34.0,g/dL,4960
+MCHC,34.3,g/dL,7858
+MCH,31.2,pg,-284
+MCH,30.9,pg,2601
+MCH,31.1,pg,6298
+MCH,31.1,pg,4960
+MCH,30.8,pg,7858
+-Polys,66.0,%,-284
+-Polys,76.0,%,2601
+-Polys,81.0,%,6298
+-Polys,81.0,%,4960
+-Polys,73.0,%,7858
+-Lymphs,17.0,%,-284
+-Lymphs,9.0,%,2601
+-Lymphs,4.0,%,6298
+-Lymphs,8.0,%,4960
+-Lymphs,12.0,%,7858
+-Monos,13.0,%,-284
+-Monos,14.0,%,2601
+-Monos,15.0,%,6298
+-Monos,11.0,%,4960
+-Monos,15.0,%,7858
+-Eos,3.0,%,-284
+-Eos,0.0,%,2601
+-Eos,0.0,%,6298
+-Eos,0.0,%,4960
+-Eos,0.0,%,7858
+-Basos,1.0,%,-284
+-Basos,1.0,%,2601
+-Basos,0.0,%,6298
+-Basos,0.0,%,4960
+-Basos,0.0,%,7858
+PT,12.1,sec,648
+PT,11.2,sec,-284
+PT,12.3,sec,3612
+PT,12.8,sec,4960
+PT,12.9,sec,6298
+PT,11.3,sec,2118
+PT,12.8,sec,4960
+PT,12.4,sec,1190
+PT,13.1,sec,6945
+PT,12.8,sec,5488
+PT - INR,1.2,ratio,648
+PT - INR,1.1,ratio,-284
+PT - INR,1.3,ratio,3612
+PT - INR,1.3,ratio,6298
+PT - INR,1.2,ratio,2118
+PT - INR,1.3,ratio,4960
+PT - INR,1.3,ratio,1190
+PT - INR,1.3,ratio,6945
+PT - INR,1.3,ratio,5488
+PT - INR,1.2,ratio,4051
+ESR,13.0,mm/hr,2601
+ESR,13.0,mm/hr,3711
+BNP,220.0,pg/mL,648
+BNP,205.0,pg/mL,2118
+BNP,332.0,pg/mL,-284
+bedside glucose,148.0,mg/dL,1021
+bedside glucose,203.0,mg/dL,747
+bedside glucose,232.0,mg/dL,1420
+bedside glucose,260.0,mg/dL,230
+bedside glucose,273.0,mg/dL,3027
+bedside glucose,248.0,mg/dL,2334
+bedside glucose,251.0,mg/dL,2245
+bedside glucose,319.0,mg/dL,8544
+bedside glucose,211.0,mg/dL,9404
+bedside glucose,211.0,mg/dL,8104
+bedside glucose,321.0,mg/dL,3996
+bedside glucose,215.0,mg/dL,8755
+bedside glucose,300.0,mg/dL,5716
+bedside glucose,211.0,mg/dL,9404
+bedside glucose,303.0,mg/dL,5120
+bedside glucose,310.0,mg/dL,3694
+bedside glucose,319.0,mg/dL,5345
+bedside glucose,294.0,mg/dL,8399
+bedside glucose,204.0,mg/dL,6794
+bedside glucose,304.0,mg/dL,5963
+bedside glucose,313.0,mg/dL,4243
+bedside glucose,193.0,mg/dL,7126
+bedside glucose,343.0,mg/dL,6524
+bedside glucose,215.0,mg/dL,8755
+bedside glucose,300.0,mg/dL,5716
+urinary specific gravity,1.025,,-257

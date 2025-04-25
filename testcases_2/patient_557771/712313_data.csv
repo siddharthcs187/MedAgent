@@ -1,0 +1,76 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-246,potassium,7.3,mmol/L
+-246,creatinine,2.3,mg/dL
+-246,BUN,53,mg/dL
+-246,chloride,99,mmol/L
+-246,AST (SGOT),165,Units/L
+-246,ALT (SGPT),79,Units/L
+-246,total protein,7.6,g/dL
+-246,calcium,9.4,mg/dL
+-246,total bilirubin,2.1,mg/dL
+-246,anion gap,22,
+-246,WBC x 1000,21.8,K/mcL
+-246,MCH,28.7,pg
+-246,MCHC,31,g/dL
+-246,Hct,55.2,%
+-246,RBC,5.93,M/mcL
+-246,MCV,93,fL
+-246,platelets x 1000,237,K/mcL
+-246,MPV,9.6,fL
+-246,-lymphs,11,%
+-246,-bands,2,%
+-246,-monos,12,%
+-246,-polys,75,%
+179,potassium,5.4,mmol/L
+179,creatinine,2,mg/dL
+179,BUN,55,mg/dL
+179,chloride,101,mmol/L
+179,anion gap,15,
+179,glucose,127,mg/dL
+179,bicarbonate,26,mmol/L
+179,calcium,8.7,mg/dL
+179,PT,25.2,sec
+179,PT - INR,2.2,ratio
+714,potassium,3.6,mmol/L
+714,creatinine,1.1,mg/dL
+714,BUN,39,mg/dL
+714,chloride,107,mmol/L
+714,anion gap,10,
+714,glucose,99,mg/dL
+714,sodium,141,mmol/L
+714,albumin,3.3,g/dL
+714,total protein,5.4,g/dL
+714,AST (SGOT),838,Units/L
+714,ALT (SGPT),307,Units/L
+714,total bilirubin,0.9,mg/dL
+714,alkaline phos.,80,Units/L
+714,calcium,7.8,mg/dL
+714,direct bilirubin,0.0,mg/dL
+714,lipase,78,Units/L
+1669,potassium,3.5,mmol/L
+1669,creatinine,0.8,mg/dL
+1669,BUN,21,mg/dL
+1669,chloride,106,mmol/L
+1669,anion gap,7,
+1669,glucose,110,mg/dL
+1669,sodium,142,mmol/L
+1669,albumin,3,g/dL
+1669,total protein,5.3,g/dL
+1669,AST (SGOT),721,Units/L
+1669,ALT (SGPT),306,Units/L
+1669,total bilirubin,0.7,mg/dL
+1669,alkaline phos.,74,Units/L
+1669,calcium,8,mg/dL
+-146,potassium,6.6,mmol/L
+-146,creatinine,2,mg/dL
+-146,BUN,56,mg/dL
+-146,chloride,101,mmol/L
+-146,anion gap,17,
+-146,glucose,96,mg/dL
+-146,sodium,139,mmol/L
+-146,calcium,8.9,mg/dL
+-146,bicarbonate,21,mmol/L
+-146,PT,26.8,sec
+-146,PT - INR,2.4,ratio
+-181,lactate,<0.3,mmol/L
+-183,troponin - I,0.04,ng/mL

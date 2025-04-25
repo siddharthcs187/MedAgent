@@ -1,0 +1,38 @@
+labname,labresult,labmeasurenamesystem,labresultoffset,labresultrevisedoffset
+Hgb,13.9,g/dL,-69,-50
+Hct,41.5,%,-69,-50
+MCV,92.6,fL,-69,-50
+MCH,31.0,pg,-69,-50
+MCHC,33.5,g/dL,-69,-50
+RBC,4.48,M/mcL,-69,-50
+WBC x 1000,17.2,K/mcL,-69,-50
+platelets x 1000,484.0,K/mcL,-69,-50
+RDW,13.7,%,-69,-50
+-monos,7.0,%,-69,-5
+-lymphs,38.0,%,-69,-5
+-polys,55.0,%,-69,-5
+-eos,0.0,%,-69,-5
+-basos,0.0,%,-69,-5
+glucose,93.0,mg/dL,-69,-5
+bicarbonate,26.0,mmol/L,-69,-5
+anion gap,12.0,,-69,-5
+sodium,138.0,mmol/L,-69,-5
+potassium,4.1,mmol/L,-69,-5
+chloride,104.0,mmol/L,-69,-5
+creatinine,0.69,mg/dL,-69,-5
+calcium,9.7,mg/dL,-69,-5
+BUN,23.0,mg/dL,-69,-5
+Hgb,13.7,g/dL,1466,1496
+Hct,41.4,%,1466,1496
+MCV,92.4,fL,1466,1496
+MCH,30.6,pg,1466,1496
+MCHC,33.1,g/dL,1466,1496
+RBC,4.48,M/mcL,1466,1496
+WBC x 1000,16.4,K/mcL,1466,1496
+platelets x 1000,465.0,K/mcL,1466,1496
+RDW,13.6,%,1466,1496
+-monos,4.0,%,1466,1733
+-lymphs,34.0,%,1466,1733
+-polys,62.0,%,1466,1733
+creatinine,0.71,mg/dL,1466,1515
+CRP,0.4,mg/dL,1076,1125

@@ -1,0 +1,2 @@
+patientunitstayid,patienthealthsystemstayid,gender,age,ethnicity,hospitalid,wardid,admissionheight,admissionweight,hospitaladmittime24,hospitaldischargetime24,unitadmittime24,unitdischargetime24,unitvisitnumber,unitstaytype,unitdischargelocation
+576215,476197,Male,68,Caucasian,158,388,188,99.4,19:21:00,23:35:00,21:13:00,23:35:00,2,stepdown/other,Home

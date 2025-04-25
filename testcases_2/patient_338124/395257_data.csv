@@ -1,0 +1,18 @@
+patientunitstayid,diagnosisstring,diagnosispriority,activeupondischarge,icd9code,treatmentoffset,treatmentstring,activeupondischarge_treatment
+395257,neurologic|altered mental status / pain|pain,Major,False,,73,neurologic|pain / agitation / altered mentation|analgesics|narcotic analgesic,False
+395257,burns/trauma|dermatology|cellulitis,Primary,False,"682.9, L03.90",73,burns/trauma|intravenous fluids|normal saline administration,False
+395257,neurologic|altered mental status / pain|pain,Major,True,,378,"pulmonary|medications|bronchodilator|beta-agonist|albuterol (Proventil, Ventolin)",True
+395257,burns/trauma|dermatology|cellulitis,Primary,True,"682.9, L03.90",378,burns/trauma|skin care|systemic glucocorticoid,False
+395257,gastrointestinal|abdominal/ general|nausea|with vomiting,Major,False,"787.01, R11.2",73,neurologic|pain / agitation / altered mentation|analgesics|narcotic analgesic,False
+395257,gastrointestinal|abdominal/ general|nausea|with vomiting,Major,True,"787.01, R11.2",378,gastrointestinal|medications|antiemetic|anticholinergic|diphenhydramine,True
+395257,neurologic|altered mental status / pain|pain,Major,False,,73,burns/trauma|skin care|systemic glucocorticoid,False
+395257,burns/trauma|dermatology|cellulitis,Primary,False,"682.9, L03.90",73,gastrointestinal|medications|antiemetic|promethazine,False
+395257,neurologic|altered mental status / pain|pain,Major,True,,378,neurologic|pain / agitation / altered mentation|analgesics|bolus parenteral analgesics,True
+395257,burns/trauma|dermatology|cellulitis,Primary,True,"682.9, L03.90",378,pulmonary|vascular disorders|VTE prophylaxis|compression boots,True
+395257,gastrointestinal|abdominal/ general|nausea|with vomiting,Major,False,"787.01, R11.2",73,gastrointestinal|medications|antiemetic|serotonin antagonist|ondansetron,False
+395257,gastrointestinal|abdominal/ general|nausea|with vomiting,Major,True,"787.01, R11.2",378,gastrointestinal|medications|antiemetic|promethazine,True
+395257,neurologic|altered mental status / pain|pain,Major,False,,378,burns/trauma|intravenous fluids|normal saline administration,True
+395257,burns/trauma|dermatology|cellulitis,Primary,False,"682.9, L03.90",73,"pulmonary|medications|bronchodilator|beta-agonist|albuterol (Proventil, Ventolin)",False
+395257,neurologic|altered mental status / pain|pain,Major,True,,73,gastrointestinal|medications|antiemetic|anticholinergic|diphenhydramine,False
+395257,burns/trauma|dermatology|cellulitis,Primary,True,"682.9, L03.90",378,burns/trauma|consultations|Orthopedics consultation,True
+395257,gastrointestinal|abdominal/ general|nausea|with vomiting,Major,False,"787.01, R11.2",73,neurologic|pain / agitation / altered mentation|analgesics|bolus parenteral analgesics,False

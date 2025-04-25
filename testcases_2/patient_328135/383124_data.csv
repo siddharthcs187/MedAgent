@@ -1,0 +1,7 @@
+patientunitstayid,diagnosisstring,diagnosispriority,activeupondischarge,labname,labresult,labmeasurenamesystem,physicalexampath,physicalexamvalue,physicalexamtext
+383124,"cardiovascular|vascular disorders|swollen extremity, etiology unknown|r/o lymphedema",Major,True,O2 Sat (%),93,%,notes/Progress Notes/Physical Exam/Physical Exam/Neurologic/GCS/Score,scored,scored
+383124,cardiovascular|ventricular disorders|acute pulmonary edema,Primary,True,O2 Sat (%),93,%,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Vital Sign and Physiological Data/HR/HR Current,HR Current,94
+383124,"cardiovascular|vascular disorders|swollen extremity, etiology unknown|r/o lymphedema",Major,False,FiO2,24,%,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Vital Sign and Physiological Data/HR/HR Lowest,HR Lowest,90
+383124,cardiovascular|ventricular disorders|acute pulmonary edema,Primary,False,FiO2,24,%,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Vital Sign and Physiological Data/HR/HR Highest,HR Highest,97
+383124,"cardiovascular|vascular disorders|swollen extremity, etiology unknown|r/o lymphedema",Major,True,FiO2,24,%,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Vital Sign and Physiological Data/BP (systolic)/BP (systolic) Current,BP (systolic) Current,101
+383124,cardiovascular|ventricular disorders|acute pulmonary edema,Primary,True,FiO2,24,%,notes/Progress Notes/Physical Exam/Physical Exam/Constitutional/Vital Sign and Physiological Data/BP (systolic)/BP (systolic) Lowest,BP (systolic) Lowest,101

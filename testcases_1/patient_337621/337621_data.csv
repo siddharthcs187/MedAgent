@@ -1,0 +1,45 @@
+Lab Result Offset (minutes),Lab Name,Result,Unit
+-177,Hgb,6.6,g/dL
+-177,WBC x 1000,21.5,K/mcL
+-177,RDW,13.6,%
+-177,RBC,1.83,M/mcL
+-177,MCV,105.0,fL
+-177,MCH,36.0,pg
+-177,MCHC,34.0,g/dL
+-177,Platelets x 1000,340.0,K/mcL
+-92,-polys,87.0,%
+-92,-bands,3.0,%
+-92,-lymphs,8.0,%
+-92,-monos,2.0,%
+-177,total bilirubin,2.3,mg/dL
+-177,albumin,3.6,g/dL
+-177,total protein,6.8,g/dL
+-177,AST (SGOT),65.0,Units/L
+-177,alkaline phos.,130.0,Units/L
+-177,potassium,3.8,mmol/L
+-177,sodium,131.0,mmol/L
+-177,BUN,20.0,mg/dL
+-177,chloride,92.0,mmol/L
+-177,glucose,168.0,mg/dL
+-105,PT,14.0,sec
+-105,PT - INR,1.3,ratio
+289,PTT,24.8,sec
+482,Hgb,7.1,g/dL
+482,Hct,20.2,%
+110,TIBC,285.0,mcg/dL
+110,Fe,238.0,mcg/dL
+-232,urinary specific gravity,1.025,
+966,Hgb,8.4,g/dL
+966,Hct,24.0,%
+966,MCV,96.0,fL
+966,MCH,33.0,pg
+966,MCHC,35.0,g/dL
+966,-basos,1.0,%
+966,-monos,11.0,%
+966,-polys,74.0,%
+966,-lymphs,14.0,%
+966,-eos,1.0,%
+966,Platelets x 1000,197.0,K/mcL
+966,WBC x 1000,12.0,K/mcL
+966,RDW,17.7,%
+96,,,

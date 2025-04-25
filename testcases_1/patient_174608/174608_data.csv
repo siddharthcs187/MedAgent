@@ -1,0 +1,58 @@
+LabName,LabResult,LabUnits,TimeOffsetMinutes
+potassium,3.2,mmol/L,-166
+bicarbonate,23,mmol/L,-166
+anion gap,16,mmol/L,-166
+total bilirubin,0.5,mg/dL,-166
+total protein,9,g/dL,-166
+albumin,4.4,g/dL,-166
+AST (SGOT),13,Units/L,-166
+ALT (SGPT),16,Units/L,-166
+glucose,112,mg/dL,-166
+creatinine,0.8,mg/dL,-166
+calcium,9.9,mg/dL,-166
+BUN,11,mg/dL,-166
+Hemoglobin (Hgb),14.5,g/dL,-166
+Hematocrit (Hct),40.5,%,-166
+Red Blood Cells (RBC),4.75,M/mcL,-166
+White Blood Cells (WBC),9.9,K/mcL,-166
+Platelets,159,K/mcL,-166
+Mean Corpuscular Volume (MCV),85.3,fL,-166
+Mean Corpuscular Hemoglobin Concentration (MCHC),35.8,g/dL,-166
+Mean Corpuscular Hemoglobin (MCH),30.5,pg,-166
+Red cell distribution width (RDW),12.1,%,-166
+Lymphocytes,22,%,-166
+Polymorphonuclear Leukocytes (Polys),66,%,-166
+Monocytes,11,%,-166
+Eosinophils,1,%,-166
+Basophils,0,%,-166
+magnesium,2.3,mg/dL,-166
+salicylate,<1.7,mg/dL,-166
+acetaminophen,<2,mcg/mL,-166
+TSH,1.554,mcU/ml,-166
+urinary specific gravity,1.01,,-157
+potassium,3.5,mmol/L,252
+bicarbonate,23,mmol/L,252
+anion gap,15,mmol/L,252
+total bilirubin,0.2,mg/dL,252
+total protein,7.3,g/dL,252
+albumin,3.4,g/dL,252
+AST (SGOT),12,Units/L,252
+ALT (SGPT),14,Units/L,252
+glucose,116,mg/dL,252
+creatinine,0.8,mg/dL,252
+calcium,9.1,mg/dL,252
+BUN,10,mg/dL,252
+Hemoglobin (Hgb),12.3,g/dL,252
+Hematocrit (Hct),35,%,252
+Red Blood Cells (RBC),4.08,M/mcL,252
+White Blood Cells (WBC),7.4,K/mcL,252
+Platelets,151,K/mcL,252
+Mean Corpuscular Volume (MCV),85.8,fL,252
+Mean Corpuscular Hemoglobin Concentration (MCHC),35.1,g/dL,252
+Mean Corpuscular Hemoglobin (MCH),30.1,pg,252
+Red cell distribution width (RDW),11.9,%,252
+Lymphocytes,31,%,252
+Polymorphonuclear Leukocytes (Polys),58,%,252
+Monocytes,9,%,252
+Eosinophils,2,%,252
+Basophils,0,%,252

@@ -1,0 +1,19 @@
+labid,patientunitstayid,labresultoffset,labtypeid,labname,labresult,labresulttext,labmeasurenamesystem,labmeasurenameinterface,labresultrevisedoffset
+48373635,158906,1035,1,chloride,99.0,99.0,mmol/L,mmol/L,1073
+52405031,158906,1035,3,MCV,81.7,81.7,fL,fl,1060
+48373634,158906,1035,1,potassium,4.5,4.5,mmol/L,mmol/L,1073
+52405032,158906,1035,3,MCH,28.8,28.8,pg,pg,1060
+48373636,158906,1035,1,bicarbonate,27.0,27.0,mmol/L,mmol/L,1073
+52405027,158906,1035,3,WBC x 1000,4.4,4.4,K/mcL,K/mcL,1060
+48373633,158906,1035,1,sodium,135.0,135.0,mmol/L,mmol/L,1073
+52405030,158906,1035,3,Hct,38.9,38.9,%,%,1060
+48373637,158906,1035,1,anion gap,14.0,14.0,,mmol/L,1073
+52405028,158906,1035,3,RBC,4.76,4.76,M/mcL,mil/mcL,1060
+48373641,158906,1035,1,calcium,9.1,9.1,mg/dL,mg/dL,1073
+52405029,158906,1035,3,Hgb,13.7,13.7,g/dL,g/dL,1060
+48373638,158906,1035,1,glucose,101.0,101.0,mg/dL,mg/dL,1073
+52405035,158906,1035,3,platelets x 1000,152.0,152.0,K/mcL,K/mcL,1060
+48373639,158906,1035,1,BUN,14.0,14.0,mg/dL,mg/dL,1073
+52405033,158906,1035,3,MCHC,35.2,35.2,g/dL,g/dL,1060
+48373640,158906,1035,1,creatinine,1.0,1.0,mg/dL,mg/dL,1073
+52405034,158906,1035,3,RDW,12.7,12.7,%,%,1060

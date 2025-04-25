@@ -1,0 +1,11 @@
+Time_Since_Admission_Minutes,Glucose_mg/dL,BUN_mg/dL,Anion_Gap_mmol/L,Potassium_mmol/L,Sodium_mmol/L,Chloride_mmol/L,Bicarbonate_mmol/L,Creatinine_mg/dL,Calcium_mg/dL
+14,289,18.0,9.0,4.3,139.0,107.0,23.0,0.9,8.2
+250,196,,,,,,,,
+353,269,,,,,,,,
+496,75,,,,,,,,
+1026,536,16.0,8.0,4.7,136.0,104.0,24.0,0.6,7.9
+1073,491,,,,,,,,
+1219,306,,,,,,,,
+1375,206,,,,,,,,
+1596,90,19.0,7.0,4.2,139.0,104.0,28.0,0.5,9.1
+1633,114,,,,,,,,

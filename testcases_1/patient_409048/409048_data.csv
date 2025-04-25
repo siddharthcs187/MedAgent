@@ -1,0 +1,4 @@
+Time,HR,BP_Systolic,BP_Diastolic,RR,SpO2,Glucose,BUN,Creatinine,Albumin,Sodium,Hgb,Hct,WBC,pH,PaCO2,PaO2,HCO3,O2_Sat
+43,116.0,109.0,85.0,12.0,100.0,,,,,,,,,,,,,
+126,,,,,,115.0,7.0,0.8,4.1,138.0,12.1,36.9,19.2,,,,,
+-52,,,,,,,,,,,,,,7.29,35.9,121.0,16.7,99.0

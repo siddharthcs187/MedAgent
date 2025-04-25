@@ -1,0 +1,2 @@
+patientunitstayid,patienthealthsystemstayid,gender,age,ethnicity,hospitalid,wardid,admissionheight,admissionweight,hospitaladmittime24,hospitaldischargetime24,unitadmittime24,unitdischargetime24,unitvisitnumber,unitstaytype,unitdischargelocation,unitdischargestatus
+583820,480728,Female,> 89,Caucasian,179,398,154.9,59.7,21:14:00,17:37:00,01:29:00,17:37:00,2,stepdown/other,Home,Alive

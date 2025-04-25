@@ -1,0 +1,6 @@
+Time_Since_Admission (minutes),Chloride (mmol/L),Potassium (mmol/L),Creatinine (mg/dL),Anion Gap (mmol/L),BUN (mg/dL),Glucose (mg/dL),Magnesium (mg/dL),Bicarbonate (mmol/L),Sodium (mmol/L),Phosphate (mg/dL),Hemoglobin (g/dL),Hematocrit (%),RDW (%),MCH (pg),MCHC (g/dL),MCV (fL),Platelets (K/mcL),WBC (K/mcL),PT (sec),PT_INR (ratio),FiO2 (%),LPM O2 (L/min)
+45,107,3,1.06,13.4,10,95,1.6,19,137,3.1,8.1,24.5,,,,,238,7.7,34.9,3.6,,2.0
+450,110,3.9,0.87,13.5,7,93,7.4,21,140,,9.3,28.9,15.8,29.6,32.1,92,7.7,,3.6,28.0,2.0,
+2109, , , , , , , , , , , , , , , , , , , ,21.0,,
+486, , , , , , , , , , , , , , , , , , , ,28.0,,
+1495, , , , , , , , , , , , , , , , , , , ,21.0,,

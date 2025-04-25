@@ -1,0 +1,79 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+glucose,116.0,mg/dL,-1498
+glucose,122.0,mg/dL,-36
+glucose,115.0,mg/dL,-893
+glucose,112.0,mg/dL,1454
+glucose,131.0,mg/dL,3237
+glucose,119.0,mg/dL,3955
+glucose,77.0,mg/dL,3410
+glucose,86.0,mg/dL,1812
+glucose,147.0,mg/dL,1148
+glucose,156.0,mg/dL,2585
+glucose,181.0,mg/dL,-289
+glucose,93.0,mg/dL,340
+glucose,91.0,mg/dL,-1102
+glucose,93.0,mg/dL,2003
+glucose,77.0,mg/dL,-1356
+glucose,85.0,mg/dL,4298
+potassium,4.2,mmol/L,-1498
+potassium,4.3,mmol/L,-278
+sodium,140.0,mmol/L,-278
+sodium,140.0,mmol/L,-1498
+chloride,100.0,mmol/L,-278
+chloride,100.0,mmol/L,-1498
+calcium,9.3,mg/dL,-1498
+calcium,9.2,mg/dL,-278
+bicarbonate,27.0,mmol/L,-1498
+bicarbonate,27.0,mmol/L,-278
+BUN,13.0,mg/dL,-1498
+BUN,16.0,mg/dL,-278
+creatinine,0.75,mg/dL,-1498
+creatinine,0.74,mg/dL,-278
+albumin,4.3,g/dL,-1498
+total protein,6.9,g/dL,-1498
+total bilirubin,0.5,mg/dL,-1498
+anion gap,13.0, ,-1498
+anion gap,13.0,mmol/L,-278
+platelets x 1000,236.0,K/mcL,-1498
+RBC,5.49,M/mcL,-1498
+Hgb,15.3,g/dL,-1498
+Hct,45.4,%,-1498
+MCV,82.7,fL,-1498
+MCH,27.9,pg,-1498
+MCHC,33.7,g/dL,-1498
+RDW,14.4,%,-1498
+-eos,1.0,%,-1498
+-lymphs,25.5,%,-1498
+-monos,7.3,%,-1498
+-polys,65.7,%,-1498
+-basos,0.5,%,-1498
+PT,13.0,sec,-1498
+PT,13.6,sec,-278
+PT - INR,1.0,ratio,-1498
+PT - INR,1.1,ratio,-278
+PTT,27.9,sec,-1498
+AST (SGOT),15.0,Units/L,-1498
+alkaline phos.,43.0,Units/L,-1498
+bedside glucose,122.0,mg/dL,-36
+bedside glucose,115.0,mg/dL,-893
+bedside glucose,112.0,mg/dL,1454
+bedside glucose,131.0,mg/dL,3237
+bedside glucose,119.0,mg/dL,3955
+bedside glucose,77.0,mg/dL,3410
+bedside glucose,86.0,mg/dL,1812
+bedside glucose,147.0,mg/dL,1148
+bedside glucose,156.0,mg/dL,2585
+bedside glucose,181.0,mg/dL,-289
+bedside glucose,93.0,mg/dL,340
+bedside glucose,91.0,mg/dL,-1102
+bedside glucose,93.0,mg/dL,2003
+bedside glucose,77.0,mg/dL,-1356
+bedside glucose,85.0,mg/dL,4298
+urinary specific gravity,1.02, ,-1458
+O2 Sat (%),98.1,%,-1470
+paCO2,25.2,mm Hg,-1470
+pH,7.54, ,-1470
+FiO2,21.0,%,-1470
+paO2,89.0,mm Hg,-1470
+Base Excess,1.0,mEq/L,-1470
+HCO3,21.8,mmol/L,-1470

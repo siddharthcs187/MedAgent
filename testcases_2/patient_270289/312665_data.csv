@@ -1,0 +1,13 @@
+labid,patientunitstayid,labresultoffset,labtypeid,labname,labresult,labresulttext,labmeasurenamesystem,labmeasurenameinterface,labresultrevisedoffset
+84668531,312665,76,1,troponin - I,2.28,2.28,ng/mL,ng/mL,76.0
+84668532,312665,76,1,glucose,141.0,141.0,mg/dL,mg/dL,76.0
+104511129,312665,76,7,FiO2,28.0,28.0,%,%,77.0
+84668529,312665,76,1,creatinine,1.2,1.2,mg/dL,mg/dL,76.0
+104511130,312665,76,7,paO2,69.0,69.0,mm Hg,mm Hg,77.0
+84668533,312665,76,1,BUN,20.0,20.0,mg/dL,mg/dL,76.0
+104511131,312665,76,7,paCO2,40.3,40.3,mm Hg,mm Hg,77.0
+91843081,312665,76,3,Hct,47.9,47.9,%,%,77.0
+84668530,312665,76,1,sodium,137.0,137.0,mmol/L,mEq/L,76.0
+104511132,312665,76,7,pH,7.41,7.41,,77,
+91843082,312665,76,3,WBC x 1000,9.6,9.6,K/mcL,K/CMM,77.0
+96562845,312665,76,4,BNP,2537.0,2537.0,pg/mL,pg/mL,78.0

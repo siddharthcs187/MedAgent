@@ -1,0 +1,13 @@
+patientunitstayid,labname,labresult,labmeasurenamesystem
+399713,creatinine,1.0,mg/dL
+399713,BUN,27.0,mg/dL
+399713,sodium,143.0,mmol/L
+399713,potassium,4.1,mmol/L
+399713,glucose,191.0,mg/dL
+399713,total bilirubin,0.3,mg/dL
+399713,Hgb,12.4,g/dL
+399713,Hct,41.5,%
+399713,WBC x 1000,13.7,K/mcL
+399713,albumin,4.0,g/dL
+399713,FiO2,22.0,%
+399713,O2 Sat (%),95.0,%

@@ -1,0 +1,66 @@
+LabName,LabResult,Unit,LabResultOffset,LabTypeId
+WBC x 1000,11.2,K/mcL,7343,3
+WBC x 1000,14.6,K/mcL,-126,3
+WBC x 1000,14.1,K/mcL,193,3
+Hgb,9.0,g/dL,-126,3
+Hgb,9.1,g/dL,7343,3
+Hgb,8.9,g/dL,193,3
+Hct,25.5,%,-126,3
+Hct,26.3,%,7343,3
+Hct,25.3,%,193,3
+Platelets x 1000,737.0,K/mcL,-126,3
+Platelets x 1000,490.0,K/mcL,7343,3
+Platelets x 1000,703.0,K/mcL,193,3
+MCV,91.0,fL,-126,3
+MCV,89.0,fL,7343,3
+MCV,90.0,fL,193,3
+MCHC,35.0,g/dL,-126,3
+MCHC,34.0,g/dL,7343,3
+MCHC,35.0,g/dL,193,3
+MCH,32.0,pg,-126,3
+MCH,31.0,pg,7343,3
+MCH,32.0,pg,193,3
+-lymphs,18.0,%,-126,3
+-lymphs,18.0,%,7343,3
+-lymphs,18.0,%,193,3
+-monos,10.0,%,-126,3
+-monos,8.0,%,7343,3
+-polys,70.0,%,-126,3
+-polys,71.0,%,7343,3
+-eos,2.0,%,-126,3
+-eos,3.0,%,7343,3
+-basos,0.0,%,-126,3
+-basos,1.0,%,7343,3
+Creatinine,1.3,mg/dL,-126,1
+Creatinine,1.3,mg/dL,193,1
+Creatinine,1.3,mg/dL,7343,1
+BUN,10.0,mg/dL,-126,1
+BUN,10.0,mg/dL,193,1
+BUN,9.0,mg/dL,7343,1
+Sodium,140.0,mmol/L,-126,1
+Sodium,140.0,mmol/L,193,1
+Sodium,144.0,mmol/L,7343,1
+Potassium,4.0,mmol/L,-126,1
+Potassium,3.6,mmol/L,193,1
+Potassium,4.0,mmol/L,7343,1
+Chloride,105.0,mmol/L,-126,1
+Chloride,104.0,mmol/L,193,1
+Chloride,105.0,mmol/L,7343,1
+Bicarbonate,31.0,mmol/L,-126,1
+Bicarbonate,33.0,mmol/L,193,1
+Bicarbonate,33.8,mmol/L,7343,1
+Calcium,7.6,mg/dL,-126,1
+Calcium,7.4,mg/dL,193,1
+Calcium,8.5,mg/dL,7343,1
+Glucose,118.0,mg/dL,-126,1
+Glucose,107.0,mg/dL,193,1
+Glucose,107.0,mg/dL,7343,1
+Amylase,44.0,Units/L,-126,1
+Lipase,388.0,Units/L,-126,1
+Lipase,266.0,Units/L,193,1
+RBC,2.82,M/mcL,-126,3
+RBC,2.95,M/mcL,7343,3
+RBC,2.82,M/mcL,193,3
+RDW,15.8,%,-126,3
+RDW,15.3,%,7343,3
+RDW,16.1,%,193,3

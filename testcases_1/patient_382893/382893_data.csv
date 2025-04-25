@@ -1,0 +1,17 @@
+labid,patientunitstayid,labresultoffset,labtypeid,labname,labresult,labresulttext,labmeasurenamesystem,labmeasurenameinterface,labresultrevisedoffset
+82242187,382893,81,1,bicarbonate,27.0,27.0,mmol/L,mEq/L,501
+82242188,382893,81,1,calcium,9.7,9.7,mg/dL,mg/dL,501
+82242186,382893,81,1,potassium,3.0,3.0,mmol/L,mEq/L,501
+82242185,382893,81,1,BUN,4.0,4.0,mg/dL,mg/dL,82
+82242189,382893,81,1,chloride,105.0,105.0,mmol/L,mEq/L,501
+82242181,382893,81,1,creatinine,1.1,1.1,mg/dL,mg/dL,82
+82242182,382893,81,1,sodium,141.0,141.0,mmol/L,mEq/L,82
+82242180,382893,81,1,total bilirubin,0.8,0.8,mg/dL,mg/dL,82
+89229355,382893,81,3,Hct,48.6,48.6,%,%,82
+92869809,382893,496,3,Hgb,,17.0,g/dL,g/dL,499
+82242183,382893,81,1,albumin,4.9,4.9,g/dL,g/dL,82
+89229356,382893,81,3,WBC x 1000,7.9,7.9,K/mcL,K/CMM,82
+92869810,382893,496,3,WBC x 1000,,7.9,K/mcL,K/CMM,499
+82242184,382893,81,1,glucose,85.0,85.0,mg/dL,mg/dL,82
+89229357,382893,81,3,Hgb,17.0,17.0,g/dL,g/dL,501
+92869808,382893,496,3,Hct,,48.6,%,%,499

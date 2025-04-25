@@ -1,0 +1,166 @@
+LabID,PatientUnitStayID,LabResultOffset,LabType,LabName,LabResult,LabMeasureNameSystem,LabResultRevisedOffset
+160196018,893771,995,Chemistry,total bilirubin,0.3,mg/dL,1029
+160196023,893771,995,Chemistry,AST (SGOT),43.0,Units/L,1029
+160196032,893771,995,Chemistry,BUN,39.0,mg/dL,1029
+160196030,893771,995,Chemistry,glucose,92.0,mg/dL,1029
+160196031,893771,995,Chemistry,chloride,102.0,mmol/L,1029
+160196020,893771,995,Chemistry,creatinine,0.56,mg/dL,1029
+156287301,893771,-118,Chemistry,sodium,135.0,mmol/L,-77
+160196021,893771,995,Chemistry,alkaline phos.,139.0,Units/L,1029
+156287298,893771,-118,Chemistry,alkaline phos.,147.0,Units/L,-77
+172978217,893771,-398,Hematology,WBC x 1000,3.9,K/mcL,-372
+156287299,893771,-118,Chemistry,anion gap,9.0,,-77
+160196028,893771,995,Chemistry,calcium,8.2,mg/dL,1029
+156287302,893771,-118,Chemistry,albumin,2.7,g/dL,-77
+172978218,893771,-398,Hematology,MCH,33.4,pg,-372
+156287295,893771,-118,Chemistry,total bilirubin,0.4,mg/dL,-77
+160196019,893771,995,Chemistry,potassium,4.3,mmol/L,1029
+156287300,893771,-118,Chemistry,AST (SGOT),57.0,Units/L,-77
+172978212,893771,-398,Hematology,MPV,9.1,fL,-372
+156287303,893771,-118,Chemistry,bicarbonate,26.0,mmol/L,-77
+160196029,893771,995,Chemistry,ALT (SGPT),85.0,Units/L,1029
+156287307,893771,-118,Chemistry,glucose,99.0,mg/dL,-77
+172978213,893771,-398,Hematology,RBC,3.35,M/mcL,-372
+156287309,893771,-118,Chemistry,BUN,43.0,mg/dL,-77
+160196025,893771,995,Chemistry,albumin,2.4,g/dL,1029
+156287306,893771,-118,Chemistry,ALT (SGPT),93.0,Units/L,-77
+172978219,893771,-398,Hematology,MCHC,34.5,g/dL,-372
+156287308,893771,-118,Chemistry,chloride,100.0,mmol/L,-77
+160196022,893771,995,Chemistry,anion gap,5.0,,1029
+142135974,893771,-5,Chemistry,total cholesterol,155.0,mg/dL,174
+172978216,893771,-398,Hematology,Hgb,11.2,g/dL,-372
+156287304,893771,-118,Chemistry,total protein,6.0,g/dL,-77
+157373619,893771,2370,Chemistry,potassium,4.2,mmol/L,2406
+160196026,893771,995,Chemistry,bicarbonate,29.0,mmol/L,1029
+157373620,893771,2370,Chemistry,creatinine,0.64,mg/dL,2406
+168551437,893771,3915,Hematology,Hct,27.6,%,3929
+142135973,893771,-5,Chemistry,triglycerides,141.0,mg/dL,174
+168551438,893771,3915,Hematology,MCV,96.0,fL,3929
+157373621,893771,2370,Chemistry,anion gap,8.0,,2406
+168551435,893771,3915,Hematology,MPV,9.3,fL,3929
+172978220,893771,-398,Hematology,platelets x 1000,119.0,K/mcL,-372
+146429116,893771,3915,Chemistry,bicarbonate,28.0,mmol/L,3946
+168551436,893771,3915,Hematology,RBC,2.88,M/mcL,3929
+146429115,893771,3915,Chemistry,albumin,2.3,g/dL,3946
+156287305,893771,-118,Chemistry,calcium,9.0,mg/dL,-77
+146429117,893771,3915,Chemistry,total protein,5.7,g/dL,3946
+185317066,893771,2370,Hematology,MCV,97.0,fL,2381
+185317065,893771,2370,Hematology,Hct,31.3,%,2381
+146429118,893771,3915,Chemistry,calcium,8.5,mg/dL,3946
+157373627,893771,2370,Chemistry,BUN,33.0,mg/dL,2406
+146429119,893771,3915,Chemistry,ALT (SGPT),62.0,Units/L,3946
+168551439,893771,3915,Hematology,Hgb,9.7,g/dL,3929
+146429114,893771,3915,Chemistry,sodium,130.0,mmol/L,3946
+160196027,893771,995,Chemistry,total protein,5.3,g/dL,1029
+146429110,893771,3915,Chemistry,creatinine,0.48,mg/dL,3946
+146429113,893771,3915,Chemistry,AST (SGOT),27.0,Units/L,3946
+146429108,893771,3915,Chemistry,total bilirubin,0.5,mg/dL,3946
+146429109,893771,3915,Chemistry,potassium,4.3,mmol/L,3946
+146429120,893771,3915,Chemistry,glucose,110.0,mg/dL,3946
+146429121,893771,3915,Chemistry,chloride,95.0,mmol/L,3946
+146429111,893771,3915,Chemistry,alkaline phos.,153.0,Units/L,3946
+146429122,893771,3915,Chemistry,BUN,29.0,mg/dL,3946
+157373623,893771,2370,Chemistry,bicarbonate,28.0,mmol/L,2406
+157373622,893771,2370,Chemistry,sodium,133.0,mmol/L,2406
+157373625,893771,2370,Chemistry,glucose,108.0,mg/dL,2406
+157373626,893771,2370,Chemistry,chloride,97.0,mmol/L,2406
+157373624,893771,2370,Chemistry,calcium,8.5,mg/dL,2406
+185317067,893771,2370,Hematology,Hgb,10.7,g/dL,2381
+185317064,893771,2370,Hematology,RBC,3.22,M/mcL,2381
+166205603,893771,250,Hematology,MCHC,34.7,g/dL,270
+173493007,893771,-398,Hematology,-eos,0.0,%,-372
+146429112,893771,3915,Chemistry,anion gap,7.0,,3946
+173493008,893771,-398,Hematology,-monos,13.0,%,-372
+166205604,893771,250,Hematology,platelets x 1000,114.0,K/mcL,270
+166205602,893771,250,Hematology,MCH,33.4,pg,270
+166205601,893771,250,Hematology,WBC x 1000,3.4,K/mcL,270
+173493005,893771,-398,Hematology,-basos,0.0,%,-372
+173493006,893771,-398,Hematology,-polys,74.0,%,-372
+173493004,893771,-398,Hematology,-lymphs,10.0,%,-372
+142135975,893771,-5,Chemistry,HDL,50.0,mg/dL,174
+180269855,893771,5285,Hematology,MCHC,34.4,g/dL,5321
+180269856,893771,5285,Hematology,platelets x 1000,141.0,K/mcL,5321
+180269852,893771,5285,Hematology,Hgb,9.4,g/dL,5321
+180269854,893771,5285,Hematology,MCH,33.2,pg,5321
+180269850,893771,5285,Hematology,Hct,27.3,%,5321
+180269851,893771,5285,Hematology,MCV,96.0,fL,5321
+180269849,893771,5285,Hematology,RBC,2.83,M/mcL,5321
+180269853,893771,5285,Hematology,WBC x 1000,3.4,K/mcL,5321
+148252469,893771,5285,Chemistry,BUN,25.0,mg/dL,5321
+148252455,893771,5285,Chemistry,total bilirubin,0.4,mg/dL,5321
+148252456,893771,5285,Chemistry,potassium,4.5,mmol/dL,5321
+148252468,893771,5285,Chemistry,chloride,97.0,mmol/L,5321
+148252467,893771,5285,Chemistry,glucose,105.0,mg/dL,5321
+148252465,893771,5285,Chemistry,calcium,8.7,mg/dL,5321
+148252462,893771,5285,Chemistry,albumin,2.2,g/dL,5321
+148252457,893771,5285,Chemistry,creatinine,0.52,mg/dL,5321
+148252458,893771,5285,Chemistry,alkaline phos.,144.0,Units/L,5321
+148252464,893771,5285,Chemistry,total protein,5.6,g/dL,5321
+148252459,893771,5285,Chemistry,anion gap,6.0,,5321
+142996954,893771,-398,Chemistry,bicarbonate,29.0,mmol/L,-351
+142996947,893771,-398,Chemistry,potassium,4.4,mmol/L,-351
+142996959,893771,-398,Chemistry,chloride,95.0,mmol/L,-351
+142996950,893771,-398,Chemistry,anion gap,10.0,,-351
+142996951,893771,-398,Chemistry,AST (SGOT),71.0,Units/L,-351
+142996952,893771,-398,Chemistry,sodium,134.0,mmol/L,-351
+142996953,893771,-398,Chemistry,albumin,2.8,g/dL,-351
+142996957,893771,-398,Chemistry,ALT (SGPT),102.0,Units/L,-351
+142996958,893771,-398,Chemistry,glucose,142.0,mg/dL,-351
+142996956,893771,-398,Chemistry,calcium,9.1,mg/dL,-351
+142996960,893771,-398,Chemistry,BUN,49.0,mg/dL,-351
+142996949,893771,-398,Chemistry,alkaline phos.,160.0,Units/L,-351
+142996948,893771,-398,Chemistry,creatinine,0.72,mg/dL,-351
+142996946,893771,-398,Chemistry,total bilirubin,0.4,mg/dL,-351
+162952064,893771,-5,Chemistry,prealbumin,22.0,mg/dL,174
+162938785,893771,-398,Chemistry,troponin - I,0.25,ng/mL,-151
+163487126,893771,1415,Chemistry,lactate,1.8,mmol/L,1480
+164434577,893771,-118,Chemistry,magnesium,1.6,mg/dL,-77
+139452318,893771,555,Chemistry,lactate,2.8,mmol/L,599
+159725415,893771,486,Chemistry,magnesium,1.5,mg/dL,518
+143665921,893771,1415,Chemistry,magnesium,2.7,mg/dL,1476
+148631034,893771,-108,Chemistry,lactate,2.1,mmol/L,-77
+148252460,893771,5285,Chemistry,AST (SGOT),23.0,Units/L,5321
+148252461,893771,5285,Chemistry,sodium,132.0,mmol/L,5321
+148252463,893771,5285,Chemistry,bicarbonate,29.0,mmol/L,5321
+165908497,893771,2370,Hematology,WBC x 1000,3.9,K/mcL,2381
+165908498,893771,2370,Hematology,MCH,33.2,pg,2381
+165908499,893771,2370,Hematology,MCHC,34.2,g/dL,2381
+165908500,893771,2370,Hematology,platelets x 1000,123.0,K/mcL,2381
+166517395,893771,995,Hematology,Hgb,9.2,g/dL,1014
+166517396,893771,995,Hematology,WBC x 1000,3.1,K/mcL,1014
+166517397,893771,995,Hematology,MCH,33.2,pg,1014
+166517398,893771,995,Hematology,MCHC,34.1,g/dL,1014
+166517391,893771,995,Hematology,MPV,8.9,fL,1014
+166517392,893771,995,Hematology,RBC,2.77,M/mcL,1014
+166517399,893771,995,Hematology,platelets x 1000,108.0,K/mcL,1014
+170044353,893771,995,Hematology,PT,13.1,sec,1662
+170044354,893771,995,Hematology,PT - INR,1.0,ratio,1662
+171885829,893771,995,Hematology,PTT,25.0,sec,1020
+172172975,893771,995,Hematology,-lymphs,11.0,%,1010
+172172976,893771,995,Hematology,-basos,0.0,%,1010
+172172977,893771,995,Hematology,-polys,75.0,%,1010
+172172978,893771,995,Hematology,-monos,12.0,%,1010
+172172979,893771,995,Hematology,-eos,0.0,%,1010
+172978214,893771,-398,Hematology,MCV,97.0,fL,-372
+172978215,893771,-398,Hematology,MCV,97.0,fL,-372
+185778372,893771,-118,Hematology,PT,13.5,sec,-84
+185778373,893771,-118,Hematology,PT - INR,1.1,ratio,-84
+187337030,893771,4181,Misc,bedside glucose,150.0,mg/dL,4181
+188070703,893771,5560,Misc,bedside glucose,128.0,mg/dL,5560
+188252315,893771,2939,Misc,bedside glucose,144.0,mg/dL,2939
+188263115,893771,4438,Misc,bedside glucose,173.0,mg/dL,4438
+188289884,893771,3704,Misc,bedside glucose,175.0,mg/dL,3704
+188424199,893771,4866,Misc,bedside glucose,149.0,mg/dL,4866
+189009762,893771,5367,Misc,bedside glucose,94.0,mg/dL,5367
+189379716,893771,5131,Misc,bedside glucose,197.0,mg/dL,5131
+190141456,893771,5835,Misc,bedside glucose,140.0,mg/dL,5835
+190207430,893771,2703,Misc,bedside glucose,77.0,mg/dL,2703
+190238940,893771,3475,Misc,bedside glucose,149.0,mg/dL,3475
+190419170,893771,3245,Misc,bedside glucose,120.0,mg/dL,3245
+191172549,893771,2678,Misc,bedside glucose,52.0,mg/dL,2678
+191738607,893771,3914,Misc,bedside glucose,113.0,mg/dL,3914
+191773648,893771,4638,Misc,bedside glucose,112.0,mg/dL,4638
+152503200,893771,995,Chemistry,troponin - I,0.3,ng/mL,1313
+156287296,893771,-118,Chemistry,potassium,4.6,mmol/L,-77
+156287297,893771,-118,Chemistry,creatinine,0.66,mg/dL,-77
+222065626,893771,10,ABG lab,FiO2,21.0,%,11

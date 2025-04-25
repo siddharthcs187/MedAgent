@@ -1,0 +1,30 @@
+labname,labresult,labmeasurenameinterface,labresultoffset
+anion gap,13,mmol/L,-230
+creatinine,1.1,mg/dL,-230
+sodium,137,mmol/L,-230
+calcium,8.7,mg/dL,-230
+AST (SGOT),45,Units/L,-230
+alkaline phos.,58,Units/L,-230
+RDW,12.2,%,-230
+bicarbonate,27,mmol/L,-230
+MCH,30.2,pg,-230
+albumin,4.3,g/dL,-230
+WBC x 1000,7.7,K/mcL,-230
+total protein,7.2,g/dL,-230
+-eos,1,%,-230
+total bilirubin,0.7,mg/dL,-230
+MCV,84.4,fl,-230
+glucose,95,mg/dL,-230
+Hgb,13.4,g/dL,-230
+ALT (SGPT),62,Units/L,-230
+chloride,100,mmol/L,-230
+-lymphs,25,%,-230
+ethanol,291,mg/dL,-230
+Acetaminophen,<2,mcg/mL,-230
+platelets x 1000,243,K/mcL,-230
+potassium,3.3,mmol/L,-230
+Hct,37.4,%,-230
+salicylate,<1.7,mg/dL,-230
+-monos,6,%,-230
+unitadmittime24,08:35:00,,-
+unitdischargetime24,10:23:00,,-

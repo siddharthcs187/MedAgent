@@ -1,0 +1,4 @@
+Time_Since_Admission_Minutes,Potassium_mmol/L,Glucose_mg/dL,Creatinine_mg/dL,Bicarbonate_mmol/L,Chloride_mmol/L,Sodium_mmol/L,Calcium_mg/dL,BUN_mg/dL,Hemoglobin_g/dL,Hematocrit_%,MCV_fL,MCH_pg,MCHC_g/dL,RBC_M/mcL,MPV_fL,Platelets_x1000_K/mcL,WBC_x1000_K/mcL,RDW_%,Anion_Gap,Bedside_Glucose_mg/dL
+209,3.9,,,,,,,,,,,,,,,,,,,
+921,3.7,101.0,1.15,22.0,108.0,139.0,9.0,26.0,13.6,39.2,88.0,30.4,34.7,4.47,10.3,230.0,9.9,12.9,9.0,
+62,,,,,,,,,,,,,,,,,,,128.0,

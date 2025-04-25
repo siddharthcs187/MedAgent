@@ -1,0 +1,14 @@
+labid,patientunitstayid,labresultoffset,labtypeid,labname,labresult,labresulttext,labmeasurenamesystem,labmeasurenameinterface,labresultrevisedoffset
+81736216,405340,19,1,BUN,10.0,10.0,mg/dL,mg/dL,21
+81736215,405340,19,1,chloride,104.0,104.0,mmol/L,mEq/L,21
+81736214,405340,19,1,glucose,110.0,110.0,mg/dL,mg/dL,21
+89412025,405340,17,3,WBC x 1000,13.2,13.2,K/mcL,K/CMM,19
+81736210,405340,19,1,potassium,4.2,4.2,mmol/L,mEq/L,21
+89412024,405340,17,3,Hgb,13.0,13.0,g/dL,g/dL,19
+81736211,405340,19,1,creatinine,0.9,0.9,mg/dL,mg/dL,21
+89412026,405340,17,3,RDW,15.0,15.0,%,%,19
+81736212,405340,19,1,sodium,139.0,139.0,mmol/L,mEq/L,21
+89412027,405340,17,3,platelets x 1000,303.0,303.0,K/mcL,K/CMM,19
+81736213,405340,19,1,albumin,2.8,2.8,g/dL,g/dL,21
+89412023,405340,17,3,Hct,40.4,40.4,%,%,19
+105688118,405340,17,7,FiO2,28.0,28.0,%,%,101

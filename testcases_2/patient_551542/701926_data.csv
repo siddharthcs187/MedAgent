@@ -1,0 +1,28 @@
+labname,labresult,labmeasurenamesystem
+total protein,6.3,g/dL
+creatinine,0.72,mg/dL
+albumin,3.1,g/dL
+BUN,12.0,mg/dL
+glucose,148.0,mg/dL
+calcium,8.3,mg/dL
+WBC x 1000,6.6,K/mcL
+MCH,29.8,pg
+MCV,94.0,fL
+MPV,11.6,fL
+platelets x 1000,107.0,K/mcL
+RDW,14.1,%
+Hgb,10.7,g/dL
+Hct,33.7,%
+RBC,3.59,M/mcL
+-polys,90.0,%
+-monos,3.0,%
+-lymphs,6.0,%
+ALT (SGPT),20.0,Units/L
+alkaline phos.,60.0,Units/L
+total bilirubin,0.4,mg/dL
+AST (SGOT),21.0,Units/L
+bicarbonate,29.0,mmol/L
+chloride,109.0,mmol/L
+sodium,141.0,mmol/L
+potassium,4.1,mmol/L
+anion gap,3.0, 

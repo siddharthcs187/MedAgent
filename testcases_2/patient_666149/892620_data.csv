@@ -1,0 +1,2 @@
+patientunitstayid,patienthealthsystemstayid,gender,age,ethnicity,hospitalid,wardid,admissionheight,hospitaladmittime24,hospitaladmitoffset,hospitaldischargeyear,hospitaldischargetime24,hospitaldischargeoffset,unittype,unitadmittime24,unitadmitsource,unitvisitnumber,unitstaytype,unitdischargetime24,unitdischargeoffset,uniquepid
+892620,666149,Male,28,Caucasian,146,374,172,23:48:00,-1352,2014,22:40:00,20,Med-Surg ICU,22:20:00,ICU to SDU,2,stepdown/other,22:40:00,20,006-100497

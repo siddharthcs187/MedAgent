@@ -1,0 +1,10 @@
+labid,patientunitstayid,labresultoffset,labtypeid,labname,labresult,labresulttext,labmeasurenamesystem,labmeasurenameinterface,labresultrevisedoffset
+87360347,342371,6,1,sodium,134.0,134.0,mmol/L,mEq/L,8
+87360348,342371,6,1,albumin,3.8,3.8,g/dL,g/dL,8
+87360346,342371,6,1,creatinine,1.4,1.4,mg/dL,mg/dL,8
+87360349,342371,6,1,glucose,130.0,130.0,mg/dL,mg/dL,8
+88130702,342371,6,3,Hct,42.7,42.7,%,%,9
+87360350,342371,6,1,BUN,11.0,11.0,mg/dL,mg/dL,8
+88130703,342371,6,3,WBC x 1000,17.3,17.3,K/mcL,K/CMM,9
+103239892,342371,6,7,FiO2,28.0,28.0,%,%,6
+87360345,342371,6,1,total bilirubin,1.0,1.0,mg/dL,mg/dL,8

@@ -1,0 +1,32 @@
+LabName,LabResult,Units,TimeOffset (minutes)
+chloride,100.0,mmol/L,-202
+BUN,13.0,mg/dL,-202
+total bilirubin,0.9,mg/dL,-202
+potassium,4.9,mmol/L,-202
+ALT (SGPT),96.0,IU/L,-202
+glucose,83.0,mg/dL,-202
+calcium,10.2,mg/dL,-202
+sodium,138.0,mmol/L,-202
+albumin,3.7,g/dL,-202
+anion gap,12.0,,248
+creatinine,0.8,mg/dL,248
+potassium,4.4,mmol/L,248
+sodium,139.0,mmol/L,248
+calcium,9.3,mg/dL,248
+bicarbonate,26.0,mmol/L,248
+glucose,60.0,mg/dL,248
+total bilirubin,0.7,mg/dL,248
+albumin,3.0,g/dL,248
+total protein,5.6,g/dL,248
+platelets x 1000,549.0,K/mcL,248
+WBC x 1000,7.5,K/mcL,248
+Hct,36.2,%,248
+Hgb,11.6,g/dL,248
+MCV,93.0,fL,248
+MCH,29.7,pg,248
+MCHC,32.0,g/dL,248
+MPV,10.6,fL,248
+RDW,13.3,%,248
+CPK,5905.0,IU/L,248
+Respiratory Rate,10.0,/min,27
+FiO2,28.0,%,27

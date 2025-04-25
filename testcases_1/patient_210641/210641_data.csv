@@ -1,0 +1,59 @@
+Labname,Labresult,Labresulttext,LabMeasureNameSystem,TimeSinceUnitAdmission(minutes)
+Glucose,163,163,mg/dL,1626
+bicarbonate,32,32,mmol/L,1626
+creatinine,1.24,1.24,mg/dL,1626
+calcium,8.9,8.9,mg/dL,1626
+anion gap,11,11,mmol/L,1626
+potassium,4.1,4.1,mmol/L,1626
+chloride,98,98,mmol/L,1626
+sodium,137,137,mmol/L,1626
+RBC,4.40,4.40,M/mcL,1626
+Hgb,14.7,14.7,g/dL,1626
+Hct,45.7,45.7,%,1626
+MCV,103.9,103.9,fL,1626
+MCH,33.4,33.4,pg,1626
+MCHC,32.2,32.2,g/dL,1626
+platelets x 1000,217,217,K/mcL,1626
+-monos,4,4,%,1626
+-polys,94,94,%,1626
+-eos,0,0,%,1626
+-basos,0,0,%,1626
+-lymphs,2,2,%,1626
+WBC x 1000,17.3,17.3,K/mcL,1626
+RDW,14.0,14.0,%,1626
+Glucose,174,174,mg/dL,332
+BUN,11,11,mg/dL,332
+creatinine,0.91,0.91,mg/dL,332
+calcium,9.1,9.1,mg/dL,332
+anion gap,15,15,mmol/L,332
+potassium,4.1,4.1,mmol/L,332
+chloride,101,101,mmol/L,332
+sodium,139,139,mmol/L,332
+bicarbonate,27,27,mmol/L,332
+Glucose,166,166,mg/dL,3121
+BUN,34,34,mg/dL,3121
+creatinine,1.20,1.20,mg/dL,3121
+calcium,8.7,8.7,mg/dL,3121
+anion gap,9,9,mmol/L,3121
+potassium,4.4,4.4,mmol/L,3121
+chloride,100,100,mmol/L,3121
+sodium,136,136,mmol/L,3121
+bicarbonate,31,31,mmol/L,3121
+RBC,4.15,4.15,M/mcL,3121
+Hgb,14.2,14.2,g/dL,3121
+Hct,42.7,42.7,%,3121
+MCV,102.9,102.9,fL,3121
+MCH,34.2,34.2,pg,3121
+MCHC,33.3,33.3,g/dL,3121
+platelets x 1000,202,202,K/mcL,3121
+-monos,5,5,%,3121
+-polys,93,93,%,3121
+-eos,0,0,%,3121
+-basos,0,0,%,3121
+-lymphs,2,2,%,3121
+WBC x 1000,15.1,15.1,K/mcL,3121
+RDW,13.7,13.7,%,3121
+troponin - I,<0.02,<0.02,ng/mL,2706
+troponin - I,<0.02,<0.02,ng/mL,2344
+troponin - I,<0.02,<0.02,ng/mL,2013
+troponin - I,<0.02,<0.02,ng/mL,192

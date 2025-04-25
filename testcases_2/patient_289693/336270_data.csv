@@ -1,0 +1,2 @@
+patientunitstayid,patienthealthsystemstayid,hospitalid,wardid,hospitaladmittime24,hospitaldischargeyear,hospitaldischargetime24,unittype,unitadmittime24,unitdischargetime24,hospitaladmitoffset,hospitaldischargeoffset,unitdischargeoffset
+336270,289693,123,175,22:31:00,2015,17:50:00,Med-Surg ICU,12:13:00,17:50:00,-8022,337,337

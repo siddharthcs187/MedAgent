@@ -1,0 +1,106 @@
+LabName,LabResult,LabMeasureNameSystem,LabResultRevisedOffset
+glucose,109.0,mg/dL,1303
+HDL,71.0,mg/dL,1303
+calcium,8.6,mg/dL,1303
+magnesium,1.7,mg/dL,1303
+total bilirubin,1.1,mg/dL,1303
+MCH,31.6,pg,1286
+chloride,108.0,mmol/L,1303
+-monos,9.9,%,1286
+total protein,6.4,g/dL,1303
+MCHC,33.3,g/dL,1286
+-eos,1.5,%,1286
+total cholesterol,163.0,mg/dL,1303
+MCV,94.9,fL,1286
+-monos,11.5,%,2755
+AST (SGOT),155.0,Units/L,1303
+-eos,3.5,%,2755
+Hct,39.8,%,1286
+-lymphs,31.5,%,2755
+platelets x 1000,188.0,K/mcL,2755
+creatinine,0.6,mg/dL,1303
+MPV,7.9,fL,2755
+RDW,13.4,%,2755
+Hgb,13.2,g/dL,1286
+-basos,0.7,%,2755
+RBC,4.47,M/mcL,-146
+chloride,109.0,mmol/L,2769
+triglycerides,71.0,mg/dL,1303
+MCH,31.2,pg,2755
+-basos,0.9,%,-146
+sodium,142.0,mmol/L,2769
+-polys,57.4,%,1286
+MCV,93.6,fL,2755
+BUN,16.0,mg/dL,2769
+troponin - I,32.0,ng/mL,1318
+Hct,37.9,%,2755
+PT - INR,1.1,ratio,2771
+-lymphs,48.9,%,-146
+PT,12.2,sec,2771
+-polys,39.4,%,-146
+MPV,7.5,fL,-146
+-monos,7.9,%,-146
+-eos,2.9,%,-146
+-basos,0.4,%,1286
+-lymphs,30.8,%,1286
+RBC,4.19,M/mcL,1286
+-polys,52.8,%,2755
+anion gap,6.0, ,2769
+BUN,18.0,mg/dL,-136
+potassium,3.4,mmol/L,-136
+calcium,8.7,mg/dL,-136
+chloride,103.0,mmol/L,-136
+BUN,10.0,mg/dL,1303
+Hgb,12.6,g/dL,2755
+WBC x 1000,7.1,K/mcL,1286
+PT,10.7,sec,-134
+PT - INR,0.9,ratio,-134
+potassium,3.9,mmol/L,1303
+PT,15.0,sec,4237
+PT - INR,1.3,ratio,4237
+WBC x 1000,6.9,K/mcL,-146
+platelets x 1000,224.0,K/mcL,-146
+MCV,94.3,fL,-146
+RDW,13.2,%,-146
+Hgb,14.0,g/dL,-146
+sodium,143.0,mmol/L,-136
+alkaline phos.,73.0,Units/L,1303
+potassium,4.2,mmol/L,2769
+Hct,42.2,%,-146
+-monos,7.5,%,1286
+troponin - I,0.171,ng/mL,-127
+anion gap,8.0, ,1303
+creatinine,0.64,mg/dL,2769
+-lymphs,31.5,%,1286
+PTT,31.5,sec,-134
+-basos,0.7,%,1286
+platelets x 1000,207.0,K/mcL,1286
+PT,11.8,sec,1294
+PT - INR,1.0,ratio,1294
+MCH,31.3,pg,-146
+-polys,57.4,%,1286
+-eos,1.5,%,1286
+bicarbonate,32.0,mmol/L,-136
+-basos,0.9,%,-146
+-lymphs,31.5,%,1286
+-polys,39.4,%,-146
+-monos,9.9,%,1286
+bicarbonate,25.0,mmol/L,1303
+albumin,3.2,g/dL,1303
+sodium,141.0,mmol/L,1303
+ALT (SGPT),44.0,Units/L,1303
+calcium,8.6,mg/dL,2769
+Hct,39.8,%,1286
+bicarbonate,27.0,mmol/L,2769
+MCHC,33.3,g/dL,2755
+-monos,11.5,%,2755
+-eos,3.5,%,2755
+-lymphs,31.5,%,2755
+-basos,0.7,%,2755
+platelets x 1000,188.0,K/mcL,2755
+RDW,13.4,%,2755
+MCV,94.9,fL,2755
+Hgb,13.2,g/dL,2755
+RBC,4.47,M/mcL,2755
+troponin - I,70.0,ng/mL,739
+troponin - I,75.3,ng/mL,336

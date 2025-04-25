@@ -1,0 +1,2 @@
+patientunitstayid,patienthealthsystemstayid,gender,age,ethnicity,hospitalid,wardid,admissionheight,admissionweight,hospitaladmittime24,hospitaldischargeyear,hospitaldischargetime24,unittype,unitadmittime24,unitvisitnumber,admissionweight.1,unitdischargetime24,uniquepid
+576215,476197,Male,68,Caucasian,158,388,188,99.4,19:21:00,2015,23:35:00,Med-Surg ICU,21:13:00,2,99.4,23:35:00,006-101284

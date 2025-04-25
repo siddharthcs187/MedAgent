@@ -1,0 +1,56 @@
+LabName,LabResult,LabResultUnits,LabResultOffset (minutes)
+chloride,105.0,mmol/L,1116
+total protein,4.9,g/dL,1116
+calcium,8.5,mg/dL,1116
+bicarbonate,23.0,mmol/L,1116
+creatinine,4.8,mg/dL,1116
+total bilirubin,0.5,mg/dL,1116
+ALT (SGPT),15.0,Units/L,1116
+anion gap,12.0,,1116
+AST (SGOT),14.0,Units/L,1116
+Hgb,8.4,g/dL,1116
+sodium,140.0,mmol/L,1116
+HCO3,25.0,mmol/L,53
+alkaline phos.,162.0,Units/L,1116
+WBC x 1000,6.0,K/mcL,1116
+Hct,27.8,%,1116
+FiO2,50.0,%,53
+glucose,80.0,mg/dL,1116
+PT - INR,3.2,ratio,4111
+MPV,11.5,fL,1116
+paO2,90.0,mm Hg,53
+PT - INR,4.3,ratio,1581
+RBC,3.07,M/mcL,1116
+Base Excess,-2.0,mEq/L,53
+BUN,42.0,mg/dL,1116
+RBC,3.07,M/mcL,4111
+MCV,92.0,fL,4111
+MCH,27.7,pg,4111
+platelets x 1000,201.0,K/mcL,4111
+MCHC,30.2,g/dL,4111
+Vancomycin - random,19.4,mcg/mL,1116
+bedside glucose,74.0,mg/dL,49
+WBC x 1000,4.5,K/mcL,4111
+PT,32.2,sec,4111
+PT,40.2,sec,1581
+PTT,91.0,sec,51
+-lymphs,4.0,%,1116
+PTT,76.0,sec,2661
+-eos,2.0,%,1116
+PT,44.1,sec,2661
+-monos,9.0,%,1116
+PT,35.7,sec,1116
+-polys,84.0,%,1116
+PT - INR,4.9,ratio,2661
+-basos,0.0,%,1116
+PTT,121.0,sec,1116
+PTT,65.0,sec,4111
+MCV,91.0,fL,1116
+MCH,27.4,pg,1116
+platelets x 1000,181.0,K/mcL,1116
+PT - INR,3.7,ratio,1116
+FiO2,100.0,%,5
+Albumin,1.6,g/dL,1116
+pH,7.32,,53
+paCO2,48.0,mm Hg,53
+O2 Sat (%),96.0,%,53

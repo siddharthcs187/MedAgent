@@ -1,0 +1,9 @@
+Time_Since_Admission (minutes),Glucose (mg/dL),Potassium (mmol/L),Bicarbonate (mmol/L),PaO2 (mmHg),PaCO2 (mmHg)
+-15,157.0,,,,
+192,,,37.3,68.1,52.6
+285,107.0,,,,
+454,93.0,3.6,34.0,,
+798,93.0,,,,
+1048,93.0,,,,
+1149,,3.9,,,
+1252,183.0,,,,

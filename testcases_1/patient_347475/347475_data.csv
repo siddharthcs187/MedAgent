@@ -1,0 +1,21 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+chloride,101.0,mmol/L,35
+glucose,114.0,mg/dL,35
+magnesium,1.8,mg/dL,35
+troponin - T,2.92,ng/mL,35
+potassium,3.5,mmol/L,35
+bicarbonate,27.0,mmol/L,35
+creatinine,1.8,mg/dL,35
+Hgb,12.8,g/dL,35
+Hct,40.5,%,35
+WBC x 1000,10.4,K/mcL,35
+BUN,28.0,mg/dL,35
+BNP,4248.0,pg/mL,35
+sodium,138.0,mmol/L,35
+FiO2,28.0,%,35
+HR Current,63.0,bpm,39
+BP (systolic) Current,90.0,mmHg,39
+BP (diastolic) Current,50.0,mmHg,39
+Resp Current,21.0,breaths/min,39
+O2 Sat% Current,99.0,%,39
+Weight (kg) Admission,71.2,kg,39

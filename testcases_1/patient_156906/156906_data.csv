@@ -1,0 +1,63 @@
+LabName,TimeOffset,LabResult,Units
+Bicarbonate,-146,34.0, mmol/L
+Bicarbonate,1834,29.0, mmol/L
+BUN,-146,13.0, mg/dL
+BUN,1834,16.0, mg/dL
+Anion Gap,-146,9.0, mmol/L
+Anion Gap,1834,14.0, mmol/L
+Chloride,-146,102.0, mmol/L
+Chloride,1834,101.0, mmol/L
+Creatinine,-146,0.8, mg/dL
+Creatinine,379,0.8, mg/dL
+Creatinine,1834,0.8, mg/dL
+Glucose,-146,110.0, mg/dL
+Glucose,379,158.0, mg/dL
+Glucose,1113,132.0, mg/dL
+Glucose,1834,144.0, mg/dL
+Glucose,2078,136.0, mg/dL
+Glucose,842,133.0, mg/dL
+Glucose,559,158.0, mg/dL
+Potassium,-146,4.4, mmol/L
+Potassium,1834,3.9, mmol/L
+Sodium,-146,141.0, mmol/L
+Sodium,1834,140.0, mmol/L
+Calcium,-146,9.3, mg/dL
+Calcium,1834,9.1, mg/dL
+Hct,-146,41.3, %
+Hct,379,39.4, %
+Hct,1834,41.1, %
+-polys,-146,64.0, %
+-polys,1834,92.0, %
+WBC x 1000,-146,16.4, K/mcL
+WBC x 1000,1834,20.1, K/mcL
+RDW,-146,14.3, %
+RDW,1834,14.8, %
+MCH,-146,31.0, pg
+MCH,1834,31.0, pg
+-eos,-146,6.0, %
+-eos,1834,0.0, %
+Troponin - I,379,0.03, ng/mL
+RBC,379,4.15, M/mcL
+RBC,1834,4.36, M/mcL
+BNP,379,46.0, pg/mL
+MCHC,-146,32.4, g/dL
+MCHC,379,32.5, g/dL
+MCHC,1834,32.8, g/dL
+-basos,-146,1.0, %
+-basos,1834,0.0, %
+-lymphs,-146,21.0, %
+-lymphs,1834,6.0, %
+-monos,-146,8.0, %
+-monos,1834,2.0, %
+Platelets x 1000,-146,419.0, K/mcL
+Platelets x 1000,1834,431.0, K/mcL
+MCV,-146,95.6, fL
+MCV,379,94.9, fL
+MCV,1834,94.3, fL
+Hgb,-146,13.4, g/dL
+Hgb,379,12.8, g/dL
+Hgb,1834,13.5, g/dL
+Bedside glucose,559,158.0, mg/dL
+Bedside glucose,842,133.0, mg/dL
+Bedside glucose,1113,132.0, mg/dL
+Bedside glucose,2078,136.0, mg/dL

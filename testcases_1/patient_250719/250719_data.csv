@@ -1,0 +1,183 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-64,albumin,3.3,g/dL
+-64,anion gap,12,mmol/L
+-64,AST (SGOT),28,Units/L
+-64,bicarbonate,25,mmol/L
+-64,calcium,7.5,mg/dL
+-64,chloride,104,mmol/L
+-64,creatinine,0.51,mg/dL
+-64,glucose,126,mg/dL
+-64,lactate,4.9,mmol/L
+-64,lipase,9,Units/L
+-64,potassium,3.2,mmol/L
+-64,total protein,5.4,g/dL
+-64,total bilirubin,0.4,mg/dL
+-64,PT,12.6,sec
+-64,PTT,29.7,sec
+-64,MCV,100.3,fL
+-64,MCH,32.5,pg
+-64,MCHC,32.4,g/dL
+-64,RDW,16.7,%
+-64,-basos,0.1,%
+-64,-eos,0,%
+-64,-lymphs,1.6,%
+-64,-monos,3.1,%
+-64,-polys,95.2,%
+-64,WBC x 1000,16.9,K/mcL
+-64,RBC,3.93,M/mcL
+-64,Hgb,12.8,g/dL
+-64,Hct,39.4,%
+63,pH,7.31,
+63,paO2,66.6,mm Hg
+63,paCO2,60.5,mm Hg
+63,HCO3,30.5,mmol/L
+63,Base Excess,2.7,mEq/L
+63,O2 Sat (%),90.3,%
+63,Vent Rate,18,/min
+63,Peak Airway/Pressure,16,cm H2O
+76,FiO2,45,%
+76,Vent Rate,18,/min
+304,lactate,4.3,mmol/L
+578,Hgb,12,g/dL
+578,Hct,37.8,%
+578,MCH,31.6,pg
+578,MCHC,31.7,g/dL
+578,RDW,16.8,%
+578,-basos,0,%
+578,-eos,0,%
+578,-lymphs,1.6,%
+578,-monos,4.3,%
+578,-polys,94.1,%
+578,WBC x 1000,26,K/mcL
+578,RBC,3.79,M/mcL
+578,chloride,100,mmol/L
+578,glucose,141,mg/dL
+578,magnesium,1.9,mg/dL
+578,potassium,4.4,mmol/L
+578,bicarbonate,30,mmol/L
+578,anion gap,9,mmol/L
+578,phosphate,3,mg/dL
+647,pH,7.351,
+647,paO2,73.3,mm Hg
+647,paCO2,59.8,mm Hg
+647,HCO3,33.1,mmol/L
+647,Base Excess,5.8,mEq/L
+647,O2 Sat (%),93.2,%
+647,Vent Rate,20,/min
+647,FiO2,40,%
+647,TV,400,mls
+741,pH,7.405,
+741,paO2,72.3,mm Hg
+741,paCO2,53.8,mm Hg
+741,HCO3,33.7,mmol/L
+741,Base Excess,7.4,mEq/L
+741,O2 Sat (%),94,%
+741,Vent Rate,22,/min
+741,FiO2,40,%
+741,TV,400,mls
+741,PEEP,8,cm H2O
+741,Respiratory Rate,22,/min
+859,Vent Rate,22,/min
+859,FiO2,35,%
+859,PEEP,8,cm H2O
+1045,pH,7.462,
+1045,paO2,65,mm Hg
+1045,paCO2,48.4,mm Hg
+1045,HCO3,34.5,mmol/L
+1045,Base Excess,9.4,mEq/L
+1045,O2 Sat (%),93.2,%
+1045,Vent Rate,20,/min
+1045,TV,450,mls
+1045,PEEP,7,cm H2O
+1545,FiO2,40,%
+1545,Vent Rate,15,/min
+1545,PEEP,7,cm H2O
+2096,Hgb,11.5,g/dL
+2096,Hct,34.8,%
+2096,MCH,32.1,pg
+2096,MCHC,33,g/dL
+2096,RDW,16.7,%
+2096,-basos,0.1,%
+2096,-eos,0,%
+2096,-lymphs,1.7,%
+2096,-monos,2.9,%
+2096,-polys,95.3,%
+2096,WBC x 1000,19,K/mcL
+2096,RBC,3.58,M/mcL
+2096,MCV,97.2,fL
+2096,Vancomycin - trough,8.8,mcg/mL
+2101,pH,7.429,
+2101,paO2,68.2,mm Hg
+2101,paCO2,44.9,mm Hg
+2101,HCO3,29.7,mmol/L
+2101,Base Excess,4.8,mEq/L
+2101,O2 Sat (%),93.6,%
+2101,Vent Rate,20,/min
+2101,TV,450,mls
+2101,FiO2,35,%
+2101,PEEP,5,cm H2O
+2303,PEEP,5,cm H2O
+2303,FiO2,35,%
+2334,pH,7.436,
+2334,paO2,71.8,mm Hg
+2334,paCO2,43.8,mm Hg
+2334,HCO3,29.5,mmol/L
+2334,Base Excess,4.6,mEq/L
+2334,O2 Sat (%),94.6,%
+2383,Not Performed,Not Performed,
+2387,platelets x 1000,225,K/mcL
+2387,MCHC,33.5,g/dL
+2387,MCV,96.6,fL
+2387,MCH,32.3,pg
+2387,RDW,16.5,%
+2387,-basos,0,%
+2387,-eos,0,%
+2387,-lymphs,2,%
+2387,-monos,2.7,%
+2387,-polys,95.3,%
+2387,WBC x 1000,16.8,K/mcL
+2387,RBC,3.77,M/mcL
+2387,BUN,19,mg/dL
+2387,creatinine,0.52,mg/dL
+2387,sodium,139,mmol/L
+2387,chloride,103,mmol/L
+2387,anion gap,8,mmol/L
+2387,calcium,9.3,mg/dL
+2387,glucose,120,mg/dL
+3527,Hgb,12.2,g/dL
+3527,Hct,36.4,%
+3527,MCH,32.3,pg
+3527,MCHC,33.5,g/dL
+3527,RDW,15.7,%
+3527,-basos,0,%
+3527,-eos,0,%
+3527,-lymphs,2,%
+3527,-monos,2.7,%
+3527,-polys,95.3,%
+3527,WBC x 1000,16.8,K/mcL
+3527,RBC,3.77,M/mcL
+3527,platelets x 1000,225,K/mcL
+3527,BUN,19,mg/dL
+3527,creatinine,0.52,mg/dL
+3527,sodium,139,mmol/L
+3527,chloride,103,mmol/L
+3527,anion gap,8,mmol/L
+3527,bicarbonate,28,mmol/L
+3527,calcium,9.3,mg/dL
+3527,glucose,120,mg/dL
+6766,Hgb,12.7,g/dL
+6766,Hct,37.6,%
+6766,MCH,31.9,pg
+6766,MCHC,33.7,g/dL
+6766,RDW,15.7,%
+6766,WBC x 1000,13.9,K/mcL
+6766,RBC,3.97,M/mcL
+6766,MCV,94.7,fL
+7835,Hgb,12.5,g/dL
+7835,Hct,37.2,%
+7835,MCH,31.8,pg
+7835,MCHC,33.6,g/dL
+7835,RDW,15.7,%
+7835,WBC x 1000,11.2,K/mcL
+7835,RBC,3.93,M/mcL
+7835,MCV,94.7,fL

@@ -1,0 +1,94 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+WBC x 1000,9.2,K/mcL,-198
+WBC x 1000,9.0,K/mcL,627
+MCH,30.4,pg,-198
+MCH,30.8,pg,627
+MCHC,34.0,g/dL,-198
+MCHC,35.0,g/dL,627
+Hgb,18.8,g/dL,-198
+Hgb,13.9,g/dL,627
+platelets x 1000,249.0,K/mcL,-198
+platelets x 1000,189.0,K/mcL,627
+RBC,6.18,M/mcL,-198
+RBC,4.51,M/mcL,627
+MPV,10.9,fL,-198
+MPV,10.6,fL,627
+Hct,55.4,%,-198
+Hct,39.7,%,627
+-polys,77.0,%,-198
+-polys,59.0,%,627
+-monos,5.0,%,-198
+-monos,8.0,%,627
+-lymphs,16.0,%,-198
+-lymphs,29.0,%,627
+-eos,0.0,%,-198
+-eos,3.0,%,627
+-basos,1.0,%,-198
+-basos,1.0,%,627
+bicarbonate,7.0,mmol/L,-198
+bicarbonate,16.0,mmol/L,627
+bicarbonate,10.0,mmol/L,38
+bicarbonate,14.0,mmol/L,269
+AST (SGOT),9.0,Units/L,-198
+AST (SGOT),8.0,Units/L,627
+ALT (SGPT),15.0,Units/L,-198
+ALT (SGPT),8.0,Units/L,627
+sodium,128.0,mmol/L,-198
+sodium,134.0,mmol/L,627
+sodium,135.0,mmol/L,38
+sodium,138.0,mmol/L,269
+potassium,4.9,mmol/L,-198
+potassium,4.2,mmol/L,627
+potassium,4.1,mmol/L,38
+potassium,3.3,mmol/L,269
+chloride,99.0,mmol/L,-198
+chloride,109.0,mmol/L,627
+chloride,109.0,mmol/L,38
+chloride,113.0,mmol/L,269
+glucose,434.0,mg/dL,-198
+glucose,229.0,mg/dL,627
+glucose,222.0,mg/dL,38
+glucose,59.0,mg/dL,269
+glucose,203.0,mg/dL,40
+glucose,202.0,mg/dL,633
+glucose,119.0,mg/dL,303
+glucose,118.0,mg/dL,170
+glucose,61.0,mg/dL,276
+glucose,144.0,mg/dL,105
+glucose,229.0,mg/dL,801
+glucose,54.0,mg/dL,264
+glucose,421.0,mg/dL,-207
+glucose,259.0,mg/dL,-43
+glucose,329.0,mg/dL,394
+calcium,9.3,mg/dL,-198
+calcium,7.6,mg/dL,627
+calcium,8.0,mg/dL,38
+calcium,7.6,mg/dL,269
+BUN,18.0,mg/dL,-198
+BUN,14.0,mg/dL,627
+BUN,16.0,mg/dL,38
+BUN,12.0,mg/dL,269
+creatinine,0.8,mg/dL,-198
+creatinine,0.7,mg/dL,627
+creatinine,0.7,mg/dL,38
+creatinine,0.6,mg/dL,269
+phosphate,3.9,mg/dL,-198
+albumin,4.3,g/dL,-198
+albumin,2.7,g/dL,627
+lactate,0.9,mmol/L,38
+anion gap,22.0,,-198
+anion gap,9.0,,-627
+anion gap,16.0,,-38
+anion gap,11.0,,-269
+total protein,8.4,g/dL,-198
+total protein,5.3,g/dL,627
+total bilirubin,0.6,mg/dL,-198
+total bilirubin,0.2,mg/dL,627
+magnesium,1.8,mg/dL,-198
+magnesium,1.9,mg/dL,627
+magnesium,1.5,mg/dL,38
+alkaline phos.,168.0,Units/L,-198
+alkaline phos.,118.0,Units/L,627
+FiO2,21.0,%,19
+bedside glucose,222.0,mg/dL,-10
+bedside glucose,188787482.0,mg/dL,303

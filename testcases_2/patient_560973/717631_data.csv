@@ -1,0 +1,102 @@
+labname,labresult,unit,time_offset_minutes
+Hgb,14.1,g/dL,-2549
+Hgb,14.0,g/dL,-111
+Hgb,13.3,g/dL,295
+Hgb,14.7,g/dL,-3081
+Hgb,13.3,g/dL,375
+Hct,41.2,%,-2549
+Hct,40.5,%,-111
+Hct,40.0,%,295
+Hct,41.7,%,-3081
+Hct,40.0,%,375
+MCV,98.0,fL,-2549
+MCV,98.0,fL,-111
+MCV,100.0,fL,295
+MCV,96.0,fL,-3081
+MCV,100.0,fL,375
+MPV,10.3,fL,-111
+MPV,10.7,fL,-2549
+MPV,10.4,fL,295
+MPV,10.9,fL,-3081
+MPV,10.4,fL,375
+RDW,13.3,%,-2549
+RDW,13.4,%,-111
+RDW,13.4,%,295
+RDW,12.9,%,-3081
+RDW,13.4,%,375
+WBC x 1000,9.6,K/mcL,-2549
+WBC x 1000,9.8,K/mcL,-111
+WBC x 1000,8.6,K/mcL,295
+WBC x 1000,9.7,K/mcL,-3081
+WBC x 1000,225.0,K/mcL,375
+platelets x 1000,234.0,K/mcL,-111
+platelets x 1000,187.0,K/mcL,-2549
+platelets x 1000,225.0,K/mcL,375
+platelets x 1000,203.0,K/mcL,-3081
+RBC,4.2,M/mcL,-2549
+RBC,4.13,M/mcL,-111
+RBC,4.02,M/mcL,295
+RBC,4.34,M/mcL,-3081
+RBC,4.02,M/mcL,375
+calcium,7.6,mg/dL,295
+calcium,8.3,mg/dL,-2549
+calcium,7.5,mg/dL,-111
+calcium,8.6,mg/dL,-3081
+chloride,107.0,mmol/L,-2549
+chloride,107.0,mmol/L,-111
+chloride,105.0,mmol/L,295
+chloride,104.0,mmol/L,-3081
+chloride,105.0,mmol/L,388
+potassium,3.8,mmol/L,-2549
+potassium,4.4,mmol/L,-111
+potassium,4.6,mmol/L,295
+potassium,3.2,mmol/L,-3081
+potassium,3.8,mmol/L,-2460
+potassium,4.6,mmol/L,388
+bicarbonate,24.0,mmol/L,295
+bicarbonate,27.0,mmol/L,-2549
+bicarbonate,23.0,mmol/L,-111
+bicarbonate,23.0,mmol/L,-3081
+bicarbonate,23.0,mmol/L,-77
+bicarbonate,24.0,mmol/L,388
+BUN,15.0,mg/dL,-2549
+BUN,9.0,mg/dL,-111
+BUN,12.0,mg/dL,295
+BUN,16.0,mg/dL,-3081
+BUN,12.0,mg/dL,388
+creatinine,1.13,mg/dL,295
+creatinine,1.25,mg/dL,-2549
+creatinine,0.99,mg/dL,-111
+creatinine,1.16,mg/dL,-3081
+creatinine,1.13,mg/dL,388
+anion gap,8.0,,-111
+anion gap,6.0,,-2549
+anion gap,8.0,,-111
+anion gap,12.0,,-3081
+anion gap,8.0, ,295
+glucose,127.0,mg/dL,295
+glucose,88.0,mg/dL,-2549
+glucose,110.0,mg/dL,-111
+glucose,148.0,mg/dL,-3081
+glucose,127.0,mg/dL,388
+sodium,140.0,mmol/L,-2549
+sodium,138.0,mmol/L,-111
+sodium,137.0,mmol/L,295
+sodium,139.0,mmol/L,-3081
+sodium,137.0,mmol/L,388
+magnesium,2.0,mg/dL,-2549
+magnesium,1.8,mg/dL,-3081
+total protein,7.1,g/dL,-3081
+albumin,2.9,g/dL,-3081
+total bilirubin,0.7,mg/dL,-3081
+AST (SGOT),19.0,Units/L,-3081
+ALT (SGPT),14.0,Units/L,-3081
+phosphate,2.1,mg/dL,-3081
+PT,14.8,sec,295
+PT,15.1,sec,-3081
+PT - INR,1.2,ratio,295
+PT - INR,1.2,ratio,-3081
+FiO2,33.0,%,21
+Vancomycin - trough,10.7,mcg/mL,774
+PTT,30.0,sec,376
+PTT,32.0,sec,-3027

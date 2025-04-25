@@ -1,0 +1,65 @@
+LabName,TimeOffset,LabResult,Units
+Sodium,2782,137.0,mmol/L
+Sodium,5954,138.0,mmol/L
+Potassium,2782,3.8,mmol/L
+Potassium,5954,4.0,mmol/L
+Anion gap,2782,5.0,
+Anion gap,5954,6.0,
+AST (SGOT),2782,5.0,Units/L
+AST (SGOT),5954,8.0,Units/L
+Total bilirubin,2782,0.3,mg/dL
+Total bilirubin,5954,0.5,mg/dL
+Calcium,2782,8.3,mg/dL
+Calcium,5954,8.7,mg/dL
+Albumin,2782,2.3,g/dL
+Albumin,5954,2.4,g/dL
+Creatinine,2782,0.92,mg/dL
+Creatinine,5954,0.97,mg/dL
+Chloride,2782,105.0,mmol/L
+Chloride,5954,105.0,mmol/L
+Total protein,2782,7.0,g/dL
+Total protein,5954,7.5,g/dL
+Alkaline phos.,2782,70.0,Units/L
+Alkaline phos.,5954,72.0,Units/L
+BUN,2782,23.0,mg/dL
+BUN,5954,28.0,mg/dL
+ALT (SGPT),2782,13.0,Units/L
+ALT (SGPT),5954,14.0,Units/L
+-polys,1469,62.0,%
+-polys,2782,50.0,%
+-polys,5954,54.0,%
+-lymphs,1469,22.0,%
+-lymphs,2782,28.0,%
+-lymphs,5954,26.0,%
+-monos,1469,10.0,%
+-monos,2782,11.0,%
+-monos,5954,9.0,%
+-eos,1469,6.0,%
+-eos,2782,10.0,%
+-eos,5954,11.0,%
+-basos,1469,0.0,%
+-basos,2782,1.0,%
+-basos,5954,1.0,%
+Hct,1469,36.3,%
+Hct,2782,36.3,%
+Hct,5954,36.3,%
+MCV,1469,88.0,fL
+MCV,2782,89.0,fL
+MCV,5954,90.0,fL
+MCH,1469,30.6,pg
+MCH,2782,30.2,pg
+MCH,5954,30.5,pg
+MCHC,1469,34.7,g/dL
+MCHC,2782,33.9,g/dL
+MCHC,5954,33.9,g/dL
+Platelets x 1000,1469,262.0,K/mcL
+Platelets x 1000,2782,251.0,K/mcL
+Platelets x 1000,5954,292.0,K/mcL
+WBC x 1000,1469,9.5,K/mcL
+WBC x 1000,2782,8.5,K/mcL
+WBC x 1000,5954,8.4,K/mcL
+RBC,1469,4.12,M/mcL
+RBC,2782,4.07,M/mcL
+RBC,5954,4.03,M/mcL
+Glucose,1469,131.0,mg/dL
+Glucose,5954,123.0,mg/dL

@@ -1,0 +1,125 @@
+LabName,TimeOffset,LabResult,LabMeasureNameSystem
+Hgb,2515,10.5,g/dL
+PT - INR,1070,1.0,ratio
+platelets x 1000,1070,67.0,K/mcL
+MCV,2515,98.1,fL
+MCHC,1070,34.7,g/dL
+RBC,2515,3.11,M/mcL
+MPV,1070,8.5,fL
+-polys,2515,72.9,%
+MCH,1070,33.5,pg
+PT,1070,10.8,sec
+RDW,1070,12.5,%
+MPV,2515,8.7,fL
+-lymphs,1070,10.9,%
+-lymphs,2515,17.4,%
+-monos,1070,8.3,%
+Hct,2515,30.5,%
+MCV,1070,96.4,fL
+WBC x 1000,2515,7.3,K/mcL
+Hct,1070,31.5,%
+BUN,1070,8.0,mg/dL
+-eos,2515,2.7,%
+sodium,1070,141.0,mmol/L
+Hgb,1070,10.9,g/dL
+chloride,1070,108.0,mmol/L
+RDW,2515,12.3,%
+Hgb,4075,10.9,g/dL
+BUN,2515,8.0,mg/dL
+calcium,1070,7.5,mg/dL
+platelets x 1000,2515,117.0,K/mcL
+-eos,5420,5.2,%
+MCV,5420,97.8,fL
+-eos,4075,4.5,%
+Hct,5420,31.8,%
+creatinine,1070,0.37,mg/dL
+Hgb,5420,10.7,g/dL
+BUN,4075,10.0,mg/dL
+chloride,2515,109.0,mmol/L
+glucose,1070,97.0,mg/dL
+WBC x 1000,1070,9.8,K/mcL
+-polys,1070,79.4,%
+magnesium,1070,2.0,mg/dL
+-basos,5420,0.3,%
+potassium,1070,4.2,mmol/L
+platelets x 1000,4075,157.0,K/mcL
+calcium,2515,7.6,mg/dL
+-monos,4075,6.9,%
+MCH,4075,33.4,pg
+RDW,4075,12.1,%
+-polys,5420,58.1,%
+sodium,5420,140.0,mmol/L
+-basos,4075,0.3,%
+chloride,5420,107.0,mmol/L
+calcium,5420,8.0,mg/dL
+-lymphs,5420,27.6,%
+creatinine,5420,0.48,mg/dL
+BUN,5420,8.0,mg/dL
+-monos,2515,7.0,%
+RBC,5420,3.25,M/mcL
+creatinine,2515,0.34,mg/dL
+-lymphs,4075,23.5,%
+MCH,2515,33.9,pg
+WBC x 1000,5420,5.1,K/mcL
+glucose,2515,93.0,mg/dL
+MCHC,4075,34.2,g/dL
+RBC,4075,3.26,M/mcL
+RDW,5420,12.2,%
+potassium,2515,3.8,mmol/L
+-basos,1070,0.1,%
+calcium,4075,8.1,mg/dL
+Hct,4075,31.7,%
+-polys,4075,64.8,%
+glucose,4075,108.0,mg/dL
+-monos,1070,8.3,%
+chloride,4075,108.0,mmol/L
+glucose,5420,109.0,mg/dL
+magnesium,5420,2.0,mg/dL
+potassium,5420,4.3,mmol/L
+anion gap,2515,5.0,
+anion gap,4075,5.0,
+anion gap,1070,7.0,
+anion gap,5420,6.0,
+bedside glucose,-644,117.0,mg/dL
+bedside glucose,1663,110.0,mg/dL
+bedside glucose,1153,114.0,mg/dL
+bedside glucose,239,106.0,mg/dL
+bedside glucose,4370,144.0,mg/dL
+bedside glucose,1075,107.0,mg/dL
+bedside glucose,2092,91.0,mg/dL
+bedside glucose,2516,104.0,mg/dL
+bedside glucose,67,96.0,mg/dL
+bedside glucose,2839,202.0,mg/dL
+bedside glucose,-768,94.0,mg/dL
+bedside glucose,2683,103.0,mg/dL
+bedside glucose,-883,114.0,mg/dL
+bedside glucose,655,133.0,mg/dL
+bedside glucose,-188,86.0,mg/dL
+bedside glucose,5615,92.0,mg/dL
+bedside glucose,830,143.0,mg/dL
+bedside glucose,1014,125.0,mg/dL
+bedside glucose,3296,100.0,mg/dL
+bedside glucose,-1174,125.0,mg/dL
+bedside glucose,1774,105.0,mg/dL
+bedside glucose,3518,123.0,mg/dL
+bedside glucose,428,120.0,mg/dL
+bedside glucose,1311,87.0,mg/dL
+bedside glucose,330,110.0,mg/dL
+bedside glucose,-1020,103.0,mg/dL
+bedside glucose,-505,101.0,mg/dL
+bedside glucose,4177,108.0,mg/dL
+bedside glucose,1513,156.0,mg/dL
+bedside glucose,-1084,99.0,mg/dL
+bedside glucose,2221,112.0,mg/dL
+bedside glucose,4677,145.0,mg/dL
+bedside glucose,-1252,126.0,mg/dL
+bedside glucose,2911,121.0,mg/dL
+bedside glucose,2337,107.0,mg/dL
+bedside glucose,2982,77.0,mg/dL
+bedside glucose,-1330,104.0,mg/dL
+bedside glucose,944,189.0,mg/dL
+bedside glucose,1227,152.0,mg/dL
+bedside glucose,1583,103.0,mg/dL
+bedside glucose,4911,143.0,mg/dL
+bedside glucose,-255,96.0,mg/dL
+bedside glucose,2457,99.0,mg/dL

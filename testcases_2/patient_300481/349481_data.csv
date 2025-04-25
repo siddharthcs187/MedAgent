@@ -1,0 +1,94 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+Base Excess,0.9,mEq/L,810
+FiO2,40.0,%,810
+TV,500.0,mls,810
+HCO3,25.4,mmol/L,810
+Vent Rate,14.0,/min,810
+RBC,3.47,M/mcL,5607
+WBC x 1000,3.4,K/mcL,5607
+paO2,132.0,mm Hg,-91
+paCO2,41.8,mm Hg,-91
+Hgb,13.5,g/dL,5607
+Hct,38.7,%,5607
+MCV,112.0,fL,5607
+-lymphs,25.0,%,5616
+-monos,5.0,%,5616
+HCO3,22.2,mmol/L,-127
+Base Deficit,2.0,mEq/L,-127
+WBC x 1000,3.3,K/mcL,3773
+RBC,3.27,M/mcL,3773
+Hgb,12.6,g/dL,3773
+Hct,36.7,%,3773
+MCV,112.0,fL,3831
+PEEP,5.0,cm H2O,810
+-eos,2.0,%,5616
+-polys,68.0,%,5616
+paO2,177.6,mm Hg,810
+paCO2,40.3,mm Hg,810
+pH,7.349,,-91
+platelets x 1000,104.0,K/mcL,775
+Hct,33.5,%,775
+MCHC,34.0,g/dL,775
+MCH,39.0,pg,775
+WBC x 1000,3.0,K/mcL,775
+RBC,2.93,M/mcL,775
+Pressure Support,10.0,cm H2O,-91
+RDW,13.5,%,775
+MCV,114.0,fL,853
+BUN,9.0,mg/dL,-228
+calcium,7.7,mg/dL,-228
+ALT (SGPT),58.0,Units/L,-228
+total protein,6.3,g/dL,-228
+albumin,3.1,g/dL,-228
+bicarbonate,23.0,mmol/L,-228
+glucose,137.0,mg/dL,-228
+AST (SGOT),75.0,Units/L,-228
+platelets x 1000,117.0,K/mcL,-228
+RDW,13.5,%,-100
+MCHC,36.0,g/dL,-100
+MCH,40.0,pg,-100
+WBC x 1000,3.4,K/mcL,-100
+RBC,3.01,M/mcL,-100
+Hct,33.6,%,-100
+MCV,111.0,fL,-100
+Hct,33.9,%,2199
+RBC,3.02,M/mcL,2199
+MCV,113.0,fL,2283
+platelets x 1000,101.0,K/mcL,2283
+Hgb,12.1,g/dL,2283
+WBC x 1000,3.6,K/mcL,2283
+MCH,40.0,pg,2283
+MCHC,36.0,g/dL,2283
+RDW,13.6,%,2283
+albumin,3.1,g/dL,3773
+total protein,6.8,g/dL,4162
+direct bilirubin,0.2,mg/dL,4162
+total bilirubin,0.6,mg/dL,4162
+alkaline phos.,89.0,Units/L,4162
+ALT (SGPT),43.0,Units/L,4162
+AST (SGOT),40.0,Units/L,4162
+magnesium,1.7,mg/dL,3773
+calcium,8.7,mg/dL,4162
+RDW,12.9,%,3831
+-basos,0.0,%,5616
+creatinine,0.8,mg/dL,-228
+FiO2,50.0,%,41
+paO2,78.2,mm Hg,-127
+paCO2,36.0,mm Hg,-127
+Base Deficit,3.0,mEq/L,-85
+FiO2,100.0,%,-127
+pH,7.407,,-86
+Pressure Support,10.0,cm H2O,810
+Vent Rate,14.0,/min,-85
+TV,500.0,mls,-85
+HCO3,22.5,mmol/L,-85
+Base Excess,-0.5,meq/L,810
+paO2,128.0,mmhg,810
+paCO2,41.3,mmhg,810
+ph,7.392,,810
+platelets x 1000,118.0,K/mcL,3773
+-polys,65.0,%,3831
+-monos,5.0,%,3831
+-lymphs,25.0,%,3831
+-eos,2.0,%,3831
+urinary specific gravity,1.022,,-102

@@ -1,0 +1,4 @@
+TimeOffset,Sodium(mmol/L),Chloride(mmol/L),Potassium(mmol/L),Bicarbonate(mmol/L),BUN(mg/dL),Creatinine(mg/dL),AST(U/L),ALT(U/L),AlkalinePhosphatase(U/L),TotalBilirubin(mg/dL),Platelets(K/mcL),RBC(M/mcL),Hct(%),MCV(fL),MCH(pg),MCHC(g/dL),WBC(K/mcL),AnionGap,Albumin(g/dL),Glucose(mg/dL),RDW(%)
+-220,141,104,3.3,25,11,0.65,25.0,29.0,99.0,0.5,228,4.64,44.5,96,34.7,36,9.7,12,4.2,110,12.5
+580,143,110,4.2,27,5,0.6,18.0,31.0,71.0,0.4,168,4.1,40.5,99,34.1,35,9.6,6,3.2,94,12.3
+4910,139,109,4.7,21,<2,0.58,,,,,187,4.38,42.8,98,34.0,35,7.3,9,,100,12.2

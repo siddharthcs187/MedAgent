@@ -1,0 +1,30 @@
+Labname,Labresult,Labresultoffset,Units
+BUN,45.0,-207,mg/dL
+anion gap,13.0,-207,
+platelets x 1000,264.0,-207,K/mcL
+glucose,91.0,-207,mg/dL
+chloride,109.0,-207,mmol/L
+calcium,9.4,-207,mg/dL
+creatinine,4.69,-207,mg/dL
+potassium,4.1,-207,mmol/L
+bicarbonate,20.0,-207,mmol/L
+troponin - I,0.084,-207,ng/mL
+troponin - I,0.081,-65,ng/mL
+troponin - I,0.103,812,ng/mL
+troponin - I,0.113,301,ng/mL
+troponin - I,0.094,1140,ng/mL
+BNP,8770.0,-215,pg/mL
+PTT,72.8,812,sec
+PTT,60.9,301,sec
+Hgb,11.1,-207,g/dL
+Hct,33.5,-207,%
+MCV,87.0,-207,fL
+MCH,28.8,-207,pg
+MCHC,33.0,-207,g/dL
+RBC,3.85,-207,M/mcL
+WBC x 1000,7.2,-207,K/mcL
+MPV,8.2,-207,fL
+RDW,13.3,-207,%
+bedside glucose,82.0,143,mg/dL
+bedside glucose,123.0,300,mg/dL
+FiO2,21.0,47,%

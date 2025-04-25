@@ -1,0 +1,108 @@
+LabName,LabResult,LabUnits,LabResultOffset(minutes)
+Bicarbonate,19.0,mmol/L,-403
+Bicarbonate,21.0,mmol/L,1762
+Calcium,8.8,mg/dL,-403
+Calcium,8.1,mg/dL,330
+Calcium,8.2,mg/dL,1762
+AST (SGOT),93.0,Units/L,-403
+AST (SGOT),67.0,Units/L,330
+AST (SGOT),61.0,Units/L,1762
+AST (SGOT),61.0,Units/L,1837
+Hgb,11.5,g/dL,-403
+Hgb,10.8,g/dL,1762
+Hgb,10.6,g/dL,330
+WBC x 1000,7.5,K/mcL,-403
+WBC x 1000,5.6,K/mcL,1762
+WBC x 1000,4.2,K/mcL,330
+anion gap,19.0,mmol/L,-403
+anion gap,17.0,mmol/L,330
+anion gap,16.0,mmol/L,1762
+Sodium,142.0,mmol/L,-403
+Sodium,141.0,mmol/L,330
+Sodium,143.0,mmol/L,1762
+total bilirubin,1.5,mg/dL,330
+total bilirubin,0.9,mg/dL,1762
+total bilirubin,1.9,mg/dL,-403
+MCV,89.1,fL,-403
+MCV,87.8,fL,1762
+MCV,89.2,fL,330
+Chloride,110.0,mmol/L,1762
+Chloride,107.0,mmol/L,-403
+Chloride,108.0,mmol/L,330
+Glucose,81.0,mg/dL,-403
+Glucose,186.0,mg/dL,330
+Glucose,168.0,mg/dL,1762
+ALT (SGPT),61.0,Units/L,330
+ALT (SGPT),68.0,Units/L,-403
+ALT (SGPT),68.0,Units/L,1762
+ALT (SGPT),68.0,Units/L,1837
+RDW,17.2,%,-403
+RDW,17.0,%,1762
+RDW,16.9,%,330
+BUN,53.0,mg/dL,1762
+BUN,37.0,mg/dL,-403
+BUN,40.0,mg/dL,330
+Albumin,2.5,g/dL,-403
+Albumin,1.9,g/dL,330
+Albumin,2.1,g/dL,1762
+-polys,71.0,%,-403
+-polys,85.0,%,1762
+-polys,86.0,%,330
+-bands,10.0,%,-403
+-lymphs,11.0,%,-403
+-lymphs,6.0,%,1762
+-lymphs,7.0,%,330
+-basos,0.0,%,-403
+-basos,0.0,%,1762
+-basos,0.0,%,330
+-monos,7.0,%,-403
+-monos,9.0,%,1762
+-monos,7.0,%,330
+RBC,3.94,M/mcL,-403
+RBC,3.61,M/mcL,1762
+RBC,3.51,M/mcL,330
+Hct,35.1,%,-403
+Hct,31.7,%,1762
+Hct,31.3,%,330
+total protein,6.0,g/dL,1762
+total protein,6.6,g/dL,-403
+total protein,5.6,g/dL,330
+platelets x 1000,79.0,K/mcL,-403
+platelets x 1000,78.0,K/mcL,1762
+platelets x 1000,78.0,K/mcL,330
+creatinine,3.3,mg/dL,-403
+creatinine,3.3,mg/dL,330
+creatinine,3.2,mg/dL,1762
+BNP,1081.0,pg/mL,-403
+BNP,730.0,pg/mL,1762
+BNP,998.0,pg/mL,330
+troponin - I,0.09,ng/mL,-403
+troponin - I,0.05,ng/mL,2
+bedside glucose,146.0,mg/dL,1924
+bedside glucose,146.0,mg/dL,2487
+bedside glucose,167.0,mg/dL,491
+bedside glucose,201.0,mg/dL,720
+bedside glucose,122.0,mg/dL,2185
+bedside glucose,93.0,mg/dL,-202
+bedside glucose,220.0,mg/dL,1263
+bedside glucose,199.0,mg/dL,1045
+bedside glucose,208.0,mg/dL,1476
+bedside glucose,45.0,mg/dL,-463
+CPK,244.0,Units/L,2
+CPK-MB,3.1,ng/mL,2
+alkaline phos.,147.0,Units/L,-403
+alkaline phos.,122.0,Units/L,330
+alkaline phos.,124.0,Units/L,1762
+potassium,3.3,mmol/L,-403
+potassium,3.9,mmol/L,330
+potassium,3.5,mmol/L,1762
+MCHC,32.8,g/dL,-403
+MCHC,34.1,g/dL,1762
+MCHC,33.9,g/dL,330
+MCH,29.2,pg,-403
+MCH,29.9,pg,1762
+MCH,30.2,pg,330
+urinary sodium,,mmol/L,1357
+urinary creatinine,141.8,mg/dL,1357
+urinary specific gravity,1.02,,-313
+lactate,1.6,mmol/L,117

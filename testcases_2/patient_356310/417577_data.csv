@@ -1,0 +1,5 @@
+TimeOffset,WBC (K/mcL),Platelets (K/mcL),Hgb (g/dL),Hct (%),BUN (mg/dL),Creatinine (mg/dL),Sodium (mmol/L),Potassium (mmol/L),Chloride (mmol/L),Bicarbonate (mmol/L),Glucose (mg/dL),Troponin-I (ng/mL),BNP (pg/mL),Calcium (mg/dL),Ionized Calcium (mg/dL),Lactate (mmol/L),ALT(SGPT) (Units/L),AST(SGOT) (Units/L),Total Protein (g/dL),Albumin (g/dL),Total Cholesterol (mg/dL),HDL (mg/dL),LDL (mg/dL),Triglycerides (mg/dL)
+-75,14.4,258.0,17.0,51.6,25,1.3,139.4,3.78,106.2,19.7,150,1.965,1684.6,,1.07,,,,4.4,2.9,131.0,,,
+829,10.4,167.0,12.5,38.5,25,0.81,141.0,3.7,111.0,22.0,96,,,8.4,,1.0,,,,,,,76.0,
+2169,6.2,137.0,11.6,35.4,14,0.77,139.0,3.2,111.0,23.0,95,,,8.6,,,,3.83,,,92.0,,,
+3814,,,,,12,1.0,140.0,4.7,112.0,22.0,97,0.212,1378.1,8.7,,,,,,,,95.0,,

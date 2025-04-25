@@ -1,0 +1,22 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+creatinine,1.9,mg/dL,31
+albumin,3.6,g/dL,31
+sodium,139.0,mmol/L,31
+glucose,271.0,mg/dL,31
+WBC x 1000,9.9,K/mcL,31
+Hct,36.8,%,31
+BUN,32.0,mg/dL,31
+Respiratory Rate,16.0,/min,31
+LPM O2,0.0,L/min,31
+FiO2,21.0,%,31
+total bilirubin,0.4,mg/dL,31
+HR Current,57.0,bpm,31
+HR Lowest,55.0,bpm,31
+HR Highest,57.0,bpm,31
+Resp Current,15.0,breaths/min,31
+Resp Lowest,15.0,breaths/min,31
+Resp Highest,16.0,breaths/min,31
+O2 Sat% Current,94.0,%,31
+O2 Sat% Lowest,91.0,%,31
+O2 Sat% Highest,95.0,%,31
+Admission Weight,93.3,kg,31

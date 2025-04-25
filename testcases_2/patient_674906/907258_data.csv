@@ -1,0 +1,20 @@
+Lab Value,Time (minutes from admit),Value,Units
+RDW,508,13.3,%
+BUN,508,9.0,mg/dL
+Platelets,508,266.0,K/mcL
+Calcium,508,9.1,mg/dL
+MPV,508,10.9,fL
+Glucose,508,136.0,mg/dL
+WBC,508,14.5,K/mcL
+Chloride,508,108.0,mmol/L
+RBC,508,4.55,M/mcL
+Sodium,508,141.0,mmol/L
+Bicarbonate,508,24.0,mmol/L
+Creatinine,508,0.6,mg/dL
+MCH,508,28.8,pg
+Potassium,508,3.7,mmol/L
+MCV,508,86.0,fL
+Hct,508,38.9,%
+Hgb,508,13.1,g/dL
+MCHC,508,33.7,g/dL
+FiO2,18,32.0,%

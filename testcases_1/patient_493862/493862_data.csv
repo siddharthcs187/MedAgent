@@ -1,0 +1,50 @@
+Lab Results,Time Offset (minutes),Test Name,Result,Units
+Initial Lab Results,-270,MCV,81,fL
+Initial Lab Results,-270,Hgb,16.1,g/dL
+Initial Lab Results,-270,Hct,45.3,%
+Initial Lab Results,-270,-eos,1,%
+Initial Lab Results,-270,-polys,75,%
+Initial Lab Results,-270,WBC x 1000,7,K/mcL
+Initial Lab Results,-270,RDW,12.6,%
+Initial Lab Results,-270,platelets x 1000,229,K/mcL
+Initial Lab Results,-270,-basos,0,%
+Initial Lab Results,-270,MPV,10.8,fL
+Initial Lab Results,-270,MCH,29,pg
+Initial Lab Results,-270,-monos,7,%
+Initial Lab Results,-270,PT - INR,1,ratio
+Initial Lab Results,-270,PT,12.9,sec
+Initial Lab Results,-270,-lymphs,16,%
+Initial Lab Results,-270,RBC,5.59,M/mcL
+Initial Lab Results,-270,potassium,4.2,mmol/L
+Initial Lab Results,-270,glucose,134,mg/dL
+Initial Lab Results,-270,bicarbonate,27,mmol/L
+Initial Lab Results,-270,chloride,107,mmol/L
+Initial Lab Results,-270,troponin - I,<0.02,ng/mL
+Initial Lab Results,-270,anion gap,6,
+Initial Lab Results,-270,BUN,14,mg/dL
+Initial Lab Results,-270,chloride,107,mmol/L
+Initial Lab Results,-270,troponin - I,<0.04,ng/mL
+Initial Lab Results,-270,PTT,30.4,sec
+Follow-up Lab Results,854,Hct,43.4,%
+Follow-up Lab Results,854,MCV,82,fL
+Follow-up Lab Results,854,Hgb,15,g/dL
+Follow-up Lab Results,854,-eos,3,%
+Follow-up Lab Results,854,-polys,64,%
+Follow-up Lab Results,854,WBC x 1000,7.4,K/mcL
+Follow-up Lab Results,854,RDW,12.9,%
+Follow-up Lab Results,854,platelets x 1000,221,K/mcL
+Follow-up Lab Results,854,-basos,0,%
+Follow-up Lab Results,854,MPV,10.9,fL
+Follow-up Lab Results,854,MCH,28,pg
+Follow-up Lab Results,854,-monos,9,%
+Follow-up Lab Results,854,potassium,3.9,mmol/L
+Follow-up Lab Results,854,glucose,120,mg/dL
+Follow-up Lab Results,854,bicarbonate,26,mmol/L
+Follow-up Lab Results,854,chloride,108,mmol/L
+Follow-up Lab Results,854,BUN,13,mg/dL
+Follow-up Lab Results,854,calcium,8.9,mg/dL
+Follow-up Lab Results,854,-lymphs,24,%
+Follow-up Lab Results,854,RBC,5.28,M/mcL
+Follow-up Lab Results,854,anion gap,7,
+Follow-up Lab Results,854,MCHC,35,g/dL
+Initial Lab Results,-270,calcium,,mg/dL

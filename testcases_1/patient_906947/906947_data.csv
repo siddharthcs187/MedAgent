@@ -1,0 +1,147 @@
+labname,labresult,labresultoffset,labmeasurenamesystem
+BUN,14.0,-4476,mg/dL
+BUN,11.0,-4074,mg/dL
+BUN,8.0,-3641,mg/dL
+BUN,7.0,-1692,mg/dL
+BUN,6.0,-776,mg/dL
+BUN,7.0,-6244,mg/dL
+BUN,6.0,-5132,mg/dL
+BUN,7.0,320,mg/dL
+BUN,9.0,-3180,mg/dL
+BUN,6.0,-2590,mg/dL
+BUN,7.0,-149,mg/dL
+BUN,6.0,-5484,mg/dL
+BUN,7.0,-6215,mg/dL
+sodium,130.0,-4476,mmol/L
+sodium,132.0,-4074,mmol/L
+sodium,131.0,-3641,mmol/L
+sodium,128.0,-1692,mmol/L
+sodium,130.0,-776,mmol/L
+sodium,119.0,-6244,mmol/L
+sodium,130.0,-5132,mmol/L
+sodium,137.0,320,mmol/L
+sodium,128.0,-3180,mmol/L
+sodium,129.0,-2590,mmol/L
+sodium,134.0,-149,mmol/L
+sodium,126.0,-5484,mmol/L
+sodium,119.0,-6215,mmol/L
+glucose,106.0,-4476,mg/dL
+glucose,91.0,-4074,mg/dL
+glucose,100.0,-3641,mg/dL
+glucose,128.0,-1692,mg/dL
+glucose,123.0,-776,mg/dL
+glucose,89.0,-6244,mg/dL
+glucose,99.0,-5132,mg/dL
+glucose,120.0,320,mg/dL
+glucose,97.0,-3180,mg/dL
+glucose,94.0,-2590,mg/dL
+glucose,171.0,-149,mg/dL
+glucose,88.0,-5484,mg/dL
+glucose,87.0,-6215,mg/dL
+chloride,97.0,-4476,mmol/L
+chloride,98.0,-4074,mmol/L
+chloride,96.0,-3641,mmol/L
+chloride,93.0,-1692,mmol/L
+chloride,99.0,-776,mmol/L
+chloride,87.0,-6244,mmol/L
+chloride,97.0,-5132,mmol/L
+chloride,106.0,320,mmol/L
+chloride,96.0,-3180,mmol/L
+chloride,96.0,-2590,mmol/L
+chloride,101.0,-149,mmol/L
+chloride,93.0,-5484,mmol/L
+chloride,87.0,-6215,mmol/L
+bicarbonate,26.0,-4476,mmol/L
+bicarbonate,24.0,-4074,mmol/L
+bicarbonate,26.0,-3641,mmol/L
+bicarbonate,27.0,-1692,mmol/L
+bicarbonate,23.0,-776,mmol/L
+bicarbonate,26.0,-6244,mmol/L
+bicarbonate,27.0,-5132,mmol/L
+bicarbonate,25.0,320,mmol/L
+bicarbonate,25.0,-3180,mmol/L
+bicarbonate,27.0,-2590,mmol/L
+bicarbonate,23.0,-149,mmol/L
+bicarbonate,26.0,-5484,mmol/L
+bicarbonate,-6215.0,mmol/L,
+creatinine,0.84,-4476,mg/dL
+creatinine,0.8,-4074,mg/dL
+creatinine,0.73,-3641,mg/dL
+creatinine,0.72,-1692,mg/dL
+creatinine,0.86,-776,mg/dL
+creatinine,0.75,-6244,mg/dL
+creatinine,0.66,-5132,mg/dL
+creatinine,0.81,320,mg/dL
+creatinine,0.7,-3180,mg/dL
+creatinine,0.7,-2590,mg/dL
+creatinine,0.77,-149,mg/dL
+creatinine,0.64,-5484,mg/dL
+creatinine,0.75,-6215,mg/dL
+potassium,4.6,-4476,mmol/L
+potassium,4.3,-4074,mmol/L
+potassium,4.4,-3641,mmol/L
+potassium,4.5,-1692,mmol/L
+potassium,4.6,-776,mmol/L
+potassium,4.6,-6244,mmol/L
+potassium,4.0,-5132,mmol/L
+potassium,4.8,320,mmol/L
+potassium,3.9,-3180,mmol/L
+potassium,3.9,-2590,mmol/L
+potassium,3.8,-149,mmol/L
+potassium,4.5,-5484,mmol/L
+potassium,4.6,-6215,mmol/L
+calcium,8.7,-4476,mg/dL
+calcium,8.9,-4074,mg/dL
+calcium,9.0,-3641,mg/dL
+calcium,8.8,-1692,mg/dL
+calcium,9.0,-776,mg/dL
+calcium,8.5,-6244,mg/dL
+calcium,8.6,-5132,mg/dL
+calcium,8.8,320,mg/dL
+calcium,9.0,-3180,mg/dL
+calcium,8.6,-2590,mg/dL
+calcium,9.1,-149,mg/dL
+calcium,8.3,-5484,mg/dL
+calcium,8.5,-6215,mg/dL
+albumin,3.4,-4476,g/dL
+albumin,3.4,-4074,g/dL
+albumin,3.8,320,g/dL
+albumin,3.2,-2590,g/dL
+albumin,3.4,-1148,g/dL
+albumin,3.6,-6215,g/dL
+total protein,6.0,-4476,g/dL
+total protein,6.0,-4074,g/dL
+total protein,7.1,320,g/dL
+total protein,6.1,-2590,g/dL
+total protein,6.2,-1148,g/dL
+total protein,6.6,-6215,g/dL
+AST (SGOT),15.0,-4476,Units/L
+AST (SGOT),15.0,-4074,Units/L
+AST (SGOT),20.0,320,Units/L
+AST (SGOT),15.0,-2590,Units/L
+AST (SGOT),18.0,-1148,Units/L
+AST (SGOT),16.0,-6215,Units/L
+ALT (SGPT),15.0,-4074,Units/L
+ALT (SGPT),20.0,320,Units/L
+ALT (SGPT),32.0,-2590,Units/L
+ALT (SGPT),19.0,-1148,Units/L
+ALT (SGPT),16.0,-6215,Units/L
+alkaline phos.,80.0,-4476,Units/L
+alkaline phos.,80.0,-4074,Units/L
+alkaline phos.,88.0,320,Units/L
+alkaline phos.,80.0,-2590,Units/L
+alkaline phos.,82.0,-1148,Units/L
+alkaline phos.,86.0,-6215,Units/L
+anion gap,7.0,-4476,
+anion gap,10.0,-4074,
+anion gap,9.0,-3641,
+anion gap,8.0,-1692,
+anion gap,8.0,-776,
+anion gap,6.0,-6244,
+anion gap,6.0,-5132,
+anion gap,6.0,320,
+anion gap,7.0,-3180,
+anion gap,6.0,-2590,
+anion gap,10.0,-149,
+anion gap,7.0,-5484,
+anion gap,6.0,-6215,

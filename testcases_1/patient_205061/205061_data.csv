@@ -1,0 +1,137 @@
+labname,labresultoffset,labresult,labmeasurenamesystem
+platelets x 1000,1100,122.0,K/mcL
+MCV,1100,87.1,fL
+WBC x 1000,1100,15.9,K/mcL
+MCHC,8351,33.3,g/dL
+Hgb,1100,8.9,g/dL
+MCH,8351,29.5,pg
+RDW,1100,15.0,%
+MCV,8351,88.6,fL
+RBC,1100,2.94,M/mcL
+Hct,8351,28.8,%
+Hct,4038,27.8,%
+WBC x 1000,4038,8.1,K/mcL
+Hct,1100,25.6,%
+RBC,4038,3.08,M/mcL
+WBC x 1000,8351,6.1,K/mcL
+MCHC,567,34.3,g/dL
+MCH,1100,30.3,pg
+RDW,2540,15.3,%
+platelets x 1000,567,124.0,K/mcL
+Hgb,4038,9.1,g/dL
+MCHC,2540,33.2,g/dL
+MCH,8351,29.7,pg
+RBC,567,3.49,M/mcL
+RDW,8351,14.3,%
+platelets x 1000,2540,118.0,K/mcL
+Hgb,1100,8.9,g/dL
+triglycerides,137,134.0,mg/dL
+MCH,2540,29.6,pg
+Hct,567,30.9,%
+RDW,1100,15.0,%
+Hgb,567,10.6,g/dL
+BUN,137,63.0,mg/dL
+chloride,137,109.0,mmol/L
+RBC,8351,3.25,M/mcL
+platelets x 1000,4038,139.0,K/mcL
+MCV,4038,90.3,fL
+Hgb,8351,9.6,g/dL
+platelets x 1000,8351,150.0,K/mcL
+MCV,2540,89.1,fL
+anion gap,2540,11.0,mmol/L
+potassium,2540,3.7,mmol/L
+creatinine,2540,1.0,mg/dL
+MCV,7308,89.5,fL
+Hct,7308,31.5,%
+Hgb,7308,10.6,g/dL
+-basos,7308,0.0,%
+-monos,7308,8.0,%
+-eos,7308,3.0,%
+platelets x 1000,7308,159.0,K/mcL
+-polys,7308,81.0,%
+-lymphs,7308,8.0,%
+BUN,4038,27.0,mg/dL
+bicarbonate,4038,25.0,mmol/L
+calcium,4038,7.5,mg/dL
+chloride,4038,111.0,mmol/L
+sodium,4038,142.0,mmol/L
+potassium,4038,3.3,mmol/L
+creatinine,4038,0.8,mg/dL
+WBC x 1000,567,21.1,K/mcL
+BUN,8351,14.0,mg/dL
+creatinine,8351,0.7,mg/dL
+glucose,1100,147.0,mg/dL
+calcium,1100,7.1,mg/dL
+chloride,1100,111.0,mmol/L
+glucose,4038,114.0,mg/dL
+glucose,8351,91.0,mg/dL
+calcium,2540,7.1,mg/dL
+glucose,2540,107.0,mg/dL
+bicarbonate,8351,23.0,mmol/L
+sodium,2540,143.0,mmol/L
+BUN,1100,57.0,mg/dL
+chloride,2540,113.0,mmol/L
+RBC,7308,3.52,M/mcL
+-monos,7308,8.0,%
+-eos,7308,3.0,%
+-basos,7308,0.0,%
+-polys,7308,81.0,%
+-lymphs,7308,8.0,%
+potassium,5453,3.2,mmol/L
+WBC x 1000,5453,5.0,K/mcL
+RDW,5453,14.8,%
+MCHC,5453,32.8,g/dL
+Hgb,5453,8.3,g/dL
+RBC,5453,2.81,M/mcL
+MCV,5453,90.0,fL
+MCH,5453,29.5,pg
+platelets x 1000,5453,119.0,K/mcL
+HDL,137,12.0,mg/dL
+LDL,137,26.0,mg/dL
+total cholesterol,137,65.0,mg/dL
+magnesium,137,1.7,mg/dL
+potassium,1100,3.9,mmol/L
+creatinine,1100,1.4,mg/dL
+anion gap,1100,12.0,mmol/L
+phosphate,1100,3.2,mg/dL
+magnesium,567,1.7,mg/dL
+magnesium,8351,1.8,mg/dL
+magnesium,4038,2.1,mg/dL
+magnesium,2540,2.2,mg/dL
+ionized calcium,137,4.28,mg/dL
+ionized calcium,1100,4.44,mg/dL
+ionized calcium,567,4.04,mg/dL
+ionized calcium,2540,4.76,mg/dL
+ionized calcium,8351,4.84,mg/dL
+ionized calcium,3979,4.8,mg/dL
+potassium,45150937,3.4,mmol/L
+potassium,7308,3.6,mmol/L
+potassium,6908,3.6,mmol/L
+bedside glucose,2,130.0,mg/dL
+bedside glucose,1525,123.0,mg/dL
+free T4,5578,1.5,ng/dL
+TSH,5578,2.695,mcU/ml
+urinary specific gravity,3383,1.02,
+Hct,10171,29.1,%
+Hgb,10171,9.6,g/dL
+MCV,10171,90.9,fL
+MCH,10171,30.0,pg
+MCHC,10171,33.0,g/dL
+WBC x 1000,10171,6.4,K/mcL
+platelets x 1000,10171,189.0,K/mcL
+-basos,10171,0.0,%
+-eos,10171,3.0,%
+-lymphs,10171,10.0,%
+-monos,10171,9.0,%
+-polys,10171,78.0,%
+Hgb,8841,10.5,g/dL
+Hct,8841,31.5,%
+RBC,8841,3.53,M/mcL
+MCV,8841,89.2,fL
+MCH,8841,29.7,pg
+MCHC,8841,33.3,g/dL
+WBC x 1000,8841,7.3,K/mcL
+platelets x 1000,8841,176.0,K/mcL
+RDW,8841,14.2,%
+Hct,6092,28.1,%
+Hgb,6092,9.5,g/dL

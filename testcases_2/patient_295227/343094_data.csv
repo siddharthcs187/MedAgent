@@ -1,0 +1,91 @@
+patientunitstayid,diagnosisstring,diagnosispriority,activeupondischarge,treatmentoffset,treatmentstring,activeupondischarge_treatment
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,5,cardiovascular|vascular disorders|VTE prophylaxis|compression boots,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,5,pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|nasal cannula,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,5,pulmonary|medications|bronchodilator,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,5,pulmonary|medications|sedative|midazolam,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,5,renal|consultations|Nephrology consultation,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,5,infectious diseases|procedures|vascular catheter placement,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,5,pulmonary|surgery / incision and drainage of thorax|tracheostomy|performed during current admission for ventilatory support,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,5,gastrointestinal|endoscopy/gastric instrumentation|nasogastric tube|with suction,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,5,pulmonary|radiologic procedures / bronchoscopy|chest x-ray,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,5,surgery|consultations|Surgery consultation,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,5,infectious diseases|consultations|Infectious Disease consultation,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,5,general|support services|physical therapy consult,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,5,cardiovascular|consultations|Cardiology consultation,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,5,general|support services|occupational therapy consult,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,5,renal|urinary catheters|foley catheter,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,42,pulmonary|surgery / incision and drainage of thorax|tracheostomy|percutaneous,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,42,renal|urinary catheters|foley catheter,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,42,infectious diseases|procedures|vascular catheter placement,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,42,pulmonary|medications|sedative|midazolam,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,42,pulmonary|medications|bronchodilator,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,42,pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|25-30%,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,42,pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|nasal cannula,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,42,pulmonary|consultations|Pulmonary/CCM consultation,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,42,surgery|consultations|Surgery consultation,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,42,infectious diseases|cultures / immuno-assays|cultures,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,42,cardiovascular|consultations|Cardiology consultation,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,42,general|support services|physical therapy consult,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,42,general|support services|occupational therapy consult,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,42,renal|consultations|Nephrology consultation,False
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,96,pulmonary|surgery / incision and drainage of thorax|tracheostomy|percutaneous,True
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,96,general|support services|occupational therapy consult,True
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,96,pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|25-30%,True
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,96,pulmonary|consultations|Pulmonary/CCM consultation,True
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,96,pulmonary|radiologic procedures / bronchoscopy|chest x-ray,True
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,96,pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|nasal cannula,True
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,96,infectious diseases|procedures|vascular catheter placement,True
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,96,infectious diseases|cultures / immuno-assays|cultures,True
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,96,cardiovascular|consultations|Cardiology consultation,True
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,96,surgery|consultations|Surgery consultation,True
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,96,general|support services|physical therapy consult,True
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,96,renal|consultations|Nephrology consultation,True
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,96,renal|urinary catheters|foley catheter,True
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,96,cardiovascular|vascular disorders|VTE prophylaxis|compression boots,True
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,96,pulmonary|medications|bronchodilator,True
+343094,pulmonary|respiratory failure|failure to wean,Primary,False,96,pulmonary|medications|sedative|midazolam,True
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,5,cardiovascular|vascular disorders|VTE prophylaxis|compression boots,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,5,pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|nasal cannula,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,5,pulmonary|medications|bronchodilator,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,5,pulmonary|medications|sedative|midazolam,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,5,renal|consultations|Nephrology consultation,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,5,infectious diseases|procedures|vascular catheter placement,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,5,pulmonary|surgery / incision and drainage of thorax|tracheostomy|performed during current admission for ventilatory support,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,5,gastrointestinal|endoscopy/gastric instrumentation|nasogastric tube|with suction,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,5,pulmonary|radiologic procedures / bronchoscopy|chest x-ray,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,5,surgery|consultations|Surgery consultation,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,5,infectious diseases|consultations|Infectious Disease consultation,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,5,general|support services|physical therapy consult,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,5,cardiovascular|consultations|Cardiology consultation,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,5,general|support services|occupational therapy consult,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,5,renal|urinary catheters|foley catheter,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,42,pulmonary|surgery / incision and drainage of thorax|tracheostomy|percutaneous,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,42,renal|urinary catheters|foley catheter,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,42,infectious diseases|procedures|vascular catheter placement,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,42,pulmonary|medications|sedative|midazolam,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,42,pulmonary|medications|bronchodilator,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,42,pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|25-30%,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,42,pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|nasal cannula,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,42,pulmonary|consultations|Pulmonary/CCM consultation,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,42,surgery|consultations|Surgery consultation,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,42,infectious diseases|cultures / immuno-assays|cultures,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,42,cardiovascular|consultations|Cardiology consultation,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,42,general|support services|physical therapy consult,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,42,general|support services|occupational therapy consult,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,False,42,renal|consultations|Nephrology consultation,False
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,True,96,pulmonary|surgery / incision and drainage of thorax|tracheostomy|percutaneous,True
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,True,96,general|support services|occupational therapy consult,True
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,True,96,pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|25-30%,True
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,True,96,pulmonary|consultations|Pulmonary/CCM consultation,True
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,True,96,pulmonary|radiologic procedures / bronchoscopy|chest x-ray,True
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,True,96,pulmonary|ventilation and oxygenation|oxygen therapy (< 40%)|nasal cannula,True
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,True,96,infectious diseases|procedures|vascular catheter placement,True
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,True,96,infectious diseases|cultures / immuno-assays|cultures,True
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,True,96,cardiovascular|consultations|Cardiology consultation,True
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,True,96,surgery|consultations|Surgery consultation,True
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,True,96,general|support services|physical therapy consult,True
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,True,96,renal|consultations|Nephrology consultation,True
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,True,96,renal|urinary catheters|foley catheter,True
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,True,96,cardiovascular|vascular disorders|VTE prophylaxis|compression boots,True
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,True,96,pulmonary|medications|bronchodilator,True
+343094,hematology|bleeding and red blood cell disorders|anemia,Major,True,96,pulmonary|medications|sedative|midazolam,True

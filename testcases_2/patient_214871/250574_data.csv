@@ -1,0 +1,107 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-353,CPK,244.0,Units/L
+-208,glucose,139.0,mg/dL
+-208,chloride,97.0,mmol/L
+-208,calcium,9.6,mg/dL
+-208,potassium,5.3,mmol/L
+-208,BUN,27.0,mg/dL
+-208,anion gap,13.0,
+-208,RBC,6.77,M/mcL
+-208,Hct,46.9,%
+-208,-eos,0.3,%
+-208,-monos,4.7,%
+-208,-polys,87.7,%
+-208,-lymphs,7.3,%
+-208,MCV,69.3,fL
+-208,MCH,23.2,pg
+-208,MCHC,33.5,g/dL
+-208,MPV,10.8,fL
+-208,platelets x 1000,292.0,K/mcL
+-184,platelets x 1000,292.0,K/mcL
+-184,RDW,17.9,%
+-184,MCHC,33.5,g/dL
+-184,MCH,23.2,pg
+-184,MCV,69.3,fL
+-184,MPV,10.8,fL
+-184,-polys,87.7,%
+-184,-lymphs,7.3,%
+-184,-monos,4.7,%
+-184,-eos,0.3,%
+-184,-basos,0.0,%
+-184,RBC,6.77,M/mcL
+-184,Hgb,15.7,g/dL
+-184,Hct,46.9,%
+932,ALT (SGPT),22.0,Units/L
+932,calcium,8.6,mg/dL
+932,alkaline phos.,93.0,Units/L
+932,total bilirubin,0.3,mg/dL
+932,anion gap,10.0,mmol/L
+932,chloride,106.0,mmol/L
+932,potassium,3.9,mmol/L
+932,sodium,140.0,mmol/L
+932,BUN,23.0,mg/dL
+932,creatinine,0.62,mg/dL
+932,glucose,99.0,mg/dL
+932,total protein,6.0,g/dL
+932,albumin,3.3,g/dL
+932,WBC x 1000,12.64,K/mcL
+932,Hgb,11.2,g/dL
+932,Hct,34.1,%
+932,-eos,0.1,%
+932,-monos,8.6,%
+932,-polys,70.2,%
+932,-lymphs,21.0,%
+932,MCV,70.2,fL
+932,MCH,23.0,pg
+932,MCHC,32.8,g/dL
+932,MPV,10.4,fL
+932,platelets x 1000,263.0,K/mcL
+932,AST (SGOT),39.0,Units/L
+932,bicarbonate,24.0,mmol/L
+2442,CPK,230.0,Units/L
+2442,total bilirubin,0.4,mg/dL
+2442,alkaline phos.,77.0,Units/L
+2442,chloride,107.0,mmol/L
+2442,potassium,3.8,mmol/L
+2442,sodium,142.0,mmol/L
+2442,BUN,12.0,mg/dL
+2442,creatinine,0.59,mg/dL
+2442,glucose,106.0,mg/dL
+2442,total protein,6.5,g/dL
+2442,albumin,3.5,g/dL
+2442,WBC x 1000,6.25,K/mcL
+2442,Hgb,11.0,g/dL
+2442,Hct,33.8,%
+2442,-eos,0.0,%
+2442,-monos,12.6,%
+2442,-polys,57.9,%
+2442,-lymphs,29.3,%
+2442,MCV,70.1,fL
+2442,MCH,22.8,pg
+2442,MCHC,32.5,g/dL
+2442,MPV,11.1,fL
+2442,platelets x 1000,270.0,K/mcL
+2442,RDW,16.4,%
+3272,Vitamin B12,581.0,pg/mL
+3901,MCV,70.2,fL
+3901,MCH,23.1,pg
+3901,MCHC,32.9,g/dL
+3901,RDW,16.5,%
+3901,platelets x 1000,265.0,K/mcL
+3901,RBC,5.07,M/mcL
+3901,Hgb,11.7,g/dL
+3901,Hct,35.6,%
+3901,-eos,0.0,%
+3901,-monos,9.8,%
+3901,-polys,63.1,%
+3901,-lymphs,27.1,%
+3901,-basos,0.0,%
+3901,WBC x 1000,6.53,K/mcL
+3901,Ferritin,126.0,ng/mL
+3901,sodium,140.0,mmol/L
+3901,chloride,104.0,mmol/L
+3901,bicarbonate,27.0,mmol/L
+3901,anion gap,9.0,mmol/L
+3901,BUN,10.0,mg/dL
+3901,creatinine,0.64,mg/dL
+3901,glucose,108.0,mg/dL

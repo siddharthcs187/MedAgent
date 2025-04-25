@@ -1,0 +1,14 @@
+LabName,AdmissionValue,AdmissionUnits,DischargeValue,DischargeUnits,TimeOffset
+calcium,10.3,mg/dL,,,-12
+bicarbonate,27.0,mmol/L,,,-12
+BUN,16.0,mg/dL,13.0,mg/dL,58
+creatinine,0.9,mg/dL,0.8,mg/dL,58
+sodium,140.0,mmol/L,143.0,mmol/L,58
+potassium,4.3,mmol/L,4.1,mmol/L,58
+albumin,4.2,g/dL,0.3,g/dL,58
+WBC x 1000,6.9,K/mcL,,,-12
+Hgb,10.9,g/dL,,,-12
+Hct,34.6,%,,,-12
+chloride,100.0,mmol/L,107.0,mmol/L,58
+glucose,,,96.0,mg/dL,58
+FiO2,,,21.0,%,42

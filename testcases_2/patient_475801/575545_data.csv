@@ -1,0 +1,44 @@
+labname,labresult,labresultoffset,labmeasurenamesystem,TimePoint
+Sodium,143.0,374,mmol/L,Initial
+Sodium,143.0,973,mmol/L,Follow-up
+Bicarbonate,22.0,374,mmol/L,Initial
+Bicarbonate,24.0,973,mmol/L,Follow-up
+Calcium,8.8,374,mg/dL,Initial
+Calcium,9.0,973,mg/dL,Follow-up
+Anion Gap,13.0,374,,Initial
+Anion Gap,8.0,973,,Follow-up
+BUN,2.0,374,mg/dL,Initial
+BUN,3.0,973,mg/dL,Follow-up
+Potassium,3.6,374,mmol/L,Initial
+Potassium,4.1,973,mmol/L,Follow-up
+Glucose,111.0,374,mg/dL,Initial
+Glucose,138.0,973,mg/dL,Follow-up
+Hgb,12.4,973,g/dL,Follow-up
+WBC x 1000,5.0,973,K/mcL,Follow-up
+Creatinine,0.46,374,mg/dL,Initial
+Creatinine,0.46,973,mg/dL,Follow-up
+Chloride,108.0,374,mmol/L,Initial
+Chloride,111.0,973,mmol/L,Follow-up
+HCO3,20.5,358,mmol/L,Initial
+paO2,71.7,358,mm Hg,Initial
+pH,7.431,358,unit(s),Initial
+Base Excess,-2.4,358,mEq/L,Initial
+O2 Sat (%),94.1,358,%,Initial
+Total Bilirubin,0.6,973,mg/dL,Follow-up
+Albumin,2.7,973,g/dL,Follow-up
+PT - INR,1.1,973,ratio,Follow-up
+Platelets x 1000,209.0,973,K/mcL,Follow-up
+MCV,91.0,973,fL,Follow-up
+RBC,4.13,973,M/mcL,Follow-up
+Lactate,1.4,374,mmol/L,Initial
+Total Protein,5.6,973,g/dL,Follow-up
+RDW,13.6,973,%,Follow-up
+Bedside glucose,135.0,1364,mg/dL,Follow-up
+Bedside glucose,155.0,497,mg/dL,Follow-up
+Bedside glucose,139.0,1140,mg/dL,Follow-up
+ALT (SGPT),30.0,973,Units/L,Follow-up
+Alkaline phos.,65.0,973,Units/L,Follow-up
+AST (SGOT),33.0,973,Units/L,Follow-up
+PT,13.9,973,sec,Follow-up
+MCH,30.0,973,pg,Follow-up
+FiO2,32.0,14,%,Initial

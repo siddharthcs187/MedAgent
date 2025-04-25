@@ -1,0 +1,55 @@
+LabTest,TimeOffset,LabResult,Units
+creatinine,696,1.1,mg/dL
+ALT (SGPT),696,36.0,U/L
+alkaline phos.,696,47.0,U/L
+total protein,696,5.7,g/dL
+calcium,696,8.8,mg/dL
+glucose,696,121.0,mg/dL
+bicarbonate,696,26.0,mmol/L
+anion gap,696,9.0,
+BUN,696,42.0,mg/dL
+creatinine,3533,0.9,mg/dL
+ALT (SGPT),3533,31.0,U/L
+alkaline phos.,3533,46.0,U/L
+total protein,3533,5.3,g/dL
+calcium,3533,7.9,mg/dL
+glucose,3533,100.0,mg/dL
+bicarbonate,3533,22.0,mmol/L
+anion gap,3533,8.0,
+BUN,3533,20.0,mg/dL
+platelets x 1000,1402,140.0,K/mcL
+WBC x 1000,1402,14.2,K/mcL
+platelets x 1000,2219,140.0,K/mcL
+WBC x 1000,2219,9.5,K/mcL
+platelets x 1000,3533,152.0,K/mcL
+WBC x 1000,3533,9.1,K/mcL
+PT - INR,696,1.2,ratio
+PT,696,14.9,sec
+magnesium,2136,1.2,mg/dL
+troponin - I,2136,0.1,ng/mL
+chloride,2219,114.0,mmol/L
+sodium,2219,146.0,mmol/L
+potassium,2219,2.9,mmol/L
+glucose,2219,90.0,mg/dL
+BUN,2219,30.0,mg/dL
+anion gap,2219,7.0,
+RBC,1402,4.15,M/mcL
+RDW,1402,14.0,%
+MCH,1402,31.6,pg
+MCHC,1402,33.0,g/dL
+Hct,1402,39.8,%
+Hgb,1402,13.1,g/dL
+RBC,2219,3.59,M/mcL
+RDW,2219,13.8,%
+MCH,2219,31.8,pg
+MCHC,2219,33.0,g/dL
+Hct,2219,34.1,%
+Hgb,2219,11.4,g/dL
+RBC,3533,3.4,M/mcL
+RDW,3533,13.6,%
+MCH,3533,32.1,pg
+MCHC,3533,34.0,g/dL
+Hct,3533,31.9,%
+Hgb,3533,10.9,g/dL
+phosphate,3533,1.4,mg/dL
+magnesium,3533,1.9,mg/dL

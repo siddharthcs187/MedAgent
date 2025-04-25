@@ -1,0 +1,90 @@
+LabName,LabResult,Units,TimeOffsetMinutes
+Hgb,14.8,g/dL,-2461
+Hgb,16.0,g/dL,-1005
+Hgb,16.6,g/dL,-578
+Hgb,15.7,g/dL,-3353
+Hct,44.3,%,-2461
+Hct,49.2,%,-1005
+Hct,50.6,%,-578
+Hct,47.9,%,-3353
+WBC x 1000,10.6,K/mcL,-2461
+WBC x 1000,12.4,K/mcL,-1005
+WBC x 1000,13.3,K/mcL,-578
+WBC x 1000,10.6,K/mcL,-3353
+RBC,4.93,M/mcL,-2461
+RBC,5.44,M/mcL,-1005
+RBC,5.61,M/mcL,-578
+RBC,5.29,M/mcL,-3353
+MCV,89.9,fL,-2461
+MCV,90.4,fL,-1005
+MCV,90.2,fL,-578
+MCV,90.5,fL,-3353
+MCH,29.9,pg,-2461
+MCH,29.4,pg,-1005
+MCH,29.6,pg,-578
+MCH,29.6,pg,-3353
+MCHC,33.3,g/dL,-2461
+MCHC,32.6,g/dL,-1005
+MCHC,32.8,g/dL,-578
+MCHC,32.7,g/dL,-3353
+platelets x 1000,194.0,K/mcL,-2461
+platelets x 1000,198.0,K/mcL,-1005
+platelets x 1000,201.0,K/mcL,-578
+platelets x 1000,207.0,K/mcL,-3353
+RDW,16.5,%,-2461
+RDW,16.4,%,-1005
+RDW,16.3,%,-578
+RDW,16.3,%,-3353
+-monos,9.6,%,-578
+-monos,10.0,%,-1005
+-lymphs,8.8,%,-578
+-lymphs,11.9,%,-1005
+-polys,81.3,%,-578
+-polys,77.2,%,-1005
+-eos,0.2,%,-1005
+-basos,0.3,%,-578
+-basos,0.7,%,-1005
+PT,23.8,sec,-2461
+PT,22.3,sec,-1005
+PT,23.5,sec,-35
+PT,25.8,sec,-3353
+PT - INR,2.1,ratio,-2461
+PT - INR,2.0,ratio,-1005
+PT - INR,2.1,ratio,-35
+PT - INR,2.3,ratio,-3353
+Glucose,147.0,mg/dL,-2461
+Glucose,121.0,mg/dL,-1005
+Glucose,144.0,mg/dL,-578
+Glucose,187.0,mg/dL,-2010
+Glucose,148.0,mg/dL,-817
+Glucose,148.0,mg/dL,-14
+Glucose,179.0,mg/dL,-261
+Glucose,139.0,mg/dL,-2233
+Glucose,191.0,mg/dL,-2839
+Glucose,173.0,mg/dL,-1718
+Glucose,200.0,mg/dL,-3353
+BUN,17.0,mg/dL,-2461
+BUN,17.0,mg/dL,-1005
+BUN,21.0,mg/dL,-3353
+Creatinine,1.27,mg/dL,-2461
+Creatinine,1.12,mg/dL,-1005
+Creatinine,1.6,mg/dL,-3353
+Sodium,140.0,mmol/L,-2461
+Sodium,137.0,mmol/L,-1005
+Sodium,140.0,mmol/dL,-3353
+Potassium,3.8,mmol/L,-2461
+Potassium,3.6,mmol/L,-1005
+Potassium,4.0,mmol/L,-3353
+Chloride,103.0,mmol/L,-2461
+Chloride,100.0,mmol/L,-1005
+Chloride,99.0,mmol/L,-3353
+Calcium,8.9,mg/dL,-2461
+Calcium,9.0,mg/dL,-1005
+Ionized Calcium,4.6,mg/dL,-3353
+Anion Gap,8.0,,-2461
+Anion Gap,13.0,,-1005
+Lactate,1.2,mmol/L,-3095
+Lactate,2.0,mmol/L,-3353
+Fibrinogen,436.0,mg/dL,-35
+Urinary Specific Gravity,1.01,,-3349
+ESR,3.0,mm/hr,-35

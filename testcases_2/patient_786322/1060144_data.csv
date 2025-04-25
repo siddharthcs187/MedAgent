@@ -1,0 +1,179 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+bicarbonate,29,mmol/L,8008
+alkaline phos.,73,Units/L,-7308
+calcium,9.2,mg/dL,8008
+potassium,3.5,mmol/L,-7308
+BUN,14,mg/dL,8008
+total bilirubin,0.2,mg/dL,-7308
+sodium,138,mmol/L,8008
+chloride,99,mmol/L,-7308
+anion gap,8,,8008
+ALT (SGPT),15,Units/L,-7308
+glucose,135,mg/dL,8008
+creatinine,0.7,mg/dL,-7308
+RBC,4.07,M/mcL,6524
+glucose,116,mg/dL,-7308
+RBC,4.18,M/mcL,2217
+MCH,24.7,pg,-7308
+chloride,101,mmol/L,8008
+anion gap,10,,-7308
+WBC x 1000,12.2,K/mcL,2217
+RDW,16.2,%,-7308
+MCHC,32.4,g/dL,6524
+sodium,137,mmol/L,-7308
+Hgb,10.3,g/dL,2217
+Hgb,11,g/dL,-7308
+magnesium,1.9,mg/dL,8008
+albumin,3.7,g/dL,-7308
+MCV,78,fL,2217
+WBC x 1000,10,K/mcL,-7308
+MPV,10.2,fL,6524
+total protein,8,g/dL,-7308
+Hct,32.6,%,2217
+RBC,4.45,M/mcL,-7308
+platelets x 1000,272,K/mcL,6524
+BUN,12,mg/dL,-7308
+MCH,24.6,pg,2217
+platelets x 1000,248,K/mcL,2217
+calcium,9.6,mg/dL,-7308
+RDW,15.9,%,6524
+Hgb,9.7,g/dL,3762
+MCHC,31.6,g/dL,-7308
+MCV,78.2,fL,-7308
+WBC x 1000,9.6,K/mcL,3762
+-lymphs,24,%,-7308
+Hct,31.2,%,6524
+RDW,16.3,%,3762
+Hgb,10.1,g/dL,6524
+MCHC,32.1,g/dL,3762
+MCH,24.4,pg,8008
+Hct,32.6,%,5272
+RDW,16.1,%,5272
+MCH,24.3,pg,5272
+WBC x 1000,9.6,K/mcL,5272
+BUN,11,mg/dL,5272
+sodium,138,mmol/L,5272
+glucose,107,mg/dL,5272
+chloride,101,mmol/L,5272
+potassium,4.3,mmol/L,5272
+calcium,9.3,mg/dL,5272
+creatinine,0.69,mg/dL,5272
+Hgb,9.9,g/dL,8008
+Hct,31.5,%,8008
+MCV,77.6,fL,8008
+MPV,10,fL,8008
+RBC,4.06,M/mcL,8008
+platelets x 1000,295,K/mcL,8008
+WBC x 1000,8.4,K/mcL,8008
+MCHC,31.4,g/dL,8008
+MCH,25.1,pg,3762
+platelets x 1000,216,K/mcL,3762
+RBC,3.87,M/mcL,3762
+MCV,78,fL,3762
+Hct,30.2,%,3762
+-basos,0,%,-7308
+-polys,67,%,-7308
+urinary specific gravity,1.02,,-7243
+anion gap,8,,6524
+calcium,9,mg/dL,6524
+BUN,14,mg/dL,6524
+sodium,139,mmol/L,6524
+potassium,4.7,mmol/L,6524
+chloride,102,mmol/L,6524
+glucose,113,mg/dL,6524
+creatinine,0.68,mg/dL,6524
+Hgb,10.7,g/dL,52
+Hct,33.9,%,52
+glucose,142,mg/dL,52
+chloride,103,mmol/L,52
+BUN,11,mg/dL,52
+calcium,9.1,mg/dL,52
+potassium,4.1,mmol/L,52
+anion gap,10,,52
+magnesium,2.3,mg/dL,2217
+BUN,16,mg/dL,2217
+sodium,138,mmol/L,2217
+glucose,120,mg/dL,2217
+chloride,102,mmol/L,2217
+potassium,3.8,mmol/L,2217
+calcium,8.6,mg/dL,2217
+anion gap,5,,2217
+creatinine,0.89,mg/dL,2217
+glucose,122,mg/dL,3762
+chloride,105,mmol/L,3762
+sodium,140,mmol/L,3762
+BUN,15,mg/dL,3762
+potassium,4,mmol/L,3762
+calcium,8.9,mg/dL,3762
+anion gap,8,,3762
+creatinine,0.65,mg/dL,3762
+bicarbonate,27,mmol/L,3762
+bicarbonate,28,mmol/L,5272
+anion gap,9,,5272
+magnesium,1.8,mg/dL,5272
+creatinine,0.72,mg/dL,622
+platelets x 1000,319,K/mcL,622
+RBC,4.79,M/mcL,622
+Hgb,12,g/dL,622
+Hct,37.3,%,622
+MCV,77.9,fL,622
+WBC x 1000,18.9,K/mcL,622
+RDW,16,%,622
+MCHC,32.2,g/dL,622
+MCH,25.1,pg,622
+lactate,1.5,mmol/L,182
+sodium,138,mmol/L,182
+glucose,134,mg/dL,182
+chloride,104,mmol/L,182
+potassium,4.3,mmol/L,182
+Base Excess,0,mEq/L,182
+Oxyhemoglobin,95,%,182
+paCO2,52,mm Hg,182
+FiO2,0.4,%,182
+O2 Content,16,mls/dL,182
+Methemoglobin,0.2,%,182
+Carboxyhemoglobin,1.2,%,182
+Base Excess,3.3,mEq/L,-142
+paCO2,33,mm Hg,-142
+O2 Sat (%),93.7,%,-142
+Methemoglobin,1.3,%,-142
+Hgb,12.2,g/dL,182
+Hct,29,%,-142
+Hgb,9.6,g/dL,-142
+ionized calcium,1.17,mg/dL,-142
+glucose,111,mg/dL,-142
+sodium,138,mmol/L,-142
+chloride,108,mmol/L,-142
+potassium,3.7,mmol/L,-142
+lactate,1.6,mmol/L,-142
+-monos,7,%,-7308
+bedside glucose,136,mg/dL,8384
+bedside glucose,138,mg/dL,2590
+bedside glucose,121,mg/dL,4079
+bedside glucose,129,mg/dL,4718
+bedside glucose,145,mg/dL,313
+bedside glucose,124,mg/dL,5490
+bedside glucose,185,mg/dL,3255
+bedside glucose,181,mg/dL,5804
+bedside glucose,144,mg/dL,4428
+bedside glucose,154,mg/dL,7288
+bedside glucose,135,mg/dL,7587
+bedside glucose,111,mg/dL,6626
+bedside glucose,158,mg/dL,446
+bedside glucose,130,mg/dL,113
+bedside glucose,141,mg/dL,3743
+bedside glucose,128,mg/dL,832
+bedside glucose,137,mg/dL,6132
+bedside glucose,120,mg/dL,5283
+bedside glucose,119,mg/dL,7013
+bedside glucose,149,mg/dL,2940
+bedside glucose,149,mg/dL,626
+bedside glucose,139,mg/dL,1287
+bedside glucose,178,mg/dL,1616
+bedside glucose,114,mg/dL,926
+bedside glucose,125,mg/dL,-375
+WBC's in urine,58,/HPF,-7243
+PT,11.8,sec,-7308
+PTT,33.5,sec,-7308
+PT - INR,1.05,ratio,-7308
+troponin - I,<0.01,ng/mL,-7308

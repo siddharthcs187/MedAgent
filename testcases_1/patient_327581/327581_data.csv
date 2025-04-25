@@ -1,0 +1,21 @@
+labname,labresult,labmeasurenamesystem
+BUN,33.0,mg/dL
+creatinine,2.0,mg/dL
+Hct,34.6,%
+glucose,175.0,mg/dL
+WBC x 1000,11.1,K/mcL
+HR Current,96.0,bpm
+HR Lowest,94.0,bpm
+HR Highest,98.0,bpm
+BP (systolic) Current,113.0,mmHg
+BP (systolic) Lowest,110.0,mmHg
+BP (systolic) Highest,113.0,mmHg
+BP (diastolic) Current,66.0,mmHg
+BP (diastolic) Lowest,66.0,mmHg
+BP (diastolic) Highest,68.0,mmHg
+Resp Current,17.0,breaths/min
+Resp Lowest,15.0,breaths/min
+Resp Highest,17.0,breaths/min
+O2 Sat% Current,100.0,%
+O2 Sat% Lowest,100.0,%
+O2 Sat% Highest,100.0,%

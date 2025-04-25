@@ -1,0 +1,248 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+Hgb,10.2,g/dL,-2490
+WBC x 1000,19.1,K/mcL,-2490
+WBC x 1000,13.9,K/mcL,-8270
+MPV,10.6,fL,-2490
+MCV,98.0,fL,-8270
+platelets x 1000,245.0,K/mcL,-2490
+Hgb,10.9,g/dL,-8270
+MCHC,32.0,g/dL,-2490
+RDW,15.6,%,-8270
+Hct,31.8,%,-2490
+MCHC,32.0,g/dL,-8270
+MCH,30.6,pg,-2490
+MCH,31.2,pg,-8270
+MCHC,32.0,g/dL,-6950
+RBC,3.33,M/mcL,-2490
+platelets x 1000,293.0,K/mcL,-1100
+MCH,30.5,pg,-6950
+Hct,31.2,%,-1100
+Hct,34.3,%,-8270
+RDW,15.4,%,-1100
+Hct,34.7,%,-6950
+WBC x 1000,22.0,K/mcL,-1100
+MCV,96.0,fL,-2490
+WBC x 1000,18.9,K/mcL,-3985
+MCV,98.0,fL,-9705
+MCV,96.0,fL,-6950
+Hgb,11.4,g/dL,-12489
+AST (SGOT),41.0,Units/L,3205
+MCV,98.0,fL,-12463
+Sodium,145.0,mmol/L,3205
+Chloride,114.0,mmol/L,3205
+Total protein,4.6,g/dL,3205
+Albumin,1.5,g/dL,3205
+ALT (SGPT),33.0,Units/L,3205
+Calcium,7.6,mg/dL,3205
+Glucose,129.0,mg/dL,3205
+PT,33.1,sec,-6905
+PT,18.9,sec,350
+PT,14.9,sec,3205
+PT,28.9,sec,-13695
+PT,31.7,sec,-8270
+PT,24.6,sec,-9705
+PT,19.6,sec,-11058
+PT,32.5,sec,-5320
+PT,21.6,sec,-340
+PT,33.0,sec,-12242
+PT - INR,1.6,ratio,350
+PT - INR,1.2,ratio,3205
+PT - INR,3.2,ratio,-6864
+PT - INR,2.7,ratio,-13671
+PT - INR,3.1,ratio,-8234
+PT - INR,2.2,ratio,-9643
+PT - INR,2.6,ratio,-3939
+PT - INR,1.7,ratio,-10980
+PT - INR,1.9,ratio,-299
+PT - INR,3.2,ratio,-5283
+PT - INR,2.2,ratio,-2439
+PT,26.1,sec,-1100
+PT,18.0,sec,1818
+platelets x 1000,294.0,K/mcL,-8270
+platelets x 1000,269.0,K/mcL,-6950
+platelets x 1000,266.0,K/mcL,3205
+platelets x 1000,337.0,K/mcL,-13679
+platelets x 1000,219.0,K/mcL,-3985
+platelets x 1000,321.0,K/mcL,-9705
+platelets x 1000,220.0,K/mcL,-5281
+platelets x 1000,288.0,K/mcL,1823
+platelets x 1000,179.0,K/mcL,383
+platelets x 1000,314.0,K/mcL,-10836
+PTT,68.1,sec,-12203
+RDW,16.2,%,3205
+RDW,15.7,%,-2490
+RBC,3.2,M/mcL,-3985
+RBC,3.61,M/mcL,-6950
+RBC,2.2,M/mcL,3229
+RBC,3.49,M/mcL,-8270
+RBC,3.3,M/mcL,-1100
+RBC,3.66,M/mcL,-12489
+RBC,4.05,M/mcL,-5320
+RBC,2.55,M/mcL,1823
+RBC,2.96,M/mcL,383
+RBC,4.11,M/mcL,-10836
+RBC,4.36,M/mcL,-13679
+RBC,3.52,M/mcL,-9652
+MCV,99.0,fL,3229
+MCV,94.0,fL,-1100
+MCV,97.0,fL,-3926
+MCV,101.0,fL,-10836
+MCV,95.0,fL,-13679
+MCH,30.9,pg,3229
+MCH,31.1,pg,-12463
+MCH,30.7,pg,383
+MCH,31.1,pg,-10836
+MCH,31.0,pg,1823
+MCH,30.9,pg,-3926
+MCH,31.0,pg,1823
+MCHC,31.0,g/dL,3229
+MCHC,32.0,g/dL,-1088
+MCHC,33.0,g/dL,-5281
+MCHC,31.0,g/dL,1823
+MCHC,31.0,g/dL,-3926
+MCHC,32.0,g/dL,-9652
+MCHC,32.0,g/dL,-12463
+WBC x 1000,23.1,K/mcL,3229
+WBC x 1000,20.8,K/mcL,383
+WBC x 1000,11.5,K/mcL,-9652
+WBC x 1000,11.5,K/mcL,-5281
+WBC x 1000,29.2,K/mcL,1823
+WBC x 1000,19.2,K/mcL,-13679
+WBC x 1000,20.1,K/mcL,-10836
+WBC x 1000,13.4,K/mcL,-6908
+Hct,30.0,%,3887
+Hct,23.7,%,2435
+Hct,28.9,%,383
+Hct,21.8,%,3229
+Hct,31.0,%,-3926
+Hct,25.2,%,1823
+Hct,35.5,%,-10515
+Hct,40.2,%,-13333
+Hct,31.5,%,-11904
+Hct,38.0,%,-5281
+Hct,41.1,%,-12889
+Hct,41.5,%,-13679
+Hgb,10.1,g/dL,-1088
+Hgb,9.9,g/dL,-3926
+Hgb,12.8,g/dL,-13333
+Hgb,7.3,g/dL,2435
+Hgb,9.8,g/dL,3887
+Hgb,10.0,g/dL,-11904
+Hgb,7.9,g/dL,1823
+Hgb,11.1,g/dL,-9652
+Hgb,12.5,g/dL,-5281
+Hgb,13.2,g/dL,-12889
+Hgb,13.5,g/dL,-13679
+Hgb,9.1,g/dL,383
+Hgb,6.8,g/dL,3229
+Albumin,1.7,g/dL,-1062
+Albumin,2.6,g/dL,-9638
+Albumin,2.0,g/dL,1851
+Albumin,2.4,g/dL,-12454
+Albumin,3.0,g/dL,-13668
+Albumin,1.5,g/dL,380
+Albumin,2.4,g/dL,-2451
+Albumin,5.1,g/dL,-1062
+Albumin,5.2,g/dL,1851
+Albumin,7.0,g/dL,-9638
+Albumin,6.8,g/dL,-13668
+Albumin,4.6,g/dL,380
+ALT (SGPT),38.0,Units/L,1851
+ALT (SGPT),28.0,Units/L,-9638
+ALT (SGPT),91.0,Units/L,-1062
+ALT (SGPT),17.0,Units/L,-12454
+ALT (SGPT),22.0,Units/L,-13668
+ALT (SGPT),51.0,Units/L,380
+ALT (SGOT),127.0,Units/L,-1062
+ALT (SGOT),34.0,Units/L,1851
+ALT (SGOT),43.0,Units/L,-9638
+ALT (SGOT),25.0,Units/L,-12454
+ALT (SGOT),22.0,Units/L,-13668
+ALT (SGOT),52.0,Units/L,380
+Alkaline phos.,113.0,Units/L,3260
+Alkaline phos.,210.0,Units/L,-9638
+Alkaline phos.,132.0,Units/L,1851
+Alkaline phos.,107.0,Units/L,-13668
+Alkaline phos.,147.0,Units/L,380
+Alkaline phos.,161.0,Units/L,-12454
+Alkaline phos.,231.0,Units/L,-1062
+Anion gap,9.0, ,3260
+Anion gap,10.0, ,1851
+Anion gap,8.0, ,-5271
+Anion gap,7.0, ,-8214
+Anion gap,11.0, ,-1062
+Anion gap,8.0, ,-3939
+Anion gap,12.0, ,-13667
+Anion gap,14.0, ,-11001
+Anion gap,7.0, ,-2451
+Anion gap,11.0, ,-12454
+Anion gap,8.0, ,-9638
+Bicarbonate,22.0,mmol/L,3260
+Bicarbonate,25.0,mmol/L,-8214
+Bicarbonate,19.0,mmol/L,1851
+Bicarbonate,22.0,mmol/L,-13668
+Bicarbonate,21.0,mmol/L,380
+Bicarbonate,20.0,mmol/L,-12454
+Bicarbonate,21.0,mmol/L,380
+Bicarbonate,25.0,mmol/L,-5271
+Bicarbonate,25.0,mmol/L,-9638
+Bicarbonate,23.0,mmol/L,-2451
+Bicarbonate,20.0,mmol/L,-11001
+Bicarbonate,26.0,mmol/L,-6333
+Bicarbonate,17.0,mmol/L,-11001
+BUN,20.0,mg/dL,3260
+BUN,19.0,mg/dL,1851
+BUN,19.0,mg/dL,-2451
+BUN,27.0,mg/dL,-8214
+BUN,18.0,mg/dL,-1062
+BUN,63.0,mg/dL,-12454
+BUN,66.0,mg/dL,-13668
+BUN,17.0,mg/dL,-3939
+BUN,19.0,mg/dL,380
+BUN,34.0,mg/dL,-9638
+BUN,42.0,mg/dL,-11001
+Calcium,7.8,mg/dL,-2451
+Calcium,8.3,mg/dL,-8214
+Calcium,8.5,mg/dL,-9638
+Calcium,7.2,mg/dL,380
+Calcium,8.0,mg/dL,-12454
+Calcium,8.5,mg/dL,-13668
+Calcium,7.5,mg/dL,-3939
+Calcium,7.1,mg/dL,-5271
+Calcium,8.7,mg/dL,-11001
+Calcium,7.9,mg/dL,-6333
+Chloride,109.0,mmol/L,-2451
+Chloride,119.0,mmol/L,-8214
+Chloride,123.0,mmol/L,-9638
+Chloride,110.0,mmol/L,380
+Chloride,112.0,mmol/L,-12454
+Chloride,103.0,mmol/L,-13668
+Chloride,114.0,mmol/L,-3939
+Chloride,112.0,mmol/L,-5271
+Chloride,115.0,mmol/L,-6333
+Chloride,121.0,mmol/L,-11001
+Creatinine,0.9,mg/dL,3205
+Creatinine,1.3,mg/dL,-8214
+Creatinine,1.2,mg/dL,-9638
+Creatinine,2.2,mg/dL,-12454
+Creatinine,1.9,mg/dL,-13668
+Creatinine,0.9,mg/dL,-2451
+Creatinine,0.9,mg/dL,-1062
+Creatinine,1.1,mg/dL,1851
+Creatinine,1.2,mg/dL,-6333
+Creatinine,1.1,mg/dL,-5271
+Creatinine,0.9,mg/dL,-3939
+Creatinine,1.3,mg/dL,380
+Creatinine,1.2,mg/dL,-11001
+Glucose,240.0,mg/dL,1851
+Glucose,138.0,mg/dL,-9638
+Glucose,110.0,mg/dL,-1062
+Glucose,102.0,mg/dL,-12454
+Glucose,122.0,mg/dL,-13668
+Glucose,173.0,mg/dL,-2451
+Glucose,175.0,mg/dL,-3939
+Glucose,139.0,mg/dL,-11001
+Glucose,149.0,mg/dL,-5271
+Glucose,127.0,mg/dL,380
+Glucose,157.0,mg/dL,-6333
+Glucose,134.0,mg/dL,-7

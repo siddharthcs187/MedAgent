@@ -1,0 +1,61 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+glucose,181.0,mg/dL,47
+glucose,165.0,mg/dL,437
+glucose,133.0,mg/dL,735
+glucose,156.0,mg/dL,937
+glucose,170.0,mg/dL,1504
+glucose,172.0,mg/dL,1736
+glucose,296.0,mg/dL,2196
+glucose,97.0,mg/dL,257
+glucose,95.0,mg/dL,258
+glucose,158.0,mg/dL,373
+glucose,127.0,mg/dL,163
+glucose,129.0,mg/dL,329
+glucose,143.0,mg/dL,124
+glucose,146.0,mg/dL,496
+glucose,144.0,mg/dL,635
+glucose,148.0,mg/dL,560
+glucose,167.0,mg/dL,437
+glucose,287.0,mg/dL,2035
+glucose,238.0,mg/dL,1301
+glucose,168.0,mg/dL,812
+potassium,4.7,mmol/L,47
+potassium,4.1,mmol/L,437
+potassium,3.4,mmol/L,938
+potassium,3.6,mmol/L,2035
+potassium,3.9,mmol/L,257
+BUN,25.0,mg/dL,47
+BUN,14.0,mg/dL,437
+BUN,9.0,mg/dL,938
+BUN,10.0,mg/dL,2035
+BUN,18.0,mg/dL,257
+chloride,110.0,mmol/L,47
+chloride,113.0,mmol/L,437
+chloride,111.0,mmol/L,938
+chloride,104.0,mmol/L,2035
+chloride,112.0,mmol/L,257
+sodium,139.0,mmol/L,47
+sodium,140.0,mmol/L,437
+sodium,139.0,mmol/L,938
+sodium,136.0,mmol/L,2035
+sodium,138.0,mmol/L,257
+creatinine,1.0,mg/dL,47
+creatinine,0.9,mg/dL,437
+creatinine,0.8,mg/dL,938
+creatinine,0.7,mg/dL,2035
+creatinine,1.1,mg/dL,257
+anion gap,21.0,,47
+anion gap,11.0,,437
+anion gap,8.0,,938
+anion gap,8.0,,2035
+anion gap,11.0,,257
+calcium,7.1,mg/dL,47
+calcium,6.3,mg/dL,437
+calcium,7.0,mg/dL,938
+calcium,7.6,mg/dL,2035
+calcium,6.5,mg/dL,257
+bicarbonate,8.0,mmol/L,47
+bicarbonate,16.0,mmol/L,437
+bicarbonate,20.0,mmol/L,938
+bicarbonate,24.0,mmol/L,2035
+bicarbonate,15.0,mmol/L,257

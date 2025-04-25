@@ -1,0 +1,120 @@
+LabName,Value,Units,LabType,TimeSinceAdmission(minutes)
+creatinine,1.5,mg/dL,Chemistry,-8089.0
+albumin,3.5,g/dL,Chemistry,-8089.0
+calcium,9.4,mg/dL,Chemistry,-8089.0
+BUN,11,mg/dL,Chemistry,-8089.0
+-eos,1,%,Hematology,1770.0
+Hgb,10.3,g/dL,Hematology,1770.0
+MCV,93,fL,Hematology,1770.0
+-polys,91,%,Hematology,1770.0
+Hct,29.2,%,Hematology,1770.0
+ALT (SGPT),46,Units/L,Chemistry,-8089.0
+WBC x 1000,14.1,K/mcL,Hematology,1770.0
+-basos,1,%,Hematology,1770.0
+RBC,3.14,M/mcL,Hematology,1770.0
+PT - INR,1.1,ratio,Hematology,1770.0
+PT,12.3,sec,Hematology,1770.0
+BUN,28,mg/dL,Chemistry,-3560.0
+chloride,102,mmol/L,Chemistry,-3560.0
+albumin,2.1,g/dL,Chemistry,-3560.0
+bicarbonate,27,mmol/L,Chemistry,-8089.0
+calcium,8.6,mg/dL,Chemistry,-3560.0
+ALT (SGPT),14,Units/L,Chemistry,-3560.0
+-monos,2,%,Hematology,1770.0
+sodium,137,mmol/L,Chemistry,-8089.0
+Total bilirubin,0.4,mg/dL,Chemistry,-8089.0
+MCHC,35,g/dL,Hematology,1770.0
+RDW,14.8,%,Hematology,1770.0
+glucose,248,mg/dL,Chemistry,-8089.0
+platelets x 1000,313,K/mcL,Hematology,1770.0
+potassium,3.5,mmol/L,Chemistry,-8089.0
+alkaline phos.,114,Units/L,Chemistry,-8089.0
+AST (SGOT),33,Units/L,Chemistry,-8089.0
+total protein,8.2,g/dL,Chemistry,-8089.0
+FiO2,28,%ABG,27,
+ALT (SGPT),21,Units/L,Chemistry,1770.0
+sodium,134,mmol/L,Chemistry,-3560.0
+potassium,3.8,mmol/L,Chemistry,1770.0
+total protein,5.3,g/dL,Chemistry,1770.0
+calcium,7.7,mg/dL,Chemistry,1770.0
+Total bilirubin,0.8,mg/dL,Chemistry,1770.0
+chloride,107,mmol/L,Chemistry,1770.0
+BUN,20,mg/dL,Chemistry,1770.0
+glucose,151,mg/dL,Chemistry,1770.0
+CPK,163,Units/L,Chemistry,2165.0
+troponin - I,<0.017,ng/mL,Chemistry,2165.0
+paCO2,38.6,mm Hg,ABG,2139.0
+paO2,52.1,mm Hg,ABG,2139.0
+HCO3,21.1,mmol/L,ABG,2139.0
+Base Deficit,4,mEq/L,ABG,2139.0
+LPM O2,15,L/min,ABG,2139.0
+creatinine,1.6,mg/dL,Chemistry,-3560.0
+Total bilirubin,0.7,mg/dL,Chemistry,-535.0
+AST (SGOT),54,Units/L,Chemistry,-535.0
+sodium,132,mmol/L,Chemistry,-535.0
+Total bilirubin,0.7,mg/dL,Chemistry,-3560.0
+albumin,1.9,g/dL,Chemistry,-535.0
+glucose,109,mg/dL,Chemistry,-535.0
+bicarbonate,22,mmol/L,Chemistry,-535.0
+chloride,100,mmol/L,Chemistry,-535.0
+ALT (SGPT),25,Units/L,Chemistry,-535.0
+BUN,22,mg/dL,Chemistry,-535.0
+potassium,3.8,mmol/L,Chemistry,-535.0
+alkaline phos.,129,Units/L,Chemistry,-535.0
+creatinine,1,mg/dL,Chemistry,-535.0
+lipase,115,Units/L,Chemistry,-3560.0
+lipase,584,Units/L,Chemistry,-8089.0
+amylase,92,Units/L,Chemistry,-8089.0
+lipase,156,Units/L,Chemistry,-5282.0
+amylase,77,Units/L,Chemistry,-5282.0
+magnesium,2,mg/dL,Chemistry,965.0
+phosphate,4.1,mg/dL,Chemistry,965.0
+amylase,23,Units/L,Chemistry,-535.0
+-basos,0,%,Hematology,-8089.0
+-monos,1,%,Hematology,-8089.0
+platelets x 1000,450,K/mcL,Hematology,-8089.0
+-lymphs,15,%,Hematology,-8089.0
+RDW,14.1,%,Hematology,-8089.0
+-polys,83,%,Hematology,-8089.0
+Hgb,17.1,g/dL,Hematology,-8089.0
+Hct,50.2,%,Hematology,-8089.0
+MCV,96,fL,Hematology,-8089.0
+-eos,1,%,Hematology,-8089.0
+RBC,5.23,M/mcL,Hematology,-8089.0
+WBC x 1000,15.6,K/mcL,Hematology,-8089.0
+-lymphs,6,%,Hematology,1770.0
+-bands,9,%,Hematology,-535.0
+-monos,8,%,Hematology,-535.0
+-polys,80,%,Hematology,-535.0
+MCH,31,pg,Hematology,-535.0
+MCHC,33,g/dL,Hematology,-535.0
+platelets x 1000,363,K/mcL,Hematology,-535.0
+RDW,14.5,%,Hematology,-535.0
+Hgb,10.4,g/dL,Hematology,-535.0
+Hct,31.3,%,Hematology,-535.0
+MCV,94,fL,Hematology,-535.0
+RBC,3.33,M/mcL,Hematology,-535.0
+WBC x 1000,22.9,K/mcL,Hematology,-535.0
+-basos,,%,Hematology,-8089.0
+-eos,1,%,Hematology,-8089.0
+-lymphs,15,%,Hematology,-8089.0
+-monos,1,%,Hematology,-8089.0
+-polys,83,%,Hematology,-8089.0
+MCH,33,pg,Hematology,-8089.0
+MCHC,34,g/dL,Hematology,-8089.0
+platelets x 1000,363,K/mcL,Hematology,-535.0
+RDW,14.5,%,Hematology,-535.0
+Hgb,10.4,g/dL,Hematology,-535.0
+Hct,31.3,%,Hematology,-535.0
+MCV,94,fL,Hematology,-535.0
+RBC,3.33,M/mcL,Hematology,-535.0
+WBC x 1000,22.9,K/mcL,Hematology,-535.0
+lactate,1.1,mmol/L,Chemistry,-535.0
+phosphate,2.9,mg/dL,Chemistry,1770.0
+triglycerides,122,mg/dL,Chemistry,1770.0
+bedside glucose,136,mg/dL,Misc,1770.0
+bedside glucose,136,mg/dL,Misc,1650.0
+Vancomycin - trough,16.4,mcg/mL,Drug Level,1770.0
+BNP,124,pg/mL,Misc,2165.0
+urinary specific gravity,1.025,,Misc,-8065.0
+urinary specific gravity,1.01,,Misc,-15.0

@@ -1,0 +1,18 @@
+labid,patientunitstayid,labresultoffset,labtypeid,labname,labresult,labmeasurenamesystem
+153092603,937153,1223,1,albumin,3.7,g/dL
+153092602,937153,1223,1,total protein,6.2,g/dL
+153092600,937153,1223,1,BUN,16.0,mg/dL
+153092601,937153,1223,1,creatinine,0.73,mg/dL
+153092599,937153,1223,1,glucose,103.0,mg/dL
+153092604,937153,1223,1,calcium,8.9,mg/dL
+153092605,937153,1223,1,alkaline phos.,61.0,Units/L
+153092598,937153,1223,1,anion gap,5.0,
+153092594,937153,1223,1,sodium,140.0,mmol/L
+153092595,937153,1223,1,potassium,3.5,mmol/L
+153092596,937153,1223,1,chloride,108.0,mmol/L
+153092597,937153,1223,1,bicarbonate,27.0,mmol/L
+153092606,937153,1223,1,ALT (SGPT),23.0,Units/L
+145523393,937153,1223,1,CPK,145.0,Units/L
+153092608,937153,1223,1,total bilirubin,1.2,mg/dL
+148336726,937153,1223,1,troponin - I,4.33,ng/mL
+153092607,937153,1223,1,AST (SGOT),47.0,Units/L

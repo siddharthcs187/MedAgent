@@ -1,0 +1,23 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+MCV,91.0,fL,786
+Hgb,14.6,g/dL,786
+Hct,41.9,%,786
+glucose,118.0,mg/dL,786
+chloride,106.0,mmol/L,786
+WBC x 1000,19.1,K/mcL,786
+BUN,16.0,mg/dL,786
+MCHC,34.8,g/dL,786
+calcium,9.1,mg/dL,786
+platelets x 1000,207.0,K/mcL,786
+sodium,140.0,mmol/L,786
+MCH,31.8,pg,786
+creatinine,0.88,mg/dL,786
+RDW,13.7,%,786
+potassium,4.4,mmol/L,786
+magnesium,2.1,mg/dL,815
+bicarbonate,24.0,mmol/L,815
+RBC,4.59,M/mcL,786
+anion gap,10.0,,815
+phosphate,3.1,mg/dL,924
+FiO2,21.0,%,27
+bedside glucose,170.0,mg/dL,-74

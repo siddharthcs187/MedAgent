@@ -1,0 +1,72 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+sodium,137,mmol/L,-93
+chloride,102,mmol/L,-93
+potassium,3.2,mmol/L,-93
+BUN,15,mg/dL,-93
+creatinine,0.74,mg/dL,-93
+calcium,9.1,mg/dL,-93
+magnesium,1.8,mg/dL,-93
+anion gap,7,,-93
+glucose,120,mg/dL,-93
+phosphate,2.4,mg/dL,-93
+HDL,33,mg/dL,-944
+LDL,68,mg/dL,-944
+triglycerides,421,mg/dL,-944
+total cholesterol,185,mg/dL,-944
+WBC x 1000,10.7,K/mcL,-944
+Hgb,16.5,g/dL,-944
+Hct,48.3,%,-944
+MCV,90,fL,-944
+MCH,31,pg,-944
+MCHC,34,g/dL,-944
+RDW,13.4,%,-944
+MPV,10.8,fL,-944
+-lymphs,40,%,-944
+-monos,10,%,-944
+-polys,49,%,-944
+-eos,2,%,-944
+-basos,0,%,-944
+PT,13.4,sec,-944
+PTT,29.3,sec,-944
+PT - INR,1,ratio,-944
+TSH,4.15,mcU/ml,-944
+free T4,0.9,ng/dL,-944
+bedside glucose,101,mg/dL,-31
+bedside glucose,104,mg/dL,-111
+Methemoglobin,0.1,%,-78
+FiO2,40,%,-78
+paO2,153.9,mm Hg,-78
+paCO2,32.3,mm Hg,-78
+O2 Content,22.8,mls/dL,-78
+O2 Sat (%),99.2,%,-78
+Base Excess,0,mEq/L,-78
+HCO3,22.7,mmol/L,-78
+Carboxyhemoglobin,1.1,%,-78
+troponin - I,<0.02,ng/mL,-842
+troponin - I,<0.02,ng/mL,-929
+sodium,138,mmol/L,341
+chloride,105,mmol/L,341
+potassium,4.6,mmol/L,341
+BUN,11,mg/dL,341
+creatinine,0.54,mg/dL,341
+calcium,9.2,mg/dL,341
+magnesium,1.8,mg/dL,341
+anion gap,10,,341
+glucose,124,mg/dL,341
+phosphate,2.5,mg/dL,341
+RBC,4.85,M/mcL,341
+Hgb,15.1,g/dL,341
+Hct,44.3,% ,341
+MCV,91,fL,341
+MCH,31,pg,341
+MCHC,34,g/dL,341
+RDW,13.2,% ,341
+MPV,11.3,fL,341
+platelets x 1000,222,K/mcL,341
+WBC x 1000,8.8,K/mcL,341
+-lymphs,34,% ,341
+-monos,5,% ,341
+-polys,60,% ,341
+-eos,1,% ,341
+-basos,0,% ,341
+magnesium,2,mg/dL,-944

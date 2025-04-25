@@ -1,0 +1,12 @@
+TimeOffset,Sodium,Potassium,Chloride,Bicarbonate,BUN,Creatinine,Glucose,Hemoglobin,Hematocrit,WhiteBloodCellCount,Platelets,OxygenSaturation,PartialPressureOxygen,PartialPressureCarbonDioxide,PH,Lactate,ALT,AST,AlkalinePhosphatase,Albumin,TotalProtein,TroponinI,BNP,Digoxin,RespRate,HeartRate
+-291,137.0,4.1,98.0,32.0,16.0,0.8,167.0,9.1,29.7,10.4,192.0,97.0,95.0,47.0,7.46,,21.0,20.0,139.0,2.7,7.6,0.02,2601.0,1.0,22.0,102.0
+-8,,,,32.5,,,,,,,,97.0,,47.0,7.46,,,,,,,,,,,
+24,,,,,,,,,,,,,,,,,,,,,,,,,22.0,
+396,,,,,,,179.0,,,,,,,,,,,,,,,,,,,
+603,139.0,4.2,99.0,35.0,15.0,0.66,137.0,8.4,29.0,7.7,165.0,,,,,1.4,18.0,15.0,120.0,2.5,7.2,,,,,
+620,,,,,,,153.0,,,,,,,,,,,,,,,,,,,
+627,,,,,,,,,,,,,,,,,,,,,,,,,,
+869,,,,,,,188.0,,,,,,,,,,,,,,,,,,,
+902,,,,33.1,,,,,,,,97.0,116.0,49.0,7.45,,,,,,,,,,,
+1115,,,,,,,187.0,,,,,,,,,,,,,,,,,,,
+1383,,,,,,,170.0,,,,,,,,,,,,,,,,,,,

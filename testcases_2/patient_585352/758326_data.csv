@@ -1,0 +1,139 @@
+LabName,LabResult,LabMeasureNameSystem,LabResultOffset (minutes)
+BUN,22,mg/dL,3859
+BUN,19,mg/dL,3859
+BUN,17,mg/dL,2379
+BUN,17,mg/dL,3175
+BUN,19,mg/dL,2034
+Glucose,79,mg/dL,3859
+Glucose,124,mg/dL,979
+Glucose,102,mg/dL,3175
+Glucose,109,mg/dL,1314
+Glucose,112,mg/dL,2034
+Glucose,122,mg/dL,2379
+Glucose,118,mg/dL,519
+Glucose,101,mg/dL,4015
+Glucose,97,mg/dL,3615
+Glucose,123,mg/dL,1376
+Glucose,119,mg/dL,1911
+Glucose,129,mg/dL,2581
+Glucose,117,mg/dL,3354
+Glucose,110,mg/dL,460
+Glucose,109,mg/dL,201
+Glucose,101,mg/dL,3107
+Creatinine,0.29,mg/dL,3859
+Creatinine,0.35,mg/dL,1314
+Creatinine,0.28,mg/dL,3175
+Creatinine,0.24,mg/dL,979
+Creatinine,0.25,mg/dL,2034
+Creatinine,0.30,mg/dL,2379
+Creatinine,0.23,mg/dL,519
+Potassium,3.6,mmol/L,3859
+Potassium,4.1,mmol/L,1314
+Potassium,4,mmol/L,3175
+Potassium,4.2,mmol/L,979
+Potassium,4,mmol/L,2034
+Potassium,4,mmol/L,2379
+Potassium,3.8,mmol/L,519
+Sodium,128,mmol/L,3859
+Sodium,132,mmol/L,979
+Sodium,125,mmol/L,3175
+Sodium,132,mmol/L,1314
+Sodium,129,mmol/L,2034
+Sodium,128,mmol/L,2379
+Sodium,133,mmol/L,519
+Chloride,95,mmol/L,3859
+Chloride,98,mmol/L,979
+Chloride,93,mmol/L,3175
+Chloride,98,mmol/L,1314
+Chloride,96,mmol/L,2034
+Chloride,97,mmol/L,2379
+Chloride,100,mmol/L,519
+Bicarbonate,22,mmol/L,3859
+Bicarbonate,26,mmol/L,1314
+Bicarbonate,23,mmol/L,3175
+Bicarbonate,25,mmol/L,979
+Bicarbonate,24,mmol/L,2034
+Bicarbonate,24,mmol/L,2379
+Bicarbonate,25,mmol/L,519
+Anion gap,11,,3859
+Anion gap,8,,1314
+Anion gap,9,,3175
+Anion gap,9,,979
+Anion gap,9,,2034
+Anion gap,7,,2379
+Anion gap,8,,519
+Calcium,7.8,mg/dL,3859
+Calcium,8.7,mg/dL,1314
+Calcium,8.5,mg/dL,3175
+Calcium,8.8,mg/dL,979
+Calcium,8.1,mg/dL,2034
+Calcium,8.3,mg/dL,2379
+Calcium,8.7,mg/dL,519
+Hgb,9.7,g/dL,2379
+Hgb,10.5,g/dL,3859
+Hct,27.7,% ,2379
+Hct,29.7,% ,3859
+WBC x 1000,8.1,K/mcL,2379
+WBC x 1000,14.6,K/mcL,979
+WBC x 1000,2.6,K/mcL,3859
+Platelets x 1000,69,K/mcL,2379
+Platelets x 1000,66,K/mcL,979
+Platelets x 1000,62,K/mcL,3859
+MCV,89,fL,2379
+MCV,90,fL,979
+MCV,87,fL,3859
+MCH,31.2,pg,2379
+MCH,30.7,pg,979
+MCH,30.8,pg,3859
+MCHC,35,g/dL,2379
+MCHC,34,g/dL,979
+MCHC,35.4,g/dL,3859
+RBC,3.11,M/mcL,2379
+RBC,3.22,M/mcL,979
+RBC,3.41,M/mcL,3859
+MPV,9.8,fL,2379
+MPV,10.5,fL,979
+MPV,9.6,fL,3859
+-polys,78,% ,2379
+-polys,88,% ,979
+-polys,15,% ,3859
+-lymphs,7,% ,2379
+-lymphs,6,% ,979
+-lymphs,8,% ,3859
+-monos,2,% ,2379
+-monos,3,% ,979
+-monos,4,% ,3859
+-bands,12,% ,2379
+-bands,3,% ,979
+-bands,67,% ,3859
+ALT (SGPT),16,Units/L,2379
+AST (SGOT),10,Units/L,2379
+Alkaline phos.,89,Units/L,2379
+Total protein,4.4,g/dL,2379
+Total bilirubin,0.3,mg/dL,2379
+Albumin,2.1,g/dL,2379
+bedside glucose,123,mg/dL,1376
+bedside glucose,110,mg/dL,460
+bedside glucose,109,mg/dL,201
+bedside glucose,101,mg/dL,4015
+bedside glucose,97,mg/dL,3615
+bedside glucose,117,mg/dL,3354
+bedside glucose,129,mg/dL,2581
+bedside glucose,119,mg/dL,1911
+bedside glucose,101,mg/dL,3107
+bedside glucose,119,mg/dL,2848
+bedside glucose,135,mg/dL,1686
+Lactate,3.2,mmol/L,3959
+HCO3,20.5,mmol/L,3968
+paO2,90,mm Hg,3968
+paCO2,30,mm Hg,3968
+Temperature,98.6,°C,3968
+O2 Sat (%),97,% ,3968
+Base Excess,-2.5,mEq/L,3968
+Base Excess,-1.7,mEq/L,3539
+pH,7.46,unit(s),3968
+pH,7.46,unit(s),3539
+Tobramycin - peak,7.5,mcg/mL,1524
+Tobramycin - trough,0.4,mcg/mL,1314
+Magnesium,1.4,mg/dL,3859
+troponin - I, ,ng/mL,3859

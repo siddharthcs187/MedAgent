@@ -1,0 +1,39 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+Anion Gap,13.0,mmol/L,791
+Bicarbonate,22.0,mmol/L,791
+Calcium,7.9,mg/dL,791
+Chloride,102.0,mmol/L,791
+Creatinine,1.14,mg/dL,791
+Glucose,140.0,mg/dL,791
+Potassium,4.4,mmol/L,791
+Sodium,133.0,mmol/L,791
+BUN,14.0,mg/dL,791
+WBC x 1000,11.7,K/mcL,791
+RBC,3.79,M/mcL,791
+Hgb,12.3,g/dL,791
+Hct,34.1,%,791
+MCV,90.0,fL,791
+MCH,32.5,pg,791
+MCHC,36.1,g/dL,791
+RDW,13.4,%,791
+Platelets x 1000,152.0,K/mcL,791
+-basos,0.0,%,791
+-eos,0.0,%,791
+-lymphs,8.0,%,791
+-monos,4.0,%,791
+-polys,88.0,%,791
+pH,7.39,,-137
+paO2,219.0,mm Hg,-137
+paCO2,38.0,mm Hg,-137
+Base Deficit,1.0,mEq/L,-137
+Total CO2,24.0,mmol/L,-137
+O2 Sat (%),100.0,%,-137
+FiO2,49.0,%,-137
+pH,7.41,,-190
+paO2,98.0,mm Hg,-190
+paCO2,35.0,mm Hg,-190
+Base Deficit,2.0,mEq/L,-190
+Total CO2,23.0,mmol/L,-190
+O2 Sat (%),98.0,%,-190
+FiO2,61.0,%,-190
+bedside glucose,104.0,mg/dL,-61

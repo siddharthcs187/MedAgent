@@ -1,0 +1,47 @@
+LabTest,TimeOffsetMinutes,Result,Units
+Calcium,-7,8.8,mg/dL
+Calcium,19,8.8,mg/dL
+Calcium,728,8.2,mg/dL
+Calcium,767,8.2,mg/dL
+Calcium,2447,7.9,mg/dL
+Calcium,2483,7.9,mg/dL
+Creatinine,-7,1.36,mg/dL
+Creatinine,-340,1.47,mg/dL
+Creatinine,-343,1.47,mg/dL
+Creatinine,767,1.35,mg/dL
+Creatinine,2447,1.17,mg/dL
+Creatinine,2483,1.17,mg/dL
+BUN,-7,32.0,mg/dL
+BUN,-340,33.0,mg/dL
+BUN,-343,33.0,mg/dL
+BUN,728,30.0,mg/dL
+BUN,767,30.0,mg/dL
+BUN,2447,25.0,mg/dL
+BUN,2483,25.0,mg/dL
+Potassium,-7,4.2,mmol/L
+Potassium,-343,4.2,mmol/L
+Potassium,728,4.4,mmol/L
+Potassium,767,4.4,mmol/L
+Potassium,2447,3.9,mmol/L
+Potassium,2483,3.9,mmol/L
+Anion Gap,-7,7.0,
+Anion Gap,-343,6.0,
+Anion Gap,728,4.0,
+Anion Gap,767,4.0,
+Anion Gap,2447,4.0,
+Anion Gap,2483,4.0,
+Hgb,-364,11.9,g/dL
+Hgb,750,11.5,g/dL
+Hct,-364,39.0,%
+Hct,750,38.0,%
+PT,-348,28.0,sec
+PT,5107,20.0,sec
+PT,3692,21.3,sec
+PT-INR,-348,2.5,ratio
+PT-INR,5107,1.7,ratio
+PT-INR,3692,1.8,ratio
+Troponin-I,-7,0.02,ng/mL
+Troponin-I,19,0.02,ng/mL
+Troponin-I,253,0.02,ng/mL
+Troponin-I,-343,0.02,ng/mL
+BNP,-340,10618.0,pg/mL

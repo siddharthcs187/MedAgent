@@ -1,0 +1,72 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+Hgb,7.6,g/dL,878
+Hct,24.4,%,878
+-polys,86.0,%,878
+-bands,1.0,%,878
+bicarbonate,29.0,mmol/L,878
+calcium,9.4,mg/dL,878
+glucose,112.0,mg/dL,878
+chloride,102.0,mmol/L,878
+potassium,5.0,mmol/L,878
+creatinine,0.8,mg/dL,878
+anion gap,8.0,,878
+RBC,3.33,M/mcL,878
+-lymphs,9.0,%,878
+-monos,4.0,%,878
+platelets x 1000,353.0,K/mcL,878
+MCV,73.3,fL,878
+RDW,21.0,%,878
+-eos,1.0,%,878
+MCH,22.8,pg,878
+MCHC,31.1,g/dL,878
+Hgb,8.7,g/dL,-75
+Hct,27.2,%,-75
+-polys,80.0,%,-75
+-bands,6.0,%,-75
+sodium,130.0,mmol/L,-75
+albumin,4.1,g/dL,-75
+ALT (SGPT),22.0,Units/L,-75
+calcium,9.6,mg/dL,-75
+glucose,116.0,mg/dL,-75
+chloride,94.0,mmol/L,-75
+AST (SGOT),22.0,Units/L,-75
+BUN,40.0,mg/dL,-75
+creatinine,1.1,mg/dL,-75
+potassium,5.7,mmol/L,-75
+-lymphs,7.0,%,-75
+-monos,6.0,%,-75
+platelets x 1000,409.0,K/mcL,-75
+PT,65.2,sec,-75
+PT - INR,8.5,ratio,-75
+PTT,58.9,sec,-75
+RBC,3.83,M/mcL,-75
+MCV,71.0,fL,-75
+RDW,20.8,%,-75
+-eos,1.0,%,-75
+MCH,22.7,pg,-75
+MCHC,32.0,g/dL,-75
+-polys,86.0,%,975
+-bands,1.0,%,975
+-lymphs,9.0,%,975
+-monos,4.0,%,975
+-eos,1.0,%,975
+Hgb,7.6,g/dL,888
+Hct,24.4,%,888
+WBC x 1000,9.2,K/mcL,888
+MCV,73.3,fL,888
+RDW,21.0,%,888
+platelets x 1000,353.0,K/mcL,888
+MCH,22.8,pg,888
+MCHC,31.1,g/dL,888
+PT,14.4,sec,878
+PT - INR,1.1,ratio,878
+Hgb,9.2,g/dL,1788
+Hgb,10.0,g/dL,3773
+Hct,33.1,%,3773
+PT,12.3,sec,3773
+PT - INR,0.9,ratio,3773
+PT,12.8,sec,2329
+PT - INR,0.9,ratio,2329
+Hgb,9.5,g/dL,2329
+urinary specific gravity,1.006,,294
+Hgb,10.5,g/dL,3031

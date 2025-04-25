@@ -1,0 +1,7 @@
+Lab_Time_Offset,Glucose(mg/dL),Potassium(mmol/L),Bicarbonate(mmol/L),Creatinine(mg/dL),ALT(Units/L),AST(Units/L),Sodium(mmol/L),pH,pCO2(mmHg),pO2(mmHg),O2Sat(%),Hgb(g/dL),Hct(%),WBC(K/mcL),Platelets(K/mcL)
+-222,92.0,3.4,22.0,,,,140.0,7.41,35.0,295.0,100.0,,,,
+-117,132.0,3.8,22.0,,,,138.0,7.41,35.0,295.0,100.0,,,,
+80,,,,,,,,,,,,,,,
+687,252.0,,,,,,,,,,,,,,
+928,174.0,4.8,22.0,0.87,240.0,210.0,138.0,,,,,12.3,36.5,18.8,206.0
+930,168.0,,,,,,,,,,,,,,

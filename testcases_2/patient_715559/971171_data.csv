@@ -1,0 +1,114 @@
+LabName,LabResult,LabResultUnits,LabResultOffsetMinutes
+Hgb,12.6,g/dL,-188
+Hgb,12.0,g/dL,692
+Hgb,11.5,g/dL,2089
+Hct,37.2,%,-188
+Hct,35.3,%,692
+Hct,33.0,%,2089
+MCV,97.9,fL,-188
+MCV,97.9,fL,692
+MCV,98.1,fL,2089
+MCH,33.2,pg,-188
+MCH,33.4,pg,692
+MCH,34.1,pg,2089
+MCHC,33.9,g/dL,-188
+MCHC,34.1,g/dL,692
+MCHC,34.8,g/dL,2089
+RBC,3.8,M/mcL,-188
+RBC,3.6,M/mcL,692
+RBC,3.37,M/mcL,2089
+WBC x 1000,9.6,K/mcL,-188
+WBC x 1000,8.8,K/mcL,692
+WBC x 1000,6.0,K/mcL,2089
+Platelets x 1000,303,K/mcL,-188
+Platelets x 1000,270,K/mcL,692
+Platelets x 1000,263,K/mcL,2089
+RDW,14.9,%,-188
+RDW,14.8,%,692
+RDW,15.1,%,2089
+-monos,6.0,%,-188
+-monos,9.8,%,692
+-monos,10.0,%,2089
+-lymphs,14.4,%,-188
+-lymphs,14.6,%,692
+-lymphs,14.9,%,2089
+-polys,78.7,%,-188
+-polys,74.1,%,692
+-polys,74.5,%,2089
+-eos,0.5,%,-188
+-eos,1.2,%,692
+-eos,0.4,%,2089
+-basos,0.4,%,-188
+-basos,0.3,%,692
+-basos,0.2,%,2089
+PT,,sec,-188
+PT,12.6,sec,692
+PT - INR,1.1,ratio,692
+BUN,41,mg/dL,-188
+BUN,50,mg/dL,692
+BUN,28,mg/dL,2089
+Creatinine,1.7,mg/dL,-188
+Creatinine,1.12,mg/dL,692
+Creatinine,0.63,mg/dL,2089
+Sodium,131,mmol/L,-188
+Sodium,138,mmol/L,692
+Sodium,144,mmol/L,2089
+Potassium,4.6,mmol/L,-188
+Potassium,3.8,mmol/L,692
+Potassium,3.9,mmol/L,2089
+Chloride,99,mmol/L,-188
+Chloride,98,mmol/L,692
+Chloride,106,mmol/L,2089
+Bicarbonate,35,mmol/L,-188
+Bicarbonate,32,mmol/L,692
+Bicarbonate,29,mmol/L,2089
+Total protein,7.3,g/dL,-188
+Total protein,6.2,g/dL,692
+Albumin,3.7,g/dL,-188
+Albumin,3.1,g/dL,692
+Albumin,3.0,g/dL,2089
+Total bilirubin,0.7,mg/dL,-188
+Total bilirubin,0.6,mg/dL,692
+ALT (SGPT),22,Units/L,-188
+ALT (SGPT),17,Units/L,692
+AST (SGOT),30,Units/L,-188
+AST (SGOT),24,Units/L,692
+Alkaline phos.,76,Units/L,-188
+Alkaline phos.,68,Units/L,692
+Calcium,10.1,mg/dL,-188
+Calcium,9.3,mg/dL,692
+Calcium,9.2,mg/dL,2089
+Phosphate,,mg/dL,-188
+Phosphate,3.0,mg/dL,692
+Phosphate,2.4,mg/dL,2089
+Magnesium,,mg/dL,-188
+Magnesium,1.8,mg/dL,692
+Magnesium,1.6,mg/dL,2089
+Anion gap,,,692
+Glucose,103,mg/dL,-188
+Glucose,89,mg/dL,692
+Glucose,68,mg/dL,2089
+Bedside glucose,101,mg/dL,-188
+Bedside glucose,101,mg/dL,14
+Bedside glucose,100,mg/dL,691
+Bedside glucose,98,mg/dL,310
+Bedside glucose,103,mg/dL,60
+Bedside glucose,83,mg/dL,1049
+Bedside glucose,79,mg/dL,1651
+Bedside glucose,87,mg/dL,1222
+Bedside glucose,87,mg/dL,1430
+Uric acid,,mg/dL,437
+Serum osmolality,290,mOsm/kg H2O,437
+Urinary osmolality,252,mOsm/L,432
+Urinary specific gravity,1.010,,-188
+Urinary specific gravity,1.010,,432
+Urinary sodium,66,mmol/L,432
+Troponin - I,0.045,ng/mL,-188
+Troponin - I,0.053,ng/mL,437
+CPK-MB,2.7,ng/mL,-188
+CPK-MB,2.3,ng/mL,437
+Digoxin,4.19,ng/mL,-188
+Digoxin,1.5,ng/mL,2089
+Acetaminophen,<2.0,mcg/mL,-188
+ethanol,<3,mg/dL,-188
+salicylate,<1.7,mg/dL,-188

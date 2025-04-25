@@ -1,0 +1,59 @@
+LabName,LabResult,LabUnits,LabResultOffset,LabTypeId
+glucose,188.0,mg/dL,1553,1
+creatinine,0.88,mg/dL,1553,1
+calcium,8.1,mg/dL,33,1
+Hct,32.7,%,3008,3
+MCV,94.0,fL,3008,3
+bicarbonate,27.0,mmol/L,1553,1
+-eos,2.1,%,3008,3
+calcium,7.8,mg/dL,1553,1
+-basos,0.2,%,3008,3
+ALT (SGPT),23.0,Units/L,3008,1
+glucose,279.0,mg/dL,33,1
+alkaline phos.,101.0,Units/L,3008,1
+MCH,30.2,pg,3008,3
+total bilirubin,0.4,mg/dL,3008,1
+sodium,143.0,mmol/L,1553,1
+AST (SGOT),21.0,Units/L,3008,1
+albumin,2.4,g/dL,3008,1
+glucose,304.0,mg/dL,3008,1
+magnesium,1.8,mg/dL,1553,1
+RDW,13.4,%,3008,3
+platelets x 1000,279.0,K/mcL,3008,3
+BUN,18.0,mg/dL,33,1
+magnesium,1.6,mg/dL,3008,1
+chloride,109.0,mmol/L,1553,1
+BUN,16.0,mg/dL,3008,1
+-polys,79.6,%,3008,3
+FiO2,21.0,%,1728,7
+chloride,107.0,mmol/L,33,1
+WBC x 1000,10.51,K/mcL,3008,3
+bicarbonate,28.0,mmol/L,3008,1
+FiO2,28.0,%,288,7
+anion gap,7.0,mmol/L,1553,1
+Hgb,10.5,g/dL,3008,3
+-lymphs,12.5,%,3008,3
+calcium,7.8,mg/dL,3008,1
+sodium,143.0,mmol/L,33,1
+phosphate,2.8,mg/dL,33,1
+anion gap,6.0,mmol/L,3008,1
+potassium,3.5,mmol/L,1553,1
+magnesium,1.6,mg/dL,33,1
+MCHC,32.1,g/dL,3008,3
+MPV,11.8,fL,3008,3
+potassium,3.9,mmol/L,768,1
+creatinine,0.81,mg/dL,33,1
+bedside glucose,352.0,mg/dL,846,4
+bedside glucose,306.0,mg/dL,2995,4
+bedside glucose,201.0,mg/dL,1629,4
+bedside glucose,281.0,mg/dL,2303,4
+bedside glucose,314.0,mg/dL,1042,4
+bedside glucose,285.0,mg/dL,544,4
+bedside glucose,300.0,mg/dL,3384,4
+bedside glucose,274.0,mg/dL,43,4
+bedside glucose,274.0,mg/dL,2535,4
+bedside glucose,287.0,mg/dL,1913,4
+-monos,5.6,%,3008,3
+RBC,3.48,M/mcL,3008,3
+potassium,3.7,mmol/L,2153,1
+potassium,4.2,mmol/L,3008,1

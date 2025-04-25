@@ -1,0 +1,322 @@
+labresultoffset,labname,labresult,labmeasurenamesystem
+-15664,MCH,30.4,pg
+-1276,RBC,4.05,M/mcL
+-1276,RBC,4.05,M/mcL
+-1276,MPV,11.5,fL
+-15664,WBC x 1000,13.23,K/mcL
+-15664,MCHC,33.9,g/dL
+-15664,Hct,36.3,%
+-1276,Hct,37.2,%
+-15664,MCV,89.6,fL
+-15664,RBC,4.05,M/mcL
+-15664,bicarbonate,24.0,mmol/L
+-15664,platelets x 1000,171.0,K/mcL
+-12821,MCHC,33.4,g/dL
+-15664,chloride,118.0,mmol/L
+-15664,Hgb,12.3,g/dL
+-12821,platelets x 1000,182.0,K/mcL
+-15664,BUN,19.0,mg/dL
+-15664,MPV,13.5,fL
+-12821,WBC x 1000,8.83,K/mcL
+-15664,anion gap,7.0,
+-1276,MCH,30.1,pg
+-12821,MCH,29.8,pg
+-15664,glucose,364.0,mg/dL
+-1276,WBC x 1000,26.89,K/mcL
+-12821,MCV,89.3,fL
+-15664,calcium,8.4,mg/dL
+-1276,MCHC,32.8,g/dL
+-12821,Hct,39.2,%
+-15664,sodium,149.0,mmol/L
+-1276,MCV,91.9,fL
+-12821,RBC,4.39,M/mcL
+-15664,potassium,3.2,mmol/L
+-1276,platelets x 1000,592.0,K/mcL
+-1276,Hgb,12.2,g/dL
+-12821,MPV,12.8,fL
+-18553,ALT (SGPT),29.0,Units/L
+-1276,bicarbonate,25.0,mmol/L
+-18553,direct bilirubin,0.2,mg/dL
+-1276,chloride,102.0,mmol/L
+-18553,total bilirubin,0.8,mg/dL
+-1276,sodium,137.0,mmol/L
+-18553,AST (SGOT),29.0,Units/L
+-1276,potassium,4.8,mmol/L
+-18553,albumin,3.2,g/dL
+-1276,creatinine,1.48,mg/dL
+-18553,alkaline phos.,73.0,Units/L
+16035,bedside glucose,172.0,mg/dL
+-1276,glucose,216.0,mg/dL
+7378,sodium,140.0,mmol/L
+-12821,BUN,18.0,mg/dL
+-1873,bedside glucose,266.0,mg/dL
+-12821,AST (SGOT),32.0,Units/L
+-18862,T4,6.4,mcg/dL
+-12821,glucose,366.0,mg/dL
+14641,bedside glucose,134.0,mg/dL
+-12821,sodium,145.0,mmol/L
+-17122,prealbumin,9.5,mg/dL
+-12821,calcium,8.3,mg/dL
+-19090,creatinine,1.19,mg/dL
+-17122,chloride,118.0,mmol/L
+-14007,calcium,8.2,mg/dL
+-11397,phosphate,2.6,mg/dL
+7378,potassium,3.6,mmol/L
+-12821,ALT (SGPT),27.0,Units/L
+-18464,bedside glucose,243.0,mg/dL
+-12821,bicarbonate,25.0,mmol/L
+-17122,glucose,311.0,mg/dL
+-12821,total protein,6.5,g/dL
+-12821,total protein,6.5,g/dL
+-6228,bedside glucose,180.0,mg/dL
+-5504,bedside glucose,212.0,mg/dL
+-12821,albumin,2.1,g/dL
+-4157,total protein,8.5,g/dL
+-4157,bicarbonate,28.0,mmol/L
+-12713,bedside glucose,310.0,mg/dL
+-12821,alkaline phos.,114.0,Units/L
+-19090,amylase,122.0,Units/L
+-138,paO2,92.0,mm Hg
+-4157,calcium,9.3,mg/dL
+-138,Carboxyhemoglobin,0.8,%
+-1276,chloride,102.0,mmol/L
+-12821,chloride,112.0,mmol/L
+-138,FiO2,40.0,%
+3019,platelets x 1000,344.0,K/mcL
+-2689,glucose,192.0,mg/dL
+-138,Methemoglobin,0.1,%
+-2689,total bilirubin,0.2,mg/dL
+-12821,total protein,6.5,g/dL
+-2689,potassium,3.7,mmol/L
+-138,pH,7.431,
+-2689,creatinine,0.88,mg/dL
+-4157,sodium,139.0,mmol/L
+-2689,alkaline phos.,103.0,Units/L
+-2689,BUN,19.0,mg/dL
+-2689,chloride,104.0,mmol/L
+-2689,total protein,7.6,g/dL
+3019,MPV,11.6,fL
+-2689,calcium,8.8,mg/dL
+-138,paCO2,40.8,mm Hg
+-138,O2 Sat (%),97.2,%
+10173,Hct,32.1,%
+-2689,total bilirubin,0.2,mg/dL
+-2689,potassium,3.7,mmol/L
+-14007,WBC x 1000,7.83,K/mcL
+-14965,bedside glucose,282.0,mg/dL
+-11397,RBC,3.49,M/mcL
+-4157,anion gap,8.0,
+-11397,Hct,31.6,%
+-11397,MPV,12.8,fL
+10173,Hgb,10.7,g/dL
+-14007,chloride,117.0,mmol/L
+-102,WBC's in urine,1.0,
+-2689,anion gap,9.0,
+-102,urinary specific gravity,1.023,
+-19230,PT,16.4,sec
+-19230,PTT,32.8,sec
+-19230,PT - INR,2.0,ratio
+-10980,MPV,12.6,fL
+12739,bedside glucose,115.0,mg/dL
+10173,WBC x 1000,11.24,K/mcL
+-14007,potassium,3.7,mmol/L
+-102,free T4,1.3,ng/dL
+-17122,potassium,4.6,mmol/L
+-17122,anion gap,6.0,
+-10980,MCHC,32.7,g/dL
+-17122,sodium,148.0,mmol/L
+-10980,RBC,3.55,M/mcL
+-17122,chloride,118.0,mmol/L
+-10980,MCV,91.3,fL
+-4157,RBC,4.47,M/mcL
+-12028,phosphate,2.3,mg/dL
+-19245,urinary specific gravity,1.033,
+-10980,Hgb,10.6,g/dL
+-12393,bedside glucose,354.0,mg/dL
+-15977,bedside glucose,273.0,mg/dL
+5861,MPV,11.2,fL
+-18862,anion gap,9.0,
+-18862,sodium,154.0,mmol/L
+-18862,calcium,8.6,mg/dL
+-18553,BUN,39.0,mg/dL
+-18553,chloride,121.0,mmol/L
+-18553,sodium,152.0,mmol/L
+-18553,bicarbonate,21.0,mmol/L
+-18553,glucose,203.0,mg/dL
+-12821,magnesium,2.5,mg/dL
+-18553,total protein,7.1,g/dL
+-17122,BUN,26.0,mg/dL
+-17122,sodium,148.0,mmol/L
+-17122,calcium,8.5,mg/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L
+-17122,creatinine,1.02,mg/dL
+-17122,total protein,7.1,g/dL
+-17122,albumin,2.5,g/dL
+-17122,chloride,118.0,mmol/L
+-17122,BUN,26.0,mg/dL
+-17122,glucose,311.0,mg/dL
+-17122,potassium,4.6,mmol/L

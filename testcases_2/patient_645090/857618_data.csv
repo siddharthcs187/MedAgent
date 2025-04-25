@@ -1,0 +1,14 @@
+Time (minutes),Heart Rate (bpm),Systolic BP (mmHg),Diastolic BP (mmHg),Respiratory Rate (breaths/min),O2 Saturation (%)
+27,87,121,67,26,96
+786,,,,,
+1219,,,,,
+Time (minutes),MCV (fL),Hgb (g/dL),Hct (%),Glucose (mg/dL),Chloride (mmol/L)
+786,91,14.6,41.9,118,106
+Time (minutes),WBC x 1000 (K/mcL),BUN (mg/dL),MCHC (g/dL),Calcium (mg/dL),Platelets x 1000 (K/mcL)
+786,19.1,16,34.8,9.1,207
+Time (minutes),Sodium (mmol/L),MCH (pg),Creatinine (mg/dL),RDW (%),Potassium (mmol/L)
+786,140,31.8,0.88,13.7,4.4
+Time (minutes),Magnesium (mg/dL),Bicarbonate (mmol/L),RBC (M/mcL),Anion Gap,Phosphate (mg/dL)
+786,2.1,24,4.59,10,3.1
+Time (minutes),Bedside Glucose (mg/dL),FiO2 (%),,,
+-74,170,21,,,

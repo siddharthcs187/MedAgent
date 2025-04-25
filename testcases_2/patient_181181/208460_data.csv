@@ -1,0 +1,6 @@
+TimeOffset,pH,paO2 (mmHg),paCO2 (mmHg),HCO3 (mmol/L),Base Excess (mEq/L),BUN (mg/dL),Creatinine (mg/dL),Sodium (mmol/L),Potassium (mmol/L),Chloride (mmol/L),Glucose (mg/dL),Hgb (g/dL),Hct (%),RBC (M/mcL),MCV (fL),MCH (pg),MCHC (g/dL),Platelets (K/mcL),WBC (K/mcL),Polys (%),Lymphs (%),Monos (%),PT (sec),PTT (sec),PT-INR (ratio),Troponin-I (ng/mL),BNP (pg/mL),ALT (SGPT)(Units/L),AST (SGOT)(Units/L),Albumin (g/dL),Total Bilirubin (mg/dL),Total Protein (g/dL),Anion Gap (mmol/L),FiO2 (%),Bedside glucose (mg/dL)
+-195,7.25,57.0,68.0,30.0,1.0,,,,,,,,,,,,,,,,,,12.2,27.0,1.1,,,,,,,,5.0,,
+-190,,,,,,34.0,3.18,135.0,4.7,95.0,131.0,10.5,33.9,3.49,97.1,30.1,31.0,243.0,12.5,84.0,9.0,4.0,,,,1.2,89.0,17.0,17.0,2.7,0.2,7.1,15.0,,
+-17,7.14,109.0,96.0,33.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0,,,
+113,7.22,174.0,66.0,26.0,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,,,
+200,7.27,77.0,60.0,26.0,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,60.0,174.0,,

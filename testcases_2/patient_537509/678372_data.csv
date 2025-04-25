@@ -1,0 +1,40 @@
+LabName,LabResult,Units,LabResultOffset (minutes)
+platelets x 1000,238.0,K/mcL,101
+MCHC,33.0,g/dL,101
+potassium,4.7,mmol/L,2651
+potassium,4.5,mmol/L,1166
+RDW,14.6,%,101
+sodium,140.0,mmol/L,2651
+sodium,139.0,mmol/L,1166
+sodium,139.0,mmol/L,101
+MCH,30.1,pg,101
+calcium,8.0,mg/dL,2651
+calcium,8.2,mg/dL,101
+Hct,39.6,%,101
+anion gap,7.0, ,2651
+anion gap,8.0, ,1166
+anion gap,6.0, ,101
+MCV,90.0,fL,101
+glucose,122.0,mg/dL,2651
+glucose,107.0,mg/dL,1166
+glucose,95.0,mg/dL,101
+WBC x 1000,17.1,K/mcL,101
+chloride,107.0,mmol/L,1166
+chloride,108.0,mmol/L,2651
+chloride,107.0,mmol/L,101
+BUN,31.0,mg/dL,2651
+BUN,27.0,mg/dL,1166
+BUN,34.0,mg/dL,101
+troponin - I,0.3,ng/mL,2281
+troponin - I,0.15,ng/mL,1981
+troponin - I,0.16,ng/mL,2651
+creatinine,1.6,mg/dL,2651
+creatinine,1.4,mg/dL,1166
+creatinine,1.7,mg/dL,101
+bicarbonate,24.0,mmol/L,1166
+bicarbonate,25.0,mmol/L,2651
+bicarbonate,26.0,mmol/L,101
+lactate,0.7,mmol/L,2651
+magnesium,2.1,mg/dL,101
+TSH,0.56,mcU/ml,2651
+RBC,4.39,M/mcL,101

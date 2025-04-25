@@ -1,0 +1,9 @@
+labid,patientunitstayid,labresultoffset,labtypeid,labname,labresult,labresulttext,labmeasurenamesystem,labmeasurenameinterface,labresultrevisedoffset
+86593121,346380,34,1,glucose,112.0,112.0,mg/dL,mg/dL,35
+86593122,346380,34,1,BUN,37.0,37.0,mg/dL,mg/dL,35
+86593117,346380,34,1,total bilirubin,0.9,0.9,mg/dL,mg/dL,35
+86593120,346380,34,1,albumin,2.9,2.9,g/dL,g/dL,35
+95217414,346380,35,3,WBC x 1000,8.7,8.7,K/mcL,K/CMM,36
+86593118,346380,34,1,creatinine,1.0,1.0,mg/dL,mg/dL,35
+95217413,346380,35,3,Hct,34.7,34.7,%,%,36
+86593119,346380,34,1,sodium,146.0,146.0,mmol/L,mEq/L,35

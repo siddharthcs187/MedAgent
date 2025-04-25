@@ -1,0 +1,4 @@
+TimeOffset,Creatinine (mg/dL),Glucose (mg/dL),Potassium (mmol/L),BUN (mg/dL),WBC x 1000 (K/mcL),Platelets x 1000 (K/mcL),Hgb (g/dL),Hct (%),Chloride (mmol/L),Anion Gap (mmol/L),Bicarbonate (mmol/L),Calcium (mg/dL),Albumin (g/dL),Total Bilirubin (mg/dL),ALT (SGPT) (Units/L),AST (SGOT) (Units/L),-monos (%),-eos (%),-basos (%),-polys (%),-lymphs (%),MCV (fL),RDW (%),Magnesium (mg/dL)
+-217,0.67,133,2.8,5,7.1,291,11.7,33.5,103,13,24,8.2,2.7,0.4,10.0,11.0,5,0,0,91,4,97.7,12.9,1.4
+793,0.8,101,3.9,18,4.8,167,13.3,39.7,106,12,28,8.8,3.3,1.2,19.0,16.0,10,2,0,53,35,91.3,14.8,2.1
+2278,0.6,102,3.6,3,5.1,311,10.4,30.9,111,12,24,8.4,,,,,5,4,0,70,21,99.7,13.2,1.9

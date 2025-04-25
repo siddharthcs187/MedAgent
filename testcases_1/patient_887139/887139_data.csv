@@ -1,0 +1,80 @@
+LabName,LabResult,LabMeasureNameInterface,LabResultOffset(minutes)
+platelets x 1000,250.0,K/MM3,1278
+platelets x 1000,271.0,K/MM3,2712
+MPV,10.4,fL,2712
+MCH,32.9,pg,2712
+MCV,95.0,fL,2712
+Hct,30.3,%,2712
+Hgb,10.5,g/dL,2712
+MCHC,34.7,g/dL,2712
+anion gap,8.0,,2712
+paO2,175.0,mmHg,-2613
+paCO2,28.0,mmHg,-2613
+bicarbonate,26.0,mmol/L,2712
+chloride,104.0,mmol/L,2712
+potassium,3.2,mmol/L,2712
+sodium,138.0,mmol/L,2712
+glucose,104.0,mg/dL,-2613
+magnesium,1.2,mg/dL,2971
+ALT (SGPT),45.0,IU/L,2712
+AST (SGOT),43.0,IU/L,2712
+total protein,5.7,g/dL,2712
+albumin,2.4,g/dL,2712
+calcium,8.1,mg/dL,2712
+phosphate,2.7,mg/dL,2712
+total bilirubin,0.6,mg/dL,2712
+platelets x 1000,234.0,K/MM3,1278
+MPV,10.3,fL,1278
+MCH,32.8,pg,1278
+MCV,96.0,fL,1278
+Hct,30.7,%,1278
+Hgb,10.5,g/dL,1278
+MCHC,34.2,g/dL,1278
+WBC x 1000,8.4,K/MM3,1278
+RBC,3.2,M/MM3,1278
+-monos,16.0,%,1278
+-basos,0.0,%,1278
+-lymphs,24.0,%,1278
+-polys,60.0,%,1278
+bedside glucose,115.0,mg/dL,1467
+bicarbonate,26.0,mmol/L,1278
+chloride,103.0,mmol/L,1278
+BUN,11.0,mg/dL,1278
+creatinine,0.52,mg/dL,1278
+glucose,81.0,mg/dL,1278
+magnesium,1.3,mg/dL,1278
+potassium,3.1,mmol/L,1278
+sodium,137.0,mmol/L,1278
+total protein,5.7,g/dL,1278
+albumin,2.4,g/dL,1278
+calcium,8.3,mg/dL,1278
+alkaline phos.,58.0,IU/L,1278
+AST (SGOT),39.0,IU/L,1278
+ALT (SGPT),37.0,IU/L,1278
+phosphate,3.1,mg/dL,1278
+total bilirubin,0.8,mg/dL,1278
+bedside glucose,103.0,mg/dL,1854
+bedside glucose,91.0,mg/dL,987
+bedside glucose,97.0,mg/dL,425
+bedside glucose,103.0,mg/dL,149
+bedside glucose,144.0,mg/dL,2057
+potassium,3.8,mmol/L,1543
+magnesium,1.4,mg/dL,1543
+potassium,3.6,mmol/L,398
+magnesium,1.5,mg/dL,398
+paO2,100.0,mmHg,-2516
+paCO2,29.0,mmHg,-2516
+HCO3,25.0,mmol/L,-2516
+O2 Sat (%),99.0,%,-2516
+pH,7.55,,-2516
+Hct,33.0,%,-2516
+Hgb,11.2,g/dL,-2516
+potassium,3.2,mmol/L,-2516
+sodium,142.0,mmol/L,-2516
+glucose,142.0,mg/dL,-2516
+RBC,3.19,M/MM3,2712
+WBC x 1000,6.8,K/MM3,2712
+-monos,20.0,%,2712
+-basos,0.0,%,2712
+-lymphs,24.0,%,2712
+-polys,56.0,%,2712

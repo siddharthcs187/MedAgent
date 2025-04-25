@@ -1,0 +1,43 @@
+LabName,LabResult,Units,LabResultOffset(minutes),LabTypeId
+glucose,222,mg/dL,-272,1.0
+AST (SGOT),15,IU/L,-272,1.0
+ALT (SGPT),22,IU/L,-272,1.0
+WBC x 1000,20,K/mcL,-272,3.0
+anion gap,10,,-272,1.0
+MCHC,33.8,g/dL,-272,3.0
+sodium,137,mmol/L,-272,1.0
+platelets x 1000,275,K/mcL,-272,3.0
+calcium,8.9,mg/dL,-272,1.0
+MCH,31.6,pg,-272,3.0
+creatinine,0.92,mg/dL,-272,1.0
+Hct,39.3,%,-272,3.0
+potassium,3.9,mmol/L,-272,1.0
+total cholesterol,138,mg/dL,690,1.0
+triglycerides,215,mg/dL,690,1.0
+bicarbonate,23,mmol/L,-272,1.0
+total protein,7.4,g/dL,-272,1.0
+-polys,87,%,-272,3.0
+total bilirubin,0.4,mg/dL,-272,1.0
+Hgb,13.3,g/dL,-272,3.0
+MCV,93,fL,-272,3.0
+albumin,3.2,g/dL,-272,1.0
+-basos,0,%,-272,3.0
+-lymphs,8,%,-272,3.0
+-monos,4,%,-272,3.0
+-eos,0,%,-272,3.0
+bedside glucose,164,mg/dL,153,4.0
+bedside glucose,199,mg/dL,-58,4.0
+bedside glucose,118,mg/dL,1129,4.0
+bedside glucose,172,mg/dL,1394,4.0
+PT,12.1,sec,-272,3.0
+PT - INR,0.9,ratio,-272,3.0
+Ptt,23,sec,-272,3.0
+FiO2,33,% ,17,7.0
+HDL,74,mg/dL,690,1.0
+troponin - I,<0.02,ng/mL,-272,1.0
+HR Current,69,bpm,18,
+BP (systolic) Current,149,mmHg,18,
+BP (diastolic) Current,79,mmHg,18,
+Resp Current,17,breaths/min,18,
+O2 Sat% Current,95,% ,18,
+Admission Weight,79.6,kg,18,

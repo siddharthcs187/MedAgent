@@ -1,0 +1,53 @@
+LabName,LabResult,Units,LabResultOffset,LabTypeId
+MCV,89.0,fL,799,3
+Hgb,12.4,g/dL,799,3
+Hct,36.6,%,799,3
+bicarbonate,22.0,mmol/L,2329,1
+WBC x 1000,16.6,K/mcL,799,3
+Hgb,14.5,g/dL,-491,3
+Hgb,12.3,g/dL,2329,3
+Hct,41.3,%,-491,3
+Hct,36.7,%,2329,3
+sodium,136.0,mmol/L,2329,1
+RDW,13.6,%,799,3
+potassium,3.9,mmol/L,2329,1
+MCHC,33.9,g/dL,799,3
+creatinine,0.54,mg/dL,2329,1
+platelets x 1000,205.0,K/mcL,799,3
+chloride,107.0,mmol/L,799,1
+calcium,9.0,mg/dL,2329,1
+glucose,143.0,mg/dL,799,1
+BUN,8.0,mg/dL,799,1
+MCV,88.0,fL,-491,3
+MCV,90.0,fL,2329,3
+RBC,4.67,M/mcL,-491,3
+RBC,4.09,M/mcL,2329,3
+WBC x 1000,8.7,K/mcL,-491,3
+WBC x 1000,18.3,K/mcL,2329,3
+anion gap,9.0,,799,1
+creatinine,0.9,mg/dL,-453,1
+glucose,119.0,mg/dL,2329,1
+chloride,106.0,mmol/L,2329,1
+calcium,9.0,mg/dL,799,1
+BUN,14.0,mg/dL,2329,1
+platelets x 1000,211.0,K/mcL,2329,3
+potassium,4.0,mmol/L,799,1
+MCH,31.0,pg,-491,3
+MCH,30.1,pg,2329,3
+MCHC,35.1,g/dL,-491,3
+MCHC,33.5,g/dL,2329,3
+platelets x 1000,238.0,K/mcL,-491,3
+MPV,9.2,fL,799,3
+MPV,9.2,fL,-491,3
+MPV,9.2,fL,2329,3
+RDW,13.7,%,-491,3
+RDW,13.7,%,2329,3
+sodium,138.0,mmol/L,799,1
+glucose - CSF,60.0,mg/dL,2790,4
+WBC's in cerebrospinal fluid,121.0,/mm3,2790,4
+protein - CSF,85.0,mg/dL,2790,4
+Respiratory Rate,15.0,/min,2329,7
+FiO2,37.0,%,2329,7
+FiO2,32.0,%,17,7
+anion gap,8.0,,2329,1
+magnesium,2.2,mg/dL,2329,1

@@ -1,0 +1,183 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+Hgb,5.6,g/dL,-39
+WBC x 1000,20,K/mcL,-39
+MCV,106,fL,-39
+MCV,86,fL,2641
+bedside glucose,87,mg/dL,1384
+Hct,28.7,%,2641
+troponin - I,0.6,ng/mL,1611
+MCH,30.7,pg,2641
+MCHC,32.2,g/dL,-39
+RBC,3.35,M/mcL,2641
+O2 Sat (%),93.7,%,338
+MCHC,35.9,g/dL,2641
+MCH,33.9,pg,-39
+Hct,25.2,%,1386
+MPV,11.3,fL,2641
+Base Excess,-19.9,mEq/L,338
+MPV,11.5,fL,1386
+Hgb,10.3,g/dL,2641
+potassium,4.1,mmol/L,501
+MCHC,35.7,g/dL,1386
+PT,18.4,sec,1941
+platelets x 1000,164,K/mcL,-39
+MCH,31.3,pg,1386
+RDW,17,%,2641
+-bands,30,%,1106
+RDW,17.3,%,1386
+PT - INR,1.5,ratio,1941
+creatinine,2.9,mg/dL,501
+platelets x 1000,68,K/mcL,1386
+platelets x 1000,67,K/mcL,2641
+-polys,57,%,1106
+Hgb,9,g/dL,1386
+bedside glucose,72,mg/dL,2883
+paCO2,23.8,mm Hg,338
+PT - INR,1.4,ratio,1386
+Vancomycin - random,10.8,mcg/mL,1299
+PT,17.5,sec,756
+WBC x 1000,13.4,K/mcL,1386
+bedside glucose,84,mg/dL,2993
+bedside glucose,79,mg/dL,1048
+PT,17.3,sec,1386
+PT - INR,1.5,ratio,2641
+RBC,2.88,M/mcL,1386
+bedside glucose,71,mg/dL,1191
+chloride,114,mmol/L,501
+Hgb,7.4,g/dL,1941
+Base Excess,-15.1,mEq/L,489
+chloride,112,mmol/L,-39
+ALT (SGPT),238,Units/L,1106
+PT - INR,1.7,ratio,505
+anion gap,12,,-39
+total protein,5.2,g/dL,1106
+BUN,85,mg/dL,-39
+calcium,7.6,mg/dL,1106
+troponin - I,0.19,ng/mL,505
+ALT (SGPT),57,Units/L,-39
+lactate,10,mmol/L,197
+total protein,4.7,g/dL,-39
+potassium,3.6,mmol/L,1106
+bedside glucose,96,mg/dL,2756
+phosphate,2.9,mg/dL,2741
+alkaline phos.,108,Units/L,1106
+creatinine,2.5,mg/dL,1106
+bedside glucose,85,mg/dL,2367
+bedside glucose,85,mg/dL,2916
+sodium,145,mmol/L,501
+Hgb,7.9,g/dL,505
+-lymphs,1,%,1106
+PT - INR,1.6,ratio,1724
+PT,18.8,sec,1724
+bicarbonate,19,mmol/L,501
+-lymphs,5,%, -39
+lactate,1.4,mmol/L,1299
+total bilirubin,1.3,mg/dL,1106
+bedside glucose,99,mg/dL,2089
+Base Excess,-11.8,mEq/L,78
+CPK,385,Units/L,756
+PTT,34,sec,1386
+troponin - I,0.25,ng/mL,756
+Hgb,6.2,g/dL,690
+PT,17.3,sec,756
+PT - INR,1.4,ratio,756
+-eos,0,%,2641
+-polys,95,%, -39
+CPK-MB,8.3,ng/mL,756
+CPK-MB INDEX,2.2,%,756
+bedside glucose,79,mg/dL,1283
+bedside glucose,106,mg/dL,1010
+bedside glucose,153,mg/dL,1129
+glucose,110,mg/dL,501
+anion gap,11,,-39
+albumin,3,g/dL,1106
+PT,20.3,sec,505
+lactate,4.6,mmol/L,78
+glucose,67,mg/dL,1106
+bedside glucose,63,mg/dL,952
+sodium,143,mmol/L,-39
+albumin,1.8,g/dL,-39
+bedside glucose,156,mg/dL,968
+bedside glucose,101,mg/dL,626
+bedside glucose,60,mg/dL,1111
+bedside glucose,76,mg/dL,1498
+bedside glucose,124,mg/dL,1248
+bedside glucose,94,mg/dL,1720
+bedside glucose,95,mg/dL,1967
+bedside glucose,122,mg/dL,1323
+bedside glucose,105,mg/dL,3285
+Hgb,9.5,g/dL,171
+PTT,34,sec,171
+RDW,16.9,%,1106
+MCH,31.3,pg,1106
+MCHC,35.8,g/dL,1106
+platelets x 1000,60,K/mcL,1106
+-monos,7,%,2641
+RBC,2.78,M/mcL,1106
+PEEP,5,cm H2O,627
+HCO3,23.2,mmol/L,627
+paO2,105,mm Hg,627
+Base Excess,-1.4,mEq/L,627
+-polys,89,%,2641
+Device,840, ,627
+Base Excess,-4.4,mEq/L,1072
+paCO2,39.5,mm Hg,1072
+Device,840, ,1072
+O2 Sat (%),98,%,1072
+Base Excess,-20.4,mEq/L,197
+paCO2,18.9,mm Hg,197
+PT - INR,1.8,ratio,171
+FiO2,40,%,627
+paO2,102,mm Hg,1072
+HCO3,20.7,mmol/L,1072
+TV,430,mls,1072
+TV,430,mls,489
+FiO2,40,%,1072
+O2 Sat (%),92.9,%,197
+-basos,0,%,2641
+-lymphs,4,%,1386
+PT,20.9,sec,171
+PEEP,5,cm H2O,489
+HCO3,12.7,mmol/L,489
+paO2,104,mm Hg,489
+TV,430,mls,1072
+lactate,5.2,mmol/L,-39
+lactate,2.7,mmol/L,489
+paCO2,48.3,mm Hg,489
+FiO2, ,%,489
+O2 Sat (%),96.2,%,489
+cortisol,49.8,mcg/dL,171
+Hgb,8.7,g/dL,1106
+MCV,87,fL,1106
+Hct,24.3,%,1106
+PTT,35,sec,2641
+-basos,0,%,1386
+-monos,4,%,1386
+-polys,92,%,1386
+-lymphs,3,%,2641
+-eos,0,%,1386
+MCV,88,fL,1386
+Hgb,8.5,g/dL,958
+PT,20.3,sec,336
+PT - INR,1.7,ratio,336
+lactate,8.7,mmol/L,338
+BUN,70,mg/dL,501
+calcium,6.9,mg/dL,501
+glucose,190,mg/dL,-39
+magnesium,1.6,mg/dL,2741
+total bilirubin,1,mg/dL,2741
+ALT (SGPT),254,Units/L,2741
+potassium,3.2,mmol/L,2741
+chloride,108,mmol/L,2741
+BUN,71,mg/dL,2741
+bicarbonate,19,mmol/L,2741
+alkaline phos.,101,Units/L,2741
+sodium,140,mmol/L,2741
+AST (SGOT),148,Units/L,2741
+creatinine,3.2,mg/dL,2741
+Total Net,+1246,,9
+Admission,67.6,,9
+Intake Total,1250,,9
+Output Total,4,,9
+Dialysis Net,0,,9
+, , , 

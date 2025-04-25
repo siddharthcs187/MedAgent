@@ -1,0 +1,51 @@
+LabName,LabResult,LabMeasureNameSystem,LabResultOffset (minutes)
+Hgb,11.2,g/dL,738
+Hct,33.5,%,738
+RBC,3.88,M/mcL,738
+-polys,66.0,%,738
+-lymphs,14.0,%,738
+-monos,19.0,%,738
+-eos,1.0,%,738
+-basos,0.0,%,738
+RDW,14.2,%,738
+Sodium,138.0,mmol/L,738
+Calcium,8.4,mg/dL,738
+platelets x 1000,165.0,K/mcL,738
+MCHC,33.4,g/dL,738
+anion gap,9.0,,738
+WBC x 1000,5.9,K/mcL,738
+MCV,86.0,fL,738
+MPV,10.0,fL,738
+Bicarbonate,24.0,mmol/L,738
+Potassium,3.9,mmol/L,738
+Chloride,105.0,mmol/L,738
+Creatinine,0.98,mg/dL,738
+BUN,24.0,mg/dL,738
+Phosphate,2.4,mg/dL,738
+Magnesium,2.0,mg/dL,738
+Sodium,135.0,mmol/L,2211
+Potassium,4.4,mmol/L,2211
+Chloride,105.0,mmol/L,2211
+Bicarbonate,24.0,mmol/L,2211
+BUN,20.0,mg/dL,2211
+Calcium,8.4,mg/dL,2211
+Creatinine,0.89,mg/dL,2211
+Phosphate,2.7,mg/dL,2211
+Magnesium,2.0,mg/dL,2211
+Hgb,11.2,g/dL,2211
+Hct,32.9,%,2211
+RBC,3.87,M/mcL,2211
+-polys,88.0,%,2211
+-lymphs,8.0,%,2211
+-monos,4.0,%,2211
+platelets x 1000,167.0,K/mcL,2211
+WBC x 1000,4.9,K/mcL,2211
+MCV,85.0,fL,2211
+MCHC,34.0,g/dL,2211
+MCH,28.9,pg,2211
+RDW,14.3,%,2211
+MPV,9.5,fL,2211
+anion gap,6.0,,2211
+glucose,143.0,mg/dL,2211
+Phosphate,2.6,mg/dL,1953
+bedsid glucose,248.0,mg/dL,2532

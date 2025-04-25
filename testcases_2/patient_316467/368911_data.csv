@@ -1,0 +1,22 @@
+Lab_Value,Time_Offset_Minutes,Value,Units
+Sodium,50,142.0,mEq/L
+Creatinine,50,1.1,mg/dL
+BUN,50,15.0,mg/dL
+Glucose,50,147.0,mg/dL
+WBC x 1000,52,10.2,K/mcL
+Hct,52,43.9,% 
+HR_Current,39,72.0,bpm
+HR_Lowest,39,72.0,bpm
+HR_Highest,39,86.0,bpm
+BP_Systolic_Current,39,125.0,mmHg
+BP_Systolic_Lowest,39,125.0,mmHg
+BP_Systolic_Highest,39,126.0,mmHg
+BP_Diastolic_Current,39,78.0,mmHg
+BP_Diastolic_Lowest,39,78.0,mmHg
+BP_Diastolic_Highest,39,77.0,mmHg
+RR_Current,39,19.0,breaths/min
+RR_Lowest,39,16.0,breaths/min
+RR_Highest,39,19.0,breaths/min
+O2_Sat_Current,39,100.0,%
+O2_Sat_Lowest,39,100.0,%
+O2_Sat_Highest,39,100.0,%

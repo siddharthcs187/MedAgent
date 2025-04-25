@@ -1,0 +1,39 @@
+LabName,LabResult,LabMeasureNameSystem
+Hct,33.6,% 
+glucose,140,mg/dL
+-eos,2,% 
+chloride,103,mmol/L
+RBC,3.58,M/mcL
+ALT (SGPT),29,Units/L
+-basos,0,% 
+BUN,20,mg/dL
+-polys,81,% 
+bicarbonate,29,mmol/L
+albumin,3.6,g/dL
+-lymphs,5,% 
+total protein,7.2,g/dL
+MCV,93.9,fL
+calcium,8.5,mg/dL
+Hgb,10.7,g/dL
+potassium,4.3,mmol/L
+-monos,12,% 
+sodium,142,mmol/L
+AST (SGOT),24,Units/L
+alkaline phos.,119,Units/L
+paCO2,51,mm Hg
+anion gap,14,mmol/L
+pH,7.34,
+paO2,87,mm Hg
+total bilirubin,0.8,mg/dL
+HCO3,26,mmol/L
+creatinine,1.4,mg/dL
+platelets x 1000,233,K/mcL
+Base Excess,1,mEq/L
+WBC x 1000,7.0,K/mcL
+BNP,313,pg/mL
+RDW,15.6,% 
+PT,11.9,sec
+PT - INR,1.1,ratio
+PTT,28,sec
+Troponin - I,<0.02,ng/mL
+LPM O2,100,L/min

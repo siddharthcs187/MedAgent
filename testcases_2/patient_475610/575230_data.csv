@@ -1,0 +1,38 @@
+labname,labresult,labmeasurenamesystem,labresultoffset,labtypeid
+chloride,100.0,mmol/L,-202,1
+BUN,13.0,mg/dL,-202,1
+total bilirubin,0.9,mg/dL,-202,1
+potassium,4.9,mmol/L,-202,1
+ALT (SGPT),96.0,Units/L,-202,1
+glucose,83.0,mg/dL,-202,1
+calcium,10.2,mg/dL,-202,1
+platelets x 1000,659.0,K/mcL,-202,3
+Hct,39.4,%,-202,3
+RBC,4.33,M/mcL,-202,3
+MPV,10.1,fL,-202,3
+MCHC,33.0,g/dL,-202,3
+MCH,30.3,pg,-202,3
+RDW,13.5,%,-202,3
+albumin,3.7,g/dL,-202,1
+sodium,138.0,mmol/L,-202,1
+bicarbonate,26.0,mmol/L,-202,1
+anion gap,12.0,,248,1
+potassium,4.4,mmol/L,248,1
+total bilirubin,0.7,mg/dL,248,1
+calcium,9.3,mg/dL,248,1
+platelets x 1000,549.0,K/mcL,248,3
+Hct,36.2,% ,248,3
+RBC,3.9,M/mcL,248,3
+MPV,10.6,fL,248,3
+MCHC,32.0,g/dL,248,3
+RDW,13.3,% ,248,3
+albumin,3.0,g/dL,248,1
+sodium,139.0,mmol/L,248,1
+bicarbonate,26.0,mmol/L,248,1
+glucose,60.0,mg/dL,248,1
+creatinine,0.8,mg/dL,248,1
+AST (SGOT),149.0,Units/L,248,1
+total protein,5.6,g/dL,248,1
+CPK,5905.0,Units/L,248,1
+Respiratory Rate,10.0,/min,27,7
+FiO2,28.0,%,27,7

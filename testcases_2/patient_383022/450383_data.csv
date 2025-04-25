@@ -1,0 +1,92 @@
+labname,labresult,labmeasurenamesystem,labresultoffset,labtypeid
+RBC,3.41,M/mcL,1971,3
+RBC,3.76,M/mcL,-3102,3
+RBC,3.29,M/mcL,-910,3
+RBC,3.11,M/mcL,382,3
+RBC,3.28,M/mcL,-2446,3
+Hgb,10.9,g/dL,-3102,3
+Hgb,9.8,g/dL,1971,3
+Hgb,9.5,g/dL,-910,3
+Hgb,8.9,g/dL,382,3
+Hgb,9.5,g/dL,-2446,3
+WBC x 1000,6.0,K/mcL,1971,3
+WBC x 1000,18.4,K/mcL,-3102,3
+WBC x 1000,12.7,K/mcL,-910,3
+WBC x 1000,8.7,K/mcL,382,3
+WBC x 1000,14.8,K/mcL,-2446,3
+platelets x 1000,481.0,K/mcL,-3102,3
+platelets x 1000,532.0,K/mcL,1971,3
+platelets x 1000,454.0,K/mcL,-910,3
+platelets x 1000,458.0,K/mcL,382,3
+platelets x 1000,439.0,K/mcL,-2446,3
+MCV,86.0,fL,1971,3
+MCV,85.0,fL,-3102,3
+MCV,86.0,fL,-910,3
+MCV,87.0,fL,382,3
+MCV,86.0,fL,-2446,3
+MPV,8.6,fL,1971,3
+MPV,8.8,fL,-3102,3
+MPV,8.9,fL,-910,3
+MPV,9.0,fL,382,3
+MPV,8.7,fL,-2446,3
+RDW,12.8,%,-3102,3
+RDW,13.7,%,1971,3
+RDW,13.2,%,-910,3
+RDW,13.5,%,382,3
+RDW,12.7,%,-2446,3
+-polys,75.0,%,1971,3
+-polys,84.0,%,-3102,3
+-polys,86.0,%,-2446,3
+-lymphs,16.0,%,1971,3
+-lymphs,9.0,%,-3102,3
+-lymphs,7.0,%,-2446,3
+-monos,8.0,%,1971,3
+-monos,7.0,%,-3102,3
+-monos,7.0,%,-2446,3
+-eos,1.0,%,1971,3
+-eos,0.0,%,-3102,3
+-eos,0.0,%,-2446,3
+-basos,1.0,%,1971,3
+-basos,0.0,%,-3102,3
+-basos,0.0,%,-2446,3
+calcium,8.4,mg/dL,1971,1
+calcium,8.7,mg/dL,-910,1
+calcium,8.2,mg/dL,382,1
+BUN,5.0,mg/dL,1971,1
+BUN,7.0,mg/dL,-910,1
+BUN,6.0,mg/dL,382,1
+BUN,7.0,mg/dL,-3102,1
+creatinine,0.7,mg/dL,1971,1
+creatinine,0.72,mg/dL,-910,1
+creatinine,0.55,mg/dL,382,1
+creatinine,0.73,mg/dL,-3102,1
+glucose,97.0,mg/dL,1971,1
+glucose,118.0,mg/dL,-910,1
+glucose,94.0,mg/dL,382,1
+glucose,110.0,mg/dL,-3102,1
+chloride,100.0,mmol/L,1971,1
+chloride,99.0,mmol/L,-3102,1
+chloride,100.0,mmol/L,-910,1
+chloride,103.0,mmol/L,382,1
+potassium,3.7,mmol/L,1971,1
+potassium,4.0,mmol/L,-910,1
+potassium,4.0,mmol/L,382,1
+potassium,4.4,mmol/L,-3102,1
+sodium,135.0,mmol/L,1971,1
+sodium,134.0,mmol/L,-910,1
+sodium,137.0,mmol/L,382,1
+sodium,134.0,mmol/L,-3102,1
+bicarbonate,27.0,mmol/L,1971,1
+bicarbonate,29.0,mmol/L,-910,1
+bicarbonate,28.0,mmol/L,382,1
+bicarbonate,27.0,mmol/L,-3102,1
+anion gap,8.0, ,1971,1
+anion gap,5.0, ,-910,1
+anion gap,6.0, ,382,1
+anion gap,8.0, ,-3102,1
+lactate,0.8,mmol/L,-1381,1
+lactate,0.8,mmol/L,382,1
+lactate,0.8,mmol/L,-3102,1
+Ferritin,1168.2,ng/mL,1971,3
+Fe,16.0,mcg/dL,1971,3
+urinary specific gravity,1.005,,-1672,4

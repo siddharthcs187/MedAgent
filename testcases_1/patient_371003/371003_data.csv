@@ -1,0 +1,21 @@
+labname,labresult,labmeasurenamesystem,labresultoffset
+glucose,467.0,mg/dL,24
+potassium,6.9,mmol/L,24
+creatinine,1.3,mg/dL,24
+chloride,100.0,mmol/L,24
+anion gap,26.9,,24
+BUN,31.0,mg/dL,24
+sodium,132.0,mmol/L,24
+bicarbonate,12.0,mmol/L,24
+total bilirubin,0.7,mg/dL,24
+albumin,4.0,g/dL,24
+ALT (SGPT),26.0,Units/L,24
+AST (SGOT),31.0,Units/L,24
+Hgb,16.0,g/dL,24
+WBC x 1000,18.9,K/mcL,24
+platelets x 1000,377.0,K/mcL,24
+RBC,4.86,M/mcL,24
+pH,7.15,,24
+paCO2,33.0,mm Hg,24
+paO2,41.0,mm Hg,24
+FiO2,21.0,%,54

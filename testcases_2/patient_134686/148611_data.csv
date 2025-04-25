@@ -1,0 +1,21 @@
+LabName,TimeOffset (minutes),Result,Units
+Sodium,-215,142,mmol/L
+Sodium,947,142,mmol/L
+Potassium,-215,3.5,mmol/L
+Potassium,947,3.7,mmol/L
+Anion Gap,-215,18,mmol/L
+Anion Gap,947,10,mmol/L
+Creatinine,-215,1.02,mg/dL
+Creatinine,947,0.82,mg/dL
+BUN,-215,4,mg/dL
+BUN,947,7,mg/dL
+Glucose,-215,76,mg/dL
+Glucose,947,112,mg/dL
+Hgb,-215,16.8,g/dL
+Hgb,947,15.5,g/dL
+Hct,-215,50.1,%
+Hct,947,47.5,%
+Acetaminophen,-215,<2,mcg/mL
+Salicylate,-215,2.0,mg/dL
+Salicylate,-215,2.5,mg/dL
+Lactate,-183,2.6,mmol/L

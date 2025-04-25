@@ -1,0 +1,38 @@
+LabName,LabResult,Units,TimeOffsetMinutes
+AST (SGOT),38.0,U/L,-153
+total bilirubin,0.3,mg/dL,-153
+potassium,3.7,mmol/L,-153
+creatinine,0.85,mg/dL,-153
+anion gap,9.0,,-153
+alkaline phos.,124.0,U/L,-153
+calcium,8.9,mg/dL,-153
+ALT (SGPT),32.0,U/L,-153
+phosphate,3.5,mg/dL,-153
+magnesium,1.8,mg/dL,-153
+glucose,115.0,mg/dL,-153
+albumin,4.1,g/dL,-153
+bicarbonate,28.0,mmol/L,-153
+platelets x 1000,265.0,K/mcL,-153
+sodium,135.0,mmol/L,-153
+MCH,30.6,pg,-153
+MCHC,34.0,g/dL,-153
+WBC x 1000,5.1,K/mcL,-153
+RDW,12.5,%,-153
+Hgb,14.2,g/dL,-153
+chloride,98.0,mmol/L,-153
+BUN,14.0,mg/dL,-153
+RBC,4.64,M/mcL,-153
+MCV,91.0,fL,-153
+phosphate,2.8,mg/dL,68
+glucose,105.0,mg/dL,68
+bicarbonate,25.0,mmol/L,68
+potassium,3.9,mmol/L,68
+creatinine,0.77,mg/dL,68
+anion gap,10.0,,68
+magnesium,2.5,mg/dL,68
+chloride,102.0,mmol/L,68
+BUN,12.0,mg/dL,68
+calcium,8.4,mg/dL,68
+magnesium,1.9,mg/dL,328
+phosphate,2.4,mg/dL,328
+FiO2,21.0,%,27
