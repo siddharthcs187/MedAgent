@@ -13,6 +13,7 @@ from langchain_core.messages import SystemMessage, HumanMessage
 
 load_dotenv()
 
+
 @tool
 def ocr_image(path: str) -> str:
     """Extracts text from an image file using OCR."""
@@ -24,6 +25,7 @@ def ocr_image(path: str) -> str:
     except Exception as e:
         return f"Error extracting text from {path}: {str(e)}"
 
+
 @tool
 def parse_pdf_text(path: str) -> str:
     """Extract raw text from PDF."""
@@ -32,6 +34,7 @@ def parse_pdf_text(path: str) -> str:
         return f"Extracted text from {path}:\n{text}"
     except Exception as e:
         return f"Error extracting text from {path}: {str(e)}"
+
 
 @tool
 def extract_pdf_tables(path: str) -> str:
@@ -45,6 +48,7 @@ def extract_pdf_tables(path: str) -> str:
             return f"No tables found in {path}."
     except Exception as e:
         return f"Error extracting tables from {path}: {str(e)}"
+
 
 @tool
 def load_tabular(path: str) -> str:
@@ -60,6 +64,7 @@ def load_tabular(path: str) -> str:
     except Exception as e:
         return f"Error loading tabular data from {path}: {str(e)}"
 
+
 @tool
 def read_dicom(path: str) -> str:
     """Read and flatten DICOM image data."""
@@ -67,12 +72,14 @@ def read_dicom(path: str) -> str:
         ds = pydicom.dcmread(path)
         if hasattr(ds, "pixel_array"):
             arr = ds.pixel_array
-            df = pd.DataFrame(arr.reshape(-1, arr.shape[-1] if arr.ndim == 3 else 1))
+            df = pd.DataFrame(
+                arr.reshape(-1, arr.shape[-1] if arr.ndim == 3 else 1))
         else:
             df = pd.DataFrame()
         return f"DICOM data preview from {path}:\n{df.head().to_markdown()}"
     except Exception as e:
         return f"Error reading DICOM file {path}: {str(e)}"
+
 
 def process_tool_call(tool_name: str, tool_args: dict) -> str:
     """Process the tool call based on tool name and arguments."""
@@ -83,19 +90,22 @@ def process_tool_call(tool_name: str, tool_args: dict) -> str:
         "load_tabular": load_tabular,
         "read_dicom": read_dicom
     }
-    
+
     if tool_name not in tools:
         raise ValueError(f"Unknown tool {tool_name}")
-    
+
     return tools[tool_name].invoke(tool_args["path"])
+
 
 class MedicalCompilerAgent:
     def __init__(self, model_name="gemini-1.5-flash"):
         api_key = os.getenv("GEMINI_API_KEY")
-        self.llm = ChatGoogleGenerativeAI(model=model_name, google_api_key=api_key)
-        self.tools = [ocr_image, parse_pdf_text, extract_pdf_tables, load_tabular, read_dicom]
+        self.llm = ChatGoogleGenerativeAI(
+            model=model_name, google_api_key=api_key)
+        self.tools = [ocr_image, parse_pdf_text,
+                      extract_pdf_tables, load_tabular, read_dicom]
         self.model_with_tools = self.llm.bind_tools(tools=self.tools)
-        
+
         self.TOOL_DEFINITIONS = """
         You are a medical file processing assistant. You analyze medical files and extract relevant information.
         
@@ -139,7 +149,7 @@ class MedicalCompilerAgent:
         }
         ```
         """
-        
+
         self.SUMMARY_PROMPT = """
         You are a medical summarization assistant. Generate a concise report with sections:
         
@@ -157,52 +167,55 @@ class MedicalCompilerAgent:
         
         Return a comprehensive medical report based on all information provided.
         """
-    
+
     def process_file(self, file_path):
         """Process a single file and return the extracted information"""
         try:
             print(f"\n--- Processing file: {file_path} ---")
-            
+
             # Ask the model to select the appropriate tool
             messages = [
                 SystemMessage(content=self.TOOL_DEFINITIONS),
                 HumanMessage(content=f"Process this medical file: {file_path}")
             ]
-            
+
             response = self.model_with_tools.invoke(messages)
             raw_content = response.content
             print("Raw tool selection response:", raw_content)
-            
+
             # Parse the JSON response
             try:
                 # Extract JSON from potentially markdown-wrapped response
                 if "```json" in raw_content:
-                    json_content = raw_content.split("```json")[1].split("```")[0].strip()
+                    json_content = raw_content.split(
+                        "```json")[1].split("```")[0].strip()
                 else:
                     json_content = raw_content.strip()
-                
+
                 parsed_response = json.loads(json_content)
-                
+
                 if parsed_response.get("tool_needed"):
                     tool_name = parsed_response["tool_name"]
                     tool_args = parsed_response["tool_args"]
                     print(f"Tool to call: {tool_name}\nArguments: {tool_args}")
-                    
-                    result = process_tool_call(tool_name=tool_name, tool_args=tool_args)
-                    
+
+                    result = process_tool_call(
+                        tool_name=tool_name, tool_args=tool_args)
+
                     # For PDFs, also try to extract tables if we initially used text extraction
                     if tool_name == "parse_pdf_text" and file_path.lower().endswith(".pdf"):
                         try:
-                            tables_result = process_tool_call("extract_pdf_tables", {"path": file_path})
+                            tables_result = process_tool_call(
+                                "extract_pdf_tables", {"path": file_path})
                             if "No tables found" not in tables_result:
                                 result += f"\n\n{tables_result}"
                         except Exception as e:
                             print(f"Table extraction failed: {str(e)}")
-                    
+
                     return result
                 else:
                     return parsed_response.get("final_answer", f"No suitable tool found for {file_path}")
-            
+
             except json.JSONDecodeError:
                 print("Failed to parse JSON response:", raw_content)
                 # Fallback: determine tool based on extension
@@ -217,29 +230,32 @@ class MedicalCompilerAgent:
                     return process_tool_call("read_dicom", {"path": file_path})
                 else:
                     return f"Error: No suitable tool found for {file_path}"
-                
+
         except Exception as e:
             return f"Error processing {file_path}: {str(e)}"
-    
+
     def run(self, files):
         """Process multiple files and generate a summary report"""
         context_parts = []
-        
+
         for file_path in files:
             result = self.process_file(file_path)
             context_parts.append(f"# {os.path.basename(file_path)}\n{result}")
-        
+
         full_context = "\n\n".join(context_parts)
         print("\n--- Generating summary report ---")
-        
+
         # Generate the summary report using the model
         messages = [
-            SystemMessage(content=self.SUMMARY_PROMPT.format(context=full_context)),
-            HumanMessage(content="Generate a comprehensive medical report based on the provided context.")
+            SystemMessage(content=self.SUMMARY_PROMPT.format(
+                context=full_context)),
+            HumanMessage(
+                content="Generate a comprehensive medical report based on the provided context.")
         ]
-        
+
         summary_response = self.llm.invoke(messages)
         return summary_response.content
+
 
 if __name__ == "__main__":
     files = [
@@ -248,12 +264,34 @@ if __name__ == "__main__":
         "testcases/patient_1/data/patient_1_labs.xlsx",
         "testcases/patient_1/data/patient_1_note.png",
     ]
-    
+
     agent = MedicalCompilerAgent()
     report = agent.run(files)
-    
+
     print("\n=== Generated Medical Report ===")
     print(report)
-    
+
     with open("report.md", "w") as f:
         f.write(report)
+
+
+class MedicalChatAgent:
+    def __init__(self, model_name="gemini-1.5-flash"):
+        api_key = os.getenv("GEMINI_API_KEY")
+        self.llm = ChatGoogleGenerativeAI(
+            model=model_name, google_api_key=api_key)
+
+    def run(self, chat_history, msg, report):
+        chat_history.append(["Human", msg])
+        systemPrompt = f"""You are a professional doctor, you have been provided context a summary of the patient's diagnosis. You have also been provided the conversation between you and the patient so far. You are also provided the question the patient has for you. Respond appropriately to the patient's query
+        ##HUMAN MESSAGE - {msg}
+        ##CONVERSATION HISTORY - {chat_history}
+        ##PATIENT DIAGNOSIS - {report}
+        """
+        messages = [
+            SystemMessage(content=systemPrompt),
+            HumanMessage(content=msg)
+        ]
+        response = self.llm.invoke(messages).content
+        chat_history.append(["System", response])
+        return response

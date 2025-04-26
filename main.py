@@ -1,13 +1,19 @@
 import chainlit as cl
 import os
-from compiler import MedicalCompilerAgent
+from compiler import MedicalCompilerAgent, MedicalChatAgent
+from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_core.messages import SystemMessage, HumanMessage
 
-agent = MedicalCompilerAgent()
+compilerAgent = MedicalCompilerAgent()
+chatAgent = MedicalChatAgent()
 
-uploaded_files = []
 
 @cl.on_chat_start
 async def start():
+    cl.user_session.set("chat_history", [])
+    cl.user_session.set("uploaded_files", [])
+    cl.user_session.set("generated_report", None)
+
     await cl.Message(content=" Welcome! Please upload all your medical files").send()
 
     files = await cl.AskFileMessage(
@@ -22,15 +28,17 @@ async def start():
         await cl.Message(content="No files uploaded. Please try again.").send()
         return
 
-    uploaded_files.extend(files)  # ✅ It's a list of AskFileResponse
+    uploaded_files = files
     file_list = "\n".join([f"- {file.name}" for file in uploaded_files])
     await cl.Message(content=f"✅ Received {len(uploaded_files)} file(s):\n{file_list}").send()
 
     action_response = await cl.AskActionMessage(
         content="Click the button to upload",
         actions=[
-            cl.Action(name="upload_files", value="upload_files", label="Upload Files", payload={}),
-            cl.Action(name="cancel", value="cancel", label="Cancel", payload={}),
+            cl.Action(name="upload_files", value="upload_files",
+                      label="Upload Files", payload={}),
+            cl.Action(name="cancel", value="cancel",
+                      label="Cancel", payload={}),
         ],
         timeout=300,
     ).send()
@@ -46,22 +54,31 @@ async def start():
 
     await cl.Message(content=f"✅ Saved {len(file_paths)} files. Starting processing...").send()
 
-    report = agent.run(file_paths)
+    generated_report = compilerAgent.run(file_paths)
 
     report_path = "./summary_report.md"
-    with open(report_path, "w") as f:
-        f.write(report)
+    cl.user_session.set("generated_report", generated_report)
 
-    await cl.Message(content="✅ Summary complete! Here's a preview:").send()
-    await cl.Message(content=f"```markdown\n{report[:4000]}\n```").send()
-    await cl.File(name="Medical_Report.md", path=report_path).send(for_id=cl.context.current_step.id)
-    action = await cl.AskActionMessage(
-        content="📄 Click the button below to download your medical report!",
-        actions=[
-            cl.Action(name="download_report", value="download_report", label="Download Report", payload={}),
-        ],
-        timeout=300,
+    cl.user_session.set("report_path", report_path)
+
+    with open(report_path, "w") as f:
+        f.write(generated_report)
+
+    await cl.Message(
+        content="📄 [Download Medical Report]",
+        elements=[
+                cl.File(name="Medical_Report.md", path=report_path)
+        ]
     ).send()
 
-    if action.get("value") == "download_report":
-        await cl.File(name="Medical_Report.md", path=report_path).send(for_id=cl.context.current_step.id)
+    await cl.Message(content="Feel free to ask any related questions!").send()
+
+@cl.on_message
+async def on_message(msg: cl.Message):
+    chat_history = cl.user_session.get("chat_history")
+    report = cl.user_session.get("generated_report")
+    chat_history.append(msg.content)
+    response = chatAgent.run(chat_history, msg.content, report)
+    await cl.Message(content=response).send()
+    print(chat_history)
+    cl.user_session.set("chat_history", chat_history)
