@@ -10,6 +10,7 @@ from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.tools import tool
 from langchain_core.messages import SystemMessage, HumanMessage
+from llama_cpp import Llama
 
 load_dotenv()
 
@@ -253,8 +254,41 @@ class MedicalCompilerAgent:
                 content="Generate a comprehensive medical report based on the provided context.")
         ]
 
-        summary_response = self.llm.invoke(messages)
-        return summary_response.content
+        summary_response = self.llm.invoke(messages).content
+        # print(summary_response.)
+        print("Generated response")
+        # Generating insights using OpenBioLLM
+        llm_insights = Llama.from_pretrained(
+            repo_id="aaditya/OpenBioLLM-Llama3-8B-GGUF",
+            filename="openbiollm-llama3-8b.Q4_K_M.gguf",
+            n_gpu_layers=30,
+            n_ctx=8192,
+            verbose=False
+        )
+        prompt_insights = f"""<s> You are an experienced clinical decision support assistant developed by Saama AI Labs. Based on the following patient summary, identify the most important actionable clinical insights. These should include recommendations for diagnosis refinement, immediate interventions, further investigations, and potential referrals. Be specific, evidence-based, and avoid vague statements.
+
+Patient Summary:
+\"\"\"
+{summary_response}
+\"\"\"
+Provide a bullet-point list of actionable clinical insights for this patient.
+"""
+        summary_insights = llm_insights(prompt_insights, max_tokens=512, stop=[])['choices'][0]['text'].strip()
+        print("Generated insights")
+        print(summary_insights)
+
+        final_report = f"""
+==== Patient Summary ====
+
+{summary_response}
+
+==== Actionable Clinical Insights ====
+
+{summary_insights}
+"""
+
+        return final_report
+        # return summary_response.content
 
 
 if __name__ == "__main__":

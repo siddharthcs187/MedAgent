@@ -1,12 +1,12 @@
 import chainlit as cl
 import os
+import asyncio
+from concurrent.futures import ThreadPoolExecutor
 from compiler import MedicalCompilerAgent, MedicalChatAgent
-from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_core.messages import SystemMessage, HumanMessage
 
 compilerAgent = MedicalCompilerAgent()
 chatAgent = MedicalChatAgent()
-
+executor = ThreadPoolExecutor()
 
 @cl.on_chat_start
 async def start():
@@ -20,8 +20,7 @@ async def start():
         content="Upload your files (PDF, PNG, CSV). Select multiple or upload one by one!",
         accept=["application/pdf", "image/png", "text/csv"],
         max_files=10,
-        max_size_mb=20,
-        timeout=300
+        max_size_mb=20
     ).send()
 
     if not files:
@@ -35,12 +34,9 @@ async def start():
     action_response = await cl.AskActionMessage(
         content="Click the button to upload",
         actions=[
-            cl.Action(name="upload_files", value="upload_files",
-                      label="Upload Files", payload={}),
-            cl.Action(name="cancel", value="cancel",
-                      label="Cancel", payload={}),
-        ],
-        timeout=300,
+            cl.Action(name="upload_files", value="upload_files", label="Upload Files", payload={}),
+            cl.Action(name="cancel", value="cancel", label="Cancel", payload={}),
+        ]
     ).send()
 
     if action_response.get("value") == "cancel":
@@ -54,11 +50,12 @@ async def start():
 
     await cl.Message(content=f"✅ Saved {len(file_paths)} files. Starting processing...").send()
 
-    generated_report = compilerAgent.run(file_paths)
+    generated_report = await asyncio.get_event_loop().run_in_executor(
+        executor, compilerAgent.run, file_paths
+    )
 
     report_path = "./summary_report.md"
     cl.user_session.set("generated_report", generated_report)
-
     cl.user_session.set("report_path", report_path)
 
     with open(report_path, "w") as f:
@@ -67,7 +64,7 @@ async def start():
     await cl.Message(
         content="📄 [Download Medical Report]",
         elements=[
-                cl.File(name="Medical_Report.md", path=report_path)
+            cl.File(name="Medical_Report.md", path=report_path)
         ]
     ).send()
 
@@ -80,5 +77,4 @@ async def on_message(msg: cl.Message):
     chat_history.append(msg.content)
     response = chatAgent.run(chat_history, msg.content, report)
     await cl.Message(content=response).send()
-    print(chat_history)
     cl.user_session.set("chat_history", chat_history)
