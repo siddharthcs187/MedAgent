@@ -1,0 +1,3 @@
+- Demographics: Patient ID, Gender, Age, Ethnicity, Hospital ID, Ward ID, Unit Type, Admission Date, Discharge Date, Admission Weight, Discharge Weight, Admission Height
+- Chief Complaint: NULL (Insufficient information provided in the JSON to generate a concise summary of the chief complaint.)
+- Labs, Vitals: NULL (Insufficient information provided in the JSON to generate a summary of lab trends and vital signs.)

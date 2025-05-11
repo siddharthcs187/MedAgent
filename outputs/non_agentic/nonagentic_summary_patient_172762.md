@@ -1,0 +1,1 @@
+The generated summary is not a real medical report and is intended for educational purposes only. It does not contain real patient data.

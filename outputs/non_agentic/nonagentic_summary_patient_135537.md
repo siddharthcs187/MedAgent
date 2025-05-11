@@ -1,0 +1,1 @@
+The summarization model cannot generate a report for the provided patient data.

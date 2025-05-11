@@ -1,0 +1,1 @@
+The generated report provides an overview of the patient's hospital stay, focusing on demographics, chief complaint, clinical findings, summary, and recommendations. However, it is unable to generate the report due to insufficient data or errors in the provided data.

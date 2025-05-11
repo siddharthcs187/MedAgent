@@ -1,0 +1,1 @@
+The summary report for patient 002-11539 includes sections on patient information, medical history, diagnoses, treatments, vital trends, lab trends, microbiology tests, and physical examination results. However, due to insufficient data, some sections are NULL.

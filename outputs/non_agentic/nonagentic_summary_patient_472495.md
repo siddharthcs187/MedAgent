@@ -1,0 +1,1 @@
+[ERROR extracting from 570073_report.pdf: read_pdf() got an unexpected keyword argument  'error_bad_lines']

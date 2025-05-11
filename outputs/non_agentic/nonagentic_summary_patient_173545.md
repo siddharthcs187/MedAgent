@@ -1,0 +1,1 @@
+The generated report is missing sections due to insufficient data provided. Please ensure that all relevant information is included in the input dataset to generate a comprehensive report.

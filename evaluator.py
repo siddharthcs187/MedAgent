@@ -1,8 +1,10 @@
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import SystemMessage, HumanMessage
 import json
+import pandas as pd
 from dotenv import load_dotenv
 import os
+import time
 
 load_dotenv()
 
@@ -32,6 +34,8 @@ Scale interpretation:
   • 5-6 = Adequate (some gaps; use with caution)  
   • 3-4 = Poor (major omissions/inaccuracies; not reliable)  
   • 0-2 = Unacceptable (critical errors; misleading)
+
+Extreme scores require justification, do not arbitrarily award any score. 
 
 For each report, return JSON exactly as:
 {
@@ -91,14 +95,67 @@ Please score both reports now and return in the correct format.
 
     return json_content
 
-# Example usage:
+# # Example usage:
+# if __name__ == "__main__":
+#     r1 = "Patient is a 65-year-old female with hypertension, diabetes. Labs: HbA1c 8.2%, BP 150/95..."
+#     r2 = "65F with HTN and DM. Recent labs: A1c 8.2; BP uncontrolled."
+#     scores = compare_reports_with_gemini(r1, r2)
+#     print(scores)
+#     print(type(scores))
+
+#     d = eval(scores)
+#     print(d["report1"])
+
 if __name__ == "__main__":
-    r1 = "Patient is a 65-year-old female with hypertension, diabetes. Labs: HbA1c 8.2%, BP 150/95..."
-    r2 = "65F with HTN and DM. Recent labs: A1c 8.2; BP uncontrolled."
-    scores = compare_reports_with_gemini(r1, r2)
-    print(scores)
-    print(type(scores))
+    base_dir = "outputs"
+    agentic_dir = os.path.join(base_dir, "agentic")
+    nonagentic_dir = os.path.join(base_dir, "non_agentic")
+    output_csv = "evaluation_scores.csv"
 
-    d = eval(scores)
-    print(d["report1"])
+    agentic_files = [f for f in os.listdir(agentic_dir) if f.startswith("agentic_summary_patient_") and f.endswith(".md")]
 
+    columns = [
+        "patient_id",
+        "agentic_factual_accuracy", "agentic_clinical_relevance", "agentic_consistency", "agentic_average",
+        "nonagentic_factual_accuracy", "nonagentic_clinical_relevance", "nonagentic_consistency", "nonagentic_average"
+    ]
+    rows = []
+
+    for afile in agentic_files:
+        pid = afile.replace("agentic_summary_patient_", "").replace(".md", "")
+        nf = f"nonagentic_summary_patient_{pid}.md"
+        agentic_path = os.path.join(agentic_dir, afile)
+        nonagentic_path = os.path.join(nonagentic_dir, nf)
+
+        print(f"Processing patient {pid}...")
+
+        if not os.path.exists(nonagentic_path):
+            print(f"Warning: No matching nonagentic file for patient {pid}")
+            continue
+
+        with open(agentic_path, 'r', encoding='utf-8') as f:
+            agentic_summary = f.read().strip()
+        with open(nonagentic_path, 'r', encoding='utf-8') as f:
+            nonagentic_summary = f.read().strip()
+
+        results = compare_reports_with_gemini(agentic_summary, nonagentic_summary)
+
+        scores = eval(results)
+
+        row = {
+            "patient_id": pid,
+            "agentic_factual_accuracy": scores["report1"]["factual_accuracy"],
+            "agentic_clinical_relevance": scores["report1"]["clinical_relevance"],
+            "agentic_consistency": scores["report1"]["consistency"],
+            "agentic_average": scores["report1"]["average"],
+            "nonagentic_factual_accuracy": scores["report2"]["factual_accuracy"],
+            "nonagentic_clinical_relevance": scores["report2"]["clinical_relevance"],
+            "nonagentic_consistency": scores["report2"]["consistency"],
+            "nonagentic_average": scores["report2"]["average"]
+        }
+        rows.append(row)
+        time.sleep(1)
+
+    df = pd.DataFrame(rows, columns=columns)
+    df.to_csv(output_csv, index=False)
+    print(f"Evaluation completed. Scores saved to {output_csv}")
