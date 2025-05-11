@@ -236,27 +236,62 @@ class MedicalCompilerAgent:
             return f"Error processing {file_path}: {str(e)}"
 
     def run(self, files):
-        """Process multiple files and generate a summary report"""
+        """Process multiple files and generate a summary report with quality check"""
         context_parts = []
-
         for file_path in files:
             result = self.process_file(file_path)
             context_parts.append(f"# {os.path.basename(file_path)}\n{result}")
-
         full_context = "\n\n".join(context_parts)
         print("\n--- Generating summary report ---")
-
-        # Generate the summary report using the model
-        messages = [
-            SystemMessage(content=self.SUMMARY_PROMPT.format(
-                context=full_context)),
-            HumanMessage(
-                content="Generate a comprehensive medical report based on the provided context.")
-        ]
-
-        summary_response = self.llm.invoke(messages).content
-        # print(summary_response.)
-        print("Generated response")
+        
+        # Set maximum attempts for report generation
+        max_attempts = 3
+        quality_threshold = 7.0  # Threshold score out of 10
+        
+        for attempt in range(1, max_attempts + 1):
+            print(f"Report generation attempt {attempt}/{max_attempts}")
+            
+            # Generate the summary report using the model
+            messages = [
+                SystemMessage(content=self.SUMMARY_PROMPT.format(context=full_context)),
+                HumanMessage(content="Generate a comprehensive medical report based on the provided context.")
+            ]
+            summary_response = self.llm.invoke(messages).content
+            print("Generated report")
+            
+            # Evaluate report quality using the same LLM
+            quality_messages = [
+                SystemMessage(content="""You are a medical report quality evaluator. 
+                    Rate the following medical report on a scale from 1 to 10 based on:
+                    - Comprehensiveness (covers all key medical information)
+                    - Clinical relevance (focuses on clinically important findings)
+                    - Clarity and organization
+                    - Actionability (provides clear next steps)
+                    
+                    Return ONLY a numeric score between 1 and 10, with no additional text."""),
+                HumanMessage(content=f"Please evaluate this medical report and provide a score from 1-10:\n\n{summary_response}")
+            ]
+            
+            quality_response = self.llm.invoke(quality_messages).content
+            
+            # Extract numeric score from response
+            try:
+                quality_score = float(quality_response.strip())
+                print(f"Report quality score: {quality_score}/10")
+            except ValueError:
+                # If we can't extract a numeric score, assume it's below threshold to retry
+                quality_score = 0
+                print("Could not determine quality score, assuming below threshold")
+            
+            # Check if the quality meets our threshold
+            if quality_score >= quality_threshold or attempt == max_attempts:
+                break
+            
+            print(f"Quality score {quality_score} below threshold {quality_threshold}. Regenerating report...")
+            
+            # For subsequent attempts, add feedback to improve the report
+            self.SUMMARY_PROMPT += f"\n\nThe previous attempt scored {quality_score}/10. Please improve the report's comprehensiveness, clinical relevance, clarity, and actionability."
+        
         # Generating insights using OpenBioLLM
         llm_insights = Llama.from_pretrained(
             repo_id="aaditya/OpenBioLLM-Llama3-8B-GGUF",
@@ -265,38 +300,38 @@ class MedicalCompilerAgent:
             n_ctx=8192,
             verbose=False
         )
+        
         prompt_insights = f"""<s> You are an experienced clinical decision support assistant developed by Saama AI Labs. Based on the following patient summary, identify the most important actionable clinical insights. These should include recommendations for diagnosis refinement, immediate interventions, further investigations, and potential referrals. Be specific, evidence-based, and avoid vague statements.
-
-Patient Summary:
-\"\"\"
-{summary_response}
-\"\"\"
-Provide a bullet-point list of actionable clinical insights for this patient.
-"""
+        Patient Summary:
+        \"\"\"
+        {summary_response}
+        \"\"\"
+        Provide a bullet-point list of actionable clinical insights for this patient.
+        """
+        
         summary_insights = llm_insights(prompt_insights, max_tokens=512, stop=[])['choices'][0]['text'].strip()
         print("Generated insights")
-        print(summary_insights)
-
+        
         final_report = f"""
-==== Patient Summary ====
-
-{summary_response}
-
-==== Actionable Clinical Insights ====
-
-{summary_insights}
-"""
-
+        ==== Patient Summary ====
+        {summary_response}
+        
+        ==== Actionable Clinical Insights ====
+        {summary_insights}
+        
+        ==== Report Quality Information ====
+        Report quality score: {quality_score}/10
+        Generation attempts: {attempt}/{max_attempts}
+        """
+        
         return final_report
-        # return summary_response.content
 
 
 if __name__ == "__main__":
     files = [
-        "testcases/patient_1/data/patient_1_pathology.pdf",
-        "testcases/patient_1/data/patient_1_ct_report.pdf",
-        "testcases/patient_1/data/patient_1_labs.xlsx",
-        "testcases/patient_1/data/patient_1_note.png",
+        "/Users/siddharthcs/Desktop/MedAgent/testcases_1/patient_141764/141764_data.csv",
+        "/Users/siddharthcs/Desktop/MedAgent/testcases_1/patient_141764/141764_img.png",
+        "/Users/siddharthcs/Desktop/MedAgent/testcases_1/patient_141764/141764_report.pdf",
     ]
 
     agent = MedicalCompilerAgent()
