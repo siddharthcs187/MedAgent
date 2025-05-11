@@ -2,7 +2,7 @@
 
 An agentic framework which uses reports from a patients medical history and compiles them into a summary report with actionable insights. Further, a chatbot for a doctor to use which has generated report as context.
 
-The reports generated are evaluated with an LLM-as-a-Judge on some pre0defined criteria.
+The reports generated are evaluated with an LLM-as-a-Judge on some pre-defined criteria.
 
 - Download the dependencies in ```requirements.txt```
 - To run the application, execute the following command
